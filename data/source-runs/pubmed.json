@@ -1,8 +1,9 @@
 {
   "source": "pubmed",
-  "success": true,
-  "fetchedAt": "2026-04-12T20:41:09.656Z",
+  "success": false,
+  "fetchedAt": "2026-04-12T21:43:37.172Z",
   "itemCount": 60,
+  "errorMessage": "HTTP 400 while fetching https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28computational+biology%29+AND+oncology&retmode=json&sort=pub%2Bdate&datetype=pdat&reldate=30&retmax=12&tool=biotrend_daily&email=yanshengluo121%40gmail.com%0A&api_key=fb6cb67fe813c43ca0df56b8794b5089ab08%09",
   "items": [
     {
       "title": "Retrospective, single-center analysis of second allogeneic stem cell transplantation versus non-transplant regimens for acute myeloid leukemia patients with relapse after first transplantation.",
