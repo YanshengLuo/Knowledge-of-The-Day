@@ -1,8 +1,10 @@
 {
   "source": "mckinsey",
   "success": false,
-  "fetchedAt": "2026-04-12T21:59:04.840Z",
+  "fetchedAt": "2026-04-12T22:27:28.081Z",
   "itemCount": 0,
-  "errorMessage": "This operation was aborted",
+  "errorMessage": "McKinsey produced no listing items; using fallback cache if available",
+  "usedFallback": false,
+  "fallbackReason": "timeout",
   "items": []
 }
