@@ -2,32 +2,33 @@
   {
     "source": "biospace",
     "success": true,
-    "fetchedAt": "2026-04-12T20:41:08.700Z",
+    "fetchedAt": "2026-04-12T21:43:36.252Z",
     "itemCount": 24
   },
   {
     "source": "pubmed",
-    "success": true,
-    "fetchedAt": "2026-04-12T20:41:09.656Z",
-    "itemCount": 60
+    "success": false,
+    "fetchedAt": "2026-04-12T21:43:37.172Z",
+    "itemCount": 60,
+    "errorMessage": "HTTP 400 while fetching https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28computational+biology%29+AND+oncology&retmode=json&sort=pub%2Bdate&datetype=pdat&reldate=30&retmax=12&tool=biotrend_daily&email=yanshengluo121%40gmail.com%0A&api_key=fb6cb67fe813c43ca0df56b8794b5089ab08%09"
   },
   {
     "source": "mckinsey",
     "success": false,
-    "fetchedAt": "2026-04-12T20:41:37.659Z",
+    "fetchedAt": "2026-04-12T21:43:40.875Z",
     "itemCount": 0,
     "errorMessage": "This operation was aborted"
   },
   {
     "source": "a16z",
     "success": true,
-    "fetchedAt": "2026-04-12T20:43:09.711Z",
+    "fetchedAt": "2026-04-12T21:45:12.598Z",
     "itemCount": 44
   },
   {
     "source": "crunchbase",
     "success": true,
-    "fetchedAt": "2026-04-12T20:47:28.784Z",
+    "fetchedAt": "2026-04-12T21:45:13.410Z",
     "itemCount": 24
   }
 ]
