@@ -32,9 +32,10 @@ export const SOURCES: SourceDefinition[] = [
     homepage: 'https://www.mckinsey.com',
     defaultTags: ['strategy', 'industry'],
     urls: [
-      'https://www.mckinsey.com/industries/life-sciences/our-insights',
-      'https://www.mckinsey.com/industries/healthcare/our-insights',
-      'https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights'
+      'https://www.mckinsey.com/featured-insights',
+	  'https://www.mckinsey.com/us/our-insights',
+	  'https://www.mckinsey.com/mhi/our-insights'
+
     ]
   },
   {

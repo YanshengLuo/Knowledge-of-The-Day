@@ -46,47 +46,61 @@ export async function readJsonFiles<T>(dir: string): Promise<T[]> {
   }
 }
 
-export async function appendLog(source: SourceId | 'pipeline', message: string): Promise<void> {
+export async function appendLog(source: any, message: string): Promise<void> {
   await ensureDir(logsDir);
   const line = `[${new Date().toISOString()}] ${message}\n`;
-  await writeFile(path.join(logsDir, `${source}.log`), line, { flag: 'a', encoding: 'utf8' });
+  await writeFile(path.join(logsDir, `${source}.log`), line, {
+    flag: 'a',
+    encoding: 'utf8'
+  });
 }
 
-export async function fetchText(url: string, timeoutMs = 20000, retries = 2, headers: Record<string, string> = {}): Promise<string> {
+export async function fetchText(
+  url: string,
+  timeoutMs = 20000,
+  retries = 2,
+  headers: Record<string, string> = {}
+): Promise<string> {
   let lastError: unknown;
 
   for (let attempt = 0; attempt <= retries; attempt += 1) {
-    const controller = new AbortController();
-    const timeout = setTimeout(() => controller.abort(), timeoutMs);
-
     try {
-      const response = await fetch(url, {
-        signal: controller.signal,
+      const fetchPromise = fetch(url, {
         headers: {
-          'user-agent': 'BioTrendDaily/0.1 (+https://github.com/) metadata-only fetcher',
-          accept: 'text/html,application/xhtml+xml,application/xml,text/xml,application/rss+xml;q=0.9,*/*;q=0.8',
+          'user-agent':
+            'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36',
+          accept:
+            'text/html,application/xhtml+xml,application/xml,text/xml,application/rss+xml;q=0.9,*/*;q=0.8',
           ...headers
         }
       });
 
+      const timeoutPromise = new Promise<never>((_, reject) =>
+        setTimeout(() => reject(new Error('timeout')), timeoutMs)
+      );
+
+      const response = await Promise.race([fetchPromise, timeoutPromise]);
+
+      if (!response || !(response instanceof Response)) {
+        throw new Error('Invalid response');
+      }
+
       if (!response.ok) {
         if (![408, 429, 500, 502, 503, 504].includes(response.status) || attempt === retries) {
-          throw new Error(`HTTP ${response.status} while fetching ${redactUrlForLog(url)}`);
+          throw new Error(`HTTP ${response.status} while fetching ${url}`);
         }
-        lastError = new Error(`HTTP ${response.status} while fetching ${redactUrlForLog(url)}`);
+        lastError = new Error(`HTTP ${response.status}`);
       } else {
         return await response.text();
       }
     } catch (error) {
       lastError = error;
-      if (attempt === retries) {
-        break;
-      }
-    } finally {
-      clearTimeout(timeout);
-    }
 
-    await sleep(1000 * (attempt + 1));
+      if (attempt === retries) break;
+
+      console.warn(`Retrying fetch (${attempt + 1}/${retries}) for ${url}`);
+      await sleep(1000 * (attempt + 1));
+    }
   }
 
   throw lastError instanceof Error ? lastError : new Error(`Unable to fetch ${url}`);
