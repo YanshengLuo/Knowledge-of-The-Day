@@ -1,0 +1,77 @@
+name: Update BioTrend Daily
+
+on:
+  schedule:
+    - cron: '15 10 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: read
+
+concurrency:
+  group: biotrend-daily-data-refresh
+  cancel-in-progress: true
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Restore source metadata cache
+        uses: actions/cache@v4
+        with:
+          path: data/cache
+          key: source-cache-${{ runner.os }}-${{ hashFiles('package-lock.json', 'config/**/*.ts', 'scripts/**/*.ts') }}
+          restore-keys: |
+            source-cache-${{ runner.os }}-
+            source-cache-
+
+      - name: Fetch and process source metadata
+        run: npm run update
+        env:
+          NCBI_EMAIL: ${{ secrets.NCBI_EMAIL }}
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+
+      - name: Check source health
+        id: check_fetch
+        continue-on-error: true
+        run: npm run status:check
+
+      - name: Upload fetch logs when a source failed
+        if: steps.check_fetch.outcome == 'failure'
+        uses: actions/upload-artifact@v4
+        with:
+          name: fetch-logs
+          path: logs/*.log
+          if-no-files-found: ignore
+
+      - name: Run tests
+        run: npm test
+
+      - name: Commit refreshed data
+        if: github.ref_type == 'branch'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/ public/data/
+
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "chore(data): refresh aggregated source data"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi

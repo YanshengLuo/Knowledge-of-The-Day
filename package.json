@@ -1,0 +1,45 @@
+{
+  "name": "biotrend-daily",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "fetch:sources": "tsx scripts/fetch-biospace.ts && tsx scripts/fetch-pubmed.ts && tsx scripts/fetch-mckinsey.ts && tsx scripts/fetch-a16z.ts && tsx scripts/fetch-crunchbase.ts",
+    "data:normalize": "tsx scripts/normalize-items.ts",
+    "data:merge": "tsx scripts/merge-and-dedupe.ts",
+    "data:archive": "tsx scripts/build-archive.ts",
+    "data:status": "tsx scripts/build-source-status.ts",
+    "data:publish": "tsx scripts/copy-data-to-public.ts",
+    "status:check": "tsx scripts/check-source-failures.ts",
+    "update": "npm run fetch:sources && npm run data:normalize && npm run data:merge && npm run data:archive && npm run data:status && npm run data:publish",
+    "typecheck": "tsc --noEmit -p tsconfig.json && tsc --noEmit -p tsconfig.node.json",
+    "build": "npm run data:publish && npm run typecheck && vite build",
+    "test": "vitest run",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.0.4",
+    "cheerio": "^1.0.0",
+    "fast-xml-parser": "^4.5.1",
+    "lucide-react": "^0.468.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.16",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.3",
+    "vitest": "^2.1.8"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
