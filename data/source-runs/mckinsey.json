@@ -1,9 +1,12 @@
 {
   "source": "mckinsey",
-  "success": true,
-  "fetchedAt": "2026-04-12T22:52:42.605Z",
+  "success": false,
+  "fetchedAt": "2026-04-12T23:15:03.084Z",
   "itemCount": 11,
-  "usedFallback": false,
+  "errorMessage": "McKinsey produced no listing items; using fallback cache if available",
+  "usedFallback": true,
+  "fallbackReason": "timeout",
+  "cacheTimestamp": "2026-04-12T22:52:42.605Z",
   "items": [
     {
       "title": "Brilliant Moves: Coffee with United Airlines CEO Scott Kirby",

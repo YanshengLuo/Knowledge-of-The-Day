@@ -2,37 +2,38 @@
   {
     "source": "biospace",
     "success": true,
-    "fetchedAt": "2026-04-12T22:27:19.714Z",
+    "fetchedAt": "2026-04-12T23:14:36.691Z",
     "itemCount": 24,
     "usedFallback": false
   },
   {
     "source": "pubmed",
     "success": true,
-    "fetchedAt": "2026-04-12T22:27:20.644Z",
+    "fetchedAt": "2026-04-12T23:14:37.429Z",
     "itemCount": 60,
     "usedFallback": false
   },
   {
     "source": "mckinsey",
     "success": false,
-    "fetchedAt": "2026-04-12T22:27:28.081Z",
-    "itemCount": 0,
-    "usedFallback": false,
+    "fetchedAt": "2026-04-12T23:15:03.084Z",
+    "itemCount": 11,
+    "usedFallback": true,
     "fallbackReason": "timeout",
+    "cacheTimestamp": "2026-04-12T22:52:42.605Z",
     "errorMessage": "McKinsey produced no listing items; using fallback cache if available"
   },
   {
     "source": "a16z",
     "success": true,
-    "fetchedAt": "2026-04-12T22:29:33.843Z",
+    "fetchedAt": "2026-04-12T23:18:01.483Z",
     "itemCount": 44,
     "usedFallback": false
   },
   {
     "source": "crunchbase",
     "success": true,
-    "fetchedAt": "2026-04-12T22:29:34.874Z",
+    "fetchedAt": "2026-04-12T23:18:47.044Z",
     "itemCount": 24,
     "usedFallback": false
   }
