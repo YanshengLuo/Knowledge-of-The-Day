@@ -12,13 +12,16 @@ export type ListingParseOptions = {
   defaultTags: string[];
   includeUrl: (url: string) => boolean;
   maxItems?: number;
+  timeoutMs?: number;
+  retries?: number;
+  headers?: Record<string, string>;
 };
 
 const DATE_TEXT_PATTERN =
   /\b(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:t(?:ember)?)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\.?\s+\d{1,2},?\s+\d{4}\b/i;
 
 export async function parsePublicListingPage(options: ListingParseOptions): Promise<RawFetchedItem[]> {
-  const html = await fetchText(options.url, 45000, 1);
+  const html = await fetchText(options.url, options.timeoutMs ?? 45000, options.retries ?? 1, options.headers);
   const $ = cheerio.load(html);
   $('script, style, noscript, svg').remove();
 
@@ -52,7 +55,7 @@ export async function parsePublicListingPage(options: ListingParseOptions): Prom
     }
 
     seen.add(canonicalUrl);
-    const richContainer = $(element).closest('article, li, [class*="post"], [class*="card"], [class*="article"], [class*="item"]');
+    const richContainer = $(element).closest('article, li, section, div');
     const container = richContainer.length > 0 ? richContainer : $(element).parent().parent().parent();
     const publishedAt = findDate($, container, options.fetchedAt);
     const snippet = findSnippet($, container, title);

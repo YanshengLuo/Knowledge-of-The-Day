@@ -18,4 +18,6 @@ export type SourceRun = SourceStatus & {
   items: RawFetchedItem[];
 };
 
+export type FallbackReason = 'timeout' | 'parse error' | 'request failure';
+
 export type NormalizedArticle = Article;

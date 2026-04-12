@@ -3,32 +3,37 @@
     "source": "biospace",
     "success": true,
     "fetchedAt": "2026-04-12T21:43:36.252Z",
-    "itemCount": 24
+    "itemCount": 24,
+    "usedFallback": false
   },
   {
     "source": "pubmed",
-    "success": false,
-    "fetchedAt": "2026-04-12T21:43:37.172Z",
+    "success": true,
+    "fetchedAt": "2026-04-12T22:15:15.615Z",
     "itemCount": 60,
-    "errorMessage": "HTTP 400 while fetching https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28computational+biology%29+AND+oncology&retmode=json&sort=pub%2Bdate&datetype=pdat&reldate=30&retmax=12&tool=biotrend_daily&email=yanshengluo121%40gmail.com%0A&api_key=fb6cb67fe813c43ca0df56b8794b5089ab08%09"
+    "usedFallback": false
   },
   {
     "source": "mckinsey",
     "success": false,
-    "fetchedAt": "2026-04-12T21:43:40.875Z",
+    "fetchedAt": "2026-04-12T22:15:46.848Z",
     "itemCount": 0,
-    "errorMessage": "This operation was aborted"
+    "usedFallback": false,
+    "fallbackReason": "timeout",
+    "errorMessage": "McKinsey produced no listing items; using fallback cache if available"
   },
   {
     "source": "a16z",
     "success": true,
     "fetchedAt": "2026-04-12T21:45:12.598Z",
-    "itemCount": 44
+    "itemCount": 44,
+    "usedFallback": false
   },
   {
     "source": "crunchbase",
     "success": true,
     "fetchedAt": "2026-04-12T21:45:13.410Z",
-    "itemCount": 24
+    "itemCount": 24,
+    "usedFallback": false
   }
 ]

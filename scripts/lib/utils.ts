@@ -52,7 +52,7 @@ export async function appendLog(source: SourceId | 'pipeline', message: string):
   await writeFile(path.join(logsDir, `${source}.log`), line, { flag: 'a', encoding: 'utf8' });
 }
 
-export async function fetchText(url: string, timeoutMs = 20000, retries = 2): Promise<string> {
+export async function fetchText(url: string, timeoutMs = 20000, retries = 2, headers: Record<string, string> = {}): Promise<string> {
   let lastError: unknown;
 
   for (let attempt = 0; attempt <= retries; attempt += 1) {
@@ -64,15 +64,16 @@ export async function fetchText(url: string, timeoutMs = 20000, retries = 2): Pr
         signal: controller.signal,
         headers: {
           'user-agent': 'BioTrendDaily/0.1 (+https://github.com/) metadata-only fetcher',
-          accept: 'text/html,application/xhtml+xml,application/xml,text/xml,application/rss+xml;q=0.9,*/*;q=0.8'
+          accept: 'text/html,application/xhtml+xml,application/xml,text/xml,application/rss+xml;q=0.9,*/*;q=0.8',
+          ...headers
         }
       });
 
       if (!response.ok) {
         if (![408, 429, 500, 502, 503, 504].includes(response.status) || attempt === retries) {
-          throw new Error(`HTTP ${response.status} while fetching ${url}`);
+          throw new Error(`HTTP ${response.status} while fetching ${redactUrlForLog(url)}`);
         }
-        lastError = new Error(`HTTP ${response.status} while fetching ${url}`);
+        lastError = new Error(`HTTP ${response.status} while fetching ${redactUrlForLog(url)}`);
       } else {
         return await response.text();
       }
@@ -89,6 +90,16 @@ export async function fetchText(url: string, timeoutMs = 20000, retries = 2): Pr
   }
 
   throw lastError instanceof Error ? lastError : new Error(`Unable to fetch ${url}`);
+}
+
+function redactUrlForLog(rawUrl: string): string {
+  try {
+    const url = new URL(rawUrl);
+    url.search = url.search ? '?...' : '';
+    return url.toString();
+  } catch {
+    return rawUrl.split('?')[0];
+  }
 }
 
 export function stripHtml(input = ''): string {

@@ -16,6 +16,9 @@ const statuses: SourceStatus[] = SOURCE_IDS.map((source) => {
         success: run.success,
         fetchedAt: run.fetchedAt,
         itemCount: run.itemCount,
+        usedFallback: run.usedFallback ?? false,
+        fallbackReason: run.fallbackReason,
+        cacheTimestamp: run.cacheTimestamp,
         errorMessage: run.errorMessage
       }
     : {
@@ -23,6 +26,7 @@ const statuses: SourceStatus[] = SOURCE_IDS.map((source) => {
         success: false,
         fetchedAt: now,
         itemCount: 0,
+        usedFallback: false,
         errorMessage: 'Source has not been fetched yet.'
       };
 });

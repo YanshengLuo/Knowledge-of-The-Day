@@ -1,8 +1,9 @@
-import { XMLParser } from 'fast-xml-parser';
 import { PUBMED_QUERIES } from '../config/pubmed-queries';
 import { SOURCES } from '../config/sources';
+import type { FallbackReason } from './lib/types';
 import type { RawFetchedItem } from './lib/types';
-import { runSourceAdapter } from './lib/source-runner';
+import { parsePubMedRecordsXml, parsePubMedSearchIds } from './lib/pubmed-parser';
+import { runSourceAdapter, SourceAdapterError } from './lib/source-runner';
 import { canonicalizeUrl, fetchText, sleep, stripHtml, truncate, uniqueStrings } from './lib/utils';
 
 const source = SOURCES.find((item) => item.id === 'pubmed');
@@ -10,27 +11,33 @@ if (!source) {
   throw new Error('PubMed source configuration is missing');
 }
 
-const parser = new XMLParser({
-  ignoreAttributes: false,
-  textNodeName: 'text',
-  attributeNamePrefix: '@_'
-});
-
 await runSourceAdapter('pubmed', async (fetchedAt) => {
   const items: RawFetchedItem[] = [];
+  let failureReason: FallbackReason | undefined;
 
   for (const queryConfig of PUBMED_QUERIES) {
-    const ids = await searchPubMed(queryConfig.query, queryConfig.maxResults);
+    const searchResult = await searchPubMed(queryConfig.query, queryConfig.maxResults);
+    if (searchResult.errorReason) {
+      failureReason = failureReason ?? searchResult.errorReason;
+      await sleep(400);
+      continue;
+    }
 
+    const ids = searchResult.ids;
     if (ids.length === 0) {
       continue;
     }
 
     await sleep(400);
 
-    const records = await fetchPubMedRecords(ids);
+    const recordResult = await fetchPubMedRecords(ids);
+    if (recordResult.errorReason) {
+      failureReason = failureReason ?? recordResult.errorReason;
+      await sleep(400);
+      continue;
+    }
 
-    for (const record of records) {
+    for (const record of recordResult.records) {
       const citation = record.MedlineCitation as
         | {
             Article?: {
@@ -76,6 +83,10 @@ await runSourceAdapter('pubmed', async (fetchedAt) => {
     await sleep(400);
   }
 
+  if (failureReason) {
+    throw new SourceAdapterError(failureReason, `PubMed ${failureReason}; using fallback cache if available`);
+  }
+
   return items;
 });
 
@@ -84,7 +95,7 @@ await runSourceAdapter('pubmed', async (fetchedAt) => {
 // FIXED FUNCTIONS BELOW
 // ----------------------
 
-async function searchPubMed(term: string, retmax: number): Promise<string[]> {
+async function searchPubMed(term: string, retmax: number): Promise<{ ids: string[]; errorReason?: FallbackReason }> {
   const email = (process.env.NCBI_EMAIL ?? '').trim();
   const apiKey = (process.env.NCBI_API_KEY ?? '').trim();
 
@@ -106,24 +117,22 @@ async function searchPubMed(term: string, retmax: number): Promise<string[]> {
 
   let text: string;
   try {
-    text = await fetchText(url);
+    text = await fetchText(url, 20000, 3);
   } catch {
     console.warn('PubMed search request failed');
-    return [];
+    return { ids: [], errorReason: 'request failure' };
   }
 
-  let payload: { esearchresult?: { idlist?: string[] } };
-  try {
-    payload = JSON.parse(text);
-  } catch {
+  const parsed = parsePubMedSearchIds(text);
+  if (parsed.errorReason) {
     console.warn('PubMed search returned invalid JSON');
-    return [];
+    return { ids: [], errorReason: parsed.errorReason };
   }
 
-  return payload.esearchresult?.idlist ?? [];
+  return { ids: parsed.value };
 }
 
-async function fetchPubMedRecords(ids: string[]): Promise<Record<string, unknown>[]> {
+async function fetchPubMedRecords(ids: string[]): Promise<{ records: Record<string, unknown>[]; errorReason?: FallbackReason }> {
   const email = (process.env.NCBI_EMAIL ?? '').trim();
   const apiKey = (process.env.NCBI_API_KEY ?? '').trim();
 
@@ -142,21 +151,19 @@ async function fetchPubMedRecords(ids: string[]): Promise<Record<string, unknown
 
   let xml: string;
   try {
-    xml = await fetchText(url);
+    xml = await fetchText(url, 20000, 3);
   } catch {
     console.warn('PubMed fetch request failed');
-    return [];
+    return { records: [], errorReason: 'request failure' };
   }
 
-  let parsed: { PubmedArticleSet?: { PubmedArticle?: unknown } };
-  try {
-    parsed = parser.parse(xml);
-  } catch {
+  const parsed = parsePubMedRecordsXml(xml);
+  if (parsed.errorReason) {
     console.warn('PubMed XML parse failed');
-    return [];
+    return { records: [], errorReason: parsed.errorReason };
   }
 
-  return asArray<Record<string, unknown>>(parsed.PubmedArticleSet?.PubmedArticle);
+  return { records: parsed.value };
 }
 
 

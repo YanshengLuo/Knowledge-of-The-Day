@@ -20,6 +20,9 @@ export type SourceStatus = {
   success: boolean;
   fetchedAt: string;
   itemCount: number;
+  usedFallback: boolean;
+  fallbackReason?: 'timeout' | 'parse error' | 'request failure';
+  cacheTimestamp?: string;
   errorMessage?: string;
 };
 
