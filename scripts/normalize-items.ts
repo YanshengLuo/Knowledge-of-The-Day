@@ -39,14 +39,30 @@ for (const run of runs) {
       url: canonicalUrl,
       canonicalUrl,
       source: rawItem.source,
+      publicationName: rawItem.publicationName || sourcePublicationName(rawItem.source),
+      journalName: rawItem.journalName,
       publishedAt,
       fetchedAt: rawItem.fetchedAt || run.fetchedAt,
       snippet,
       tags,
       topicBuckets,
-      isNewToday: isPublishedToday(publishedAt, runStartedAt)
+      isNewToday: isPublishedToday(publishedAt, runStartedAt),
+      importanceScore: rawItem.importanceScore,
+      importanceSignals: rawItem.importanceSignals,
+      isFeatured: rawItem.isFeatured
     });
   }
 }
 
 await writeJson(path.join(normalizedDir, 'articles.normalized.json'), articles);
+
+function sourcePublicationName(source: Article['source']): string {
+  const names: Record<Article['source'], string> = {
+    biospace: 'BioSpace',
+    pubmed: 'PubMed',
+    mckinsey: 'McKinsey',
+    a16z: 'a16z',
+    crunchbase: 'Crunchbase News'
+  };
+  return names[source];
+}

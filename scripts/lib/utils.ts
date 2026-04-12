@@ -87,7 +87,7 @@ export async function fetchText(
 
       if (!response.ok) {
         if (![408, 429, 500, 502, 503, 504].includes(response.status) || attempt === retries) {
-          throw new Error(`HTTP ${response.status} while fetching ${url}`);
+          throw new Error(`HTTP ${response.status} while fetching ${redactUrlForLog(url)}`);
         }
         lastError = new Error(`HTTP ${response.status}`);
       } else {
@@ -98,12 +98,12 @@ export async function fetchText(
 
       if (attempt === retries) break;
 
-      console.warn(`Retrying fetch (${attempt + 1}/${retries}) for ${url}`);
+      console.warn(`Retrying fetch (${attempt + 1}/${retries}) for ${redactUrlForLog(url)}`);
       await sleep(1000 * (attempt + 1));
     }
   }
 
-  throw lastError instanceof Error ? lastError : new Error(`Unable to fetch ${url}`);
+  throw lastError instanceof Error ? lastError : new Error(`Unable to fetch ${redactUrlForLog(url)}`);
 }
 
 function redactUrlForLog(rawUrl: string): string {

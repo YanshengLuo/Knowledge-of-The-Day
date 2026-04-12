@@ -69,6 +69,32 @@ Each source adapter writes a cache under `data/cache`. If a fetch fails, the ada
 
 The UI surfaces failed sources in the health summary and the Sources page. The workflow uploads logs from `logs/*.log` as an artifact when any source reports a failure.
 
+## McKinsey Source Notes
+
+McKinsey is optional and non-critical. The adapter discovers public insight URLs from the configured seed pages, fetches a small number of candidates sequentially, parses metadata only, and converts successful pages into the normal `RawFetchedItem` format.
+
+McKinsey can appear in source status as:
+
+- fresh success
+- partial fresh success, with an `errorMessage` warning
+- cached fallback, with `usedFallback` and `cacheTimestamp`
+- failed with no cache
+
+To test McKinsey locally:
+
+```bash
+npx tsx scripts/fetch-mckinsey.ts
+npm run data:normalize
+npm run data:merge
+npm run data:status
+```
+
+If McKinsey changes its layout, start with:
+
+- `scripts/lib/mckinsey/filters.ts` for URL allow/block rules
+- `scripts/lib/mckinsey/discover.ts` for seed-page candidate discovery
+- `scripts/lib/mckinsey/parser.ts` for structured data, meta tag, and HTML fallback parsing
+
 ## PubMed Queries
 
 Tracked PubMed searches live in `config/pubmed-queries.ts`.

@@ -43,7 +43,7 @@ await runSourceAdapter('pubmed', async (fetchedAt) => {
             Article?: {
               ArticleTitle?: unknown;
               Abstract?: unknown;
-              Journal?: { JournalIssue?: { PubDate?: unknown } };
+              Journal?: { Title?: unknown; JournalIssue?: { PubDate?: unknown } };
             };
           }
         | undefined;
@@ -60,6 +60,7 @@ await runSourceAdapter('pubmed', async (fetchedAt) => {
         citation?.Article?.Journal?.JournalIssue?.PubDate,
         fetchedAt
       );
+      const journalName = stripHtml(asText(citation?.Article?.Journal?.Title));
       const abstractText = getAbstract(citation?.Article?.Abstract);
 
       items.push({
@@ -67,6 +68,8 @@ await runSourceAdapter('pubmed', async (fetchedAt) => {
         url,
         canonicalUrl: canonicalizeUrl(url),
         source: 'pubmed',
+        publicationName: journalName || 'PubMed',
+        journalName: journalName || undefined,
         publishedAt,
         fetchedAt,
         snippet: truncate(abstractText, 360),

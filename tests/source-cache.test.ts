@@ -6,6 +6,7 @@ import type { RawFetchedItem } from '../scripts/lib/types';
 import { parsePubMedRecordsXml, parsePubMedSearchIds } from '../scripts/lib/pubmed-parser';
 import { runSourceAdapter, SourceAdapterError } from '../scripts/lib/source-runner';
 import { readSourceCache, writeSourceCache } from '../scripts/lib/source-cache';
+import { readMcKinseyCache, writeMcKinseyCache } from '../scripts/lib/mckinsey/cache';
 
 const touchedFiles = [
   'data/cache/pubmed.json',
@@ -77,6 +78,36 @@ describe('source cache helpers', () => {
     expect(run.fallbackReason).toBe('timeout');
     expect(run.cacheTimestamp).toBe('2026-04-12T12:00:00.000Z');
     expect(run.itemCount).toBe(1);
+  });
+
+  it('records partial fresh success without using fallback', async () => {
+    await runSourceAdapter('mckinsey', async () => ({
+      items: [rawItem('mckinsey')],
+      warningMessage: 'Partial McKinsey refresh: 1 item parsed, 2 issue(s).'
+    }));
+
+    const run = JSON.parse(await readFile(projectPath('data/source-runs/mckinsey.json'), 'utf8')) as {
+      success: boolean;
+      usedFallback: boolean;
+      errorMessage?: string;
+      itemCount: number;
+    };
+
+    expect(run.success).toBe(true);
+    expect(run.usedFallback).toBe(false);
+    expect(run.errorMessage).toContain('Partial McKinsey refresh');
+    expect(run.itemCount).toBe(1);
+  });
+
+  it('reads and writes through McKinsey cache wrappers', async () => {
+    const item = rawItem('mckinsey');
+    await writeMcKinseyCache([item], '2026-04-12T14:00:00.000Z');
+
+    const cache = await readMcKinseyCache();
+
+    expect(cache?.source).toBe('mckinsey');
+    expect(cache?.cachedAt).toBe('2026-04-12T14:00:00.000Z');
+    expect(cache?.items).toHaveLength(1);
   });
 });
 

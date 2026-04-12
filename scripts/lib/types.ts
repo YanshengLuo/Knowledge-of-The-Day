@@ -7,11 +7,16 @@ export type RawFetchedItem = {
   url: string;
   canonicalUrl?: string;
   source: SourceId;
+  publicationName?: string;
+  journalName?: string;
   publishedAt?: string;
   fetchedAt: string;
   snippet?: string;
   tags?: string[];
   topicBuckets?: TopicKey[];
+  importanceScore?: number;
+  importanceSignals?: string[];
+  isFeatured?: boolean;
 };
 
 export type SourceRun = SourceStatus & {

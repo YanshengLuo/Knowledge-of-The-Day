@@ -1,76 +1,70 @@
 import { SOURCES } from '../config/sources';
+import { discoverMcKinseyCandidates, MCKINSEY_BROWSER_HEADERS } from './lib/mckinsey/discover';
+import { parseMcKinseyPage, toMcKinseyRawItem } from './lib/mckinsey/parser';
 import type { FallbackReason, RawFetchedItem } from './lib/types';
-import { parsePublicListingPage } from './lib/listing-parser';
 import { runSourceAdapter, SourceAdapterError } from './lib/source-runner';
-import { sleep } from './lib/utils';
+import { fetchText, sleep } from './lib/utils';
 
 const source = SOURCES.find((item) => item.id === 'mckinsey');
 if (!source) {
   throw new Error('McKinsey source configuration is missing');
 }
 
+const MAX_CANDIDATES = 24;
+
 await runSourceAdapter('mckinsey', async (fetchedAt) => {
-  const pages = source.urls ?? [];
-  const items: RawFetchedItem[] = [];
-  let failureReason: FallbackReason | undefined;
+  const discovery = await discoverMcKinseyCandidates(source.urls ?? [], MAX_CANDIDATES);
+  const failures = [...discovery.errors];
+  const itemsByUrl = new Map<string, RawFetchedItem>();
 
-  for (const url of pages) {
+  if (discovery.candidates.length === 0) {
+    throw new SourceAdapterError(
+      classifyFailure(failures),
+      `McKinsey discovery produced no article candidates; using fallback cache if available`
+    );
+  }
+
+  for (const candidate of discovery.candidates) {
     try {
-      const pageItems = await parsePublicListingPage({
-        source: 'mckinsey',
-        url,
-        baseUrl: source.homepage,
-        fetchedAt,
-        defaultTags: source.defaultTags,
-        maxItems: 18,
-        timeoutMs: 20000,
-        retries: 1,
-        headers: {
-          'User-Agent':
-            'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0 Safari/537.36',
-          Accept: 'text/html,application/xhtml+xml',
-          'Accept-Language': 'en-US,en;q=0.9',
-          'Cache-Control': 'no-cache'
-        },
-        includeUrl: (candidateUrl) =>
-          candidateUrl.includes('mckinsey.com') &&
-          candidateUrl.includes('/our-insights/') &&
-          candidateUrl !== url
-      });
+      const html = await fetchText(candidate.url, 20000, 1, MCKINSEY_BROWSER_HEADERS);
+      const parsed = parseMcKinseyPage(html, candidate.url, fetchedAt);
+      if (!parsed) {
+        failures.push(`Could not parse useful metadata from ${candidate.url}`);
+        continue;
+      }
 
-      items.push(...pageItems);
+      const item = toMcKinseyRawItem(parsed, fetchedAt, source.defaultTags);
+      itemsByUrl.set(item.canonicalUrl ?? item.url, item);
     } catch (error) {
-      failureReason = failureReason ?? classifyMcKinseyFailure(error);
-      console.warn(
-        `McKinsey page failed: ${url}`,
-        error instanceof Error ? error.message : String(error)
-      );
+      failures.push(`Failed to fetch ${candidate.url}: ${error instanceof Error ? error.message : String(error)}`);
     }
 
-    await sleep(750);
+    await sleep(650 + Math.floor(Math.random() * 250));
   }
 
+  const items = [...itemsByUrl.values()];
   if (items.length === 0) {
     throw new SourceAdapterError(
-      failureReason ?? 'parse error',
-      'McKinsey produced no listing items; using fallback cache if available'
+      classifyFailure(failures),
+      `McKinsey fetch produced no parseable articles; using fallback cache if available`
     );
   }
 
-  if (failureReason) {
-    console.warn(
-      'One or more McKinsey listing pages failed, but partial results were collected. Returning partial fresh data.'
-    );
-  }
-
-  return items;
+  return failures.length > 0
+    ? {
+        items,
+        warningMessage: `Partial McKinsey refresh: ${items.length} items parsed, ${failures.length} discovery/fetch/parse issue(s).`
+      }
+    : items;
 });
 
-function classifyMcKinseyFailure(error: unknown): FallbackReason {
-  const message =
-    error instanceof Error ? error.message.toLowerCase() : String(error).toLowerCase();
-
-  return message.includes('timeout') || message.includes('aborted')
-    ? 'timeout'
-    : 'request failure';
+function classifyFailure(failures: string[]): FallbackReason {
+  const text = failures.join(' ').toLowerCase();
+  if (text.includes('timeout') || text.includes('aborted')) {
+    return 'timeout';
+  }
+  if (text.includes('parse') || text.includes('metadata')) {
+    return 'parse error';
+  }
+  return 'request failure';
 }

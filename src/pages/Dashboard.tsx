@@ -1,18 +1,11 @@
 import { useMemo, useState } from 'react';
 import type { Article, SourceStatus } from '../lib/types';
-import { daysAgoFilter, formatDateTime } from '../lib/format';
+import { formatDateTime } from '../lib/format';
 import { ArticleCard } from '../components/ArticleCard';
-import { Filters, type FiltersState } from '../components/Filters';
+import { Filters } from '../components/Filters';
 import { HealthSummary } from '../components/HealthSummary';
-
-const initialFilters: FiltersState = {
-  query: '',
-  source: 'all',
-  topic: 'all',
-  dateMode: 'all',
-  date: '',
-  newToday: false
-};
+import { filterArticles, initialArticleFilters } from '../lib/filtering';
+import { groupTopArticlesByPublication } from '../lib/ranking';
 
 type DashboardProps = {
   articles: Article[];
@@ -20,40 +13,12 @@ type DashboardProps = {
 };
 
 export function Dashboard({ articles, statuses }: DashboardProps) {
-  const [filters, setFilters] = useState(initialFilters);
+  const [filters, setFilters] = useState(initialArticleFilters);
   const lastUpdated = useMemo(() => latestTimestamp(statuses), [statuses]);
   const availableTopics = useMemo(() => [...new Set(articles.flatMap((article) => article.topicBuckets))].sort(), [articles]);
-
-  const filteredArticles = useMemo(() => {
-    const query = filters.query.trim().toLowerCase();
-    return articles.filter((article) => {
-      if (filters.source !== 'all' && article.source !== filters.source) {
-        return false;
-      }
-      if (filters.topic !== 'all' && !article.topicBuckets.includes(filters.topic as Article['topicBuckets'][number])) {
-        return false;
-      }
-      if (filters.newToday && !article.isNewToday) {
-        return false;
-      }
-      if (filters.dateMode === '7d' && !daysAgoFilter(article.publishedAt, 7)) {
-        return false;
-      }
-      if (filters.dateMode === '30d' && !daysAgoFilter(article.publishedAt, 30)) {
-        return false;
-      }
-      if (filters.dateMode === 'date' && filters.date && !article.publishedAt.startsWith(filters.date)) {
-        return false;
-      }
-      if (query) {
-        const haystack = `${article.title} ${article.snippet}`.toLowerCase();
-        if (!haystack.includes(query)) {
-          return false;
-        }
-      }
-      return true;
-    });
-  }, [articles, filters]);
+  const availableTags = useMemo(() => topTags(articles), [articles]);
+  const topPicks = useMemo(() => groupTopArticlesByPublication(articles, 2).slice(0, 10), [articles]);
+  const filteredArticles = useMemo(() => filterArticles(articles, filters), [articles, filters]);
 
   return (
     <div className="space-y-6">
@@ -69,8 +34,25 @@ export function Dashboard({ articles, statuses }: DashboardProps) {
 
       <HealthSummary statuses={statuses} />
 
+      {topPicks.length > 0 ? (
+        <section className="rounded-lg border border-line bg-white p-5 shadow-card">
+          <div className="mb-4 flex flex-col gap-1 sm:flex-row sm:items-end sm:justify-between">
+            <div>
+              <p className="text-sm font-semibold uppercase tracking-normal text-neutral-600">Top picks by source</p>
+              <h2 className="text-xl font-semibold text-ink">Featured articles</h2>
+            </div>
+            <p className="text-sm text-neutral-700">Ranked with simple, explainable freshness and metadata signals.</p>
+          </div>
+          <div className="grid gap-3 md:grid-cols-2">
+            {topPicks.map((article) => (
+              <ArticleCard key={`top-${article.id}`} article={article} compact />
+            ))}
+          </div>
+        </section>
+      ) : null}
+
       <div className="grid gap-6 lg:grid-cols-[280px_minmax(0,1fr)]">
-        <Filters filters={filters} onChange={setFilters} availableTopics={availableTopics} />
+        <Filters filters={filters} onChange={setFilters} availableTopics={availableTopics} availableTags={availableTags} />
         <section className="space-y-4">
           {filteredArticles.length > 0 ? (
             filteredArticles.map((article) => <ArticleCard key={article.id} article={article} />)
@@ -84,6 +66,21 @@ export function Dashboard({ articles, statuses }: DashboardProps) {
       </div>
     </div>
   );
+}
+
+function topTags(articles: Article[], limit = 36): string[] {
+  const counts = new Map<string, number>();
+  for (const tag of articles.flatMap((article) => article.tags)) {
+    if (tag.startsWith('author:')) {
+      continue;
+    }
+    counts.set(tag, (counts.get(tag) ?? 0) + 1);
+  }
+
+  return [...counts.entries()]
+    .sort(([leftTag, leftCount], [rightTag, rightCount]) => rightCount - leftCount || leftTag.localeCompare(rightTag))
+    .slice(0, limit)
+    .map(([tag]) => tag);
 }
 
 function latestTimestamp(statuses: SourceStatus[]): string {

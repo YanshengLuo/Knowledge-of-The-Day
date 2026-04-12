@@ -4,7 +4,12 @@ import type { FallbackReason, RawFetchedItem, SourceRun } from './types';
 import { readSourceCache, writeSourceCache } from './source-cache';
 import { appendLog, cacheDir, ensureDir, rawDir, sourceRunsDir, writeJson } from './utils';
 
-type FetchSourceItems = (fetchedAt: string) => Promise<RawFetchedItem[]>;
+type SourceFetchResult = RawFetchedItem[] | {
+  items: RawFetchedItem[];
+  warningMessage?: string;
+};
+
+type FetchSourceItems = (fetchedAt: string) => Promise<SourceFetchResult>;
 
 export class SourceAdapterError extends Error {
   constructor(
@@ -25,7 +30,8 @@ export async function runSourceAdapter(source: SourceId, fetchItems: FetchSource
 
   try {
     await appendLog(source, `Starting fetch for ${source}`);
-    const items = await fetchItems(fetchedAt);
+    const result = normalizeFetchResult(await fetchItems(fetchedAt));
+    const { items, warningMessage } = result;
     await writeSourceCache(source, items, fetchedAt);
     await writeJson(rawPath, items);
     await writeJson(sourceRunPath, {
@@ -34,9 +40,13 @@ export async function runSourceAdapter(source: SourceId, fetchItems: FetchSource
       fetchedAt,
       itemCount: items.length,
       usedFallback: false,
+      errorMessage: warningMessage,
       items
     } satisfies SourceRun);
     await appendLog(source, `Fetch succeeded with ${items.length} items`);
+    if (warningMessage) {
+      await appendLog(source, warningMessage);
+    }
   } catch (error) {
     const errorMessage = error instanceof Error ? error.message : String(error);
     const fallbackReason = inferFallbackReason(error);
@@ -61,6 +71,10 @@ export async function runSourceAdapter(source: SourceId, fetchItems: FetchSource
       await appendLog(source, `No fallback cache available; using 0 items`);
     }
   }
+}
+
+function normalizeFetchResult(result: SourceFetchResult): { items: RawFetchedItem[]; warningMessage?: string } {
+  return Array.isArray(result) ? { items: result } : result;
 }
 
 function inferFallbackReason(error: unknown): FallbackReason {

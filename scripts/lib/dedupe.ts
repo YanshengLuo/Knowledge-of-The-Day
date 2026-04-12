@@ -83,6 +83,10 @@ function mergeArticle(left: Article, right: Article): Article {
     ...best,
     tags: uniqueStrings([...left.tags, ...right.tags]),
     topicBuckets: uniqueStrings([...left.topicBuckets, ...right.topicBuckets]) as Article['topicBuckets'],
+    journalName: best.journalName || left.journalName || right.journalName,
+    publicationName: best.publicationName || left.publicationName || right.publicationName,
+    importanceSignals: uniqueStrings([...(left.importanceSignals ?? []), ...(right.importanceSignals ?? [])]),
+    importanceScore: Math.max(left.importanceScore ?? 0, right.importanceScore ?? 0) || undefined,
     isNewToday: left.isNewToday || right.isNewToday
   };
 }

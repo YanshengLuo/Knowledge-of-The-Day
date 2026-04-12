@@ -7,12 +7,17 @@ export type Article = {
   url: string;
   canonicalUrl: string;
   source: SourceId;
+  publicationName?: string;
+  journalName?: string;
   publishedAt: string;
   fetchedAt: string;
   snippet: string;
   tags: string[];
   topicBuckets: TopicKey[];
   isNewToday: boolean;
+  importanceScore?: number;
+  importanceSignals?: string[];
+  isFeatured?: boolean;
 };
 
 export type SourceStatus = {
