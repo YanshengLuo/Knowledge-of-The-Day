@@ -6,6 +6,7 @@ export type Article = {
   title: string;
   url: string;
   canonicalUrl: string;
+  imageUrl?: string;
   source: SourceId;
   publicationName?: string;
   journalName?: string;

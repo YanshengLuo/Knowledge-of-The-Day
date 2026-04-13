@@ -46,6 +46,7 @@ export function parseMcKinseyPage(html: string, pageUrl: string, fetchedAt: stri
     url: pageUrl,
     finalUrl: canonicalUrl,
     canonicalUrl,
+    imageUrl: findImageUrl($, structured, canonicalUrl),
     title,
     subtitle: firstNonEmpty([
       meta($, 'meta[property="og:description"]', 'content'),
@@ -78,6 +79,7 @@ export function toMcKinseyRawItem(parsed: McKinseyParsedPage, fetchedAt: string,
     title: parsed.title,
     url: parsed.finalUrl,
     canonicalUrl: parsed.canonicalUrl,
+    imageUrl: parsed.imageUrl,
     source: 'mckinsey',
     publicationName: 'McKinsey',
     publishedAt: parsed.publishedAt,
@@ -141,6 +143,38 @@ function structuredString(object: JsonObject | null, key: string): string {
   const value = object?.[key];
   if (typeof value === 'string' || typeof value === 'number') {
     return stripHtml(String(value));
+  }
+  return '';
+}
+
+function findImageUrl($: cheerio.CheerioAPI, structured: JsonObject | null, baseUrl: string): string | undefined {
+  const structuredImage = structured?.image;
+  const candidate =
+    structuredImageToString(structuredImage) ||
+    meta($, 'meta[property="og:image"]', 'content') ||
+    meta($, 'meta[name="twitter:image"]', 'content');
+
+  if (!candidate) {
+    return undefined;
+  }
+
+  try {
+    return normalizeMcKinseyUrl(candidate, baseUrl) ?? undefined;
+  } catch {
+    return undefined;
+  }
+}
+
+function structuredImageToString(value: unknown): string {
+  if (typeof value === 'string') {
+    return stripHtml(value);
+  }
+  if (Array.isArray(value)) {
+    return structuredImageToString(value[0]);
+  }
+  if (value && typeof value === 'object') {
+    const object = value as JsonObject;
+    return structuredString(object, 'url') || structuredString(object, 'contentUrl');
   }
   return '';
 }

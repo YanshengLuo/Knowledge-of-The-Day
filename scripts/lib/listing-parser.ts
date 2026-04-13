@@ -59,11 +59,13 @@ export async function parsePublicListingPage(options: ListingParseOptions): Prom
     const container = richContainer.length > 0 ? richContainer : $(element).parent().parent().parent();
     const publishedAt = findDate($, container, options.fetchedAt);
     const snippet = findSnippet($, container, title);
+    const imageUrl = findImageUrl($, container, options.baseUrl);
 
     items.push({
       title,
       url: canonicalUrl,
       canonicalUrl,
+      imageUrl,
       source: options.source,
       publishedAt,
       fetchedAt: options.fetchedAt,
@@ -114,4 +116,22 @@ function findSnippet($: cheerio.CheerioAPI, container: cheerio.Cheerio<AnyNode>,
     .filter((text) => text.length > 40 && !text.includes(title));
 
   return truncate(candidates[0] ?? '', 280);
+}
+
+function findImageUrl($: cheerio.CheerioAPI, container: cheerio.Cheerio<AnyNode>, baseUrl: string): string | undefined {
+  const rawValue =
+    container.find('img').first().attr('src') ||
+    container.find('img').first().attr('data-src') ||
+    container.find('source').first().attr('srcset') ||
+    '';
+  const firstImage = rawValue.split(',')[0]?.trim().split(/\s+/)[0];
+  if (!firstImage || firstImage.startsWith('data:')) {
+    return undefined;
+  }
+
+  try {
+    return canonicalizeUrl(firstImage, baseUrl);
+  } catch {
+    return undefined;
+  }
 }

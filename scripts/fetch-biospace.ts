@@ -27,10 +27,12 @@ await runSourceAdapter('biospace', async (fetchedAt) => {
       }
 
       const canonicalUrl = canonicalizeUrl(entry.link, source.homepage);
+      const imageUrl = imageFromFeedEntry(entry);
       items.push({
         title: entry.title,
         url: canonicalUrl,
         canonicalUrl,
+        imageUrl,
         source: 'biospace',
         publishedAt: entry.isoDate ?? entry.pubDate ?? fetchedAt,
         fetchedAt,
@@ -43,3 +45,20 @@ await runSourceAdapter('biospace', async (fetchedAt) => {
 
   return items;
 });
+
+function imageFromFeedEntry(entry: Parser.Item): string | undefined {
+  const enclosureUrl = entry.enclosure?.url;
+  const mediaContent = (entry as Parser.Item & { ['media:content']?: { $?: { url?: string } } })['media:content'];
+  const mediaThumbnail = (entry as Parser.Item & { ['media:thumbnail']?: { $?: { url?: string } } })['media:thumbnail'];
+
+  const candidate = enclosureUrl || mediaContent?.$?.url || mediaThumbnail?.$?.url;
+  if (!candidate) {
+    return undefined;
+  }
+
+  try {
+    return canonicalizeUrl(candidate);
+  } catch {
+    return undefined;
+  }
+}

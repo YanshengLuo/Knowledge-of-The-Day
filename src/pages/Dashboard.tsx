@@ -2,7 +2,8 @@ import { useMemo, useState } from 'react';
 import type { Article, SourceStatus } from '../lib/types';
 import { formatDateTime } from '../lib/format';
 import { ArticleCard } from '../components/ArticleCard';
-import { Filters } from '../components/Filters';
+import { FeaturedSection } from '../components/FeaturedSection';
+import { FilterBar } from '../components/FilterBar';
 import { HealthSummary } from '../components/HealthSummary';
 import { filterArticles, initialArticleFilters } from '../lib/filtering';
 import { groupTopArticlesByPublication } from '../lib/ranking';
@@ -34,36 +35,32 @@ export function Dashboard({ articles, statuses }: DashboardProps) {
 
       <HealthSummary statuses={statuses} />
 
-      {topPicks.length > 0 ? (
-        <section className="rounded-lg border border-line bg-white p-5 shadow-card">
+      <FeaturedSection articles={topPicks} />
+
+      <section className="space-y-4">
+        <FilterBar filters={filters} onChange={setFilters} availableTopics={availableTopics} availableTags={availableTags} />
+        <div>
           <div className="mb-4 flex flex-col gap-1 sm:flex-row sm:items-end sm:justify-between">
             <div>
-              <p className="text-sm font-semibold uppercase tracking-normal text-neutral-600">Top picks by source</p>
-              <h2 className="text-xl font-semibold text-ink">Featured articles</h2>
+              <p className="text-sm font-semibold uppercase tracking-normal text-neutral-600">Latest feed</p>
+              <h2 className="text-2xl font-semibold text-ink">Recent records</h2>
             </div>
-            <p className="text-sm text-neutral-700">Ranked with simple, explainable freshness and metadata signals.</p>
+            <p className="text-sm text-neutral-700">{filteredArticles.length} matching records</p>
           </div>
-          <div className="grid gap-3 md:grid-cols-2">
-            {topPicks.map((article) => (
-              <ArticleCard key={`top-${article.id}`} article={article} compact />
-            ))}
-          </div>
-        </section>
-      ) : null}
-
-      <div className="grid gap-6 lg:grid-cols-[280px_minmax(0,1fr)]">
-        <Filters filters={filters} onChange={setFilters} availableTopics={availableTopics} availableTags={availableTags} />
-        <section className="space-y-4">
           {filteredArticles.length > 0 ? (
-            filteredArticles.map((article) => <ArticleCard key={article.id} article={article} />)
+            <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-3">
+              {filteredArticles.map((article) => (
+                <ArticleCard key={article.id} article={article} />
+              ))}
+            </div>
           ) : (
             <div className="rounded-lg border border-line bg-white p-8 text-center shadow-card">
               <h2 className="text-xl font-semibold text-ink">No records match these filters.</h2>
               <p className="mt-2 text-sm text-neutral-700">Clear search, broaden the date range, or run the daily update.</p>
             </div>
           )}
-        </section>
-      </div>
+        </div>
+      </section>
     </div>
   );
 }

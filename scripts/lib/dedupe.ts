@@ -83,6 +83,7 @@ function mergeArticle(left: Article, right: Article): Article {
     ...best,
     tags: uniqueStrings([...left.tags, ...right.tags]),
     topicBuckets: uniqueStrings([...left.topicBuckets, ...right.topicBuckets]) as Article['topicBuckets'],
+    imageUrl: best.imageUrl || left.imageUrl || right.imageUrl,
     journalName: best.journalName || left.journalName || right.journalName,
     publicationName: best.publicationName || left.publicationName || right.publicationName,
     importanceSignals: uniqueStrings([...(left.importanceSignals ?? []), ...(right.importanceSignals ?? [])]),

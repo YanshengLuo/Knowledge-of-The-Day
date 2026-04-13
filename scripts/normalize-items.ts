@@ -38,6 +38,7 @@ for (const run of runs) {
       title,
       url: canonicalUrl,
       canonicalUrl,
+      imageUrl: rawItem.imageUrl ? canonicalizeUrl(rawItem.imageUrl, canonicalUrl) : undefined,
       source: rawItem.source,
       publicationName: rawItem.publicationName || sourcePublicationName(rawItem.source),
       journalName: rawItem.journalName,

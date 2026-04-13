@@ -17,6 +17,7 @@ export type McKinseyParsedPage = {
   url: string;
   finalUrl: string;
   canonicalUrl: string;
+  imageUrl?: string;
   title: string;
   subtitle?: string;
   authors: string[];
