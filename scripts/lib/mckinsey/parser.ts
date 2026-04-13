@@ -1,8 +1,9 @@
 import * as cheerio from 'cheerio';
 import type { RawFetchedItem } from '../types';
 import type { McKinseyParsedPage } from './types';
+import { extractImageMetadataFromHtml } from '../extract-image';
 import { normalizeMcKinseyUrl } from './filters';
-import { parseDateToIso, stripHtml, truncate, uniqueStrings } from '../utils';
+import { canonicalizeUrl, parseDateToIso, stripHtml, truncate, uniqueStrings } from '../utils';
 
 type JsonObject = Record<string, unknown>;
 
@@ -11,6 +12,7 @@ export function parseMcKinseyPage(html: string, pageUrl: string, fetchedAt: stri
   $('script:not([type="application/ld+json"]), style, noscript, svg').remove();
 
   const structured = findStructuredArticle($);
+  const extractedImage = safeExtractImage(html, pageUrl);
   const canonicalUrl = normalizeMcKinseyUrl(
     meta($, 'link[rel="canonical"]', 'href') || structuredString(structured, 'url') || pageUrl,
     pageUrl
@@ -46,7 +48,8 @@ export function parseMcKinseyPage(html: string, pageUrl: string, fetchedAt: stri
     url: pageUrl,
     finalUrl: canonicalUrl,
     canonicalUrl,
-    imageUrl: findImageUrl($, structured, canonicalUrl),
+    imageUrl: extractedImage?.url ?? findStructuredImageUrl(structured, canonicalUrl),
+    imageSource: extractedImage?.source ?? (findStructuredImageUrl(structured, canonicalUrl) ? 'hero' : undefined),
     title,
     subtitle: firstNonEmpty([
       meta($, 'meta[property="og:description"]', 'content'),
@@ -80,6 +83,7 @@ export function toMcKinseyRawItem(parsed: McKinseyParsedPage, fetchedAt: string,
     url: parsed.finalUrl,
     canonicalUrl: parsed.canonicalUrl,
     imageUrl: parsed.imageUrl,
+    imageSource: parsed.imageSource,
     source: 'mckinsey',
     publicationName: 'McKinsey',
     publishedAt: parsed.publishedAt,
@@ -147,19 +151,32 @@ function structuredString(object: JsonObject | null, key: string): string {
   return '';
 }
 
-function findImageUrl($: cheerio.CheerioAPI, structured: JsonObject | null, baseUrl: string): string | undefined {
+function safeExtractImage(html: string, baseUrl: string): { url: string; source: 'og' | 'twitter' } | null {
+  const extracted = extractImageMetadataFromHtml(html);
+  if (!extracted) {
+    return null;
+  }
+
+  try {
+    return {
+      url: canonicalizeUrl(extracted.url, baseUrl),
+      source: extracted.source
+    };
+  } catch {
+    return null;
+  }
+}
+
+function findStructuredImageUrl(structured: JsonObject | null, baseUrl: string): string | undefined {
   const structuredImage = structured?.image;
-  const candidate =
-    structuredImageToString(structuredImage) ||
-    meta($, 'meta[property="og:image"]', 'content') ||
-    meta($, 'meta[name="twitter:image"]', 'content');
+  const candidate = structuredImageToString(structuredImage);
 
   if (!candidate) {
     return undefined;
   }
 
   try {
-    return normalizeMcKinseyUrl(candidate, baseUrl) ?? undefined;
+    return canonicalizeUrl(candidate, baseUrl);
   } catch {
     return undefined;
   }

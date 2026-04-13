@@ -69,7 +69,7 @@ export function ArticleCard({ article, compact = false, variant }: ArticleCardPr
             className="h-full w-full object-cover transition duration-150 group-hover:scale-[1.02]"
           />
         ) : (
-          <div className="flex h-full w-full items-center justify-center bg-panel px-4 text-center">
+          <div className={`flex h-full w-full items-center justify-center px-4 text-center ${image.placeholderClassName}`}>
             <span className="rounded-md border border-line bg-white px-3 py-2 text-xs font-semibold uppercase tracking-normal text-neutral-600">
               {image.placeholderLabel}
             </span>

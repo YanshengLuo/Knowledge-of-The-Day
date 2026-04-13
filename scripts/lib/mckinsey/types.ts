@@ -1,4 +1,5 @@
 import type { RawFetchedItem } from '../types';
+import type { ImageSource } from '../types';
 
 export type McKinseyDiscoveryMethod = 'seed-page' | 'sitemap' | 'seed-url';
 
@@ -18,6 +19,7 @@ export type McKinseyParsedPage = {
   finalUrl: string;
   canonicalUrl: string;
   imageUrl?: string;
+  imageSource?: ImageSource;
   title: string;
   subtitle?: string;
   authors: string[];

@@ -1,12 +1,15 @@
 import type { SourceId } from '../../config/sources';
 import type { TopicKey } from '../../config/topics';
 
+export type ImageSource = 'og' | 'twitter' | 'hero' | 'pmc' | 'publisher' | 'fallback';
+
 export type Article = {
   id: string;
   title: string;
   url: string;
   canonicalUrl: string;
   imageUrl?: string;
+  imageSource?: ImageSource;
   source: SourceId;
   publicationName?: string;
   journalName?: string;

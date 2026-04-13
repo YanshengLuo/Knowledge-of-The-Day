@@ -2,11 +2,14 @@ import type { SourceId } from '../../config/sources';
 import type { TopicKey } from '../../config/topics';
 import type { Article, SourceStatus } from '../../src/lib/types';
 
+export type ImageSource = 'og' | 'twitter' | 'hero' | 'pmc' | 'publisher' | 'fallback';
+
 export type RawFetchedItem = {
   title: string;
   url: string;
   canonicalUrl?: string;
   imageUrl?: string;
+  imageSource?: ImageSource;
   source: SourceId;
   publicationName?: string;
   journalName?: string;

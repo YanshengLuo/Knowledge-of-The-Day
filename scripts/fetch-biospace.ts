@@ -33,6 +33,7 @@ await runSourceAdapter('biospace', async (fetchedAt) => {
         url: canonicalUrl,
         canonicalUrl,
         imageUrl,
+        imageSource: imageUrl ? 'publisher' : undefined,
         source: 'biospace',
         publishedAt: entry.isoDate ?? entry.pubDate ?? fetchedAt,
         fetchedAt,

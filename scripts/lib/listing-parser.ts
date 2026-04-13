@@ -2,6 +2,7 @@ import * as cheerio from 'cheerio';
 import type { AnyNode } from 'domhandler';
 import type { SourceId } from '../../config/sources';
 import type { RawFetchedItem } from './types';
+import { extractImageMetadataFromHtml } from './extract-image';
 import { canonicalizeUrl, fetchText, parseDateToIso, stripHtml, truncate, uniqueStrings } from './utils';
 
 export type ListingParseOptions = {
@@ -22,6 +23,7 @@ const DATE_TEXT_PATTERN =
 
 export async function parsePublicListingPage(options: ListingParseOptions): Promise<RawFetchedItem[]> {
   const html = await fetchText(options.url, options.timeoutMs ?? 45000, options.retries ?? 1, options.headers);
+  const pageImage = safeExtractPageImage(html, options.baseUrl);
   const $ = cheerio.load(html);
   $('script, style, noscript, svg').remove();
 
@@ -59,13 +61,14 @@ export async function parsePublicListingPage(options: ListingParseOptions): Prom
     const container = richContainer.length > 0 ? richContainer : $(element).parent().parent().parent();
     const publishedAt = findDate($, container, options.fetchedAt);
     const snippet = findSnippet($, container, title);
-    const imageUrl = findImageUrl($, container, options.baseUrl);
+    const itemImageUrl = findImageUrl($, container, options.baseUrl);
 
     items.push({
       title,
       url: canonicalUrl,
       canonicalUrl,
-      imageUrl,
+      imageUrl: itemImageUrl ?? pageImage?.url,
+      imageSource: itemImageUrl ? 'publisher' : pageImage?.source,
       source: options.source,
       publishedAt,
       fetchedAt: options.fetchedAt,
@@ -76,6 +79,22 @@ export async function parsePublicListingPage(options: ListingParseOptions): Prom
   });
 
   return items;
+}
+
+function safeExtractPageImage(html: string, baseUrl: string): { url: string; source: 'og' | 'twitter' } | null {
+  const extracted = extractImageMetadataFromHtml(html);
+  if (!extracted) {
+    return null;
+  }
+
+  try {
+    return {
+      url: canonicalizeUrl(extracted.url, baseUrl),
+      source: extracted.source
+    };
+  } catch {
+    return null;
+  }
 }
 
 function getTitle($: cheerio.CheerioAPI, element: AnyNode): string {
