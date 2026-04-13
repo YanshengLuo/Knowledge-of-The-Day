@@ -2,7 +2,6 @@ import { useEffect, useRef, useState } from 'react';
 import { Check, Copy, ExternalLink } from 'lucide-react';
 import type { Article } from '../lib/types';
 import { formatDate, sourceLabel } from '../lib/format';
-import { getArticleImage } from '../lib/getArticleImage';
 import { copyArticleLink } from '../lib/share';
 
 type ArticleCardVariant = 'standard' | 'featured' | 'compact';
@@ -16,17 +15,11 @@ type ArticleCardProps = {
 export function ArticleCard({ article, compact = false, variant }: ArticleCardProps) {
   const cardVariant = variant ?? (compact ? 'compact' : 'standard');
   const badges = importanceBadges(article).slice(0, 2);
-  const image = getArticleImage(article);
-  const [imageFailed, setImageFailed] = useState(false);
   const [copied, setCopied] = useState(false);
   const copyResetTimer = useRef<number | undefined>();
   const isFeatured = cardVariant === 'featured';
   const isCompact = cardVariant === 'compact';
   const visibleTags = [...new Set([...article.topicBuckets, ...article.tags])].slice(0, isFeatured ? 6 : 4);
-
-  useEffect(() => {
-    setImageFailed(false);
-  }, [image.src]);
 
   useEffect(() => {
     return () => {
@@ -50,48 +43,24 @@ export function ArticleCard({ article, compact = false, variant }: ArticleCardPr
 
   return (
     <article
-      className={`group relative flex h-full flex-col overflow-hidden rounded-lg border border-line bg-white shadow-card transition duration-150 hover:-translate-y-0.5 hover:scale-[1.01] hover:border-signal hover:shadow-lg ${
-        isFeatured ? 'min-h-[440px]' : 'min-h-[360px]'
+      className={`group relative flex h-full flex-col rounded-lg border border-line bg-white p-5 shadow-card transition duration-150 hover:-translate-y-0.5 hover:scale-[1.01] hover:border-signal hover:shadow-lg ${
+        isFeatured ? 'min-h-[300px]' : 'min-h-[260px]'
       }`}
     >
       <a href={article.url} target="_blank" rel="noreferrer" className="absolute inset-0 z-10" aria-label={`Open ${article.title}`}>
         <span className="sr-only">Open article</span>
       </a>
 
-      <div className={`${isFeatured ? 'aspect-[16/9]' : 'aspect-[16/10]'} relative overflow-hidden bg-panel`}>
-        {image.src && !imageFailed ? (
-          <img
-            src={image.src}
-            alt={image.alt}
-            loading="lazy"
-            decoding="async"
-            onError={() => setImageFailed(true)}
-            className="h-full w-full object-cover transition duration-150 group-hover:scale-[1.02]"
-          />
-        ) : (
-          <div className={`flex h-full w-full items-center justify-center px-4 text-center ${image.placeholderClassName}`}>
-            <span className="rounded-md border border-line bg-white px-3 py-2 text-xs font-semibold uppercase tracking-normal text-neutral-600">
-              {image.placeholderLabel}
-            </span>
-          </div>
-        )}
-
-        {badges.length > 0 ? (
-          <div className="pointer-events-none absolute left-3 top-3 z-20 flex flex-wrap gap-2">
-            {badges.map((badge) => (
-              <span key={badge} className="rounded-md bg-signal px-2.5 py-1 text-xs font-semibold uppercase tracking-normal text-white shadow-sm">
-                {badge}
-              </span>
-            ))}
-          </div>
-        ) : null}
-      </div>
-
-      <div className="pointer-events-none relative z-20 flex flex-1 flex-col p-4">
+      <div className="pointer-events-none relative z-20 flex flex-1 flex-col">
         <div className="mb-3 flex flex-wrap items-center gap-2 text-xs font-semibold uppercase tracking-normal text-neutral-600">
           <span className="rounded-md border border-line bg-panel px-2 py-1 text-ink">{sourceLabel(article.source)}</span>
           <time dateTime={article.publishedAt}>{formatDate(article.publishedAt)}</time>
           {article.isNewToday ? <span className="rounded-md bg-accent px-2 py-1 text-white">New today</span> : null}
+          {badges.map((badge) => (
+            <span key={badge} className="rounded-md bg-signal px-2 py-1 text-white">
+              {badge}
+            </span>
+          ))}
         </div>
 
         {article.journalName ? <p className="mb-2 line-clamp-1 text-xs font-semibold text-neutral-600">{article.journalName}</p> : null}
