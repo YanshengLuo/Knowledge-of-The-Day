@@ -12,7 +12,7 @@ The build-time pipeline aggregates metadata from:
 - a16z public content pages
 - Crunchbase News public listing pages
 
-The project does not mirror full article bodies. Stored records include title, URL, canonical URL, source, publish date, fetch date, snippet, tags, topic buckets, and a `new today` flag.
+The project does not mirror full article bodies. Stored records include title, URL, canonical URL, source, publish date, fetch date, snippet, tags, topic buckets, a `new today` flag, and lightweight ranking metadata for featured picks.
 
 ## How The Static Site Works
 
@@ -54,6 +54,33 @@ Connect this repository to Vercel through the Vercel dashboard and keep the defa
 The `build` script copies already-committed data from `data/` into `public/data/`, type-checks the project, and builds the frontend. It does not fetch BioSpace, PubMed, McKinsey, a16z, or Crunchbase News.
 
 The small `vercel.json` rewrite keeps deep links such as `/archive` and `/sources` working for this single-page Vite app.
+
+## SEO And Discoverability
+
+SEO settings are centralized in `config/site.ts`. Set `VITE_SITE_URL` in the build environment to the custom production domain, for example:
+
+```bash
+VITE_SITE_URL=https://www.example.com
+```
+
+Canonical URLs, Open Graph tags, Twitter card tags, `sitemap.xml`, and `robots.txt` all use this origin. If a `vercel.app` URL is accidentally provided, the helper falls back to the configured non-Vercel default so canonical tags do not point at preview deployments.
+
+The Vite build runs:
+
+```bash
+npm run site:metadata
+npm run site:pages
+```
+
+`site:metadata` generates `public/sitemap.xml` and `public/robots.txt` before Vite copies public assets into `dist`. `site:pages` runs after `vite build` and writes route-specific static HTML files for `/`, `/archive`, `/sources`, `/tools`, and `/about` so each route has matching canonical and social metadata before React loads.
+
+The default social sharing image lives at `public/og-image.svg`. Replace that file if the project needs branded artwork later.
+
+## Filters And Featured Ranking
+
+The dashboard supports multi-select filters for sources, topic buckets, and tags. Tags and topics use simple OR matching, and the search box continues narrowing the filtered results. Filtering rules live in `src/lib/filtering.ts`.
+
+Featured articles are selected with explainable build-time heuristics in `src/lib/ranking.ts`: recency, priority tracked topics, source prominence, richer snippets, richer metadata, and explicit source metrics if a source later provides them. The ranking groups PubMed items by journal when available and other items by publication/source, then marks the top one or two records per group as featured.
 
 ## Source Failure Fallback
 
@@ -158,6 +185,8 @@ Run tests:
 ```bash
 npm test
 ```
+
+The test suite covers normalization, cache fallback, multi-select filtering, featured ranking, sitemap generation, robots.txt generation, and canonical URL generation.
 
 Build the static site:
 

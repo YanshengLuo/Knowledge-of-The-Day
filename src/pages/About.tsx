@@ -8,8 +8,8 @@ export function About() {
 
       <div className="rounded-lg border border-line bg-white p-6 text-sm leading-7 text-neutral-700 shadow-card">
         <p>
-          BioTrend Daily gathers public metadata from selected sources during a GitHub Actions build. The deployed GitHub Pages
-          site has no backend, database, or server-side runtime.
+          BioTrend Daily gathers public metadata from selected sources during a GitHub Actions build. The deployed Vercel site
+          has no backend, database, or server-side runtime.
         </p>
         <p className="mt-4">
           The pipeline stores titles, links, canonical URLs, dates, snippets, tags, topic buckets, and source status. It does not

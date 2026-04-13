@@ -1,6 +1,8 @@
-import { ExternalLink } from 'lucide-react';
+import { useEffect, useRef, useState } from 'react';
+import { Check, Copy, ExternalLink } from 'lucide-react';
 import type { Article } from '../lib/types';
 import { formatDate, sourceLabel } from '../lib/format';
+import { copyArticleLink } from '../lib/share';
 
 type ArticleCardProps = {
   article: Article;
@@ -9,6 +11,28 @@ type ArticleCardProps = {
 
 export function ArticleCard({ article, compact = false }: ArticleCardProps) {
   const badges = importanceBadges(article);
+  const [copied, setCopied] = useState(false);
+  const copyResetTimer = useRef<number | undefined>();
+
+  useEffect(() => {
+    return () => {
+      if (copyResetTimer.current) {
+        window.clearTimeout(copyResetTimer.current);
+      }
+    };
+  }, []);
+
+  async function handleCopyLink() {
+    const didCopy = await copyArticleLink(article);
+    if (!didCopy) {
+      return;
+    }
+    setCopied(true);
+    if (copyResetTimer.current) {
+      window.clearTimeout(copyResetTimer.current);
+    }
+    copyResetTimer.current = window.setTimeout(() => setCopied(false), 1500);
+  }
 
   return (
     <article className="rounded-lg border border-line bg-white p-5 shadow-card">
@@ -43,15 +67,25 @@ export function ArticleCard({ article, compact = false }: ArticleCardProps) {
             </span>
           ))}
         </div>
-        <a
-          href={article.url}
-          target="_blank"
-          rel="noreferrer"
-          className="inline-flex items-center gap-2 rounded-md border border-signal px-3 py-2 text-sm font-semibold text-signal hover:bg-signal hover:text-white"
-        >
-          Open
-          <ExternalLink aria-hidden="true" size={16} />
-        </a>
+        <div className="flex flex-wrap gap-2">
+          <button
+            type="button"
+            onClick={handleCopyLink}
+            className="inline-flex items-center gap-2 rounded-md border border-line px-3 py-2 text-sm font-semibold text-ink hover:border-signal"
+          >
+            {copied ? 'Copied' : 'Copy link'}
+            {copied ? <Check aria-hidden="true" size={16} /> : <Copy aria-hidden="true" size={16} />}
+          </button>
+          <a
+            href={article.url}
+            target="_blank"
+            rel="noreferrer"
+            className="inline-flex items-center gap-2 rounded-md border border-signal px-3 py-2 text-sm font-semibold text-signal hover:bg-signal hover:text-white"
+          >
+            Open
+            <ExternalLink aria-hidden="true" size={16} />
+          </a>
+        </div>
       </div>
     </article>
   );

@@ -30,6 +30,11 @@ export async function writeJson(filePath: string, value: unknown): Promise<void>
   await writeFile(filePath, `${JSON.stringify(value, null, 2)}\n`, 'utf8');
 }
 
+export async function writeFileText(filePath: string, value: string): Promise<void> {
+  await ensureDir(path.dirname(filePath));
+  await writeFile(filePath, value, 'utf8');
+}
+
 export async function readJsonFiles<T>(dir: string): Promise<T[]> {
   try {
     const files = (await readdir(dir)).filter((file) => file.endsWith('.json'));

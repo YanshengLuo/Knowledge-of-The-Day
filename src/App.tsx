@@ -7,6 +7,7 @@ import { Archive } from './pages/Archive';
 import { SourcesPage } from './pages/Sources';
 import { Tools } from './pages/Tools';
 import { About } from './pages/About';
+import { applyPageMetadata } from './lib/seo';
 
 const basePath = import.meta.env.BASE_URL || '/';
 
@@ -32,6 +33,10 @@ export default function App() {
     window.addEventListener('popstate', onPopState);
     return () => window.removeEventListener('popstate', onPopState);
   }, []);
+
+  useEffect(() => {
+    applyPageMetadata(path);
+  }, [path]);
 
   const page = useMemo(() => {
     if (loading) {
