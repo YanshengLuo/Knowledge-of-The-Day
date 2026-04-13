@@ -16,10 +16,26 @@ export function FilterBar({ filters, onChange, availableTopics, availableTags }:
   const hasActiveFilters = activeFilters.length > 0;
 
   return (
-    <section className="rounded-lg border border-line bg-white p-4 shadow-card">
+    <aside className="rounded-lg border border-line bg-white p-4 shadow-card lg:sticky lg:top-4 lg:self-start">
       <div className="flex flex-col gap-4">
-        <div className="flex flex-col gap-3 lg:flex-row lg:items-center lg:justify-between">
-          <label className="min-w-0 flex-1">
+        <div className="flex items-center justify-between gap-3">
+          <div>
+            <p className="text-sm font-semibold uppercase tracking-normal text-neutral-600">Filters</p>
+            <h2 className="text-lg font-semibold text-ink">Search and narrow</h2>
+          </div>
+          <button
+            type="button"
+            onClick={() => onChange(initialArticleFilters)}
+            disabled={!hasActiveFilters}
+            className="inline-flex min-h-10 items-center gap-2 rounded-md border border-line px-3 text-sm font-semibold text-ink disabled:cursor-not-allowed disabled:opacity-45 hover:border-signal"
+          >
+            Clear
+            <X aria-hidden="true" size={16} />
+          </button>
+        </div>
+
+        <div className="flex flex-col gap-3">
+          <label>
             <span className="sr-only">Search articles</span>
             <span className="flex min-h-12 items-center gap-2 rounded-md border border-line bg-panel px-3">
               <Search aria-hidden="true" size={18} className="shrink-0 text-neutral-500" />
@@ -32,11 +48,11 @@ export function FilterBar({ filters, onChange, availableTopics, availableTags }:
             </span>
           </label>
 
-          <div className="flex flex-wrap gap-2">
+          <div className="grid gap-2">
             <select
               value={filters.dateMode}
               onChange={(event) => onChange({ ...filters, dateMode: event.target.value as DateFilter })}
-              className="min-h-11 rounded-md border border-line bg-white px-3 text-sm text-ink"
+              className="min-h-11 w-full rounded-md border border-line bg-white px-3 text-sm text-ink"
               aria-label="Date filter"
             >
               <option value="all">Any date</option>
@@ -49,7 +65,7 @@ export function FilterBar({ filters, onChange, availableTopics, availableTags }:
                 type="date"
                 value={filters.date}
                 onChange={(event) => onChange({ ...filters, date: event.target.value })}
-                className="min-h-11 rounded-md border border-line bg-white px-3 text-sm text-ink"
+                className="min-h-11 w-full rounded-md border border-line bg-white px-3 text-sm text-ink"
                 aria-label="Published on"
               />
             ) : null}
@@ -59,15 +75,6 @@ export function FilterBar({ filters, onChange, availableTopics, availableTags }:
               className={chipClass(filters.newToday)}
             >
               New today
-            </button>
-            <button
-              type="button"
-              onClick={() => onChange(initialArticleFilters)}
-              disabled={!hasActiveFilters}
-              className="inline-flex min-h-11 items-center gap-2 rounded-md border border-line px-3 text-sm font-semibold text-ink disabled:cursor-not-allowed disabled:opacity-45 hover:border-signal"
-            >
-              Clear filters
-              <X aria-hidden="true" size={16} />
             </button>
           </div>
         </div>
@@ -97,7 +104,7 @@ export function FilterBar({ filters, onChange, availableTopics, availableTags }:
           helper="Matches any selected tag"
         />
 
-        <div className="rounded-md bg-panel px-3 py-2 text-sm text-neutral-700">
+        <div className="rounded-md bg-panel px-3 py-2 text-sm leading-6 text-neutral-700">
           {hasActiveFilters ? (
             <span>
               Active filters: <span className="font-semibold text-ink">{activeFilters.join(', ')}</span>
@@ -107,7 +114,7 @@ export function FilterBar({ filters, onChange, availableTopics, availableTags }:
           )}
         </div>
       </div>
-    </section>
+    </aside>
   );
 }
 

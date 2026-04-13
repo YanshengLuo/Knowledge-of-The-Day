@@ -1,4 +1,5 @@
 import { useMemo, useState } from 'react';
+import { SOURCES } from '../../config/sources';
 import type { Article, SourceStatus } from '../lib/types';
 import { formatDateTime } from '../lib/format';
 import { ArticleCard } from '../components/ArticleCard';
@@ -6,7 +7,7 @@ import { FeaturedSection } from '../components/FeaturedSection';
 import { FilterBar } from '../components/FilterBar';
 import { HealthSummary } from '../components/HealthSummary';
 import { filterArticles, initialArticleFilters } from '../lib/filtering';
-import { groupTopArticlesByPublication } from '../lib/ranking';
+import { compareByImportance } from '../lib/ranking';
 
 type DashboardProps = {
   articles: Article[];
@@ -18,7 +19,7 @@ export function Dashboard({ articles, statuses }: DashboardProps) {
   const lastUpdated = useMemo(() => latestTimestamp(statuses), [statuses]);
   const availableTopics = useMemo(() => [...new Set(articles.flatMap((article) => article.topicBuckets))].sort(), [articles]);
   const availableTags = useMemo(() => topTags(articles), [articles]);
-  const topPicks = useMemo(() => groupTopArticlesByPublication(articles, 2).slice(0, 10), [articles]);
+  const topPicks = useMemo(() => topPickBySource(articles), [articles]);
   const filteredArticles = useMemo(() => filterArticles(articles, filters), [articles, filters]);
 
   return (
@@ -37,9 +38,9 @@ export function Dashboard({ articles, statuses }: DashboardProps) {
 
       <FeaturedSection articles={topPicks} />
 
-      <section className="space-y-4">
+      <div className="grid gap-6 lg:grid-cols-[300px_minmax(0,1fr)]">
         <FilterBar filters={filters} onChange={setFilters} availableTopics={availableTopics} availableTags={availableTags} />
-        <div>
+        <section className="space-y-4">
           <div className="mb-4 flex flex-col gap-1 sm:flex-row sm:items-end sm:justify-between">
             <div>
               <p className="text-sm font-semibold uppercase tracking-normal text-neutral-600">Latest feed</p>
@@ -48,7 +49,7 @@ export function Dashboard({ articles, statuses }: DashboardProps) {
             <p className="text-sm text-neutral-700">{filteredArticles.length} matching records</p>
           </div>
           {filteredArticles.length > 0 ? (
-            <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-3">
+            <div className="space-y-4">
               {filteredArticles.map((article) => (
                 <ArticleCard key={article.id} article={article} />
               ))}
@@ -59,10 +60,17 @@ export function Dashboard({ articles, statuses }: DashboardProps) {
               <p className="mt-2 text-sm text-neutral-700">Clear search, broaden the date range, or run the daily update.</p>
             </div>
           )}
-        </div>
-      </section>
+        </section>
+      </div>
     </div>
   );
+}
+
+function topPickBySource(articles: Article[]): Article[] {
+  return SOURCES.flatMap((source) => {
+    const topArticle = articles.filter((article) => article.source === source.id).sort(compareByImportance)[0];
+    return topArticle ? [topArticle] : [];
+  });
 }
 
 function topTags(articles: Article[], limit = 36): string[] {

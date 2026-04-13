@@ -18,11 +18,11 @@ export function FeaturedSection({ articles }: FeaturedSectionProps) {
           <h2 className="text-2xl font-semibold text-ink">Featured articles</h2>
         </div>
         <p className="max-w-xl text-sm leading-6 text-neutral-700">
-          Ranked with freshness, topic relevance, source prominence, and metadata quality.
+          One strongest current pick from each source, ranked with freshness, topic relevance, and metadata quality.
         </p>
       </div>
 
-      <div className="grid gap-4 lg:grid-cols-2">
+      <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-3">
         {articles.map((article) => (
           <ArticleCard key={`featured-${article.id}`} article={article} variant="featured" />
         ))}
