@@ -1,28 +1,182 @@
 [
   {
-    "id": "ace7e3ff8531c17f",
-    "title": "Mapping the immune landscape of PCa: From tumor microenvironment to therapeutics.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41956336",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41956336",
+    "id": "54a65d7557a9e902",
+    "title": "Integrative multi-omic analysis identifiedmutations and senescence-driven immune suppression as dual therapeutic targets in LAR triple-negative breast cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41968987",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41968987",
     "source": "pubmed",
+    "publicationName": "Cancer biology & medicine",
+    "journalName": "Cancer biology & medicine",
     "publishedAt": "2026-04-07T00:00:00.000Z",
-    "fetchedAt": "2026-04-12T23:14:37.429Z",
-    "snippet": "Prostate cancer (PCa) remains a leading cause of cancer-related mortality in men, yet its response to immunotherapy is notably limited compared to other solid tumors. This resistance stems primarily from a highly immunosuppressive tumor microenvironment (TME), characterized by \"cold\" tumor features such as low mutational burden, scarce cytotoxic T cell infi...",
+    "fetchedAt": "2026-04-13T14:25:23.547Z",
+    "snippet": "The luminal androgen receptor (LAR) subtype of triple-negative breast cancer (TNBC) differentiation displays low proliferation yet strong metastatic potential and a poor chemotherapy response. This study aimed to define the molecular basis of the LAR subtype and identify actionable therapeutic targets. Comprehensive multi-omic analyses were performed on the...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "immunology",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "recent",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 82,
+    "isFeatured": true
+  },
+  {
+    "id": "43d731792669fe27",
+    "title": "Role of N-Glycolylneuraminic Acid and N-Acetylneuraminic Acid Glycans in Cancer Diagnosis and Therapeutic Strategies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41968546",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41968546",
+    "source": "pubmed",
+    "publicationName": "Current medicinal chemistry",
+    "journalName": "Current medicinal chemistry",
+    "publishedAt": "2026-04-07T00:00:00.000Z",
+    "fetchedAt": "2026-04-13T14:25:23.547Z",
+    "snippet": "This review examines the function of N-glycolylneuraminic acid (Neu5Gc) and N-acetylneuraminic acid (Neu5Ac) glycans in cancer diagnosis and treatment, specifically in their interaction with biodegradable polymeric nanoparticles. Glycans play a central role in cellular communication, immune response, and adhesion, with structural changes usually indicative....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 72,
+    "importanceSignals": [
+      "recent",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "a5f9fc0eda8bc487",
+    "title": "Ophthalmic Inflammation: Evolving Strategies and Therapeutic Hurdles.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41968552",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41968552",
+    "source": "pubmed",
+    "publicationName": "Recent advances in inflammation & allergy drug discovery",
+    "journalName": "Recent advances in inflammation & allergy drug discovery",
+    "publishedAt": "2026-04-07T00:00:00.000Z",
+    "fetchedAt": "2026-04-13T14:25:23.547Z",
+    "snippet": "Ophthalmic inflammation includes a variety of eye disorders that can severely impact vision and overall quality of life. Despite substantial progress in diagnostic modalities and the development of targeted therapies, the effective management of ophthalmic inflammation continues to pose significant challenges. These challenges arise from the intricate inter...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 62,
+    "importanceSignals": [
+      "recent",
+      "priority topic: gene therapy",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "fa26b620d101023b",
+    "title": "The role of radiomics in predicting the response to neoadjuvant chemotherapy for breast cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41968995",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41968995",
+    "source": "pubmed",
+    "publicationName": "Cancer biology & medicine",
+    "journalName": "Cancer biology & medicine",
+    "publishedAt": "2026-04-07T00:00:00.000Z",
+    "fetchedAt": "2026-04-13T14:25:23.547Z",
+    "snippet": "Breast cancer exhibits profound biological and spatial heterogeneity, which contributes to variable responses to neoadjuvant chemotherapy (NAC) and challenges precision treatment planning. Radiomics, an emerging discipline that converts standard medical images into high-dimensional quantitative data, offers a non-invasive and reproducible means to capture t...",
     "tags": [
       "research",
       "pubmed",
       "Spatial oncology",
       "spatial transcriptomics",
-      "cancer"
+      "cancer",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
     ],
     "topicBuckets": [
       "spatial",
       "oncology",
       "computational biology",
-      "ai",
-      "biotech",
-      "immunology"
+      "translational medicine"
     ],
-    "isNewToday": false
+    "isNewToday": false,
+    "importanceSignals": [
+      "recent",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 82,
+    "isFeatured": true
+  },
+  {
+    "id": "ca4fe8aad511b805",
+    "title": "Precision immunotherapy for breast cancer: from biomarkers to clinical practice.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41968988",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41968988",
+    "source": "pubmed",
+    "publicationName": "Cancer biology & medicine",
+    "journalName": "Cancer biology & medicine",
+    "publishedAt": "2026-04-07T00:00:00.000Z",
+    "fetchedAt": "2026-04-13T14:25:23.547Z",
+    "snippet": "",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology",
+      "immunotherapy"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 66,
+    "importanceSignals": [
+      "recent",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich metadata"
+    ],
+    "isFeatured": false
   }
 ]

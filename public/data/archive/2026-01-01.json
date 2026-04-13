@@ -5,8 +5,10 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/41961886",
     "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41961886",
     "source": "pubmed",
+    "publicationName": "PloS one",
+    "journalName": "PloS one",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-12T23:14:37.429Z",
+    "fetchedAt": "2026-04-13T14:25:23.547Z",
     "snippet": "Imbalances in the gut microbiome have been linked to conditions such as inflammatory bowel disease, diabetes, and cancer. While metagenomics and amplicon sequencing are commonly used to study the microbiome, they do not capture all layers of microbial functions. Other meta-omics data can provide more insights, but these are more costly and laborious to proc...",
     "tags": [
       "research",
@@ -19,55 +21,15 @@
       "computational biology",
       "oncology"
     ],
-    "isNewToday": false
-  },
-  {
-    "id": "f5cb0a30fa2ecbd8",
-    "title": "Use of Single-Cell Data and scPagwas Analysis to Identify T Cell Subsets and Construct a Prognostic Model for Clear Cell Renal Cell Carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41960370",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41960370",
-    "source": "pubmed",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-12T23:14:37.429Z",
-    "snippet": "Clear cell renal cell carcinoma (KIRC), the most prevalent pathological renal cell carcinoma (RCC) subtype, makes up approximately 75%-84% of total cases. KIRC is characterized by high heterogeneity, high metastasis rates, and a poor prognosis. Its incidence rate has continued to rise in recent years. We sought to construct new prognostic models to optimize...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology",
-      "single-cell"
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
     ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "single-cell",
-      "immunology"
-    ],
-    "isNewToday": false
-  },
-  {
-    "id": "1954ba6ba3eca3ed",
-    "title": "Proliferation and Apoptosis Adaptor Protein 15 (PEA15), a Potential Oncogenic Regulator of VHL and HIF1A Identified through Proteomic Analysis in Hepatocellular Carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41958708",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41958708",
-    "source": "pubmed",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-12T23:14:37.429Z",
-    "snippet": "Hepatocellular carcinoma (HCC) is a leading cause of cancer-related deaths globally. Although the hypoxia-inducible factor 1A (HIF1A) pathway is crucial in HCC progression, its regulatory mechanisms remain unclear as mutations in its primary regulator, von Hippel-Lindau tumor suppressor (), are rare in HCC. We aimed to elucidate the role of proliferation an...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false
+    "isFeatured": true
   },
   {
     "id": "8347549a922e5568",
@@ -75,8 +37,10 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/41958668",
     "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41958668",
     "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-12T23:14:37.429Z",
+    "fetchedAt": "2026-04-13T14:25:23.547Z",
     "snippet": "Tumor heterogeneity is a fundamental driver of therapeutic resistance across solid malignancies, arising from genetic, epigenetic, phenotypic, spatial, temporal, and microenvironmental diversity. In tumors developing at mucosal barrier sites, these heterogeneous features are further shaped by the unique immunological context of mucosal tissues, where immune...",
     "tags": [
       "research",
@@ -91,6 +55,14 @@
       "computational biology",
       "immunology"
     ],
-    "isNewToday": false
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
   }
 ]
