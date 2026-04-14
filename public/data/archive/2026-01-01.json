@@ -1,15 +1,15 @@
 [
   {
-    "id": "b20ea85d32d6f2da",
-    "title": "Predicted meta-omics: A potential solution to multi-omics data scarcity in microbiome studies.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41961886",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41961886",
+    "id": "3afa1f8bf0a682c9",
+    "title": "Multi-task adaptive deep sparse canonical correlation analysis for multi-omics cancer survival prediction.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41973703",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41973703",
     "source": "pubmed",
     "publicationName": "PloS one",
     "journalName": "PloS one",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-13T14:25:23.547Z",
-    "snippet": "Imbalances in the gut microbiome have been linked to conditions such as inflammatory bowel disease, diabetes, and cancer. While metagenomics and amplicon sequencing are commonly used to study the microbiome, they do not capture all layers of microbial functions. Other meta-omics data can provide more insights, but these are more costly and laborious to proc...",
+    "fetchedAt": "2026-04-14T14:30:52.243Z",
+    "snippet": "Integrating high-dimensional multi-omics data is essential for uncovering the coordinated molecular mechanisms underlying cancer progression and improving survival prediction. DNA methylation and mRNA expression represent two tightly coupled regulatory layers; however, many existing approaches either model them independently or rely on linear assumptions th...",
     "tags": [
       "research",
       "pubmed",
@@ -32,16 +32,157 @@
     "isFeatured": true
   },
   {
-    "id": "8347549a922e5568",
-    "title": "Multidimensional tumor heterogeneity and its role in therapeutic resistance.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41958668",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41958668",
+    "id": "47de2afe3164e95d",
+    "title": "Tumor lactate metabolism shapes immune suppression and therapeutic resistance revealed by integrative multi-omics and digital pathology.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41972178",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41972178",
     "source": "pubmed",
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-13T14:25:23.547Z",
-    "snippet": "Tumor heterogeneity is a fundamental driver of therapeutic resistance across solid malignancies, arising from genetic, epigenetic, phenotypic, spatial, temporal, and microenvironmental diversity. In tumors developing at mucosal barrier sites, these heterogeneous features are further shaped by the unique immunological context of mucosal tissues, where immune...",
+    "fetchedAt": "2026-04-14T14:30:52.243Z",
+    "snippet": "Lactate metabolism is a hallmark of cancer metabolic reprogramming, shaping tumor immunity and therapeutic resistance, yet clinically accessible and low-cost methods to assess intratumoral lactate activity remain limited. We curated a lactate-related 59-gene signature and characterized its biological and clinical relevance across TCGA, GEO, and single-cell....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "single-cell",
+      "translational medicine",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 68,
+    "isFeatured": true
+  },
+  {
+    "id": "c488727f2dda4fbb",
+    "title": "Correction: Mast cell marker gene signature: prognosis and immunotherapy response prediction in lung adenocarcinoma through integrated scRNA-seq and bulk RNA-seq.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41972190",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41972190",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-04-14T14:30:52.243Z",
+    "snippet": "[This corrects the article DOI: 10.3389/fimmu.2023.1189520.].",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "immunotherapy"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 42,
+    "importanceSignals": [
+      "priority topic: oncology",
+      "high-signal source",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "79be1307bb399991",
+    "title": "Macrophage-associated prognostic modeling uncovers immunotherapy response mechanisms and defines HAGHL as a novel oncogenic driver in breast cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41972161",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41972161",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-04-14T14:30:52.243Z",
+    "snippet": "Macrophage-related genes (MRGs), a group of pivotal regulators governing macrophage differentiation, polarization, and function, have increasingly been recognized as critical modulators in tumor progression and immune evasion. However, the molecular expression profiles of MRGs and their intricate relationships with the immune microenvironment in breast canc...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "immunotherapy"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "computational biology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "9b8d5941f0ccc371",
+    "title": "Diabetic Neuropathy: From Etiopathogenesis to Integrative Therapeutic Strategies with Traditional Chinese Medicine.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41978635",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41978635",
+    "source": "pubmed",
+    "publicationName": "International journal of general medicine",
+    "journalName": "International journal of general medicine",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-04-14T14:30:52.243Z",
+    "snippet": "Diabetic neuropathy is a common and disabling complication of diabetes leading to numbness, pain, sensory loss and reduced quality of life. This review summarizes its diagnosis, epidemiology, genetic basis, pathophysiological mechanisms and current treatment strategies, with a focus on the role of traditional Chinese medicine (TCM). Its current common diagn...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "adc4cc66822971e4",
+    "title": "Ovarian tissue quality assessment and fertility preservation strategies enabled by multi-omics and artificial intelligence: current applications and clinical perspectives.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41971663",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41971663",
+    "source": "pubmed",
+    "publicationName": "Frontiers in physiology",
+    "journalName": "Frontiers in physiology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-04-14T14:30:52.243Z",
+    "snippet": "Ovarian tissue cryopreservation (OTC) is essential for fertility preservation in cancer survivors, prepubertal girls, and individuals at high risk of premature ovarian insufficiency (POI). Yet conventional evaluation methods, such as histology and follicle counting, provide limited insight into tissue viability, microenvironmental integrity, molecular injur...",
     "tags": [
       "research",
       "pubmed",
@@ -53,10 +194,11 @@
       "spatial",
       "oncology",
       "computational biology",
-      "immunology"
+      "ai",
+      "translational medicine"
     ],
     "isNewToday": false,
-    "importanceScore": 58,
+    "importanceScore": 68,
     "importanceSignals": [
       "priority topic: oncology, computational biology",
       "high-signal source",
