@@ -1,137 +1,175 @@
 [
   {
-    "id": "3afa1f8bf0a682c9",
-    "title": "Multi-task adaptive deep sparse canonical correlation analysis for multi-omics cancer survival prediction.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41973703",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41973703",
+    "id": "b5ebc9acf1c06a7f",
+    "title": "Enterococcus-driven metabolite-host gene networks in IBD-associated colorectal carcinogenesis: integrative multi-omics and experimental validation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41983192",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41983192",
     "source": "pubmed",
-    "publicationName": "PloS one",
-    "journalName": "PloS one",
+    "publicationName": "Frontiers in cell and developmental biology",
+    "journalName": "Frontiers in cell and developmental biology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-14T14:30:52.243Z",
-    "snippet": "Integrating high-dimensional multi-omics data is essential for uncovering the coordinated molecular mechanisms underlying cancer progression and improving survival prediction. DNA methylation and mRNA expression represent two tightly coupled regulatory layers; however, many existing approaches either model them independently or rely on linear assumptions th...",
+    "fetchedAt": "2026-04-15T14:23:26.166Z",
+    "snippet": "This study aims to elucidate the role of Enterococcusin the progression from inflammatory bowel disease to colorectal cancer (CRC), with a focus on identifying key metabolites and host genes regulated by Enterococcusand their influence on CRC development. Using the database gutMGene, gutMDisorder and MACdb, we mined the key metabolites and human genes. We a...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "47de2afe3164e95d",
-    "title": "Tumor lactate metabolism shapes immune suppression and therapeutic resistance revealed by integrative multi-omics and digital pathology.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41972178",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41972178",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-14T14:30:52.243Z",
-    "snippet": "Lactate metabolism is a hallmark of cancer metabolic reprogramming, shaping tumor immunity and therapeutic resistance, yet clinically accessible and low-cost methods to assess intratumoral lactate activity remain limited. We curated a lactate-related 59-gene signature and characterized its biological and clinical relevance across TCGA, GEO, and single-cell....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology",
       "Single-cell TME",
       "single-cell",
       "tumor microenvironment"
     ],
     "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai",
       "single-cell",
-      "translational medicine",
-      "immunology"
+      "oncology",
+      "immunology",
+      "ai",
+      "computational biology"
     ],
     "isNewToday": false,
+    "importanceScore": 68,
     "importanceSignals": [
-      "priority topic: computational biology, oncology",
+      "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 68,
     "isFeatured": true
   },
   {
-    "id": "c488727f2dda4fbb",
-    "title": "Correction: Mast cell marker gene signature: prognosis and immunotherapy response prediction in lung adenocarcinoma through integrated scRNA-seq and bulk RNA-seq.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41972190",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41972190",
+    "id": "fffef604dc0465f6",
+    "title": "Spatial omics for profiling the dynamic tumor microenvironment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41983103",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41983103",
     "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
+    "publicationName": "Clinical & translational immunology",
+    "journalName": "Clinical & translational immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-14T14:30:52.243Z",
-    "snippet": "[This corrects the article DOI: 10.3389/fimmu.2023.1189520.].",
+    "fetchedAt": "2026-04-15T14:23:26.166Z",
+    "snippet": "Spatial transcriptomics (ST) and spatial proteomics (SP) have revolutionised our ability to map RNA and protein distributions within intact tissues, shedding new light on the dynamic interactions that drive physiological processes in healthy and diseased tissues. We discuss how the latest ST and SP technologies, large public data resources and advanced comp...",
     "tags": [
       "research",
       "pubmed",
       "Single-cell TME",
       "single-cell",
       "tumor microenvironment",
-      "immunotherapy"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 42,
-    "importanceSignals": [
-      "priority topic: oncology",
-      "high-signal source",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "79be1307bb399991",
-    "title": "Macrophage-associated prognostic modeling uncovers immunotherapy response mechanisms and defines HAGHL as a novel oncogenic driver in breast cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41972161",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41972161",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-14T14:30:52.243Z",
-    "snippet": "Macrophage-related genes (MRGs), a group of pivotal regulators governing macrophage differentiation, polarization, and function, have increasingly been recognized as critical modulators in tumor progression and immune evasion. However, the molecular expression profiles of MRGs and their intricate relationships with the immune microenvironment in breast canc...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "immunotherapy"
+      "spatial",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
     ],
     "topicBuckets": [
       "single-cell",
       "oncology",
       "immunology",
-      "computational biology"
+      "computational biology",
+      "spatial"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 58,
+    "isFeatured": true
+  },
+  {
+    "id": "3f6d0664fb512ceb",
+    "title": "Single-Cell Analysis Delineates Glutathione Metabolism-Related Gene Signatures in the Glioblastoma Microenvironment and Identifies GSTA4 as a Regulator of Malignant Behaviors.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41982811",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41982811",
+    "source": "pubmed",
+    "publicationName": "International journal of genomics",
+    "journalName": "International journal of genomics",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-04-15T14:23:26.166Z",
+    "snippet": "The cellular distribution characteristics and functional mechanisms of glutathione (GSH) metabolism within the tumor microenvironment (TME) of glioblastoma multiforme (GBM) remain poorly understood. This study aims to elucidate the cellular landscape and GSH metabolic features of the GBM microenvironment and to clarify the role of GSH S-transferase alpha 4....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai"
     ],
     "isNewToday": false,
     "importanceScore": 58,
     "importanceSignals": [
-      "priority topic: oncology, computational biology",
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "b0a5638e32cebb6f",
+    "title": "Monophosphoryl lipid A boosts macrophage antimicrobial immunity by metabolically regulating source-specific ROS generation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41983139",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41983139",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-04-15T14:23:26.166Z",
+    "snippet": "Monophosphoryl lipid A (MPLA), a toll-like receptor (TLR) 4 agonist and licensed vaccine adjuvant, reprograms innate immune cells to confer protection against diverse pathogens. However, the metabolic and molecular adaptations supporting this response remain poorly defined. The contributions of discrete reactive oxygen species (ROS) sources-including NADPH....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "705af335e412864d",
+    "title": "Immunometabolic reprogramming in sepsis: mechanisms, clinical endotypes, and therapeutic opportunities.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41983123",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41983123",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-04-15T14:23:26.166Z",
+    "snippet": "Sepsis, a systemic inflammatory syndrome triggered by infection, is tightly linked to dysregulated host immunometabolism. We review three hallmark metabolic alterations. First, a shift from oxidative phosphorylation (OXPHOS) to glycolysis provides rapid ATP early on; prolonged glycolytic engagement, however, drives excessive cytokine release through abnorma...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: gene therapy, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -147,7 +185,7 @@
     "publicationName": "International journal of general medicine",
     "journalName": "International journal of general medicine",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-14T14:30:52.243Z",
+    "fetchedAt": "2026-04-15T14:23:26.166Z",
     "snippet": "Diabetic neuropathy is a common and disabling complication of diabetes leading to numbness, pain, sensory loss and reduced quality of life. This review summarizes its diagnosis, epidemiology, genetic basis, pathophysiological mechanisms and current treatment strategies, with a focus on the role of traditional Chinese medicine (TCM). Its current common diagn...",
     "tags": [
       "research",
@@ -173,34 +211,134 @@
     "isFeatured": true
   },
   {
-    "id": "adc4cc66822971e4",
-    "title": "Ovarian tissue quality assessment and fertility preservation strategies enabled by multi-omics and artificial intelligence: current applications and clinical perspectives.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41971663",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41971663",
+    "id": "c6bc38df73eeb5b8",
+    "title": "The role of exercise-induced myokines in cancer-associated inflammation and immune regulation: mechanisms and prospects.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41983081",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41983081",
     "source": "pubmed",
-    "publicationName": "Frontiers in physiology",
-    "journalName": "Frontiers in physiology",
+    "publicationName": "Frontiers in sports and active living",
+    "journalName": "Frontiers in sports and active living",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-14T14:30:52.243Z",
-    "snippet": "Ovarian tissue cryopreservation (OTC) is essential for fertility preservation in cancer survivors, prepubertal girls, and individuals at high risk of premature ovarian insufficiency (POI). Yet conventional evaluation methods, such as histology and follicle counting, provide limited insight into tissue viability, microenvironmental integrity, molecular injur...",
+    "fetchedAt": "2026-04-15T14:23:26.166Z",
+    "snippet": "Skeletal muscle is increasingly recognized as an endocrine organ, and contraction-induced myokines are viewed as key mediators of the systemic benefits of exercise. This review synthesizes evidence on the roles and molecular mechanisms of major myokines-including IL-6, irisin, SPARC, oncostatin M (OSM), and decorin-in exercise-associated modulation of cance...",
     "tags": [
       "research",
       "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
     ],
     "topicBuckets": [
-      "spatial",
+      "translational medicine",
       "oncology",
-      "computational biology",
-      "ai",
-      "translational medicine"
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "b899f80153af2963",
+    "title": "Triglyceride-glucose-Body Mass Index is linked to papillary thyroid carcinoma odds in China: a retrospective study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41982773",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41982773",
+    "source": "pubmed",
+    "publicationName": "Frontiers in endocrinology",
+    "journalName": "Frontiers in endocrinology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-04-15T14:23:26.166Z",
+    "snippet": "The incidence of thyroid cancer is gradually increasing year by year, with papillary thyroid carcinoma being the predominant type of thyroid cancer. Exploring the risk factors for papillary thyroid carcinoma is crucial for predicting and treating papillary thyroid carcinoma. This research investigated the correlation between the odds of papillary thyroid ca...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "6209413fb7956b89",
+    "title": "Discovery of cerebrospinal fluid biomarkers for different dementias using mass spectrometry-based proteomics.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41982483",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41982483",
+    "source": "pubmed",
+    "publicationName": "Alzheimer's & dementia (Amsterdam, Netherlands)",
+    "journalName": "Alzheimer's & dementia (Amsterdam, Netherlands)",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-04-15T14:23:26.166Z",
+    "snippet": "Common forms of dementia include Alzheimer's disease (AD), dementia with Lewy bodies (DLB), and frontotemporal dementia (FTD). Disease specific biomarkers are needed for differential disease diagnosis. We performed cerebrospinal fluid (CSF) mass spectrometry proteomics on three cohorts (&#xa0;=&#xa0;110,&#xa0;=&#xa0;112,&#xa0;=&#xa0;78) including AD, DLB, F...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "computational biology"
     ],
     "isNewToday": false,
     "importanceScore": 68,
     "importanceSignals": [
-      "priority topic: oncology, computational biology",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "817f8abf0979fa05",
+    "title": "Identification of an m7G-Related lncRNA Signature for Prognostic Prediction and Immune Landscape Characterization in Early Gastric Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41982336",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41982336",
+    "source": "pubmed",
+    "publicationName": "OncoTargets and therapy",
+    "journalName": "OncoTargets and therapy",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-04-15T14:23:26.166Z",
+    "snippet": "While early gastric cancer (EGC) is generally associated with a favorable prognosis, its clinical outcomes are notably heterogeneous. Unlike advanced gastric cancer requiring uniform intensive treatment, EGC lacks robust biomarkers to identify high-risk patients for personalized therapy. Although both N7-methylguanosine (m7G) modification and long non-codin...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
