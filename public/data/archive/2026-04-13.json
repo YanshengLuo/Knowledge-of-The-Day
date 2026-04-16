@@ -1,52 +1,15 @@
 [
   {
-    "id": "a34c2bcc77367190",
-    "title": "SpaPheno: linking spatial transcriptomics to clinical phenotypes with interpretable machine learning.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41975540",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41975540",
+    "id": "6ac2e0c554b983ee",
+    "title": "The Paracrine TAC1-TACR1 Signaling Promotes Endothelial Senescence and Metastatic Progression in Neuroblastoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41985871",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41985871",
     "source": "pubmed",
-    "publicationName": "Genome medicine",
-    "journalName": "Genome medicine",
+    "publicationName": "Cancer letters",
+    "journalName": "Cancer letters",
     "publishedAt": "2026-04-13T00:00:00.000Z",
-    "fetchedAt": "2026-04-15T14:23:26.166Z",
-    "snippet": "",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology",
-      "spatial",
-      "machine learning"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai",
-      "spatial",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 76,
-    "importanceSignals": [
-      "recent",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "8fc417ca10038e9a",
-    "title": "Prognostic impact of vascular CXCR4 expression in colorectal carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41980570",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41980570",
-    "source": "pubmed",
-    "publicationName": "Experimental and molecular pathology",
-    "journalName": "Experimental and molecular pathology",
-    "publishedAt": "2026-04-13T00:00:00.000Z",
-    "fetchedAt": "2026-04-15T14:23:26.166Z",
-    "snippet": "Colorectal cancer (CRC) remains a leading cause of cancer-related mortality globally. The CXCL12/CXCR4 signaling axis is implicated in tumor progression and metastasis; however, its clinical significance in CRC has not been fully elucidated. This study aims to evaluate the clinicopathological significance of CXCR4 expression in the vascular microenvironment...",
+    "fetchedAt": "2026-04-16T14:31:29.308Z",
+    "snippet": "Distal metastasis remains a major clinical challenge in neuroblastoma (NB), the most common extracranial solid tumor in children. However, the molecular mechanisms mediating tumor-endothelial crosstalk and NB metastasis remain incompletely understood. By integrating single-cell omics analyses of clinical NB samples with experimental validations, we establis...",
     "tags": [
       "research",
       "pubmed",
@@ -59,6 +22,7 @@
       "oncology",
       "immunology",
       "ai",
+      "computational biology",
       "translational medicine"
     ],
     "isNewToday": false,
@@ -66,6 +30,41 @@
     "importanceSignals": [
       "recent",
       "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "881d59196414d581",
+    "title": "Advances and limitations in angiogenesis assays: Integrating in vitro, in vivo, and emerging technologies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41985854",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41985854",
+    "source": "pubmed",
+    "publicationName": "Vascular pharmacology",
+    "journalName": "Vascular pharmacology",
+    "publishedAt": "2026-04-13T00:00:00.000Z",
+    "fetchedAt": "2026-04-16T14:31:29.308Z",
+    "snippet": "The study of angiogenesis has rapidly evolved from fundamental morphometric observations to complex, multidimensional investigations. This comprehensive review synthesizes the expanding toolkit of angiogenesis assays, encompassing established in vitro models, ex vivo systems, and advanced in vivo platforms. Furthermore, we detail the integration of next-gen...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 82,
+    "importanceSignals": [
+      "recent",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"

@@ -1,33 +1,34 @@
 [
   {
-    "id": "e2af13f8dc7dfb1e",
-    "title": "SpNeigh: spatial neighborhood and differential expression analysis for high-resolution spatial transcriptomics.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41972009",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41972009",
+    "id": "5b124110d004c5a1",
+    "title": "Evaluation of the impact of glycolysis-related gene signatures on prognosis and therapeutic targeting in lung adenocarcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41987806",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41987806",
     "source": "pubmed",
-    "publicationName": "NAR genomics and bioinformatics",
-    "journalName": "NAR genomics and bioinformatics",
+    "publicationName": "Cytotechnology",
+    "journalName": "Cytotechnology",
     "publishedAt": "2026-06-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-15T14:23:26.166Z",
-    "snippet": "Spatial transcriptomics technologies such as Xenium, MERFISH, and Visium HD enable high-resolution profiling of gene expression while preserving tissue architecture. However, most computational methods for spatial analysis do not explicitly model local tissue context, such as boundaries, neighborhoods, or gradients. Here, we present SpNeigh (https://github....",
+    "fetchedAt": "2026-04-16T14:31:29.308Z",
+    "snippet": "Abnormal glycolysis is one of the hallmarks of cancer and plays a significant role in its progression. This study investigates the association between glycolysis genes and the progression of lung adenocarcinoma (LUAD). Utilizing various bioinformatics techniques, the research explores the heterogeneity of glycolysis genes in different LUAD cell types, ident...",
     "tags": [
       "research",
       "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "spatial"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
     ],
     "topicBuckets": [
-      "spatial",
+      "single-cell",
       "oncology",
+      "immunology",
+      "ai",
       "computational biology"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
+    "importanceScore": 92,
     "importanceSignals": [
       "very recent",
-      "priority topic: oncology, computational biology",
+      "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"

@@ -1,44 +1,72 @@
 [
   {
-    "id": "d8c40822715d1725",
-    "title": "Integrated Single-Cell and Spatial Multi-Omics of Clonal Precursors and Immune Niches in Germinal Center Lymphomas.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41976344",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41976344",
+    "id": "72efd598bdefb43d",
+    "title": "Association between albumin-corrected anion gap and in-hospital mortality in ICU patients with lung cancer: a retrospective cohort study based on the MIMIC database.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41988317",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41988317",
     "source": "pubmed",
-    "publicationName": "Cancers",
-    "journalName": "Cancers",
+    "publicationName": "Journal of thoracic disease",
+    "journalName": "Journal of thoracic disease",
     "publishedAt": "2026-03-31T00:00:00.000Z",
-    "fetchedAt": "2026-04-15T14:23:26.166Z",
-    "snippet": ": Follicular lymphoma (FL) and diffuse large B-cell lymphoma (DLBCL) exhibit substantial heterogeneity, reflecting the diversity of the germinal center (GC). Histologic transformation of FL to DLBCL is associated with poor prognosis, yet robust biomarkers predicting transformation remain limited.: We integrated single-cell DNA sequencing, single-cell RNA se...",
+    "fetchedAt": "2026-04-16T14:31:29.308Z",
+    "snippet": "This retrospective cohort study investigates the association between albumin-corrected anion gap (ACAG) and in-hospital mortality (IHM) among critically ill patients with lung cancer (LC). ACAG was calculated using the formula: ACAG (mmol/L) = anion gap (mmol/L) + [4.4 - albumin (g/dL)] &#xd7; 2.5, based on the first laboratory measurement within 72 hours o...",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "spatial",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
     ],
     "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "computational biology",
       "translational medicine",
-      "spatial"
+      "oncology"
     ],
     "isNewToday": false,
+    "importanceScore": 65,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology, ai",
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
+    "isFeatured": true
+  },
+  {
+    "id": "7dda359a27d301b8",
+    "title": "Global trends and research progress on immunotherapy for-mutant non-small cell lung cancer: a bibliometric analysis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41988299",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41988299",
+    "source": "pubmed",
+    "publicationName": "Journal of thoracic disease",
+    "journalName": "Journal of thoracic disease",
+    "publishedAt": "2026-03-31T00:00:00.000Z",
+    "fetchedAt": "2026-04-16T14:31:29.308Z",
+    "snippet": "Immunotherapy for epidermal growth factor receptor ()-mutant non-small cell lung cancer (NSCLC) has emerged as a promising treatment strategy, yet global research trends remain uncharacterized. This study aims to provide a comprehensive bibliometric analysis of the field's evolution and current state. The Web of Science Core Collection was searched to ident...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology",
+      "immunotherapy"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
     "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
     "isFeatured": true
   }
 ]
