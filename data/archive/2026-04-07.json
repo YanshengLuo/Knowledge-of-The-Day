@@ -1,36 +1,77 @@
 [
   {
-    "id": "8ea9aa3a66b2ad12",
-    "title": "Multi-Omics Applications in Adult Acute Lymphoblastic Leukemia: From Biological Mechanisms to Precision Therapies.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41977507",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41977507",
+    "id": "470012dba2fb8ab9",
+    "title": "STDrug enables spatially informed personalized drug repurposing from spatial transcriptomics.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41993522",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41993522",
     "source": "pubmed",
-    "publicationName": "International journal of molecular sciences",
-    "journalName": "International journal of molecular sciences",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
     "publishedAt": "2026-04-07T00:00:00.000Z",
-    "fetchedAt": "2026-04-16T14:31:29.308Z",
-    "snippet": "Adult acute lymphoblastic leukemia (ALL) is a highly heterogeneous hematologic malignancy where treatment response and relapse risk do not exclusively rely on the identification of genetic lesions but also on dynamic biological states sustained by specific transcriptional and epigenetic programs. Although the integrated application of multi-omics approaches...",
+    "fetchedAt": "2026-04-17T14:13:43.915Z",
+    "snippet": "Drug repurposing offers a scalable route to accelerate therapeutic discovery, yet existing approaches based on single-cell RNA sequencing (scRNA-seq) often overlook spatial tissue context, limiting their ability to capture microenvironment-dependent drug responses. Here we present, a spatially informed computational framework that integrates spatial transcr...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "spatial",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
     ],
     "topicBuckets": [
-      "computational biology",
+      "single-cell",
       "oncology",
-      "ai"
+      "immunology",
+      "computational biology",
+      "spatial"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: computational biology, oncology",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
+    "importanceScore": 65,
+    "isFeatured": false
+  },
+  {
+    "id": "fec547e233676842",
+    "title": "Myeloperoxidase promotes fibrosis by inhibiting cathepsin K to bias the lung toward ECM accumulation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41993445",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41993445",
+    "source": "pubmed",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
+    "publishedAt": "2026-04-07T00:00:00.000Z",
+    "fetchedAt": "2026-04-17T14:13:43.915Z",
+    "snippet": "Pulmonary fibrosis (PF) involves excessive collagen accumulation, yet mechanisms shifting the balance of synthesis and degradation toward net deposition remain unclear. Myeloperoxidase (MPO) inversely correlates with survival in PF. Using the bleomycin model, we found MPO knockout (MPOko) mice were protected from fibrosis, and pharmacological MPO inhibition...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
   }
 ]
