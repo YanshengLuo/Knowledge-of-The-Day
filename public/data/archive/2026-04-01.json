@@ -1,25 +1,21 @@
 [
   {
-    "id": "d05a4efa7cf10af9",
-    "title": "Combining label-free Raman spectroscopy and machine learning to identify early biomarkers of COVID-19 disease severity and mortality.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41994081",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41994081",
+    "id": "1d12e1415cfcd6d7",
+    "title": "Magnetic-Assisted Aptamer Selection and Isolation of Migrasomes for Application in Lung Adenocarcinoma Proteomic Analysis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41995347",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41995347",
     "source": "pubmed",
-    "publicationName": "Journal of biomedical optics",
-    "journalName": "Journal of biomedical optics",
+    "publicationName": "Journal of extracellular vesicles",
+    "journalName": "Journal of extracellular vesicles",
     "publishedAt": "2026-04-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-17T14:13:43.915Z",
-    "snippet": "Early prediction of COVID-19 severity and mortality is crucial for optimizing clinical care and patient outcomes, but remains challenging. We aim to develop a screening tool combining label-free Raman spectroscopy and machine learning modeling to predict COVID-19 severity and mortality. Patients infected by SARS-CoV-2 () were recruited during the first wave...",
+    "fetchedAt": "2026-04-18T13:52:42.018Z",
+    "snippet": "Migrasomes, newly discovered vesicular organelles, hold promise as diagnostic biomarkers and therapeutic targets in various diseases. However, the exploration of their clinical value remains hindered by the complexity of enriching and analyzing low concentrations of migrasomes in body fluids. To address this issue, a magnetic-assisted strategy was devised f...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
-      "oncology",
-      "biomarker",
-      "machine learning",
-      "Biomarkers in oncology",
-      "patient stratification"
+      "oncology"
     ],
     "topicBuckets": [
       "computational biology",
@@ -28,6 +24,7 @@
       "translational medicine"
     ],
     "isNewToday": false,
+    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
       "priority topic: computational biology, oncology",
@@ -35,38 +32,74 @@
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 75,
     "isFeatured": true
   },
   {
-    "id": "26f34d2faf305c8c",
-    "title": "ORC6 Exerts Oncogenic Functions in Kidney Renal Clear Cell Carcinoma by Regulating Cell Proliferation and Apoptosis: A Prognostic and Immunological Indicator for Future Clinical Interventions.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41992535",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41992535",
+    "id": "7dbbb58f47aa78c2",
+    "title": "Multi-omics Analysis Reveals the Correlation of Gut Microbiota and Metabolites With Thalidomide Treatment for Chemotherapy-Induced Nausea and Vomiting in Small Cell Lung Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41994961",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41994961",
     "source": "pubmed",
-    "publicationName": "Cell biology international",
-    "journalName": "Cell biology international",
+    "publicationName": "Biotechnology journal",
+    "journalName": "Biotechnology journal",
     "publishedAt": "2026-04-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-17T14:13:43.915Z",
-    "snippet": "With the application of precise clinical interventions in tumor treatment, it is of great value to explore novel biomarkers and their underlying molecular mechanisms. In this paper, we firstly explored the prognostic, immunological features, functions, and potential mechanisms of ORC6 in kidney renal clear cell carcinoma (KIRC) via single-cell and bulk RNA....",
+    "fetchedAt": "2026-04-18T13:52:42.018Z",
+    "snippet": "Small cell lung cancer (SCLC) is a highly aggressive malignancy, and chemotherapy frequently causes nausea and vomiting, which can impair treatment tolerance. Because thalidomide (THD) has shown potential clinical benefit in alleviating nausea and anorexia, we investigated whether its effects might be associated with changes in gut microbial composition and...",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
+      "Computational oncology",
+      "computational biology",
+      "oncology"
     ],
     "topicBuckets": [
-      "single-cell",
+      "computational biology",
       "oncology",
-      "immunology",
+      "ai",
       "translational medicine"
     ],
     "isNewToday": false,
-    "importanceScore": 65,
+    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology, translational medicine",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "d05a4efa7cf10af9",
+    "title": "Combining label-free Raman spectroscopy and machine learning to identify early biomarkers of COVID-19 disease severity and mortality.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41994081",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41994081",
+    "source": "pubmed",
+    "publicationName": "Journal of biomedical optics",
+    "journalName": "Journal of biomedical optics",
+    "publishedAt": "2026-04-01T00:00:00.000Z",
+    "fetchedAt": "2026-04-18T13:52:42.018Z",
+    "snippet": "Early prediction of COVID-19 severity and mortality is crucial for optimizing clinical care and patient outcomes, but remains challenging. We aim to develop a screening tool combining label-free Raman spectroscopy and machine learning modeling to predict COVID-19 severity and mortality. Patients infected by SARS-CoV-2 () were recruited during the first wave...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "biomarker",
+      "machine learning"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -82,7 +115,7 @@
     "publicationName": "Pathology international",
     "journalName": "Pathology international",
     "publishedAt": "2026-04-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-17T14:13:43.915Z",
+    "fetchedAt": "2026-04-18T13:52:42.018Z",
     "snippet": "We report a multicystic intrahepatic neoplasm in a 54-year-old Japanese woman, representing a previously unrecognized subtype. Grossly, the lesion was a well-demarcated multicystic tumor with focal papillary projections. Histologically, the cysts were lined by columnar to cuboidal neoplastic cells with brush border-like luminal microvilli, abundant granular...",
     "tags": [
       "research",
@@ -116,7 +149,7 @@
     "publicationName": "Breathe (Sheffield, England)",
     "journalName": "Breathe (Sheffield, England)",
     "publishedAt": "2026-04-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-17T14:13:43.915Z",
+    "fetchedAt": "2026-04-18T13:52:42.018Z",
     "snippet": "The lung tumour microenvironment is a complex and evolving ecosystem in which immune, stromal and malignant cells interact across both space and time. Spatial organisation determines whether immune cells can access and induce immune responses across tumour tissues, while temporal changes driven by disease progression and therapy reshape these interactions.....",
     "tags": [
       "research",
