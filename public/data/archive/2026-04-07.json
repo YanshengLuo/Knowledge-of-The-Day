@@ -8,27 +8,24 @@
     "publicationName": "bioRxiv : the preprint server for biology",
     "journalName": "bioRxiv : the preprint server for biology",
     "publishedAt": "2026-04-07T00:00:00.000Z",
-    "fetchedAt": "2026-04-20T14:26:14.051Z",
+    "fetchedAt": "2026-04-21T14:26:56.893Z",
     "snippet": "Drug repurposing offers a scalable route to accelerate therapeutic discovery, yet existing approaches based on single-cell RNA sequencing (scRNA-seq) often overlook spatial tissue context, limiting their ability to capture microenvironment-dependent drug responses. Here we present, a spatially informed computational framework that integrates spatial transcr...",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "spatial",
       "Spatial oncology",
       "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "computational biology",
+      "cancer",
       "spatial"
     ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "single-cell"
+    ],
     "isNewToday": false,
+    "importanceScore": 65,
     "importanceSignals": [
       "published this month",
       "priority topic: oncology, computational biology",
@@ -36,7 +33,6 @@
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 65,
-    "isFeatured": false
+    "isFeatured": true
   }
 ]
