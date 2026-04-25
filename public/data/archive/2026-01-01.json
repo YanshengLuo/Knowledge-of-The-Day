@@ -8,7 +8,7 @@
     "publicationName": "Computational and structural biotechnology journal",
     "journalName": "Computational and structural biotechnology journal",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-24T14:25:45.192Z",
+    "fetchedAt": "2026-04-25T13:55:04.956Z",
     "snippet": "Single-cell RNA sequencing (scRNA-Seq) enables advanced analysis of cellular heterogeneity; however, due to data sparsity and noise, analyzing single genes can be challenging. While pathway activity scoring offers a robust alternative to standard single-gene analysis, most available enrichment methods were developed for bulk RNA-Seq or microarray data, so t...",
     "tags": [
       "research",
@@ -43,7 +43,7 @@
     "publicationName": "Human mutation",
     "journalName": "Human mutation",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-24T14:25:45.192Z",
+    "fetchedAt": "2026-04-25T13:55:04.956Z",
     "snippet": "Hepatocellular carcinoma (HCC) is a top cause of cancer-related death globally, with late diagnosis due to nonspecific early symptoms. Current single-factor prognostic models cannot reflect tumor heterogeneity, so a comprehensive tool for risk stratification and personalized treatment is needed. This study employed WGCNA on publicly available datasets (TCGA...",
     "tags": [
       "research",
@@ -70,76 +70,6 @@
     "isFeatured": true
   },
   {
-    "id": "c87f880ced64e61e",
-    "title": "Genomic characterization of rabies virus glycoprotein co-expressing CD70 CAR-T cells during killing of glioma cells.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42015937",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42015937",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-24T14:25:45.192Z",
-    "snippet": "Chimeric antigen receptor T cell therapy has limited efficacy in the treatment of glioma due to the blood-brain barrier and T cell exhaustion. Enhancement with rabies virus glycoprotein (RVG29) has shown improved brain-related efficacy. In this study, we developed CD70R CAR-T cells by modifying anti-CD70 CAR-T cells with RVG29 and tested their tumor-killing...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai",
-      "gene therapy",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "51f37545bb1a0381",
-    "title": "The normal human lymph node cell classification and landscape defined by high-dimensional spatial proteomics.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42013192",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42013192",
-    "source": "pubmed",
-    "publicationName": "PloS one",
-    "journalName": "PloS one",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-24T14:25:45.192Z",
-    "snippet": "Lymph nodes (LN) are key secondary lymphoid organs (SLO) for a coordinated immune response. They have been extensively characterized by numerous investigative techniques chiefly as single cell suspensions because they are composed of vagile yet crowded hematolymphoid elements, unfriendly to spatial tissue organization-saving techniques. We comprehensively c...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology",
-      "spatial"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "single-cell",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
     "id": "58c3a62e165cd105",
     "title": "A novel immune-related gene signature stratifies prognosis and characterizes the tumor immune microenvironment in head and neck squamous cell carcinoma.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42027581",
@@ -148,7 +78,7 @@
     "publicationName": "Frontiers in cell and developmental biology",
     "journalName": "Frontiers in cell and developmental biology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-24T14:25:45.192Z",
+    "fetchedAt": "2026-04-25T13:55:04.956Z",
     "snippet": "Head and neck squamous cell carcinoma (HNSCC) exhibits heterogeneous responses to immunotherapy, primarily determined by the tumor immune microenvironment (TME). Accordingly, there is an urgent need for reliable biomarkers that can effectively distinguish between immune \"hot\" and \"cold\" tumors and predict prognosis and immunotherapy response. We integrated....",
     "tags": [
       "research",
@@ -174,81 +104,6 @@
     "isFeatured": true
   },
   {
-    "id": "d4e9cc4e04086698",
-    "title": "Integrating bulk, single-cell, and spatial transcriptomics to identify a novel pyroptosis-related gene signature for predicting prognosis and tumor immune landscape in triple-negative breast cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42023218",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42023218",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-24T14:25:45.192Z",
-    "snippet": "Triple-negative breast cancer (TNBC) features significant heterogeneity and a complex tumor immune microenvironment (TIME). Pyroptosis strongly influences this environment, yet the roles of pyroptosis-related genes (PRGs) remain unclear. Since single transcriptomic methods obscure the full clinical value of PRGs, multi-omics identification of PRGs in TNBC w...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "spatial",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "computational biology",
-      "spatial",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceSignals": [
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "importanceScore": 68,
-    "isFeatured": false
-  },
-  {
-    "id": "144c1c5d62e89919",
-    "title": "Integrated profiling of RUNX3 in intratumoral NK cells activity through bulk and single-cell transcriptomic analysis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42023209",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42023209",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-24T14:25:45.192Z",
-    "snippet": "Natural killer (NK) cells are core components of innate antitumor immunity, the dysfunction of NK cells in the tumor microenvironment is a major obstacle to the antitumor efficacy. Runt-related transcription factor 3 (RUNX3) acts as a critical tumor suppressor and regulates immune cell function, while its biological role in NK cells remains largely unexplor...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
     "id": "fd2f20a959142d04",
     "title": "Interaction networks of macrophage glycolysis and inflammation in sepsis: mechanisms and therapeutic potential.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42027872",
@@ -257,7 +112,7 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-24T14:25:45.192Z",
+    "fetchedAt": "2026-04-25T13:55:04.956Z",
     "snippet": "Sepsis is a severe threat to human health with high mortality rates, but so far its pathogenesis is unclear and lacks effective therapeutic drugs. Macrophages function as one of the most important innate immune cells and play an integral role in the sepsis inflammatory process. Recently, studies have shown that its immune function is associated with the War...",
     "tags": [
       "research",
@@ -290,7 +145,7 @@
     "publicationName": "Journal of inflammation research",
     "journalName": "Journal of inflammation research",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-24T14:25:45.192Z",
+    "fetchedAt": "2026-04-25T13:55:04.956Z",
     "snippet": "Gout is a metabolic inflammatory disorder driven by monosodium urate (MSU) crystal-induced activation of the NLRP3 inflammasome and frequently accompanied by hyperuricemia-related renal injury. This study aimed to investigate the therapeutic effects of Naru Sanwei Pills (Naru-3) on gout and to elucidate the underlying anti-inflammatory and uric acid-lowerin...",
     "tags": [
       "research",
@@ -324,7 +179,7 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-24T14:25:45.192Z",
+    "fetchedAt": "2026-04-25T13:55:04.956Z",
     "snippet": "The inflammatory cytokine thymic stromal lymphopoietin (TSLP) has pleiotropic roles in immune response and tissue homeostasis, yet its function in abdominal aortic aneurysm (AAA) remains entirely unexplored. We integrated clinical epidemiology,experimental models, andmechanistic assays. Using the UK Biobank (UKB), we analyzed serum TSLP levels in 632 AAA pa...",
     "tags": [
       "research",
@@ -359,7 +214,7 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-24T14:25:45.192Z",
+    "fetchedAt": "2026-04-25T13:55:04.956Z",
     "snippet": "The diagnostic value of autoantibodies together with the clinical utility of B cell-depleting therapies (e.g., rituximab) highlight a pathologic role for B cells in antisynthetase syndrome (ASyS). Mainstays of therapy however rely on broadly immunosuppressive agents, which often lead to incomplete treatment response. We therefore set out to identify dysregu...",
     "tags": [
       "research",
@@ -394,7 +249,7 @@
     "publicationName": "Journal of pain research",
     "journalName": "Journal of pain research",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-24T14:25:45.192Z",
+    "fetchedAt": "2026-04-25T13:55:04.956Z",
     "snippet": "Chronic prostatitis/chronic pelvic pain syndrome (CP/CPPS) is a heterogeneous condition with limited ideal therapeutic options. Acupuncture has shown clinical benefits for CP/CPPS, yet its molecular basis remains insufficiently characterized. To elucidate potential molecular mechanisms of acupuncture in CP/CPPS using a network acupuncture strategy. Acupunct...",
     "tags": [
       "research",
@@ -430,7 +285,7 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-24T14:25:45.192Z",
+    "fetchedAt": "2026-04-25T13:55:04.956Z",
     "snippet": "Although the acylation modification (AM) significantly influences the development of lung adenocarcinoma (LUAD), the specific mechanisms of acylation modification in this context have not been widely researched. This investigation sought to discover novel therapeutic avenues related to acylation modification for the precision treatment of LUAD. Multiomics c...",
     "tags": [
       "research",
@@ -456,205 +311,38 @@
     "isFeatured": false
   },
   {
-    "id": "8d4ab358dde737e4",
-    "title": "Multi-Omics Analysis Reveals m7G Methylation-Related Genes May Be Involved in TGF-&#x3b2; Signaling-Mediated Anti-PD-L1 Response in Bladder Cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42016541",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42016541",
+    "id": "d4e9cc4e04086698",
+    "title": "Integrating bulk, single-cell, and spatial transcriptomics to identify a novel pyroptosis-related gene signature for predicting prognosis and tumor immune landscape in triple-negative breast cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42023218",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42023218",
     "source": "pubmed",
-    "publicationName": "ImmunoTargets and therapy",
-    "journalName": "ImmunoTargets and therapy",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-24T14:25:45.192Z",
-    "snippet": "Immunotherapy resistance is a significant challenge in bladder cancer treatment. The role of N7-methylguanosine (m7G) methylation in this process remains unclear. This study aims to investigate the potential role of m7G methylation-related genes (m7GRGs) in immunotherapy resistance using a multi-omics approach. This study integrated bioinformatics analysis....",
+    "fetchedAt": "2026-04-25T13:55:04.956Z",
+    "snippet": "Triple-negative breast cancer (TNBC) features significant heterogeneity and a complex tumor immune microenvironment (TIME). Pyroptosis strongly influences this environment, yet the roles of pyroptosis-related genes (PRGs) remain unclear. Since single transcriptomic methods obscure the full clinical value of PRGs, multi-omics identification of PRGs in TNBC w...",
     "tags": [
       "research",
       "pubmed",
       "Spatial oncology",
       "spatial transcriptomics",
-      "cancer"
+      "cancer",
+      "single-cell",
+      "spatial"
     ],
     "topicBuckets": [
       "spatial",
       "oncology",
       "computational biology",
-      "ai"
+      "ai",
+      "single-cell",
+      "translational medicine",
+      "immunology"
     ],
     "isNewToday": false,
     "importanceScore": 68,
     "importanceSignals": [
       "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "b22d6faba666f120",
-    "title": "Development and validation of a novel model based on hematological biomarkers for predicting risk factors and outcomes in cancer patients with carbapenem-resistant organism infection.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42027927",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42027927",
-    "source": "pubmed",
-    "publicationName": "Frontiers in public health",
-    "journalName": "Frontiers in public health",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-24T14:25:45.192Z",
-    "snippet": "This study aimed to develop and validate a novel model for predicting mortality risk in cancer patients with carbapenem-resistant organism (CRO) infections. Cancer patients with CRO infections in Henan Cancer Hospital between January 2022 and March 2024 were included in this retrospective study. LASSO regression was used to construct a novel model for predi...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "78cc4b124052b98a",
-    "title": "Expression profiling of inhibitory immune checkpoints in colorectal cancer stem cells and their association with tumor immunity and immunotherapy biomarkers.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42027871",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42027871",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-24T14:25:45.192Z",
-    "snippet": "Colorectal cancer stem cells (CSCs) represent a rare subpopulation within tumors endowed with self-renewal capabilities and are recognized as key drivers of tumor initiation, metastasis, and therapeutic resistance. These cells also display immunomodulatory properties that enable them to evade immune surveillance. However, the mechanisms underlying their imm...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology",
-      "immunotherapy"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "05395c0da885e49d",
-    "title": "An interpretable machine learning model for predicting brain metastasis in breast cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42027827",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42027827",
-    "source": "pubmed",
-    "publicationName": "Frontiers in medicine",
-    "journalName": "Frontiers in medicine",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-24T14:25:45.192Z",
-    "snippet": "Breast cancer is the most common malignancy worldwide. Brain metastasis in breast cancer severely impacts prognosis, and the objective of this study is to develop a machine learning model for predicting the risk of brain metastasis in breast cancer patients to assist clinical management. Univariate and multivariate logistic regression analyses were employed...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology",
-      "machine learning"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "bd294829d6a6d84b",
-    "title": "The Role of Genomics in the Development and Treatment of Multiple Myeloma: Understanding the Challenges and Opportunities.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42027619",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42027619",
-    "source": "pubmed",
-    "publicationName": "OncoTargets and therapy",
-    "journalName": "OncoTargets and therapy",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-24T14:25:45.192Z",
-    "snippet": "This review aims to provide a comprehensive overview of recent advances in the genomics of multiple myeloma and their clinical implications. Multiple myeloma is a hematologic malignancy originating from bone marrow plasma cells, characterized by the infiltration of pathological plasma cells, osteolytic bone lesions, and the presence of monoclonal immunoglob...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai",
-      "computational biology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "f498d2468a3bd85b",
-    "title": "The role of long non-coding RNAs in therapy resistance of cervical cancer and therapeutic potential.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42027583",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42027583",
-    "source": "pubmed",
-    "publicationName": "Frontiers in cell and developmental biology",
-    "journalName": "Frontiers in cell and developmental biology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-24T14:25:45.192Z",
-    "snippet": "Despite significant advances in preventive and early-detection strategies, cervical cancer (CC) continues to pose a substantial clinical burden, especially when confronting the challenge of therapy-resistant or recurrent disease. Long non-coding RNAs (lncRNAs) have emerged as crucial regulators in the development and progression of CC, particularly in media...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"

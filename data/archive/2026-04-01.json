@@ -1,5 +1,79 @@
 [
   {
+    "id": "6984881d864c8171",
+    "title": "IHGAMP: Pan-Cancer HRD Prediction From Routine H&E Whole-Slide Images Using Foundation Models.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42031680",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42031680",
+    "source": "pubmed",
+    "publicationName": "APMIS : acta pathologica, microbiologica, et immunologica Scandinavica",
+    "journalName": "APMIS : acta pathologica, microbiologica, et immunologica Scandinavica",
+    "publishedAt": "2026-04-01T00:00:00.000Z",
+    "fetchedAt": "2026-04-25T13:55:04.956Z",
+    "snippet": "Homologous recombination deficiency (HRD) guides PARP inhibitor and platinum-based therapy selection but relies on costly next-generation sequencing with limited accessibility. Here, we show that IHGAMP, a computational framework using vision transformer foundation models, predicts HRD from routine H&E whole-slide images with AUROC 0.766 (95% CI 0.727-0.803...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "e53222bc0c4638c6",
+    "title": "Comprehensive Multi-Omics Characterization of CYP2R1 as a Diagnostic and Functional Biomarker in Hepatocellular Carcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42029602",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42029602",
+    "source": "pubmed",
+    "publicationName": "Medical sciences (Basel, Switzerland)",
+    "journalName": "Medical sciences (Basel, Switzerland)",
+    "publishedAt": "2026-04-01T00:00:00.000Z",
+    "fetchedAt": "2026-04-25T13:55:04.956Z",
+    "snippet": "Hepatocellular carcinoma (HCC) remains a major cause of cancer mortality worldwide, yet reliable molecular biomarkers for early diagnosis and prognosis are limited. The cytochrome P450 (CYP) enzyme superfamily plays central roles in hepatic metabolism and tumor biology, but its global dysregulation in HCC has not been comprehensively defined.Here, we system...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "biomarker",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "translational medicine",
+      "spatial"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 75,
+    "isFeatured": true
+  },
+  {
     "id": "836f68eb51d3fc2e",
     "title": "Targeted Molecular Profiling of Circulating Cell-Free DNA in Patients With Gastroesophageal Adenocarcinoma.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42018967",
@@ -8,7 +82,7 @@
     "publicationName": "JCO precision oncology",
     "journalName": "JCO precision oncology",
     "publishedAt": "2026-04-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-24T14:25:45.192Z",
+    "fetchedAt": "2026-04-25T13:55:04.956Z",
     "snippet": "We sought to characterize the genomic landscape of gastroesophageal adenocarcinoma (GEA) using next-generation sequencing (NGS) of circulating cell-free DNA (cfDNA), compare the genomic profile to tissue NGS, and determine the association of circulating tumor DNA (ctDNA) detection with clinical outcomes. In this prospective biospecimen-collection study (201...",
     "tags": [
       "research",
@@ -34,37 +108,33 @@
     "isFeatured": true
   },
   {
-    "id": "b56e48298acaba2a",
-    "title": "[Advances in tumor-associated macrophage research driven by single-cell sequencing and spatial omics technologies].",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42020332",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42020332",
+    "id": "8bff3ccfc437ace4",
+    "title": "Infection of 5xFAD mice with a mouse-adapted SARS-CoV-2 does not alter Alzheimer's disease neuropathology yet induces widespread changes in gene expression across diverse cell types.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42029189",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42029189",
     "source": "pubmed",
-    "publicationName": "Xi bao yu fen zi mian yi xue za zhi = Chinese journal of cellular and molecular immunology",
-    "journalName": "Xi bao yu fen zi mian yi xue za zhi = Chinese journal of cellular and molecular immunology",
+    "publicationName": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+    "journalName": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
     "publishedAt": "2026-04-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-24T14:25:45.192Z",
-    "snippet": "Malignant tumors pose a substantial threat to human health and express a pressing public health concern. Tumor-associated macrophage (TAM) exhibit remarkable heterogeneity and play pivotal roles within the tumor micro-environment (TME). However, the conventional M1/M2 polarization framework fails to capture the full spectrum of their functional complexity.....",
+    "fetchedAt": "2026-04-25T13:55:04.956Z",
+    "snippet": "The COVID-19 pandemic underscored the impact of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection on worsening the severity of Alzheimer's disease (AD) neuropathology and disease progression. Aged 5xFAD and wild-type (WT) mice were infected with a mouse-adapted SARS-CoV-2 (MA10), and extensive characterization of molecular and cellular....",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "spatial"
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
     ],
     "topicBuckets": [
-      "single-cell",
+      "spatial",
       "oncology",
-      "immunology",
-      "ai",
-      "computational biology",
-      "spatial"
+      "computational biology"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
+    "importanceScore": 65,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology, ai",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -72,16 +142,16 @@
     "isFeatured": true
   },
   {
-    "id": "4b57786345ff6eef",
-    "title": "Perioperative factors influencing immediate and long-term continence after robot-assisted radical prostatectomy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42028312",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42028312",
+    "id": "d838bf6ba0d156a7",
+    "title": "Altered Estrogen Receptor Signaling Pathway in BRCA2-Deficient Estrogen Receptor-Positive/HER2-Negative Breast Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42032759",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42032759",
     "source": "pubmed",
-    "publicationName": "BJUI compass",
-    "journalName": "BJUI compass",
+    "publicationName": "Cancer reports (Hoboken, N.J.)",
+    "journalName": "Cancer reports (Hoboken, N.J.)",
     "publishedAt": "2026-04-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-24T14:25:45.192Z",
-    "snippet": "This study aims to identify immediate and long-term predictors of postoperative urinary continence recovery after robotic-assisted radical prostatectomy (RARP) in a cohort of 1061 patients, enabling risk stratification and informing potentially modifiable perioperative strategies across patient subgroups. Prospectively collected data from 1061 patients who....",
+    "fetchedAt": "2026-04-25T13:55:04.956Z",
+    "snippet": "Hereditary breast cancer accounts for approximately 10% of all breast cancer cases, with germline BRCA2 pathogenic variants (PVs) being the most prevalent genetic alteration. BRCA2 PVs predominantly lead to estrogen receptor (ER)-positive/HER2-negative breast cancers, which exhibit more aggressive phenotypes compared to sporadic cases. However, the specific...",
     "tags": [
       "research",
       "pubmed",
@@ -92,46 +162,10 @@
     ],
     "topicBuckets": [
       "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "a40d0d34cd631c1e",
-    "title": "Breath ammonia test for chronic kidney disease screening: impact of fasting on diagnostic accuracy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42027901",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42027901",
-    "source": "pubmed",
-    "publicationName": "Clinical kidney journal",
-    "journalName": "Clinical kidney journal",
-    "publishedAt": "2026-04-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-24T14:25:45.192Z",
-    "snippet": "Chronic kidney disease (CKD) is a global health concern and early detection is crucial for preventing progression. Current screening methods are inconvenient and resource intensive. Breath ammonia has been proposed as a non-invasive biomarker for renal dysfunction but its diagnostic accuracy and the impact of fasting remain unclear. This study aimed to vali...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
       "oncology"
     ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
     "isNewToday": false,
-    "importanceScore": 75,
+    "importanceScore": 65,
     "importanceSignals": [
       "published this month",
       "priority topic: translational medicine, oncology",
