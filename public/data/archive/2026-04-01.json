@@ -1,68 +1,30 @@
 [
   {
-    "id": "6984881d864c8171",
-    "title": "IHGAMP: Pan-Cancer HRD Prediction From Routine H&E Whole-Slide Images Using Foundation Models.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42031680",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42031680",
+    "id": "b5f0c92f3ff941b4",
+    "title": "Clinicogenomic Real-World Data Enable Prediction of Hospital Readmissions at a Comprehensive Cancer Center.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42044461",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42044461",
     "source": "pubmed",
-    "publicationName": "APMIS : acta pathologica, microbiologica, et immunologica Scandinavica",
-    "journalName": "APMIS : acta pathologica, microbiologica, et immunologica Scandinavica",
+    "publicationName": "JCO clinical cancer informatics",
+    "journalName": "JCO clinical cancer informatics",
     "publishedAt": "2026-04-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-27T14:52:53.373Z",
-    "snippet": "Homologous recombination deficiency (HRD) guides PARP inhibitor and platinum-based therapy selection but relies on costly next-generation sequencing with limited accessibility. Here, we show that IHGAMP, a computational framework using vision transformer foundation models, predicts HRD from routine H&E whole-slide images with AUROC 0.766 (95% CI 0.727-0.803...",
+    "fetchedAt": "2026-04-29T15:00:34.859Z",
+    "snippet": "Curating high-quality clinical and genomic data sets from patients with cancer to predict hospital readmission using machine learning (ML) models. We extracted data from electronic health records for patients with cancer in the University of California, San Diego Health System, to curate clinicogenomic data sets for lung, breast, and colon cancers. We const...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
       "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "e53222bc0c4638c6",
-    "title": "Comprehensive Multi-Omics Characterization of CYP2R1 as a Diagnostic and Functional Biomarker in Hepatocellular Carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42029602",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42029602",
-    "source": "pubmed",
-    "publicationName": "Medical sciences (Basel, Switzerland)",
-    "journalName": "Medical sciences (Basel, Switzerland)",
-    "publishedAt": "2026-04-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-27T14:52:53.373Z",
-    "snippet": "Hepatocellular carcinoma (HCC) remains a major cause of cancer mortality worldwide, yet reliable molecular biomarkers for early diagnosis and prognosis are limited. The cytochrome P450 (CYP) enzyme superfamily plays central roles in hepatic metabolism and tumor biology, but its global dysregulation in HCC has not been comprehensively defined.Here, we system...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology",
-      "biomarker",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
     ],
     "topicBuckets": [
       "computational biology",
       "oncology",
       "ai",
-      "translational medicine",
-      "spatial"
+      "translational medicine"
     ],
     "isNewToday": false,
+    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
       "priority topic: computational biology, oncology",
@@ -70,72 +32,38 @@
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 75,
     "isFeatured": true
   },
   {
-    "id": "8bff3ccfc437ace4",
-    "title": "Infection of 5xFAD mice with a mouse-adapted SARS-CoV-2 does not alter Alzheimer's disease neuropathology yet induces widespread changes in gene expression across diverse cell types.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42029189",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42029189",
+    "id": "e3ef78caa1ea23a3",
+    "title": "PICDGI: A framework for predicting cancer driver genes through dynamic gene-gene interaction modeling of single-cell data.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42044093",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42044093",
     "source": "pubmed",
-    "publicationName": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
-    "journalName": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+    "publicationName": "PLoS computational biology",
+    "journalName": "PLoS computational biology",
     "publishedAt": "2026-04-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-27T14:52:53.373Z",
-    "snippet": "The COVID-19 pandemic underscored the impact of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection on worsening the severity of Alzheimer's disease (AD) neuropathology and disease progression. Aged 5xFAD and wild-type (WT) mice were infected with a mouse-adapted SARS-CoV-2 (MA10), and extensive characterization of molecular and cellular....",
+    "fetchedAt": "2026-04-29T15:00:34.859Z",
+    "snippet": "Identifying cancer driver genes (CDGs) remains a central challenge in cancer genomics, as frequency-based mutation approaches often miss rare but functionally important regulators. We present PICDGI, a computational framework that predicts driver-like regulatory genes by integrating dynamic gene-gene interaction modeling with single-cell RNA sequencing (scR...",
     "tags": [
       "research",
       "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "single-cell"
     ],
     "topicBuckets": [
-      "spatial",
+      "computational biology",
       "oncology",
-      "computational biology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 65,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "2e7a7cbfa52c2190",
-    "title": "Clinicopathologic Characterization of Muscle Biopsy Findings in Overlap Myositis: A Single Tertiary Care Center Experience.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42037035",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42037035",
-    "source": "pubmed",
-    "publicationName": "Immunity, inflammation and disease",
-    "journalName": "Immunity, inflammation and disease",
-    "publishedAt": "2026-04-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-27T14:52:53.373Z",
-    "snippet": "This study aims to describe the muscle biopsy features of overlap myositis (OM) and compare them with other inflammatory myopathies. We analyzed clinical, serological findings, and histopathological patterns in muscle biopsies to understand the features of OM. Muscle biopsies submitted from patients diagnosed with OM between January 2023 and October 2024 at...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
+      "ai",
+      "single-cell"
     ],
     "isNewToday": false,
     "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: translational medicine, oncology",
+      "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"

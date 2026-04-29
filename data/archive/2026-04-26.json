@@ -1,88 +1,15 @@
 [
   {
-    "id": "4828da956d8006fa",
-    "title": "CRISPR-Based Gene Dependency Screens Reveal Mechanism of BRAF Inhibitor Resistance in Anaplastic Thyroid Cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42035477",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42035477",
+    "id": "744ad01b3dc08f52",
+    "title": "Rutin Combats Salmonella infection through virulence suppression and gut barrier maintenance.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42049094",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42049094",
     "source": "pubmed",
-    "publicationName": "Molecular carcinogenesis",
-    "journalName": "Molecular carcinogenesis",
+    "publicationName": "Journal of advanced research",
+    "journalName": "Journal of advanced research",
     "publishedAt": "2026-04-26T00:00:00.000Z",
-    "fetchedAt": "2026-04-27T14:52:53.373Z",
-    "snippet": "Anaplastic thyroid cancer (ATC) is the most aggressive form of thyroid cancer. Despite recent advances in treating BRAFV600E-driven ATC, therapy resistance remains a significant challenge, often resulting in disease progression and death. Leveraging a focused CRISPR/KO screen in parallel with a CRISPR/activation screen, both tailored on response to BRAFV600...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology",
-      "crispr"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai",
-      "gene therapy"
-    ],
-    "isNewToday": false,
-    "importanceScore": 92,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "8667f177468fcabf",
-    "title": "A machine learning-driven framework integrating cell death and senescence signatures for multi-target drug design and immunotherapy optimization in ovarian cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42034671",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42034671",
-    "source": "pubmed",
-    "publicationName": "NPJ precision oncology",
-    "journalName": "NPJ precision oncology",
-    "publishedAt": "2026-04-26T00:00:00.000Z",
-    "fetchedAt": "2026-04-27T14:52:53.373Z",
-    "snippet": "Ovarian cancer (OC) remains therapeutic challenge due to its complex molecular heterogeneity and therapy-induced adaptive resistance. While non-apoptotic cell death and senescence pathways contribute to tumor evolution and immunosuppression, their integration into predictive models for multi-target drug design and immunotherapy optimization is underexplored...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "immunotherapy",
-      "machine learning"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "5fa03faa0c49ea59",
-    "title": "iPSC-derived exosomes promote diabetic wound healing by attenuating inflammatory responses.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42036682",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42036682",
-    "source": "pubmed",
-    "publicationName": "Stem cell research & therapy",
-    "journalName": "Stem cell research & therapy",
-    "publishedAt": "2026-04-26T00:00:00.000Z",
-    "fetchedAt": "2026-04-27T14:52:53.373Z",
-    "snippet": "Owing to impaired glucose metabolism, the high-glucose microenvironment in diabetic patients disrupts a series of biological reactions that hinder the wound healing process, resulting in a significant cost to the health care system and an urgent need for new and advanced therapies. In this study, induced pluripotent stem cell-derived exosomes (iPSC-Exos) we...",
+    "fetchedAt": "2026-04-29T15:00:34.859Z",
+    "snippet": "Salmonella Typhimurium (S. Typhimurium) is a major zoonotic pathogen causing severe gastroenteritis and septicemia. Traditional antibiotics targeting bacterial growth face increasing resistance challenges, while the development of novel antimicrobials is slow and costly. Antivirulence therapy, which targets bacterial virulence factors, has emerged as a prom...",
     "tags": [
       "research",
       "pubmed",
@@ -94,189 +21,13 @@
     "topicBuckets": [
       "gene therapy",
       "immunology",
-      "ai",
-      "funding"
+      "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
+    "importanceScore": 72,
     "importanceSignals": [
-      "very recent",
+      "recent",
       "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "96a0cf1d6049d52f",
-    "title": "GR2ST: Spatial Transcriptomics Prediction based on Graph-Enhanced Multimodal Contrastive Learning.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42036805",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42036805",
-    "source": "pubmed",
-    "publicationName": "Bioinformatics (Oxford, England)",
-    "journalName": "Bioinformatics (Oxford, England)",
-    "publishedAt": "2026-04-26T00:00:00.000Z",
-    "fetchedAt": "2026-04-27T14:52:53.373Z",
-    "snippet": "Spatial transcriptomics techniques capture gene expression data and spatial coordinates, while simultaneously correlating them with tissue section images. This advantage makes Spatial transcriptomics data highly valuable for research, such as investigating disease mechanisms and cancer prognosis. However, the extended time and high cost of spatial transcrip...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "spatial"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "22b394872243041d",
-    "title": "Predictive and prognostic factors for immunotherapy response in head and neck squamous cell carcinoma: a narrative review.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42036954",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42036954",
-    "source": "pubmed",
-    "publicationName": "Expert review of clinical pharmacology",
-    "journalName": "Expert review of clinical pharmacology",
-    "publishedAt": "2026-04-26T00:00:00.000Z",
-    "fetchedAt": "2026-04-27T14:52:53.373Z",
-    "snippet": "Immune checkpoint inhibitors (ICIs) have reshaped the therapeutic landscape of head and neck squamous cell carcinoma (HNSCC). However, only a subset of patients derives durable benefit, highlighting the need for reliable predictive factors of response. A literature search was conducted in PubMed/MEDLINE, Scopus, and Web of Science (2015-2026) using relevant...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology",
-      "immunotherapy"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "6ee5e6a0596f493e",
-    "title": "Baseline Hemoglobin Predicts Oncologic Outcomes in Intrahepatic Cholangiocarcinoma Treated With Yttrium-90 Radioembolisation: A Retrospective Cohort Study of 136 Patients.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42036917",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42036917",
-    "source": "pubmed",
-    "publicationName": "Journal of medical imaging and radiation oncology",
-    "journalName": "Journal of medical imaging and radiation oncology",
-    "publishedAt": "2026-04-26T00:00:00.000Z",
-    "fetchedAt": "2026-04-27T14:52:53.373Z",
-    "snippet": "Tumour oxygenation influences the radiobiological effect of yttrium-90 (Y90); thus, baseline hemoglobin (HGB) may affect treatment response. This study evaluated whether baseline HGB is associated with outcomes in patients with unresectable intrahepatic cholangiocarcinoma (ICC) treated with Y90 transarterial radioembolisation (TARE). We retrospectively anal...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "6225dd04a713b10d",
-    "title": "Comparative Response of Canine and Human Osteosarcoma Tumour Cell Lines to Molecularly Targeted Anticancer Agents at Clinically Relevant Exposures With Analysis of Genomic Biomarkers.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42036120",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42036120",
-    "source": "pubmed",
-    "publicationName": "Veterinary and comparative oncology",
-    "journalName": "Veterinary and comparative oncology",
-    "publishedAt": "2026-04-26T00:00:00.000Z",
-    "fetchedAt": "2026-04-27T14:52:53.373Z",
-    "snippet": "Osteosarcoma (OSA) is a primary bone tumour occurring in children but is also prevalent in large breed dogs. Canine OSA (cOSA) has long been viewed as analogous to human OSA (hOSA) with cOSA serving as a surrogate for development of therapeutic approaches to treat the rarer human form. Drug therapy of OSA has remained virtually unchanged over the last four....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 92,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "7c683147e42ede8b",
-    "title": "Integrating homologous recombination deficiency and replication stress: converging strategies unlocking new frontiers in precision oncology.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42035488",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42035488",
-    "source": "pubmed",
-    "publicationName": "Expert review of clinical pharmacology",
-    "journalName": "Expert review of clinical pharmacology",
-    "publishedAt": "2026-04-26T00:00:00.000Z",
-    "fetchedAt": "2026-04-27T14:52:53.373Z",
-    "snippet": "Homologous recombination (HR) deficiency (HRD) and replication stress (RS) are increasingly recognized as interconnected hallmarks of genomic instability in cancer, offering promising avenues for therapeutic targeting. As novel combination therapies targeting these hallmarks continue to emerge, understanding how these processes interact in therapeutic conte...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 92,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"

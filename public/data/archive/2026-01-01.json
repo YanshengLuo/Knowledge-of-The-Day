@@ -1,28 +1,26 @@
 [
   {
-    "id": "e9292825eef444c8",
-    "title": "FUNCellA: A Tool for Single-Sample Enrichment Analysis and Relative Pathway Activity Estimation in Single-Cell RNA Sequencing Data.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42021835",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42021835",
+    "id": "49f502a17c938fa9",
+    "title": "Multi-omics evidence reveals a causal role of endoplasmic reticulum stress in cancer development.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42052171",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42052171",
     "source": "pubmed",
-    "publicationName": "Computational and structural biotechnology journal",
-    "journalName": "Computational and structural biotechnology journal",
+    "publicationName": "PeerJ",
+    "journalName": "PeerJ",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-27T14:52:53.373Z",
-    "snippet": "Single-cell RNA sequencing (scRNA-Seq) enables advanced analysis of cellular heterogeneity; however, due to data sparsity and noise, analyzing single genes can be challenging. While pathway activity scoring offers a robust alternative to standard single-gene analysis, most available enrichment methods were developed for bulk RNA-Seq or microarray data, so t...",
+    "fetchedAt": "2026-04-29T15:00:34.859Z",
+    "snippet": "Endoplasmic reticulum stress (ERS) plays a crucial role in the pathogenesis of various diseases, but its causal involvement and therapeutic potential in cancer remain unclear. In this study, we integrated genome-wide association study (GWAS) data from 18 common cancers with quantitative trait loci (cis-eQTL, cis-mQTL, and cis-pQTL) to explore the causal eff...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
-      "oncology",
-      "single-cell"
+      "oncology"
     ],
     "topicBuckets": [
       "computational biology",
       "oncology",
-      "ai",
-      "single-cell"
+      "ai"
     ],
     "isNewToday": false,
     "importanceScore": 68,
@@ -35,32 +33,106 @@
     "isFeatured": true
   },
   {
-    "id": "fd2f20a959142d04",
-    "title": "Interaction networks of macrophage glycolysis and inflammation in sepsis: mechanisms and therapeutic potential.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42027872",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42027872",
+    "id": "68aa8346268f5c4b",
+    "title": "NR2F2 in cancer-associated fibroblasts drives immune microenvironment remodeling and promotes lung adenocarcinoma progression.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42051516",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42051516",
     "source": "pubmed",
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-27T14:52:53.373Z",
-    "snippet": "Sepsis is a severe threat to human health with high mortality rates, but so far its pathogenesis is unclear and lacks effective therapeutic drugs. Macrophages function as one of the most important innate immune cells and play an integral role in the sepsis inflammatory process. Recently, studies have shown that its immune function is associated with the War...",
+    "fetchedAt": "2026-04-29T15:00:34.859Z",
+    "snippet": "The high heterogeneity of lung adenocarcinoma (LUAD) is largely due to its complex tumor immune microenvironment (TIME). Cancer-associated fibroblasts (CAFs) are a core matrix component of TIME. However, their functional heterogeneity and the specific molecular mechanisms driving tumor progression have not been fully elucidated. In addition, the role of nuc...",
     "tags": [
       "research",
       "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
     ],
     "topicBuckets": [
-      "gene therapy",
+      "computational biology",
+      "oncology",
+      "immunology",
+      "single-cell"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 58,
+    "isFeatured": false
+  },
+  {
+    "id": "5754c5c93b422410",
+    "title": "The inhibitory effect of hepatic cancer energy metabolism on immune checkpoint therapy: perspectives from single-cell multi-omics analysis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42051493",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42051493",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-04-29T15:00:34.859Z",
+    "snippet": "To investigate metabolic reprogramming-especially pyruvate metabolism-in hepatocellular carcinoma (HCC) before and after immune checkpoint inhibitor (ICI) therapy, construct a metabolism-related prognostic model, and evaluate the therapeutic potential of targeting LDHA. Integrated single-cell RNA-seq data (GEO, Mendeley) were analyzed using Seurat, AUCell,....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "single-cell"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "single-cell",
       "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 48,
+    "importanceScore": 58,
     "importanceSignals": [
-      "priority topic: gene therapy",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "252138c9c7819956",
+    "title": "CXCL2 affects macrophage antitumor function and immunotherapy efficacy in esophageal squamous cell carcinoma through calcium signaling.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42051510",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42051510",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-04-29T15:00:34.859Z",
+    "snippet": "Macrophages, as a major immune cell population within the tumor microenvironment (TME), play a pivotal role in disease progression and therapeutic outcomes. This study aimed to identify key macrophage subsets associated with ESCC immunotherapy response. Macrophage-specific marker gene associated with immunotherapy response was identified through single-cell...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "immunotherapy"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -68,16 +140,16 @@
     "isFeatured": true
   },
   {
-    "id": "ef00fe1ca1646250",
-    "title": "Dual Mechanisms of Naru Sanwei Pills in Gout: NLRP3 Inflammasome Inhibition and Uric Acid Regulation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42027257",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42027257",
+    "id": "e35a86c4d2fb96de",
+    "title": "Transcriptomic profiling and targeted validation reveal molecular mechanisms of oxygen therapy in high-altitude cerebral injury.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42051552",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42051552",
     "source": "pubmed",
-    "publicationName": "Journal of inflammation research",
-    "journalName": "Journal of inflammation research",
+    "publicationName": "Frontiers in neuroscience",
+    "journalName": "Frontiers in neuroscience",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-27T14:52:53.373Z",
-    "snippet": "Gout is a metabolic inflammatory disorder driven by monosodium urate (MSU) crystal-induced activation of the NLRP3 inflammasome and frequently accompanied by hyperuricemia-related renal injury. This study aimed to investigate the therapeutic effects of Naru Sanwei Pills (Naru-3) on gout and to elucidate the underlying anti-inflammatory and uric acid-lowerin...",
+    "fetchedAt": "2026-04-29T15:00:34.859Z",
+    "snippet": "Exposure to high-altitude hypoxia is associated with an increased risk of impaired brain structure and function, with oxidative stress and neuroinflammation widely recognized as key mechanisms involved. In this context, hyperbaric oxygen therapy is considered a potential intervention; however, the mechanism by which it affects cerebral function changes caus...",
     "tags": [
       "research",
       "pubmed",
@@ -100,5 +172,389 @@
       "rich metadata"
     ],
     "isFeatured": true
+  },
+  {
+    "id": "197399e41d3ab1f2",
+    "title": "RNA-binding motif proteins as context-dependent regulators of tumor-immune crosstalk, genome stability, and therapeutic vulnerabilities in cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42051539",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42051539",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-04-29T15:00:34.859Z",
+    "snippet": "Cancer progression relies on dynamic post-transcriptional RNA regulation to enable phenotypic plasticity, immune evasion, and therapeutic resistance. RNA-binding motif (RBM) proteins emerge as pivotal orchestrators of these processes, modulating splicing, mRNA stability, and translation in a context-dependent manner across malignancies. This article provide...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: gene therapy, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "956f6ea4caadd339",
+    "title": "Overexpression of mitochondrial STAT3 protein improves colonic inflammation and fibrosis in inflammatory bowel disease by enhancing mitochondrial function.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42051499",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42051499",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-04-29T15:00:34.859Z",
+    "snippet": "The STAT3 protein is involved in mitochondrial functions such as the respiratory electron transport chain, regulation of cellular metabolism, and scavenging of reactive oxygen species. Inflammatory bowel disease (IBD) is associated with damaged intestinal cells and mitochondrial dysfunction due to the inflammatory environment of the intestine. Here, we stud...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "6ea8a1d6cb2f8881",
+    "title": "CXCR4-Targeted Nanotherapeutics: A Promising Approach for Liver Fibrosis and Hepatocellular Carcinoma Management.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42046739",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42046739",
+    "source": "pubmed",
+    "publicationName": "International journal of nanomedicine",
+    "journalName": "International journal of nanomedicine",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-04-29T15:00:34.859Z",
+    "snippet": "CXCR4 plays a pivotal role in liver fibrosis (LF) by mediating the activation of hepatic stellate cells (HSCs), which contribute to extracellular matrix (ECM) deposition and scar formation. The CXCR4/CXCL12 axis is essential in fibrogenesis, promoting HSCs activation, inflammation, and angiogenesis, which exacerbates fibrosis and creates an environment cond...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "biotech"
+    ],
+    "isNewToday": false,
+    "importanceScore": 48,
+    "importanceSignals": [
+      "priority topic: gene therapy",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "bb63f4cf319979cd",
+    "title": "FGF7-FGFR2 Signaling Enhances Contractile Activation of CAFs in Ovarian Cancer: Integrative Single-Cell and Spatial Transcriptomics.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42046725",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42046725",
+    "source": "pubmed",
+    "publicationName": "Journal of inflammation research",
+    "journalName": "Journal of inflammation research",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-04-29T15:00:34.859Z",
+    "snippet": "Cancer-associated fibroblasts (CAFs) are a major stromal component of high-grade serous ovarian carcinoma (HGSOC), yet their functional programs and spatial organization remain incompletely defined and inconsistently reported across studies. We analyzed single-cell RNA-seq data from 7 treatment-na&#xef;ve HGSOC tumors and integrated these findings with spat...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "single-cell",
+      "spatial"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "ai",
+      "single-cell"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "571a6984c9025b63",
+    "title": "Case Report: durable response to pulsed electric field ablation in combination with immune checkpoint inhibitors in HER2-low breast cancer through activation of interferon signaling.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42038386",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42038386",
+    "source": "pubmed",
+    "publicationName": "Frontiers in oncology",
+    "journalName": "Frontiers in oncology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-04-29T15:00:34.859Z",
+    "snippet": "Pulsed Electric Field (PEF) ablation is a non-thermal cancer treatment that disrupts tumor cell membranes while preserving the immune microenvironment and promoting immunogenic cell death. We present a case of a patient with metastatic hormone receptor-positive, HER2-low breast cancer who achieved a durable clinical response after PEF in combination with an...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "translational medicine",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "0a53e52f83cb8a93",
+    "title": "Case report: immunotherapy response in pancreatic cancer after MSI-H emerged post-chemotherapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42052496",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42052496",
+    "source": "pubmed",
+    "publicationName": "Frontiers in oncology",
+    "journalName": "Frontiers in oncology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-04-29T15:00:34.859Z",
+    "snippet": "Microsatellite instability-high (MSI-H) is an established biomarker of response to immune checkpoint inhibitors, though it is rarely observed in pancreatic ductal adenocarcinoma (PDAC). Even less common is the emergence of MSI-H during the disease course, particularly when identified through liquid biopsy. Such findings raise important considerations regard...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology",
+      "immunotherapy"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai",
+      "funding",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "7500cd3b53690c6d",
+    "title": "Case Report: Successful treatment of mismatch repair-deficient cervical esophageal adenocarcinoma with immune checkpoint inhibition.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42052490",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42052490",
+    "source": "pubmed",
+    "publicationName": "Frontiers in oncology",
+    "journalName": "Frontiers in oncology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-04-29T15:00:34.859Z",
+    "snippet": "Cervical (upper) esophageal adenocarcinoma is an extremely rare, aggressive, and biologically distinct subtype of esophageal cancer, with few cases reported in literature. As such, pathophysiology and treatment approaches remain poorly understood. We report a case of a 39-year-old male diagnosed with a locally advanced, unresectable, MMR-deficient cervical....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "9dde56759b47320b",
+    "title": "Immune checkpoint inhibition inassociated gastric cancer: a case report highlighting the role of biomarker-driven treatment selection.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42052482",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42052482",
+    "source": "pubmed",
+    "publicationName": "Frontiers in oncology",
+    "journalName": "Frontiers in oncology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-04-29T15:00:34.859Z",
+    "snippet": "Gastroesophageal adenocarcinoma (GEA) represents a heterogenous disease with poor prognosis, in which biomarker-driven strategies have gained relevance to optimize treatment selection. Epstein-Barr virus positive GEA (EBV-GEA) is an immune-enriched molecular subtype defined by TCGA suggested to have potential sensitivity to immune checkpoint inhibitors. How...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "88f5c70131db00db",
+    "title": "Integrative analysis of a novel snoRNA-based prognostic signature in patients with breast cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42052468",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42052468",
+    "source": "pubmed",
+    "publicationName": "Frontiers in oncology",
+    "journalName": "Frontiers in oncology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-04-29T15:00:34.859Z",
+    "snippet": "Breast cancer (BC) is the most commonly diagnosed malignancy in women worldwide. Prognostic heterogeneity driven by molecular subtypes and tumor microenvironment underscores the need for novel biomarkers. Small nucleolar RNAs (snoRNAs) have emerged as potential regulators in cancer biology, but their prognostic value in BC remains unclear. We analyzed snoRN...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "aca37081e3ec6755",
+    "title": "Dynamics of the immune repertoire in recurrent, locally advanced NSCLC not amenable for definitive therapy and in stage IV disease receiving first-line chemotherapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42052466",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42052466",
+    "source": "pubmed",
+    "publicationName": "Frontiers in oncology",
+    "journalName": "Frontiers in oncology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-04-29T15:00:34.859Z",
+    "snippet": "Cytotoxic chemotherapy can modulate antitumor immunity, yet its impact on the peripheral T-cell receptor (TCR) repertoire in non-targetable advanced NSCLC remains poorly characterized. We prospectively investigated chemotherapy-induced TCR&#x3b2; repertoire dynamics and their prognostic relevance. Patients with recurrent unresectable locally advanced or sta...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "265aa033798c2de7",
+    "title": "Comprehensive profiling of alternative splicing and immune landscapes in rectal cancer: implications for mRNA vaccine design and immune subtype stratification.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42052464",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42052464",
+    "source": "pubmed",
+    "publicationName": "Frontiers in oncology",
+    "journalName": "Frontiers in oncology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-04-29T15:00:34.859Z",
+    "snippet": "mRNA vaccines have emerged as a promising platform for cancer immunotherapy, particularly following the success of COVID-19 vaccines. However, the development of cancer vaccines presents challenges such as difficulties in antigen prediction and poor immunogenicity, especially in identifying and delivering highly immunogenic tumor-specific antigens. The vari...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
   }
 ]

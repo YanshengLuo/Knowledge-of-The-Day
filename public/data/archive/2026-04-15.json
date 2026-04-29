@@ -1,34 +1,71 @@
 [
   {
-    "id": "4a452270439fcdf6",
-    "title": "Photodynamic therapy remodels the prostate cancer microenvironment by suppressing cancer-associated fibroblast-mediated calcium signaling.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42024997",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42024997",
+    "id": "d10e2ce604154cd5",
+    "title": "Integrative Computational Approaches to Prostate Cancer with Conditional Reprogramming and AI-Driven Precision Medicine.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42041568",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42041568",
     "source": "pubmed",
-    "publicationName": "Journal of photochemistry and photobiology. B, Biology",
-    "journalName": "Journal of photochemistry and photobiology. B, Biology",
+    "publicationName": "Cells",
+    "journalName": "Cells",
     "publishedAt": "2026-04-15T00:00:00.000Z",
-    "fetchedAt": "2026-04-25T13:55:04.956Z",
-    "snippet": "Prostate cancer (PCa) remains a leading cause of cancer burden in men worldwide. Photodynamic therapy (PDT) offers a minimally invasive therapeutic option, but the molecular mechanisms underlying its anti-tumor efficacy, particularly in the context of the tumor microenvironment, are not fully elucidated. Integrated bioinformatics analyses of bulk and single...",
+    "fetchedAt": "2026-04-29T15:00:34.859Z",
+    "snippet": "Prostate cancer, particularly metastatic castration-resistant prostate cancer (mCRPC), presents therapeutic challenges rooted in adaptive lineage plasticity and neuroendocrine transdifferentiation. Conventional genome-based models fail to account for the divergent clinical trajectories observed among tumors that share identical driver mutations. This limita...",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
     ],
     "topicBuckets": [
-      "single-cell",
+      "spatial",
       "oncology",
-      "immunology",
+      "computational biology",
       "ai",
-      "computational biology"
+      "translational medicine"
     ],
     "isNewToday": false,
     "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology, ai",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "6133d65e20207f3e",
+    "title": "Serial Spatial Transcriptomics Reveal Divergent Routes to Therapy Resistance in Metastatic Breast Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42040933",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42040933",
+    "source": "pubmed",
+    "publicationName": "Research square",
+    "journalName": "Research square",
+    "publishedAt": "2026-04-15T00:00:00.000Z",
+    "fetchedAt": "2026-04-29T15:00:34.859Z",
+    "snippet": "Metastatic solid tumors persist by evolving therapeutic resistance through complex, heterogeneous adaptive strategies that challenge standard precision medicine approaches. Current clinical decision making relies on bulk biomarkers, failing to resolve the spatial architecture and cellular contexts in which resistance mechanisms emerge. We present a patient-...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "spatial"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "ai",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
