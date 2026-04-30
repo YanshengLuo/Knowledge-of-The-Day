@@ -1,101 +1,32 @@
 [
   {
-    "id": "47be03016916c8a0",
-    "title": "Multi-Omics and Machine Learning Analyses Reveal PIK3CG, PRKCD, and TRIM22 as Potential Markers of Poor Prognosis and Immune Activation in Glioblastoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42046521",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42046521",
+    "id": "d6f4dee50cf8f58c",
+    "title": "Differentiation of cord blood-derived Innate Lymphoid Cells 1 &#xa0;into KIR+NKG2A- natural killer cells in a human stem cell niche.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42054258",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42054258",
     "source": "pubmed",
-    "publicationName": "Journal of Korean medical science",
-    "journalName": "Journal of Korean medical science",
+    "publicationName": "Stem cells translational medicine",
+    "journalName": "Stem cells translational medicine",
     "publishedAt": "2026-04-27T00:00:00.000Z",
-    "fetchedAt": "2026-04-29T15:00:34.859Z",
-    "snippet": "Glioblastoma (GBM) is one of the most aggressive brain tumors with a poor prognosis despite current treatment modalities. This study aimed to identify genes whose high expression is paradoxically associated with both poor survival and enhanced immune activity, as potential targets for combination chemotherapeutic and immunotherapeutic strategies. Transcript...",
+    "fetchedAt": "2026-04-30T14:56:01.291Z",
+    "snippet": "KIR+NKG2A- natural killer (NK) cells can detect and eliminate malignant and infected cells that have downregulated single HLA class I molecules to escape T cell recognition. So far, these KIRonly NK cells cannot be efficiently expanded in vitro without concomitant co-expression of NKG2A, which modulates their specificity. In this context, we recently demons...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology",
-      "machine learning"
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
     ],
     "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai",
+      "gene therapy",
       "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
+    "importanceScore": 62,
     "importanceSignals": [
       "recent",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "0a78abdc21245ce8",
-    "title": "Goals-of-care transition after an allogeneic hematopoietic stem-cell transplantation: A cross-sectional survey among hematologists on associated challenges.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42045552",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42045552",
-    "source": "pubmed",
-    "publicationName": "Bone marrow transplantation",
-    "journalName": "Bone marrow transplantation",
-    "publishedAt": "2026-04-27T00:00:00.000Z",
-    "fetchedAt": "2026-04-29T15:00:34.859Z",
-    "snippet": "",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 66,
-    "importanceSignals": [
-      "recent",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "7b96a55d2a07bba5",
-    "title": "An SPP1-SOCS1 pathway constrains interferon responses in tumor-associated macrophages and shapes an immunosuppressive tumor microenvironment.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42049035",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42049035",
-    "source": "pubmed",
-    "publicationName": "Immunity",
-    "journalName": "Immunity",
-    "publishedAt": "2026-04-27T00:00:00.000Z",
-    "fetchedAt": "2026-04-29T15:00:34.859Z",
-    "snippet": "Tumor-associated macrophages (TAMs) can suppress antitumor immunity and reduce responses to immune checkpoint blockade (ICB). Here, we asked how TAM programs contribute to ICB non-response. Integration of public single-cell RNA sequencing (scRNA-seq) datasets across 12 cancer types identified SPP1TAMs as a tumor-enriched macrophage subset with immunosuppres...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 72,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, ai",
+      "priority topic: gene therapy",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -111,249 +42,28 @@
     "publicationName": "Cancer cell",
     "journalName": "Cancer cell",
     "publishedAt": "2026-04-27T00:00:00.000Z",
-    "fetchedAt": "2026-04-29T15:00:34.859Z",
+    "fetchedAt": "2026-04-30T14:56:01.291Z",
     "snippet": "Breast cancer brain metastases (BCBM) are a severe condition with high demand for improved personalized treatment, but a comprehensive understanding of BCBM immune-microenvironment heterogeneity and susceptibility to immunotherapy is lacking. Here, we multimodally profile the immune niche in a clinically well-annotated cohort of 156 BCBM applying tissue cyt...",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
       "Spatial oncology",
       "spatial transcriptomics",
       "cancer"
     ],
     "topicBuckets": [
-      "single-cell",
+      "spatial",
       "oncology",
-      "immunology",
+      "computational biology",
       "ai",
       "translational medicine",
-      "spatial",
-      "computational biology"
-    ],
-    "isNewToday": false,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "importanceScore": 82,
-    "isFeatured": true
-  },
-  {
-    "id": "fed51b495bf54114",
-    "title": "The Single-Cell and Spatial Transcriptomics Atlas of Epithelial-Fibroblast Interactions in Colorectal Cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42045762",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42045762",
-    "source": "pubmed",
-    "publicationName": "Digestive diseases and sciences",
-    "journalName": "Digestive diseases and sciences",
-    "publishedAt": "2026-04-27T00:00:00.000Z",
-    "fetchedAt": "2026-04-29T15:00:34.859Z",
-    "snippet": "Colorectal cancer (CRC) exhibits extensive cellular heterogeneity and complex tumor microenvironment (TME) interactions, which influence tumor progression and treatment response. However, the precise interplay between epithelial cells and cancer-associated fibroblasts and its prognostic relevance remain incompletely understood. We performed single-cell RNA....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "spatial",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "computational biology",
-      "spatial"
-    ],
-    "isNewToday": false,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "importanceScore": 82,
-    "isFeatured": true
-  },
-  {
-    "id": "d65bd06750a20f31",
-    "title": "Protective effects ofYC225 Mixture Are associated with Gut Microbiota in Vulvovaginal Candidiasis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42049691",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42049691",
-    "source": "pubmed",
-    "publicationName": "Journal of microbiology and biotechnology",
-    "journalName": "Journal of microbiology and biotechnology",
-    "publishedAt": "2026-04-27T00:00:00.000Z",
-    "fetchedAt": "2026-04-29T15:00:34.859Z",
-    "snippet": "Vulvovaginal candidiasis (VVC) is a prevalent mucosal infection predominantly caused by(). Vaginal lactobacilli contribute to colonization resistance and epithelial barrier integrity. However, therapeutic options remain limited and recurrence is common. In this study, we investigated the effects of a lactic acid bacteria mixture (LM; InoRexyne) enriched wit...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 72,
-    "importanceSignals": [
-      "recent",
-      "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "db31de67e7f6b6d0",
-    "title": "A disrupted microbial network and an ecological shift towards anaerobes in NTM-infected cystic fibrosis patients.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42049592",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42049592",
-    "source": "pubmed",
-    "publicationName": "Journal of cystic fibrosis : official journal of the European Cystic Fibrosis Society",
-    "journalName": "Journal of cystic fibrosis : official journal of the European Cystic Fibrosis Society",
-    "publishedAt": "2026-04-27T00:00:00.000Z",
-    "fetchedAt": "2026-04-29T15:00:34.859Z",
-    "snippet": "Nontuberculous mycobacteria (NTM) are increasingly recognized as opportunistic pathogens in people with cystic fibrosis (pwCF), but the ecological factors shaping their presence remain poorly understood. This study characterized the airway microbiota associated with NTM-positive culture using 16S rRNA gene sequencing of sputum from 108 pwCF (36 NTM-positive...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 72,
-    "importanceSignals": [
-      "recent",
-      "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "e2f88c0d09ba5fd7",
-    "title": "Exosomes derived from human umbilical cord mesenchymal stem cells attenuate neuroinflammation in intracerebral hemorrhage rats by modulating lactylation modification.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42046108",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42046108",
-    "source": "pubmed",
-    "publicationName": "Journal of translational medicine",
-    "journalName": "Journal of translational medicine",
-    "publishedAt": "2026-04-27T00:00:00.000Z",
-    "fetchedAt": "2026-04-29T15:00:34.859Z",
-    "snippet": "Neuroinflammation following intracerebral hemorrhage (ICH) is a critical contributor to secondary brain injury. Lactylation modification, a novel epigenetic regulatory mechanism, may participate in pathological processes by modulating inflammatory gene expression. This study investigates whether exosomes derived from human umbilical cord mesenchymal stem ce...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 72,
-    "importanceSignals": [
-      "recent",
-      "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "84b07972901b2ded",
-    "title": "MMP8/PPAR-&#x3b3; regulation of macrophage-mediated inflammatory response in the pathogenesis of acute-on-chronic liver failure.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42045186",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42045186",
-    "source": "pubmed",
-    "publicationName": "Cell death & disease",
-    "journalName": "Cell death & disease",
-    "publishedAt": "2026-04-27T00:00:00.000Z",
-    "fetchedAt": "2026-04-29T15:00:34.859Z",
-    "snippet": "Acute-on-chronic liver failure (ACLF) is a critical syndrome marked by severe illness, rapid progression, and poor prognosis. We aimed to investigate immunoregulatory mechanisms governing macrophage function during ACLF progression and identify potential molecular therapeutic targets. Differentially expressed genes (DEGs) in macrophages from patients with A...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 72,
-    "importanceSignals": [
-      "recent",
-      "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "9e9207a3a8407567",
-    "title": "Delphi approach to prioritising research in cardiovascular and kidney disease using routinely collected data.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42044954",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42044954",
-    "source": "pubmed",
-    "publicationName": "BMJ open",
-    "journalName": "BMJ open",
-    "publishedAt": "2026-04-27T00:00:00.000Z",
-    "fetchedAt": "2026-04-29T15:00:34.859Z",
-    "snippet": "Chronic kidney disease (CKD) and cardiovascular disease (CVD) are leading global causes of morbidity and mortality, often coexisting and sharing common risk factors. Despite their interconnection, clinical care and research for affected individuals remain siloed and fragmented. Recognising the need for integrated approaches, this study aimed to identify and...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai",
-      "translational medicine"
+      "immunology"
     ],
     "isNewToday": false,
     "importanceScore": 82,
     "importanceSignals": [
       "recent",
-      "priority topic: gene therapy, ai",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -369,7 +79,7 @@
     "publicationName": "EBioMedicine",
     "journalName": "EBioMedicine",
     "publishedAt": "2026-04-27T00:00:00.000Z",
-    "fetchedAt": "2026-04-29T15:00:34.859Z",
+    "fetchedAt": "2026-04-30T14:56:01.291Z",
     "snippet": "Cervical squamous cell carcinoma (CSCC) exhibits profound spatial heterogeneity in evolutionary trajectories across distinct tumour foci, yet the underlying mechanisms remain poorly understood. In this study, we performed an integrated spatial transcriptomic and metabolomic analysis of six CSCC and two normal cervical samples, supported by single-cell RNA s...",
     "tags": [
       "research",
@@ -398,66 +108,34 @@
     "isFeatured": true
   },
   {
-    "id": "595679a74b935a47",
-    "title": "Interpretable, flexible and spatially aware integration of multiple spatial transcriptomics datasets from diverse sources.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42045691",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42045691",
+    "id": "fed51b495bf54114",
+    "title": "The Single-Cell and Spatial Transcriptomics Atlas of Epithelial-Fibroblast Interactions in Colorectal Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42045762",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42045762",
     "source": "pubmed",
-    "publicationName": "Nature genetics",
-    "journalName": "Nature genetics",
+    "publicationName": "Digestive diseases and sciences",
+    "journalName": "Digestive diseases and sciences",
     "publishedAt": "2026-04-27T00:00:00.000Z",
-    "fetchedAt": "2026-04-29T15:00:34.859Z",
-    "snippet": "Recent advances in spatial transcriptomics (ST) have generated an expanding collection of heterogeneous datasets, offering unprecedented opportunities to investigate tissue organizations and functions. However, effective interpretation and integration of data originating from diverse sources and conditions remain a major challenge. We present INSPIRE, a dee...",
+    "fetchedAt": "2026-04-30T14:56:01.291Z",
+    "snippet": "Colorectal cancer (CRC) exhibits extensive cellular heterogeneity and complex tumor microenvironment (TME) interactions, which influence tumor progression and treatment response. However, the precise interplay between epithelial cells and cancer-associated fibroblasts and its prognostic relevance remain incompletely understood. We performed single-cell RNA....",
     "tags": [
       "research",
       "pubmed",
       "Spatial oncology",
       "spatial transcriptomics",
       "cancer",
+      "single-cell",
       "spatial"
     ],
     "topicBuckets": [
       "spatial",
       "oncology",
       "computational biology",
-      "ai"
+      "ai",
+      "single-cell"
     ],
     "isNewToday": false,
     "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "6ffa544ed5e457b9",
-    "title": "Somatic mutations distinguish melanocyte subpopulations in human skin.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42045571",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42045571",
-    "source": "pubmed",
-    "publicationName": "Nature cell biology",
-    "journalName": "Nature cell biology",
-    "publishedAt": "2026-04-27T00:00:00.000Z",
-    "fetchedAt": "2026-04-29T15:00:34.859Z",
-    "snippet": "Here, to understand the homeostatic mechanisms governing melanocytes, we interrogate the mutational landscapes, gene-expression profiles and morphological features of 297 clonal expansions of epidermal melanocytes from 31 donors. We show that a population of melanocytes with low mutation burden persists in sun-exposed epidermis. These cells are smaller, les...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 72,
     "importanceSignals": [
       "recent",
       "priority topic: oncology, computational biology",

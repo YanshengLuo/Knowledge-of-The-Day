@@ -1,69 +1,33 @@
 [
   {
-    "id": "b5f0c92f3ff941b4",
-    "title": "Clinicogenomic Real-World Data Enable Prediction of Hospital Readmissions at a Comprehensive Cancer Center.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42044461",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42044461",
+    "id": "753adfa8b496ae29",
+    "title": "Angiotensin-(1-7) suppresses pyroptosis in cerebral endothelium to decrease blood-brain barrier permeability and cognitive impairments in sepsis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42055817",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42055817",
     "source": "pubmed",
-    "publicationName": "JCO clinical cancer informatics",
-    "journalName": "JCO clinical cancer informatics",
+    "publicationName": "The Journal of international medical research",
+    "journalName": "The Journal of international medical research",
     "publishedAt": "2026-04-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-29T15:00:34.859Z",
-    "snippet": "Curating high-quality clinical and genomic data sets from patients with cancer to predict hospital readmission using machine learning (ML) models. We extracted data from electronic health records for patients with cancer in the University of California, San Diego Health System, to curate clinicogenomic data sets for lung, breast, and colon cancers. We const...",
+    "fetchedAt": "2026-04-30T14:56:01.291Z",
+    "snippet": "ObjectiveThis study aimed to explore the influence of the angiotensin-(1-7)/Mas receptor and angiotensin II/angiotensin II type 1 receptor pathways on pyroptosis during sepsis and their subsequent effects on cognitive function.MethodsAdult C57BL/6 mice were subjected to cecal ligation and puncture to induce sepsis. Brain microvascular endothelial cells were...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
     ],
     "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai",
-      "translational medicine"
+      "gene therapy",
+      "immunology",
+      "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
+    "importanceScore": 65,
     "importanceSignals": [
       "published this month",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "e3ef78caa1ea23a3",
-    "title": "PICDGI: A framework for predicting cancer driver genes through dynamic gene-gene interaction modeling of single-cell data.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42044093",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42044093",
-    "source": "pubmed",
-    "publicationName": "PLoS computational biology",
-    "journalName": "PLoS computational biology",
-    "publishedAt": "2026-04-01T00:00:00.000Z",
-    "fetchedAt": "2026-04-29T15:00:34.859Z",
-    "snippet": "Identifying cancer driver genes (CDGs) remains a central challenge in cancer genomics, as frequency-based mutation approaches often miss rare but functionally important regulators. We present PICDGI, a computational framework that predicts driver-like regulatory genes by integrating dynamic gene-gene interaction modeling with single-cell RNA sequencing (scR...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology",
-      "single-cell"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai",
-      "single-cell"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: computational biology, oncology",
+      "priority topic: gene therapy, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
