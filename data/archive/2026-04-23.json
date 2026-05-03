@@ -1,36 +1,43 @@
 [
   {
-    "id": "ae3f0891cc23e795",
-    "title": "Discovering proteo-transcriptomic networks via biologically informed heterogeneous graph learning.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42059203",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42059203",
+    "id": "a41ee9906de7824c",
+    "title": "Integrative multi-omics analysis identifies stromal-immune crosstalk as a determinant of immunotherapy efficacy and establishes a prognostic signature in gastric cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42068630",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42068630",
     "source": "pubmed",
-    "publicationName": "Nucleic acids research",
-    "journalName": "Nucleic acids research",
+    "publicationName": "Computational biology and chemistry",
+    "journalName": "Computational biology and chemistry",
     "publishedAt": "2026-04-23T00:00:00.000Z",
-    "fetchedAt": "2026-05-01T14:11:24.998Z",
-    "snippet": "Cancers are shaped by genetic interactions across multiple omics layers. Despite substantial progress made at the genomic and transcriptomic levels, the detailed interplay among mRNA, proteins, and protein modifications as well as the corresponding actionable targets remained poorly explored. Here, we developed bioGraph, a biologically informed graph learni...",
+    "fetchedAt": "2026-05-03T14:02:51.604Z",
+    "snippet": "Immune checkpoint inhibitors like pembrolizumab exhibit variable efficacy in metastatic gastric cancer (GC). This study aimed to identify molecular drivers of pembrolizumab response, explore mechanisms of immune checkpoint inhibitors (ICIs) efficacy, and develop a prognostic signature. Transcriptomic analysis of pembrolizumab-treated GC (TIGER database) ide...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "immunotherapy",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
     ],
     "topicBuckets": [
-      "computational biology",
+      "single-cell",
       "oncology",
-      "ai"
+      "immunology",
+      "ai",
+      "computational biology",
+      "spatial"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: computational biology, oncology",
+      "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
+    "importanceScore": 75,
     "isFeatured": true
   }
 ]
