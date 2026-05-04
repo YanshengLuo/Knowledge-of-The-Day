@@ -1,36 +1,213 @@
 [
   {
-    "id": "a33b0ff87258f41b",
-    "title": "From bench to byte: A UK perspective on data-driven cancer research.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42034002",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42034002",
+    "id": "862b1c018c67a2cd",
+    "title": "NuRepress: Inferring Transcriptional Repressors from Phased Nucleosome Architecture.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42074600",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42074600",
     "source": "pubmed",
-    "publicationName": "European journal of cancer (Oxford, England : 1990)",
-    "journalName": "European journal of cancer (Oxford, England : 1990)",
+    "publicationName": "Genes",
+    "journalName": "Genes",
     "publishedAt": "2026-04-18T00:00:00.000Z",
-    "fetchedAt": "2026-04-26T13:56:52.975Z",
-    "snippet": "Cancer research is undergoing a profound transformation driven by the rapid expansion of clinical, genomic, imaging, and real-world data. As Europe prepares for the implementation of the European Health Data Space (EHDS), the ability of health systems to effectively integrate, govern, and translate these diverse datasets will shape the next era of oncology....",
+    "fetchedAt": "2026-05-04T14:59:17.196Z",
+    "snippet": "The systematic identification of transcriptional repressors remains challenging, as current inference frameworks are predominantly optimized for accessible chromatin, leaving regulatory signals embedded within repressive domains undercharacterized. Here, we present NuRepress, a computational framework that predicts candidate transcriptional repressors by in...",
     "tags": [
       "research",
       "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
+      "Computational oncology",
+      "computational biology",
       "oncology"
     ],
     "topicBuckets": [
-      "translational medicine",
-      "oncology"
+      "computational biology",
+      "oncology",
+      "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 65,
+    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: translational medicine, oncology",
+      "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
     "isFeatured": true
+  },
+  {
+    "id": "19a27b1fe5808694",
+    "title": "Comparative Molecular Insights and Computational Modeling of Multiple Myeloma and Osteosarcoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42074248",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42074248",
+    "source": "pubmed",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
+    "publishedAt": "2026-04-18T00:00:00.000Z",
+    "fetchedAt": "2026-05-04T14:59:17.196Z",
+    "snippet": "Multiple myeloma (MM) and osteosarcoma (OS) are two biologically distinct osseous malignancies with similar molecular networks that present translational challenges for their computational modeling. This comparative research analyzes MM and OS biology relevant to in silico approaches, focusing on PI3K-AKT-mTOR signaling, the RANK-RANKL-OPG axis, angiogenic....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "a8417e98a116a6c7",
+    "title": "Top-Down Mass Spectrometry and Its Current Applications in Biomarker Discovery in Aging and Age-Related Diseases.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42074247",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42074247",
+    "source": "pubmed",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
+    "publishedAt": "2026-04-18T00:00:00.000Z",
+    "fetchedAt": "2026-05-04T14:59:17.196Z",
+    "snippet": "Aging is one of the most complex biological processes, which leads to a gradual decline in the function of organs, tissues and cells, and significant increases in the risks of many age-associated diseases, including cancer, neurodegenerative disorders, and cardiovascular diseases. Protein biomarkers have attracted increasing attention in research on aging a...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "biomarker"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "a5cd7807df27e93f",
+    "title": "Single-Cell Transcriptomic Profiling of Ectopic ACTH-Secreting Pheochromocytoma Reveals the Chromaffin Cell Origin of Ectopic Hormone Production.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42074262",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42074262",
+    "source": "pubmed",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
+    "publishedAt": "2026-04-18T00:00:00.000Z",
+    "fetchedAt": "2026-05-04T14:59:17.196Z",
+    "snippet": "Ectopic ACTH-secreting pheochromocytomas are rare and life-threatening endocrine tumors responsible for hypertension, paroxysmal symptoms, and Cushing's syndrome. The cellular origin of ACTH and the tumor's molecular characteristics remain poorly understood. Single-cell RNA sequencing was performed on tumor specimens and adjacent adrenal tissues from three....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "ab9c166df6ef884d",
+    "title": "Allosteric and ATP-Pocket BCR::ABL1 Inhibition In Vitro, and Characterising Ex Vivo Thrombo-Inflammatory Biomarkers and Thrombin Generation in Asciminib-Treated CML Patients.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42074261",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42074261",
+    "source": "pubmed",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
+    "publishedAt": "2026-04-18T00:00:00.000Z",
+    "fetchedAt": "2026-05-04T14:59:17.196Z",
+    "snippet": "Chronic myeloid leukaemia (CML) is driven by the t(9;22) forming the BCR::ABL1 fusion gene, leading to the development of hyper-myeloid proliferation. This led to development of tyrosine kinase inhibitors (TKIs) such as Imatinib, Nilotinib, and Ponatinib. However, resistance or intolerance to ATP-competitive TKIs remains a challenge for some patients. ascim...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation",
+      "biomarker"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "1118f645d7f1f7ac",
+    "title": "Spatial Dynamics Links PD-L1 and Tumor-Associated Macrophage-Enriched Niches to Immune and Mesenchymal States in Microsatellite-Stable Colorectal Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42073611",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42073611",
+    "source": "pubmed",
+    "publicationName": "Cancers",
+    "journalName": "Cancers",
+    "publishedAt": "2026-04-18T00:00:00.000Z",
+    "fetchedAt": "2026-05-04T14:59:17.196Z",
+    "snippet": ": MSS-CRC comprises a heterogeneous group of tumors generally considered \"immune cold\" due to limited neoantigen generation and T-cell exclusion or inactivation. Current evidence indicates that the composition of T and B immune cells within the tumor microenvironment represents a prognostically relevant factor, significantly associated with both tumor expre...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "spatial"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
   }
 ]

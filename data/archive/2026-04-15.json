@@ -1,63 +1,66 @@
 [
   {
-    "id": "d10e2ce604154cd5",
-    "title": "Integrative Computational Approaches to Prostate Cancer with Conditional Reprogramming and AI-Driven Precision Medicine.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42041568",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42041568",
+    "id": "ea4ae28c96d1f5f2",
+    "title": "Multi-Omics Analyses Identifyas a Prognostic Biomarker for Recurrence and Metastasis in Non-Small Cell Lung Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42074579",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42074579",
     "source": "pubmed",
-    "publicationName": "Cells",
-    "journalName": "Cells",
+    "publicationName": "Genes",
+    "journalName": "Genes",
     "publishedAt": "2026-04-15T00:00:00.000Z",
-    "fetchedAt": "2026-04-29T15:00:34.859Z",
-    "snippet": "Prostate cancer, particularly metastatic castration-resistant prostate cancer (mCRPC), presents therapeutic challenges rooted in adaptive lineage plasticity and neuroendocrine transdifferentiation. Conventional genome-based models fail to account for the divergent clinical trajectories observed among tumors that share identical driver mutations. This limita...",
+    "fetchedAt": "2026-05-04T14:59:17.196Z",
+    "snippet": "Lung cancer recurrence and metastasis are major causes of cancer-related mortality, but the molecular determinants underlying these processes remain incompletely understood. This study aimed to identify key regulators of lung cancer progression through integrative analyses of bulk and single-cell transcriptomic datasets. Bulk transcriptomic and single-cell....",
     "tags": [
       "research",
       "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "biomarker",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
     ],
     "topicBuckets": [
-      "spatial",
-      "oncology",
       "computational biology",
+      "oncology",
       "ai",
-      "translational medicine"
+      "single-cell",
+      "translational medicine",
+      "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology, computational biology",
+      "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
+    "importanceScore": 75,
+    "isFeatured": false
   },
   {
-    "id": "6133d65e20207f3e",
-    "title": "Serial Spatial Transcriptomics Reveal Divergent Routes to Therapy Resistance in Metastatic Breast Cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42040933",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42040933",
+    "id": "324e2b3d08815f0a",
+    "title": "Genomic Landscape, Targeted Therapies, and Mechanisms of Resistance in Molecularly Selected Metastatic Colorectal Cancer Patients.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42074578",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42074578",
     "source": "pubmed",
-    "publicationName": "Research square",
-    "journalName": "Research square",
+    "publicationName": "Genes",
+    "journalName": "Genes",
     "publishedAt": "2026-04-15T00:00:00.000Z",
-    "fetchedAt": "2026-04-29T15:00:34.859Z",
-    "snippet": "Metastatic solid tumors persist by evolving therapeutic resistance through complex, heterogeneous adaptive strategies that challenge standard precision medicine approaches. Current clinical decision making relies on bulk biomarkers, failing to resolve the spatial architecture and cellular contexts in which resistance mechanisms emerge. We present a patient-...",
+    "fetchedAt": "2026-05-04T14:59:17.196Z",
+    "snippet": "Metastatic colorectal cancer (mCRC) remains one of the leading causes of cancer-related mortality worldwide despite substantial therapeutic improvements over the past two decades. Advances in the understanding of colorectal tumor biology and oncogenic signaling have enabled the development of biomarker-guided therapies targeting alterations in,,mutations an...",
     "tags": [
       "research",
       "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "spatial"
+      "Computational oncology",
+      "computational biology",
+      "oncology"
     ],
     "topicBuckets": [
-      "spatial",
-      "oncology",
       "computational biology",
+      "oncology",
       "ai",
       "translational medicine"
     ],
@@ -65,11 +68,79 @@
     "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology, computational biology",
+      "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
+    "isFeatured": false
+  },
+  {
+    "id": "6719bb2e08cf2067",
+    "title": "Histotripsy-Initiated Immune Response Synergizes with Chemotherapy in a Neuroblastoma Murine Model.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42073574",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42073574",
+    "source": "pubmed",
+    "publicationName": "Cancers",
+    "journalName": "Cancers",
+    "publishedAt": "2026-04-15T00:00:00.000Z",
+    "fetchedAt": "2026-05-04T14:59:17.196Z",
+    "snippet": "High-risk neuroblastoma (NB) is a pediatric malignancy associated with metastases and an immunosuppressive tumor microenvironment. Standard-of-care treatments like chemotherapy are often ineffective, which motivates the investigation of adjuvant approaches. Histotripsy is a noninvasive focused ultrasound therapy that ablates tissue through the mechanical ac...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 55,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "b690bf66c6f7b013",
+    "title": "Clinicopathological Predictors of Pathological Complete Response in HER2-Positive Breast Cancer Treated with Pertuzumab-Based Neoadjuvant Therapy: A Multicenter Real-World Study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42075632",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42075632",
+    "source": "pubmed",
+    "publicationName": "Medicina (Kaunas, Lithuania)",
+    "journalName": "Medicina (Kaunas, Lithuania)",
+    "publishedAt": "2026-04-15T00:00:00.000Z",
+    "fetchedAt": "2026-05-04T14:59:17.196Z",
+    "snippet": ": Neoadjuvant systemic therapy incorporating dual HER2 blockade has significantly improved outcomes in patients with HER2-positive breast cancer. Pathological complete response (pCR) is an important surrogate endpoint associated with improved long-term survival. However, substantial heterogeneity in treatment response persists, and identifying factors assoc...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
   }
 ]

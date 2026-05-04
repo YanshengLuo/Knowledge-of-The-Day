@@ -1,15 +1,52 @@
 [
   {
-    "id": "003ecb8bed40bf2b",
-    "title": "Emerging Nanoformulation-Based Carrier Systems: New Insights into Promising Vaccine Delivery.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42003056",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42003056",
+    "id": "c9231be73c68edc0",
+    "title": "CCL5 Orchestrates Paradoxical Immune Landscapes in NSCLC: Simultaneous Recruitment of Effector and Suppressor Cells Shapes Immunotherapy Resistance.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42073595",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42073595",
     "source": "pubmed",
-    "publicationName": "Current drug metabolism",
-    "journalName": "Current drug metabolism",
+    "publicationName": "Cancers",
+    "journalName": "Cancers",
     "publishedAt": "2026-04-16T00:00:00.000Z",
-    "fetchedAt": "2026-04-21T14:26:56.893Z",
-    "snippet": "Vaccines are crucial for controlling infectious diseases and reducing reliance on antibiotics, yet many diseases still lack effective vaccines. Advances in nanomaterials engineering offer new opportunities for vaccine design, utilizing nanoparticles (NPs) to elicit immune responses and modulate adaptive immunity. A comprehensive search of online databases w...",
+    "fetchedAt": "2026-05-04T14:59:17.196Z",
+    "snippet": "The chemokine CCL5 exhibits a complex role in cancer immunotherapy, yet its dual immunomodulatory functions in non-small cell lung cancer (NSCLC) remain poorly understood.Based on a newly analyzed clinical cohort of 33 advanced NSCLC patients receiving anti-PD-1 therapy combined with platinum-based chemotherapy, we found that elevated baseline peripheral bl...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "immunotherapy"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "77cb5b38d8dfc25a",
+    "title": "Hepatitis C Virus: An Overview of Its Chronic Impact on Liver Function, Metabolic Dysregulation, Inflammatory-Oxidative Pathogenesis and Epigenetic Memory.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42074199",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42074199",
+    "source": "pubmed",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
+    "publishedAt": "2026-04-16T00:00:00.000Z",
+    "fetchedAt": "2026-05-04T14:59:17.196Z",
+    "snippet": "Hepatitis C virus (HCV) infection is a global health concern, chronically affecting over 71 million people. It primarily targets the liver but also causes systemic complications through inflammation, oxidative stress, and metabolic dysregulation. HCV is a highly variable RNA virus with six major genotypes that are mainly transmitted via blood. Often asympto...",
     "tags": [
       "research",
       "pubmed",
@@ -20,53 +57,54 @@
     ],
     "topicBuckets": [
       "gene therapy",
-      "immunology"
+      "immunology",
+      "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 62,
+    "importanceScore": 65,
     "importanceSignals": [
-      "recent",
-      "priority topic: gene therapy",
+      "published this month",
+      "priority topic: gene therapy, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
+    "isFeatured": false
   },
   {
-    "id": "90473fae64c1a3b5",
-    "title": "The evolving role of OMICS in gastrointestinal tumor biology and clinical practice.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41992238",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/41992238",
+    "id": "89f8a4735e0e930e",
+    "title": "Intron Retention as a Homeostatic State Variable for Drug Response and Recovery: Lessons from Depression for Broader Applications.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42074182",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42074182",
     "source": "pubmed",
-    "publicationName": "Molecular cancer",
-    "journalName": "Molecular cancer",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
     "publishedAt": "2026-04-16T00:00:00.000Z",
-    "fetchedAt": "2026-04-21T14:26:56.893Z",
-    "snippet": "Due to late diagnosis, high molecular diversity, and limited response to therapeutic intervention, gastrointestinal (GI) cancers result in a considerable number of cancer-related deaths. Classic clinicopathological classification and single omics analysis fail to adequately convey the extensive biological complexity related to progression of disease, develo...",
+    "fetchedAt": "2026-05-04T14:59:17.196Z",
+    "snippet": "Clinically robust molecular biomarkers for depression have remained elusive, despite extensive transcriptomic research. This gap is consequential: depression is prevalent and heterogeneous, yet objective measures to quantify burden, stratify patients, and track recovery remain limited. Here, we review evidence that intron retention (IR) can serve as a homeo...",
     "tags": [
       "research",
       "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
     ],
     "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
+      "gene therapy",
+      "immunology",
       "ai",
       "translational medicine"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
+    "importanceScore": 75,
     "importanceSignals": [
-      "recent",
-      "priority topic: oncology, computational biology",
+      "published this month",
+      "priority topic: gene therapy, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
+    "isFeatured": false
   }
 ]

@@ -1,32 +1,144 @@
 [
   {
-    "id": "b4b1ad0baf3c68ff",
-    "title": "Computational Pathology as a Mechanistic Discipline: From Morphology to Molecular Data.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42052846",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42052846",
+    "id": "b8cfe2cb2d4b0cab",
+    "title": "From Pyroptosis Heterogeneity to an Interpretable Prognostic Signature for Risk Stratification and Therapy Insights in Pancreatic Adenocarcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42072433",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42072433",
     "source": "pubmed",
-    "publicationName": "Frontiers in bioscience (Landmark edition)",
-    "journalName": "Frontiers in bioscience (Landmark edition)",
+    "publicationName": "Biomedicines",
+    "journalName": "Biomedicines",
     "publishedAt": "2026-04-14T00:00:00.000Z",
-    "fetchedAt": "2026-04-30T14:56:01.291Z",
-    "snippet": "Pathology is undergoing a shift from morpho-molecular interpretation toward the computational integration of molecular mechanisms encoded in tissue architecture. Here, we argue that such morphology-driven molecular inference may enable biomarker prediction and potentially generate therapeutic insights directly from routine histology. This paradigm has impor...",
+    "fetchedAt": "2026-05-04T14:59:17.196Z",
+    "snippet": "Pancreatic adenocarcinoma (PAAD) is a highly malignant cancer posing severe clinical challenges. Although the dual role of pyroptosis in tumor progression is increasingly recognized, the prognostic value of its molecular heterogeneity in PAAD remains underexplored.We integrated multi-omics data and applied interpretable machine learning to construct a predi...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
     ],
     "topicBuckets": [
-      "computational biology",
+      "single-cell",
       "oncology",
+      "immunology",
+      "ai",
+      "computational biology",
       "translational medicine"
     ],
     "isNewToday": false,
     "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: computational biology, oncology",
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "513d30b566c29637",
+    "title": "Marine-Derived Chitooligosaccharide Attenuates Obesity and Metabolic Syndrome in Bama Pigs Through LXR-Mediated Cholesterol Metabolism and Gut Microbiota Modulation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42075046",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42075046",
+    "source": "pubmed",
+    "publicationName": "Nutrients",
+    "journalName": "Nutrients",
+    "publishedAt": "2026-04-14T00:00:00.000Z",
+    "fetchedAt": "2026-05-04T14:59:17.196Z",
+    "snippet": "Chitooligosaccharide (COS) is a marine-derived natural product obtained from shrimp and crab shells. Although its anti-inflammatory and antioxidant activities are documented, its potential effects on obesity and metabolic syndrome remain largely unclear. This study aimed to investigate the efficacy of COST (MW &#x2248; 1000 Da) against high-fat diet (HFD)-i...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "c6f713ccda04e9b8",
+    "title": "Fluorescence-Guided Spatial Mapping of p21-Expressing Senescent Cells in Aged Liver at Single-Cell Resolution.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42072702",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42072702",
+    "source": "pubmed",
+    "publicationName": "Biomolecules",
+    "journalName": "Biomolecules",
+    "publishedAt": "2026-04-14T00:00:00.000Z",
+    "fetchedAt": "2026-05-04T14:59:17.196Z",
+    "snippet": "Aging is a regulated process marked by the accumulation of senescent cells, which remain viable but no longer divide. Senescent cells contribute to age-associated phenotypes and diseases, including osteoarthritis, dementia, and cancer, but their scarcity and heterogeneity have limited study. Here, we developed a fluorescence-guided high-resolution spatial t...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "single-cell",
+      "spatial"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "ai",
+      "single-cell",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "124da0067281fa75",
+    "title": "Possible Role of Diffusion-Weighted Imaging in Prediction of Prostate Cancer Grade Group Upgrading: Insights from Biopsy to Radical Prostatectomy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42075621",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42075621",
+    "source": "pubmed",
+    "publicationName": "Medicina (Kaunas, Lithuania)",
+    "journalName": "Medicina (Kaunas, Lithuania)",
+    "publishedAt": "2026-04-14T00:00:00.000Z",
+    "fetchedAt": "2026-05-04T14:59:17.196Z",
+    "snippet": ": Prostate cancer is the second most common cancer in men worldwide, with 1,466,680 new cases and 396,792 deaths reported in 2022. Accurate preoperative grading is critical, as the grade assessed on biopsy cores may be underestimated compared to radical prostatectomy specimens. The aim of this study was to assess the ability of quantitative diffusion parame...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
