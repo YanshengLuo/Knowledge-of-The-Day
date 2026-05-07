@@ -1,35 +1,38 @@
 [
   {
-    "id": "717ff67abdf19362",
-    "title": "Digital twins in urological oncology and surgery: A review of emerging applications.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42068697",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42068697",
+    "id": "cc71f4155cff1029",
+    "title": "A transcriptomic-driven segmentation and cell simulation framework for high-resolution spatial transcriptomics and cell-cell communication.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42094555",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42094555",
     "source": "pubmed",
-    "publicationName": "European journal of surgical oncology : the journal of the European Society of Surgical Oncology and the British Association of Surgical Oncology",
-    "journalName": "European journal of surgical oncology : the journal of the European Society of Surgical Oncology and the British Association of Surgical Oncology",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
     "publishedAt": "2026-04-28T00:00:00.000Z",
-    "fetchedAt": "2026-05-03T14:02:51.604Z",
-    "snippet": "Digital twin technology represents a transformative approach in healthcare, creating virtual replicas of physical entities that enable real-time data integration, predictive modelling, and personalised treatment strategies. In urology, this emerging technology offers unprecedented opportunities to optimise patient care through simulation-based decision-maki...",
+    "fetchedAt": "2026-05-07T15:21:36.227Z",
+    "snippet": "The Visium HD spatial transcriptomics platform enables transcriptome-wide profiling at near-single-cell resolution. However, accurate segmentation of cells to define spatial boundaries relies heavily on histological images. Previous approaches struggle to define cells when the tissues have high cell density, are inflamed, or are mineralized, leading to tran...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "spatial"
     ],
     "topicBuckets": [
+      "spatial",
+      "oncology",
       "computational biology",
-      "oncology"
+      "single-cell"
     ],
     "isNewToday": false,
-    "importanceScore": 72,
+    "importanceScore": 65,
     "importanceSignals": [
-      "recent",
-      "priority topic: computational biology, oncology",
+      "published this month",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
+    "isFeatured": false
   }
 ]

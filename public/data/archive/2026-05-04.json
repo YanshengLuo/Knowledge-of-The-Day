@@ -1,5 +1,40 @@
 [
   {
+    "id": "9b2dab6f7dc67e31",
+    "title": "Benchmarking computational methods for multi-omics biomarker discovery in cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42089753",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42089753",
+    "source": "pubmed",
+    "publicationName": "Briefings in bioinformatics",
+    "journalName": "Briefings in bioinformatics",
+    "publishedAt": "2026-05-04T00:00:00.000Z",
+    "fetchedAt": "2026-05-07T15:21:36.227Z",
+    "snippet": "Multi-omics profiling characterizes cancer biology and supports biomarker discovery for prognosis and therapy selection. Although numerous computational multi-omics biomarker identification methods have been proposed, their ability to identify clinically relevant biomarkers has not been systematically evaluated, leaving it unclear whether the resulting biom...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "biomarker"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 82,
+    "importanceSignals": [
+      "recent",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
     "id": "8279c9ad50e2d68f",
     "title": "Ebselen's role in overcoming cisplatin resistance in colorectal Cancer via SQSTM1 ubiquitination modulation.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42085841",
@@ -8,7 +43,7 @@
     "publicationName": "International immunopharmacology",
     "journalName": "International immunopharmacology",
     "publishedAt": "2026-05-04T00:00:00.000Z",
-    "fetchedAt": "2026-05-06T15:16:42.875Z",
+    "fetchedAt": "2026-05-07T15:21:36.227Z",
     "snippet": "Cisplatin resistance severely limits chemotherapy efficacy in colorectal cancer (CRC). Although Ebselen has antitumor potential, its role in reversing cisplatin resistance remains unclear. Here, we combined in vitro/in vivo assays with scRNA-seq and spatial transcriptomics to evaluate Ebselen in cisplatin-resistant CRC. In HCT116/DDP cells, Ebselen inhibite...",
     "tags": [
       "research",
@@ -23,76 +58,6 @@
       "computational biology",
       "ai",
       "single-cell"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "bb1d7042fa6ccd26",
-    "title": "Sinonasal biphasic seromucinous adenocarcinomas: a report of two morphologically distinct cases with multimodal omics characterization.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42080922",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42080922",
-    "source": "pubmed",
-    "publicationName": "Virchows Archiv : an international journal of pathology",
-    "journalName": "Virchows Archiv : an international journal of pathology",
-    "publishedAt": "2026-05-04T00:00:00.000Z",
-    "fetchedAt": "2026-05-06T15:16:42.875Z",
-    "snippet": "Sinonasal adenocarcinomas (SNACs) are the second most common carcinoma category in the sinonasal tract after squamous cell carcinomas and include intestinal type adenocarcinoma, non-intestinal type adenocarcinomas and salivary-type adenocarcinomas. Improved morphologic and molecular characterization have established that most non-ITAC are phenotypically ser...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 72,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "3bbf281f6c427d0a",
-    "title": "MLN2SVG: domain-aware spatially variable gene detection using contrastive variational autoencoder and multi-level neighbor search.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42080589",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42080589",
-    "source": "pubmed",
-    "publicationName": "Briefings in bioinformatics",
-    "journalName": "Briefings in bioinformatics",
-    "publishedAt": "2026-05-04T00:00:00.000Z",
-    "fetchedAt": "2026-05-06T15:16:42.875Z",
-    "snippet": "Spatial transcriptomics (ST) technologies have transformed our ability to examine gene expression within intact tissues, yet accurately identifying spatially variable genes (SVGs) remains challenging due to spatial heterogeneity, data sparsity, and incomplete modeling of domain-level dependencies. To address these limitations, we propose MLN2SVG, a domain-a...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "spatial"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "ai"
     ],
     "isNewToday": false,
     "importanceScore": 82,
