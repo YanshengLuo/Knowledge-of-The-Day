@@ -7,7 +7,7 @@
     "source": "biospace",
     "publicationName": "BioSpace",
     "publishedAt": "2026-05-06T14:34:45.000Z",
-    "fetchedAt": "2026-05-08T14:27:45.983Z",
+    "fetchedAt": "2026-05-09T14:10:29.579Z",
     "snippet": "Robert F. Kennedy Jr.’s health department has consistently touted radical transparency as being key to its mission. Recent instances—the FDA’s decision not to disclose the recipients of three Commissioner’s National Priority Vouchers and FDA and CDC choices not to publish vaccine-related papers—call this intent into q...",
     "tags": [
       "biotech",
@@ -18,9 +18,9 @@
       "biotech"
     ],
     "isNewToday": false,
-    "importanceScore": 70,
+    "importanceScore": 60,
     "importanceSignals": [
-      "very recent",
+      "recent",
       "priority topic: ai",
       "rich summary",
       "rich metadata"
@@ -28,16 +28,16 @@
     "isFeatured": false
   },
   {
-    "id": "2c1633f82fd06a3d",
-    "title": "Multi-cohort proteogenomic analyses reveal genetic effects across the proteome and diseasome.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42097137",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42097137",
+    "id": "e864870145ba3cca",
+    "title": "An intricate functional relationship between NuA4 and Sfp1 regulates ribosome biogenesis in response to nutrient availability.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42103225",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42103225",
     "source": "pubmed",
-    "publicationName": "Cell",
-    "journalName": "Cell",
+    "publicationName": "The Journal of biological chemistry",
+    "journalName": "The Journal of biological chemistry",
     "publishedAt": "2026-05-06T00:00:00.000Z",
-    "fetchedAt": "2026-05-08T14:27:46.853Z",
-    "snippet": "Understanding the genetic regulation of circulating protein levels can provide new insights into disease mechanisms. Here, we present the largest proteogenomic study to date (n = 78,664 participants across 38 studies), identifying >24,000 protein quantitative trait loci (QTLs) associated with 1,116 proteins, acting near to (n = 5,040) or distant (n = 19,698...",
+    "fetchedAt": "2026-05-09T14:10:30.395Z",
+    "snippet": "Ribosome biogenesis is a crucial process requiring enormous transcriptional output. In budding yeast, the expression of 138 ribosomal protein (RP) genes and over 200 ribosome biogenesis (RiBi) genes is regulated by an intricate network of factors, including the nutrient-sensitive transcription activator Sfp1 and the NuA4 coactivator/acetyltransferase comple...",
     "tags": [
       "research",
       "pubmed",
@@ -62,55 +62,16 @@
     "isFeatured": true
   },
   {
-    "id": "6b25c4ad44dc1fc1",
-    "title": "The ARTEMIS trial identifies immune activation as a key predictor of neoadjuvant chemotherapy response in triple-negative breast cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42093035",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42093035",
+    "id": "97ef954ada61d940",
+    "title": "Functional Evaluation of TRPC6 Missense Variants in Cancer Patients via Molecular Docking Analysis Compared with Patch Clamp Electrophysiology.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42103219",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42103219",
     "source": "pubmed",
-    "publicationName": "Breast cancer research : BCR",
-    "journalName": "Breast cancer research : BCR",
+    "publicationName": "The Journal of biological chemistry",
+    "journalName": "The Journal of biological chemistry",
     "publishedAt": "2026-05-06T00:00:00.000Z",
-    "fetchedAt": "2026-05-08T14:27:46.853Z",
-    "snippet": "Selecting treatments for triple-negative breast cancer (TNBC) remains challenging due to its high molecular and phenotypic heterogeneity. To maximize response rates, nearly all patients are treated with an aggressive combination of chemo-immunotherapy. However, since half of patients respond to chemotherapy alone and about a third do not respond at all, the...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai",
-      "immunology",
-      "spatial"
-    ],
-    "isNewToday": false,
-    "importanceSignals": [
-      "recent",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "importanceScore": 82,
-    "isFeatured": true
-  },
-  {
-    "id": "45a38313e874b095",
-    "title": "Expanding the human proteome with microproteins and peptideins.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42092140",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42092140",
-    "source": "pubmed",
-    "publicationName": "Nature",
-    "journalName": "Nature",
-    "publishedAt": "2026-05-06T00:00:00.000Z",
-    "fetchedAt": "2026-05-08T14:27:46.853Z",
-    "snippet": "A major scientific drive is to characterize the protein-coding genome, which is a primary basis for studying human health. But the fundamental question remains of what has been missed in previous analyses. Over the past decade, the translation of non-canonical open reading frames (ncORFs) has been observed across human cell types and disease states, with ma...",
+    "fetchedAt": "2026-05-09T14:10:30.395Z",
+    "snippet": "Gain-of-function mutations in the transient receptor potential 6 (TRPC6) channel have been identified as risk factors for doxorubicin (DOX)-induced cardiomyopathy and heart failure. Functional characterization of TRPC6 missense variants is therefore important for cancer patients undergoing anthracycline therapy; however, conventional electrophysiological me...",
     "tags": [
       "research",
       "pubmed",
@@ -135,49 +96,16 @@
     "isFeatured": true
   },
   {
-    "id": "81a21389136aa8ca",
-    "title": "Digital Twin models to address long-term treatment toxicities in children and young adults with cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42091641",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42091641",
+    "id": "cfd61c34b4f12f7e",
+    "title": "Neutrophil-Driven Trogocytosis in PDAC Liver Metastases Restrains Immunosuppressive Macrophage Polarization and Limits Metastatic Progression.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42102979",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42102979",
     "source": "pubmed",
-    "publicationName": "NPJ digital medicine",
-    "journalName": "NPJ digital medicine",
+    "publicationName": "Gastroenterology",
+    "journalName": "Gastroenterology",
     "publishedAt": "2026-05-06T00:00:00.000Z",
-    "fetchedAt": "2026-05-08T14:27:46.853Z",
-    "snippet": "Although treatment of childhood and young adult cancer has enormously progressed, long-term treatment-related toxicities (LLCTT) prevent survivors from leading a healthy life. Predictive markers are essential for identifying LLCTT early enough to enable personalised therapies that minimise risks. The complexity of LLCTT poses challenges in developing predic...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 72,
-    "importanceSignals": [
-      "recent",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "3d392044bb9612d9",
-    "title": "A tumor-intrinsic WNT-inhibitory NOTUM program drives immune resistance in microsatellite stable colorectal cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42097145",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42097145",
-    "source": "pubmed",
-    "publicationName": "Cell reports. Medicine",
-    "journalName": "Cell reports. Medicine",
-    "publishedAt": "2026-05-06T00:00:00.000Z",
-    "fetchedAt": "2026-05-08T14:27:46.853Z",
-    "snippet": "Immunotherapy remains largely ineffective in colorectal cancer (CRC), particularly in microsatellite stable (MSS) tumors, which represent the majority of cases. However, the complexity of intratumoral heterogeneity has made it difficult to define tumor-intrinsic programs that drive immune resistance. Here, we identify a cancer cell population that emerges p...",
+    "fetchedAt": "2026-05-09T14:10:30.395Z",
+    "snippet": "Pancreatic Ductal Adenocarcinoma (PDAC) metastasizes early and frequently to the liver, limiting therapeutic options and resulting in poor prognosis. Neutrophils are key immune players in cancer progression, yet their role in PDAC liver metastases remains unclear. This study investigates how neutrophils influence hepatic macrophages and modulate the immune....",
     "tags": [
       "research",
       "pubmed",
@@ -196,81 +124,6 @@
     "importanceSignals": [
       "recent",
       "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "2dc59834bff68f83",
-    "title": "Beyond 100 years of vitamin E and related molecules - Milestones and open challenges.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42096852",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42096852",
-    "source": "pubmed",
-    "publicationName": "Molecular aspects of medicine",
-    "journalName": "Molecular aspects of medicine",
-    "publishedAt": "2026-05-06T00:00:00.000Z",
-    "fetchedAt": "2026-05-08T14:27:46.853Z",
-    "snippet": "Over the past century, research on vitamin E has evolved from its initial identification as a fertility factor to the recognition of &#x3b1;-tocopherol (&#x3b1;-TOH) as an essential micronutrient with antioxidant and gene regulatory functions. Despite extensive investigation, controversies persist regarding its precise biological role, clinical efficacy, an...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 72,
-    "importanceSignals": [
-      "recent",
-      "priority topic: gene therapy, translational medicine",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "9f6d2ea9a78f6676",
-    "title": "Single-cell and spatial transcriptomic profiling of POU5F1 in Lung Adenocarcinoma: Dynamics, spatial niche, and prognosis via multi-algorithm ML.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42097097",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42097097",
-    "source": "pubmed",
-    "publicationName": "Translational oncology",
-    "journalName": "Translational oncology",
-    "publishedAt": "2026-05-06T00:00:00.000Z",
-    "fetchedAt": "2026-05-08T14:27:46.853Z",
-    "snippet": "POU5F1 (OCT4), a core regulator of pluripotency, plays an important role in tumor stemness and immune microenvironment remodeling, yet its systematic function and mechanisms in lung adenocarcinoma (LUAD) remain incompletely elucidated. This study integrated genetic causality inference, single&#x2011;cell and spatial transcriptomics, RNA velocity analysis, a...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "single-cell",
-      "spatial"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "ai",
-      "single-cell",
-      "funding",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
