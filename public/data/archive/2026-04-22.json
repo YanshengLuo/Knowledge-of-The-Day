@@ -1,33 +1,67 @@
 [
   {
-    "id": "17dc4463d1c2646e",
-    "title": "A phospholipid-like charge-reversible lipid for PEG-free, stable, and low-inflammatory mRNA lipid nanoparticles.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42031024",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42031024",
+    "id": "58ae05da3509df2f",
+    "title": "From 2D to 3D: Automated ultrasound segmentation and cross-sectional validation in murine tumor models.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42107155",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42107155",
     "source": "pubmed",
-    "publicationName": "Journal of pharmaceutical sciences",
-    "journalName": "Journal of pharmaceutical sciences",
+    "publicationName": "Computer methods and programs in biomedicine",
+    "journalName": "Computer methods and programs in biomedicine",
     "publishedAt": "2026-04-22T00:00:00.000Z",
-    "fetchedAt": "2026-04-27T14:52:53.373Z",
-    "snippet": "The development of lipid nanoparticles (LNPs) facilitated optimal usage of mRNA drugs to achieve clinical success during the COVID-19 pandemic. Conventional LNPs rely on ionizable lipids for mRNA encapsulation and endosomal escape. However, the high hydrophobicity of ionizable lipids leads to aggregation of these LNPs under physiological conditions, requiri...",
+    "fetchedAt": "2026-05-11T15:50:38.348Z",
+    "snippet": "Ultrasound (US) is a widely used method for non-invasive tumor monitoring. Semantic segmentation of tumors in US imagery is a necessary step to reconstruct 3D geometry of a region of interest (ROI). Still, the segmentation task remains challenging due to variable signal-to-noise ratio (SNR) and modest soft-tissue contrast in US imaging. Our objective was to...",
     "tags": [
       "research",
       "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
+      "Computational oncology",
+      "computational biology",
+      "oncology"
     ],
     "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "translational medicine"
+      "computational biology",
+      "oncology",
+      "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 72,
+    "importanceScore": 75,
     "importanceSignals": [
-      "recent",
-      "priority topic: gene therapy, translational medicine",
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "4e00585367906d7f",
+    "title": "Type-specific detection and quantification of circulating tumor HPV DNA by digital PCR in surgically resected cervical cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42108733",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42108733",
+    "source": "pubmed",
+    "publicationName": "Journal of gynecologic oncology",
+    "journalName": "Journal of gynecologic oncology",
+    "publishedAt": "2026-04-22T00:00:00.000Z",
+    "fetchedAt": "2026-05-11T15:50:38.348Z",
+    "snippet": "Circulating tumor human papillomavirus (HPV) DNA (ctHPV DNA) has shown clinical utility in advanced cervical cancer; however, its role in surgically resected disease remains unclear. We evaluated the detectability and clinicopathological associations of ctHPV DNA in preoperative plasma from patients with surgically resected cervical cancer using digital pol...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"

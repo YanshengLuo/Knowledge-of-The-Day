@@ -1,56 +1,23 @@
 [
   {
-    "id": "9b2dab6f7dc67e31",
-    "title": "Benchmarking computational methods for multi-omics biomarker discovery in cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42089753",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42089753",
+    "id": "ed031931d317f93e",
+    "title": "GAMMI: graph-guided contrastive and adversarial integration of single-cell and spatial multi-omics data.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42108634",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42108634",
     "source": "pubmed",
     "publicationName": "Briefings in bioinformatics",
     "journalName": "Briefings in bioinformatics",
     "publishedAt": "2026-05-04T00:00:00.000Z",
-    "fetchedAt": "2026-05-07T15:21:36.227Z",
-    "snippet": "Multi-omics profiling characterizes cancer biology and supports biomarker discovery for prognosis and therapy selection. Although numerous computational multi-omics biomarker identification methods have been proposed, their ability to identify clinically relevant biomarkers has not been systematically evaluated, leaving it unclear whether the resulting biom...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology",
-      "biomarker"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "8279c9ad50e2d68f",
-    "title": "Ebselen's role in overcoming cisplatin resistance in colorectal Cancer via SQSTM1 ubiquitination modulation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42085841",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42085841",
-    "source": "pubmed",
-    "publicationName": "International immunopharmacology",
-    "journalName": "International immunopharmacology",
-    "publishedAt": "2026-05-04T00:00:00.000Z",
-    "fetchedAt": "2026-05-07T15:21:36.227Z",
-    "snippet": "Cisplatin resistance severely limits chemotherapy efficacy in colorectal cancer (CRC). Although Ebselen has antitumor potential, its role in reversing cisplatin resistance remains unclear. Here, we combined in vitro/in vivo assays with scRNA-seq and spatial transcriptomics to evaluate Ebselen in cisplatin-resistant CRC. In HCT116/DDP cells, Ebselen inhibite...",
+    "fetchedAt": "2026-05-11T15:50:38.348Z",
+    "snippet": "Integrating single-cell and spatial multi-omics data is essential for resolving cellular identity, regulatory programs and tissue organization, yet remains challenging under realistic experimental designs. In practice, data are often incomplete, unpaired and partially overlapping across batches and platforms, resulting in mosaic settings where missingness,....",
     "tags": [
       "research",
       "pubmed",
       "Spatial oncology",
       "spatial transcriptomics",
-      "cancer"
+      "cancer",
+      "single-cell",
+      "spatial"
     ],
     "topicBuckets": [
       "spatial",
@@ -60,9 +27,9 @@
       "single-cell"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
+    "importanceScore": 75,
     "importanceSignals": [
-      "recent",
+      "published this month",
       "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
