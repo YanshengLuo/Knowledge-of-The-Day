@@ -1,31 +1,35 @@
 [
   {
-    "id": "29bf544e6f38a44a",
-    "title": "Hypereosinophilia of persistent/unknown cause: a bone marrow-based study integrating WHO-HAEM5 criteria and myeloid next-generation sequencing.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42106910",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42106910",
+    "id": "8fc9890d644b1903",
+    "title": "InSituPREP enables 3D single-cell mapping of interaction-associated gene programs in the breast cancer tumor microenvironment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42109251",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42109251",
     "source": "pubmed",
-    "publicationName": "American journal of clinical pathology",
-    "journalName": "American journal of clinical pathology",
+    "publicationName": "Nucleic acids research",
+    "journalName": "Nucleic acids research",
     "publishedAt": "2026-05-05T00:00:00.000Z",
-    "fetchedAt": "2026-05-11T15:50:38.348Z",
-    "snippet": "Hypereosinophilia (HE), defined as an absolute eosinophil count (AEC)&#x2009;&#x2265;1.5&#x2009;&#xd7;&#x2009;109/L, poses diagnostic challenges when distinguishing clonal myeloid neoplasms from idiopathic HE/hypereosinophilic syndrome, particularly under WHO-HAEM5 criteria. We characterized patients with HE of persistent/unknown cause (HEPU) undergoing bon...",
+    "fetchedAt": "2026-05-12T15:35:17.154Z",
+    "snippet": "Cell-cell interactions influence gene expression in the tumor microenvironment, yet despite advances in spatial transcriptomics that enable in situ expression profiling, current computational tools remain limited in quantitatively resolving single-cell and multicellular interaction effects across patient tissues. Here, we present InSituPREP (In Situ Proximi...",
     "tags": [
       "research",
       "pubmed",
       "Spatial oncology",
       "spatial transcriptomics",
-      "cancer"
+      "cancer",
+      "single-cell"
     ],
     "topicBuckets": [
       "spatial",
       "oncology",
-      "computational biology"
+      "computational biology",
+      "ai",
+      "single-cell",
+      "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 72,
+    "importanceScore": 75,
     "importanceSignals": [
-      "recent",
+      "published this month",
       "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
@@ -34,36 +38,69 @@
     "isFeatured": true
   },
   {
-    "id": "c75a11e345d44586",
-    "title": "Real-time diagnosis of adult T-cell leukemia/lymphoma using HBZ RNA in situ hybridization.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42106909",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42106909",
+    "id": "fc712bc4cc09cc35",
+    "title": "Benchmarking sketching methods on spatial transcriptomics data.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42109248",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42109248",
     "source": "pubmed",
-    "publicationName": "American journal of clinical pathology",
-    "journalName": "American journal of clinical pathology",
+    "publicationName": "Nucleic acids research",
+    "journalName": "Nucleic acids research",
     "publishedAt": "2026-05-05T00:00:00.000Z",
-    "fetchedAt": "2026-05-11T15:50:38.348Z",
-    "snippet": "Diagnosing adult T-cell leukemia/lymphoma (ATLL) remains challenging due to its clinical and histopathologic heterogeneity. While HTLV-1 serology is a key diagnostic criterion, it is often unavailable at the time of diagnosis and does not confirm viral integration in tumor cells. The HTLV-1-encoded HBZ RNA is a reliable diagnostic biomarker for ATLL. We eva...",
+    "fetchedAt": "2026-05-12T15:35:17.154Z",
+    "snippet": "High-throughput spatial transcriptomics (ST) now profiles hundreds of thousands of cells or locations per section, creating computational bottlenecks for routine analysis. Sketching, or intelligent sub-sampling, addresses scale by selecting small, representative subsets. While effective for single-cell RNA sequencing data, existing sketching methods, which....",
     "tags": [
       "research",
       "pubmed",
       "Spatial oncology",
       "spatial transcriptomics",
-      "cancer"
+      "cancer",
+      "spatial"
     ],
     "topicBuckets": [
       "spatial",
       "oncology",
       "computational biology",
-      "ai",
-      "translational medicine",
-      "immunology"
+      "single-cell"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
+    "importanceScore": 65,
     "importanceSignals": [
-      "recent",
+      "published this month",
       "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "2c4fdbd81a157c1f",
+    "title": "Diagnostic sensitivity and specificity of INSM1 in pheochromocytomas versus adrenal cortical lesions.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42117183",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42117183",
+    "source": "pubmed",
+    "publicationName": "American journal of clinical pathology",
+    "journalName": "American journal of clinical pathology",
+    "publishedAt": "2026-05-05T00:00:00.000Z",
+    "fetchedAt": "2026-05-12T15:35:17.154Z",
+    "snippet": "While neuroendocrine markers such as chromogranin can be used to distinguish pheochromocytomas (positive) from adrenal cortical lesions (negative), other neuroendocrine markers such as synaptophysin can be positive in both entities. Insulinoma-associated protein 1 (INSM1) is a relatively novel marker often used in the diagnostic assessment of neuroendocrine...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
