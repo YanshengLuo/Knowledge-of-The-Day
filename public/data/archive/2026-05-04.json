@@ -1,30 +1,33 @@
 [
   {
-    "id": "67c00c36a7e331a9",
-    "title": "MT-ConBiFormer-GPT: multi-target molecular generation for low-data drug discovery via a contrastive BiFormer-GPT architecture and curriculum learning with cross-domain generalization.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42114118",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42114118",
+    "id": "354a8055ed7c1ecc",
+    "title": "Multiomics Reveals IL-17 Drives Epithelial Keratinization and Proliferation via EHF in Odontogenic Keratocysts.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42123694",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42123694",
     "source": "pubmed",
-    "publicationName": "Briefings in bioinformatics",
-    "journalName": "Briefings in bioinformatics",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
     "publishedAt": "2026-05-04T00:00:00.000Z",
-    "fetchedAt": "2026-05-12T15:35:17.154Z",
-    "snippet": "Multi-target compounds, or polypharmacological agents, hold significant potential for complex diseases like cancer, where single-target therapies are often insufficient. A lack of high-quality bioactivity data limits progress in this field, especially for compounds interacting with multiple proteins simultaneously. This study introduces MT-ConBiFormer-GPT,....",
+    "fetchedAt": "2026-05-13T15:38:23.007Z",
+    "snippet": "This study aims to investigate epithelial cell (EpC) heterogeneity in odontogenic keratocysts (OKCs) and the molecular mechanisms driving their characteristic keratinization and rapid proliferation. We integrated single-cell RNA sequencing (scRNA-seq) and spatial transcriptomics to profile OKC EpCs, validating findings via immunostaining and comparative ana...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
-      "oncology"
+      "oncology",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
     ],
     "topicBuckets": [
       "computational biology",
       "oncology",
       "ai",
-      "biotech"
+      "single-cell",
+      "spatial"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
       "priority topic: computational biology, oncology",
@@ -32,44 +35,7 @@
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
-  },
-  {
-    "id": "ed031931d317f93e",
-    "title": "GAMMI: graph-guided contrastive and adversarial integration of single-cell and spatial multi-omics data.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42108634",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42108634",
-    "source": "pubmed",
-    "publicationName": "Briefings in bioinformatics",
-    "journalName": "Briefings in bioinformatics",
-    "publishedAt": "2026-05-04T00:00:00.000Z",
-    "fetchedAt": "2026-05-12T15:35:17.154Z",
-    "snippet": "Integrating single-cell and spatial multi-omics data is essential for resolving cellular identity, regulatory programs and tissue organization, yet remains challenging under realistic experimental designs. In practice, data are often incomplete, unpaired and partially overlapping across batches and platforms, resulting in mosaic settings where missingness,....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "single-cell",
-      "spatial"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "ai",
-      "single-cell"
-    ],
-    "isNewToday": false,
     "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
     "isFeatured": true
   }
 ]

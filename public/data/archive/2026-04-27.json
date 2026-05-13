@@ -1,28 +1,27 @@
 [
   {
-    "id": "f0c900473282954b",
-    "title": "Integration of spatial single-cell proteomics and spatial metabolomics reveals tumor microenvironment predictive of immunotherapy response in mucosal melanoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42094521",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42094521",
+    "id": "3b478fa370c65352",
+    "title": "Multi-Omics Integration Identifies a Six-Gene Diagnostic Signature for Ankylosing Spondylitis via Metabolic-Immune Crosstalk.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42123445",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42123445",
     "source": "pubmed",
-    "publicationName": "bioRxiv : the preprint server for biology",
-    "journalName": "bioRxiv : the preprint server for biology",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
     "publishedAt": "2026-04-27T00:00:00.000Z",
-    "fetchedAt": "2026-05-07T15:21:36.227Z",
-    "snippet": "Mucosal melanoma (MuM) is a rare but aggressive malignancy with limited benefit from immune checkpoint inhibition and few predictive biomarkers. We integrated single-cell spatial proteomics (COMET) and spatial metabolomics (MALDI-IMS) to profile 97 tissue cores from 26 patients treated with PD-1/PD-L1 and/or CTLA-4 inhibitors. We profiled 695,444 cells and....",
+    "fetchedAt": "2026-05-13T15:38:23.007Z",
+    "snippet": "Ankylosing spondylitis (AS) is a chronic immune-mediated inflammatory disease affecting the axial skeleton, characterized by progressive structural damage and functional impairment. Although biologic therapies targeting tumor necrosis factor and interleukin-17 have improved clinical outcomes, a substantial proportion of patients fail to achieve sustained di...",
     "tags": [
       "research",
       "pubmed",
       "Single-cell TME",
       "single-cell",
-      "tumor microenvironment",
-      "spatial",
-      "immunotherapy"
+      "tumor microenvironment"
     ],
     "topicBuckets": [
       "single-cell",
       "oncology",
       "immunology",
+      "ai",
       "computational biology",
       "translational medicine"
     ],
@@ -30,11 +29,46 @@
     "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology, computational biology",
+      "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
+    "isFeatured": false
+  },
+  {
+    "id": "d69188c9820a55b1",
+    "title": "Single-Cell Dissection Identifies METTL7B as Associated with Cell Adhesion-Mediated Tumor Invasion in Lung Adenocarcinoma and Glioblastoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42122180",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42122180",
+    "source": "pubmed",
+    "publicationName": "Cancers",
+    "journalName": "Cancers",
+    "publishedAt": "2026-04-27T00:00:00.000Z",
+    "fetchedAt": "2026-05-13T15:38:23.007Z",
+    "snippet": ": Tumor invasion is the central barrier to effective immunotherapy in lung adenocarcinoma (LUAD) and glioblastoma. Cell adhesion signaling critically shapes tumor-microenvironment interactions, yet the upstream regulators coordinating these invasive programs at single-cell resolution remain incompletely understood. Methyltransferase Like protein 7B (METTL7B...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
   }
 ]

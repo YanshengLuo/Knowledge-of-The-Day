@@ -1,37 +1,78 @@
 [
   {
-    "id": "744ad01b3dc08f52",
-    "title": "Rutin Combats Salmonella infection through virulence suppression and gut barrier maintenance.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42049094",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42049094",
+    "id": "1cc4f840380d5b98",
+    "title": "Machine Learning-Driven Metabolomic Biomarker Discovery in Glioblastoma: Advances, Challenges, and Future Directions.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42123428",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42123428",
     "source": "pubmed",
-    "publicationName": "Journal of advanced research",
-    "journalName": "Journal of advanced research",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
     "publishedAt": "2026-04-26T00:00:00.000Z",
-    "fetchedAt": "2026-04-29T15:00:34.859Z",
-    "snippet": "Salmonella Typhimurium (S. Typhimurium) is a major zoonotic pathogen causing severe gastroenteritis and septicemia. Traditional antibiotics targeting bacterial growth face increasing resistance challenges, while the development of novel antimicrobials is slow and costly. Antivirulence therapy, which targets bacterial virulence factors, has emerged as a prom...",
+    "fetchedAt": "2026-05-13T15:38:23.007Z",
+    "snippet": "Glioblastoma (GBM) is an aggressive tumor type known to recur after maximal safe surgical resection followed by concurrent radiation therapy (RT) and chemotherapy (temozolomide-TMZ), and adjuvant TMZ maintenance chemotherapy. It exhibits high intratumor heterogeneity within a single specimen, and thus clinical management remains a challenge due to its rapid...",
     "tags": [
       "research",
       "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "biomarker",
+      "machine learning"
     ],
     "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai"
+      "computational biology",
+      "oncology",
+      "ai",
+      "translational medicine"
     ],
     "isNewToday": false,
-    "importanceScore": 72,
+    "importanceScore": 75,
     "importanceSignals": [
-      "recent",
-      "priority topic: gene therapy, ai",
+      "published this month",
+      "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
+    "isFeatured": false
+  },
+  {
+    "id": "3474a9d35ec5829c",
+    "title": "Glioblastoma Stem Cells as Targets for Emerging Precision Immunotherapies and Molecular Treatments.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42121884",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42121884",
+    "source": "pubmed",
+    "publicationName": "Cells",
+    "journalName": "Cells",
+    "publishedAt": "2026-04-26T00:00:00.000Z",
+    "fetchedAt": "2026-05-13T15:38:23.007Z",
+    "snippet": "Advances in organoid and other three-dimensional culture systems, single-cell and spatial transcriptomics, multi-omics, and high-resolution imaging are reshaping our understanding of the cellular origins and evolutionary trajectories of glioblastoma. When integrated with modern data science approaches, these technologies enable the construction of increasin...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "computational biology",
+      "spatial"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 65,
     "isFeatured": true
   }
 ]
