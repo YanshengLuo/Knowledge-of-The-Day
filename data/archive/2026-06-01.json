@@ -1,24 +1,61 @@
 [
   {
-    "id": "3ae520c7699ad884",
-    "title": "Beyond chromatin accessibility: bulk ATAC-seq as an integrative assay to portray genomes and epigenomes.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42125447",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42125447",
+    "id": "582ff3111aa846b8",
+    "title": "Elevated E2F6 Expression in Colorectal Cancer Tissues and Its Association With Clinicopathological Features.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42136764",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42136764",
     "source": "pubmed",
-    "publicationName": "NAR genomics and bioinformatics",
-    "journalName": "NAR genomics and bioinformatics",
+    "publicationName": "World journal of oncology",
+    "journalName": "World journal of oncology",
     "publishedAt": "2026-06-01T00:00:00.000Z",
-    "fetchedAt": "2026-05-14T15:12:18.719Z",
-    "snippet": "Assay for transposase-accessible chromatin using sequencing (ATAC-seq) is a cornerstone for epigenomic profiling, yet its potential for genomic characterization remains poorly explored. Here, we systematically benchmarked bulk ATAC-seq against whole-genome sequencing (WGS) to assess its capacity for detecting small variants, copy number variations (CNVs), t...",
+    "fetchedAt": "2026-05-15T15:08:29.361Z",
+    "snippet": "Colorectal cancer (CRC) is the third most common malignancy worldwide, and the role of E2F transcription factor 6 (E2F6) in CRC remains controversial. We analyzed E2F6 mRNA expression across 19 platforms (2,449 CRC patients and 1,328 controls), evaluated expression patterns using single-cell RNA sequencing (scRNA-seq) and spatial transcriptomics, assessed E...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
       "computational biology",
+      "ai",
+      "single-cell"
+    ],
+    "isNewToday": false,
+    "importanceScore": 92,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "247e3edeb67535d7",
+    "title": "Systemic steroid treatment of grade I acute GVHD increases steroid-refractory GVHD and NRM.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42137422",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42137422",
+    "source": "pubmed",
+    "publicationName": "Blood immunology & cellular therapy",
+    "journalName": "Blood immunology & cellular therapy",
+    "publishedAt": "2026-06-01T00:00:00.000Z",
+    "fetchedAt": "2026-05-15T15:08:29.361Z",
+    "snippet": "The use of systemic corticosteroids is recommended only for grades II to IV acute graft-versus-host disease (GVHD), but many patients are often treated at the onset of grade I in real-world practice. We retrospectively analyzed outcomes of 1143 patients with grade I GVHD from 24 Mount Sinai Acute GVHD International Consortium (MAGIC) transplant centers. App...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
       "oncology"
     ],
     "topicBuckets": [
-      "computational biology",
+      "translational medicine",
       "oncology",
       "ai"
     ],
@@ -26,7 +63,7 @@
     "importanceScore": 92,
     "importanceSignals": [
       "very recent",
-      "priority topic: computational biology, oncology",
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"

@@ -1,33 +1,29 @@
 [
   {
-    "id": "354a8055ed7c1ecc",
-    "title": "Multiomics Reveals IL-17 Drives Epithelial Keratinization and Proliferation via EHF in Odontogenic Keratocysts.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42123694",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42123694",
+    "id": "5a992d17ceac72e3",
+    "title": "CEDR: robust consensus cancer subtyping with multi-omics data via ensemble dimensionality reduction.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42132951",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42132951",
     "source": "pubmed",
-    "publicationName": "International journal of molecular sciences",
-    "journalName": "International journal of molecular sciences",
+    "publicationName": "Briefings in bioinformatics",
+    "journalName": "Briefings in bioinformatics",
     "publishedAt": "2026-05-04T00:00:00.000Z",
-    "fetchedAt": "2026-05-14T15:12:18.719Z",
-    "snippet": "This study aims to investigate epithelial cell (EpC) heterogeneity in odontogenic keratocysts (OKCs) and the molecular mechanisms driving their characteristic keratinization and rapid proliferation. We integrated single-cell RNA sequencing (scRNA-seq) and spatial transcriptomics to profile OKC EpCs, validating findings via immunostaining and comparative ana...",
+    "fetchedAt": "2026-05-15T15:08:29.361Z",
+    "snippet": "Cancer is a highly heterogeneous disease underpinned by complex molecular alterations. Accurate subtyping is critical for guiding personalized treatment and improving clinical outcomes. However, multi-omics data are high-dimensional, noisy, and heterogeneous across platforms, posing major challenges for reliable subtyping. To address this, dimensionality re...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
-      "oncology",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
+      "oncology"
     ],
     "topicBuckets": [
       "computational biology",
       "oncology",
-      "ai",
-      "single-cell",
-      "spatial"
+      "translational medicine"
     ],
     "isNewToday": false,
+    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
       "priority topic: computational biology, oncology",
@@ -35,7 +31,39 @@
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 75,
+    "isFeatured": true
+  },
+  {
+    "id": "92df939f68fb3dca",
+    "title": "GEDO: topology-based inference of gene module activity in Sj&#xf6;gren's disease.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42132950",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42132950",
+    "source": "pubmed",
+    "publicationName": "Briefings in bioinformatics",
+    "journalName": "Briefings in bioinformatics",
+    "publishedAt": "2026-05-04T00:00:00.000Z",
+    "fetchedAt": "2026-05-15T15:08:29.361Z",
+    "snippet": "Inferring gene module activity is key to understanding transcriptomic dysregulation in case-control studies. Most existing gene set analysis methods focus on differences between groups without considering the complex geometry of the data. We introduce GEDO, a graph and topology-based method that infers gene module activity through a transition score, quanti...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
     "isFeatured": true
   }
 ]
