@@ -1,59 +1,27 @@
 [
   {
-    "id": "5a992d17ceac72e3",
-    "title": "CEDR: robust consensus cancer subtyping with multi-omics data via ensemble dimensionality reduction.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42132951",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42132951",
+    "id": "2bce289daf823d16",
+    "title": "Estimating tumour immune infiltration: methodological convergence across histology and spatial technologies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42139162",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42139162",
     "source": "pubmed",
     "publicationName": "Briefings in bioinformatics",
     "journalName": "Briefings in bioinformatics",
     "publishedAt": "2026-05-04T00:00:00.000Z",
-    "fetchedAt": "2026-05-15T15:08:29.361Z",
-    "snippet": "Cancer is a highly heterogeneous disease underpinned by complex molecular alterations. Accurate subtyping is critical for guiding personalized treatment and improving clinical outcomes. However, multi-omics data are high-dimensional, noisy, and heterogeneous across platforms, posing major challenges for reliable subtyping. To address this, dimensionality re...",
+    "fetchedAt": "2026-05-16T14:15:36.745Z",
+    "snippet": "Estimating tumour immune infiltration is critical for understanding cancer biology and predicting patient response to surgery and immunotherapy. A wide array of experimental platforms supports various computational approaches for quantifying tumour-infiltrating lymphocytes and immune infiltration level within the tumour microenvironment, including tradition...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
-      "oncology"
+      "oncology",
+      "spatial"
     ],
     "topicBuckets": [
       "computational biology",
       "oncology",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "92df939f68fb3dca",
-    "title": "GEDO: topology-based inference of gene module activity in Sj&#xf6;gren's disease.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42132950",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42132950",
-    "source": "pubmed",
-    "publicationName": "Briefings in bioinformatics",
-    "journalName": "Briefings in bioinformatics",
-    "publishedAt": "2026-05-04T00:00:00.000Z",
-    "fetchedAt": "2026-05-15T15:08:29.361Z",
-    "snippet": "Inferring gene module activity is key to understanding transcriptomic dysregulation in case-control studies. Most existing gene set analysis methods focus on differences between groups without considering the complex geometry of the data. We introduce GEDO, a graph and topology-based method that infers gene module activity through a transition score, quanti...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology"
+      "immunology"
     ],
     "isNewToday": false,
     "importanceScore": 65,
