@@ -8,7 +8,7 @@
     "publicationName": "Journal of neurochemistry",
     "journalName": "Journal of neurochemistry",
     "publishedAt": "2026-05-01T00:00:00.000Z",
-    "fetchedAt": "2026-05-17T14:17:42.997Z",
+    "fetchedAt": "2026-05-18T16:15:22.501Z",
     "snippet": "Glioblastoma (GB) is the most malignant form of human brain tumor, characterized by heterogeneous cell populations, including undifferentiated cells defined as GB stem cells (GSCs), responsible for initiating the neoplastic process as well as recurrence. Previous studies demonstrated that the activation of M2 muscarinic acetylcholine receptor (M2 mAChR) by....",
     "tags": [
       "research",
@@ -42,7 +42,7 @@
     "publicationName": "PLoS medicine",
     "journalName": "PLoS medicine",
     "publishedAt": "2026-05-01T00:00:00.000Z",
-    "fetchedAt": "2026-05-17T14:17:42.997Z",
+    "fetchedAt": "2026-05-18T16:15:22.501Z",
     "snippet": "Microvascular invasion (MVI) is closely related to the recurrence and metastasis of hepatocellular carcinoma (HCC), but the underlying cellular mechanism remains largely elusive. This study aims to elucidate the regional cellular discrepancy between MVI-positive (MVI+) and MVI-negative (MVI-) HCC by integrating Spatial transcriptomics (ST) and spatial metab...",
     "tags": [
       "research",
@@ -50,10 +50,7 @@
       "Computational oncology",
       "computational biology",
       "oncology",
-      "spatial",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
+      "spatial"
     ],
     "topicBuckets": [
       "computational biology",
@@ -62,6 +59,7 @@
       "spatial"
     ],
     "isNewToday": false,
+    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
       "priority topic: computational biology, oncology",
@@ -69,7 +67,6 @@
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 75,
     "isFeatured": true
   },
   {
@@ -81,7 +78,7 @@
     "publicationName": "Cancer medicine",
     "journalName": "Cancer medicine",
     "publishedAt": "2026-05-01T00:00:00.000Z",
-    "fetchedAt": "2026-05-17T14:17:42.997Z",
+    "fetchedAt": "2026-05-18T16:15:22.501Z",
     "snippet": "Pancreatic cancer remains a highly lethal malignancy due to late diagnosis and the lack of effective non-invasive biomarkers for detection, further complicated by biological heterogeneity, including intraductal papillary mucinous neoplasm (IPMN) and IPMN-associated invasive carcinoma (IPMC). Serum samples from a discovery cohort (n&#x2009;=&#x2009;60), incl...",
     "tags": [
       "research",
@@ -109,38 +106,39 @@
     "isFeatured": true
   },
   {
-    "id": "7d084dd37fe7f0ec",
-    "title": "Genomics ofLoss in >500,000 Solid Tumor Specimens Profiled Using Comprehensive Genomic Profiling Platforms.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42133901",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42133901",
+    "id": "4aca199a7bca353c",
+    "title": "Tumour-derived SAA1 reprogrammes macrophages to promote CXCL1-mediated metastasis in Ovarian Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42145073",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42145073",
     "source": "pubmed",
-    "publicationName": "JCO precision oncology",
-    "journalName": "JCO precision oncology",
+    "publicationName": "Clinical and translational medicine",
+    "journalName": "Clinical and translational medicine",
     "publishedAt": "2026-05-01T00:00:00.000Z",
-    "fetchedAt": "2026-05-17T14:17:42.997Z",
-    "snippet": "Methylthioadenosine phosphorylase () genomic loss is an emerging biomarker for PRMT5 and MAT2A inhibitors based on synthetic lethality. Thegene is located on chromosome 9p21.3 nearhomozygous loss across tumor types, specific exons lost,expression, and the landscape of coalterations were assessed. 409,755 tissue biopsies (TBx) and 85,801 liquid biopsies (LBx...",
+    "fetchedAt": "2026-05-18T16:15:22.501Z",
+    "snippet": "Patients with advanced high-grade serous ovarian carcinoma (HGSOC) often experience extremely poor prognoses due to extensive peritoneal metastases, yet the underlying driving mechanisms remain unclear. This study reveals that serum amyloid A1 (SAA1) is markedly upregulated in late-stage HGSOC and is closely associated with poor prognosis and distant metast...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
     ],
     "topicBuckets": [
-      "computational biology",
+      "single-cell",
       "oncology",
-      "translational medicine"
+      "immunology",
+      "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
+    "importanceScore": 65,
     "importanceSignals": [
       "published this month",
-      "priority topic: computational biology, oncology",
+      "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
+    "isFeatured": false
   },
   {
     "id": "3e3783ae0733f00c",
@@ -151,7 +149,7 @@
     "publicationName": "Journal of nuclear cardiology : official publication of the American Society of Nuclear Cardiology",
     "journalName": "Journal of nuclear cardiology : official publication of the American Society of Nuclear Cardiology",
     "publishedAt": "2026-05-01T00:00:00.000Z",
-    "fetchedAt": "2026-05-17T14:17:42.997Z",
+    "fetchedAt": "2026-05-18T16:15:22.501Z",
     "snippet": "Cardiac amyloidosis (CA) has rapidly transitioned from an underrecognized cause of heart failure to a treatable protein-misfolding cardiomyopathy, driven by advances in transthyretin (TTR) stabilization and gene silencing, and immunotherapy to control monoclonal light chain production. Noninvasive diagnosis of transthyretin cardiac amyloidosis (ATTR) using....",
     "tags": [
       "research",
@@ -186,7 +184,7 @@
     "publicationName": "Clinical and translational science",
     "journalName": "Clinical and translational science",
     "publishedAt": "2026-05-01T00:00:00.000Z",
-    "fetchedAt": "2026-05-17T14:17:42.997Z",
+    "fetchedAt": "2026-05-18T16:15:22.501Z",
     "snippet": "Mycophenolic acid (MPA) is a potent antiproliferative immunosuppressive agent used to prevent organ transplant rejection and to treat various immune-mediated diseases. MPA is the active metabolite formed from the biotransformation of the prodrugs mycophenolate mofetil (MMF) or enteric-coated mycophenolate sodium (EC-MPS). MPA exerts its therapeutic effects....",
     "tags": [
       "research",
@@ -212,16 +210,126 @@
     "isFeatured": true
   },
   {
-    "id": "e74245138a3a23ea",
-    "title": "Predictive value of primary gross tumor volume measured by MRI in response to neoadjuvant chemoradiotherapy in locally advanced rectal cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42142395",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42142395",
+    "id": "619aa55f35044151",
+    "title": "Inflammation-Driven Lymphoid Structures: Organization, Function, and Clinical Impact Across Autoimmunity, Cancer, and Checkpoint Toxicity.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42144723",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42144723",
     "source": "pubmed",
-    "publicationName": "Journal of applied clinical medical physics",
-    "journalName": "Journal of applied clinical medical physics",
+    "publicationName": "Immunological reviews",
+    "journalName": "Immunological reviews",
     "publishedAt": "2026-05-01T00:00:00.000Z",
-    "fetchedAt": "2026-05-17T14:17:42.997Z",
-    "snippet": "Neoadjuvant chemoradiotherapy (nCRT) is a standard treatment for locally advanced rectal cancer (LARC), yet individual tumor regression response varies considerably. This study aimed to identify clinical factors linked to tumor regression grade (TRG) after nCRT in LARC and to evaluate MRI-measured primary gross tumor volume (pGTV) as a predictor of TRG. We....",
+    "fetchedAt": "2026-05-18T16:15:22.501Z",
+    "snippet": "Lymphoid structures (LS) arising in nonlymphoid tissues are increasingly recognized as active immune niches rather than simple consequences of chronic inflammation. In this review, we propose a framework that distinguishes inflammatory lymphoid structures (ILS) from mature tertiary lymphoid structures (mTLS), while acknowledging that these entities may form...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "translational medicine",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 75,
+    "isFeatured": true
+  },
+  {
+    "id": "7ad925ac91e2cb63",
+    "title": "A multi-centre, prospective trial of a methylation-based liquid biopsy for early detection of liver cancer in high-risk populations.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42145083",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42145083",
+    "source": "pubmed",
+    "publicationName": "Clinical and translational medicine",
+    "journalName": "Clinical and translational medicine",
+    "publishedAt": "2026-05-01T00:00:00.000Z",
+    "fetchedAt": "2026-05-18T16:15:22.501Z",
+    "snippet": "Existing imaging and serum-marker assays miss many early liver cancers, especially in high-risk chronic liver disease carriers. We aimed to create a highly accurate, non-invasive, methylation-based liquid biopsy for early detection. We used a comprehensive, multi-platform, multi-cohort strategy for marker discovery, starting with methylation profiling of he...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "20fa7666af530271",
+    "title": "Unlocking beta cell health: The clinical potential of extracellular vesicles in type 1 diabetes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42145066",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42145066",
+    "source": "pubmed",
+    "publicationName": "Clinical and translational medicine",
+    "journalName": "Clinical and translational medicine",
+    "publishedAt": "2026-05-01T00:00:00.000Z",
+    "fetchedAt": "2026-05-18T16:15:22.501Z",
+    "snippet": "Type 1 diabetes (T1D) is a lifelong autoimmune disease characterised by progressive immune-mediated destruction of insulin-producing beta (&#x3b2;)T1D-cells, leading to permanent insulin dependence and increased risk of microvascular and macrovascular complications. Despite advances in autoantibody screening and immunotherapies, major clinical challenges pe...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "a5fbb6784c2610a9",
+    "title": "Integrated Molecular Risk Stratification and Measurable Residual Disease-Guided Consolidation Improve Outcomes in Pediatric Non-Down Syndrome Acute Megakaryoblastic Leukemia.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42144574",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42144574",
+    "source": "pubmed",
+    "publicationName": "Cancer medicine",
+    "journalName": "Cancer medicine",
+    "publishedAt": "2026-05-01T00:00:00.000Z",
+    "fetchedAt": "2026-05-18T16:15:22.501Z",
+    "snippet": "Management of pediatric acute megakaryoblastic leukemia (AMKL) without Down syndrome (non-DS-AMKL) remains challenging due to suboptimal induction responses and poor survival. This study assessed the efficacy of fludarabine, cytarabine, granulocyte colony-stimulating factor, and idarubicin (FLAG-IDA) in non-DS-AMKL and evaluated the role of risk-adapted con...",
     "tags": [
       "research",
       "pubmed",
