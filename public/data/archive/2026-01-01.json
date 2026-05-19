@@ -1,22 +1,90 @@
 [
   {
-    "id": "983c15c17176fa53",
-    "title": "Advancing precision immuno-oncology in melanoma: the synergistic convergence of personalized neoantigen vaccines and multi-omics biomarker profiling.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42136652",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42136652",
+    "id": "1e19531c603d715f",
+    "title": "Genomic alterations and dynamic molecular residual disease monitoring predict pathological response to neoadjuvant chemoimmunotherapy in esophageal squamous cell carcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42148099",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42148099",
     "source": "pubmed",
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-05-18T16:15:22.501Z",
-    "snippet": "Cutaneous melanoma represents a paradigm of immunological complexity, where multifactorial primary and acquired resistance often undermine the clinical efficacy of conventional immune checkpoint blockades and targeted therapies. This review provides a comprehensive analysis of the strategic shift toward precision immuno-oncology, focusing on the mechanistic...",
+    "fetchedAt": "2026-05-19T16:12:33.430Z",
+    "snippet": "Approximately 40-60% of patients with locally advanced esophageal squamous cell carcinoma (ESCC) exhibit suboptimal responses to neoadjuvant chemoimmunotherapy (NCIT), highlighting the need for predictive biomarkers of pathological response. We prospectively enrolled 29 stage II-III ESCC patients receiving NCIT (albumin-paclitaxel/carboplatin + anti-PD-1).....",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
       "oncology",
-      "biomarker"
+      "immunotherapy"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "14acf0568ed31801",
+    "title": "CFDCD14monocytes: potential pathogenic subset in myasthenia gravis uncovered by multi-omics integration and machine learning analysis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42148089",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42148089",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-05-19T16:12:33.430Z",
+    "snippet": "Transcriptome-wide association study (TWAS) contributes to discovering novel susceptibility genes related to diseases. Single-cell RNA sequencing (scRNA-seq) has been extensively applied to characterize cellular heterogeneity in various biological and pathological conditions. However, few studies have integrated TWAS and scRNA-seq to decode the pathogenesis...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "machine learning"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "single-cell"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "c45fbd63f8843d3a",
+    "title": "Multi-omics integration of molecular genetics, cytogenetics and immunophenotyping: a novel prognostic model for immune landscape characterization and outcome prediction in Chinese patients with acute myeloid leukemia.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42148074",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42148074",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-05-19T16:12:33.430Z",
+    "snippet": "Current genetic risk stratification systems for acute myeloid leukemia (AML), including the 2017 European Leukemia Network (ELN), 2022 ELN, and 2023 China (CN) stratifications, inconsistently categorize key genetic variants such asand. These systems also demonstrate limited applicability to Chinese patients, complicating clinical decision-making. This study...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
     ],
     "topicBuckets": [
       "computational biology",
@@ -32,19 +100,241 @@
       "rich summary",
       "rich metadata"
     ],
+    "isFeatured": false
+  },
+  {
+    "id": "0aa3049741e3433a",
+    "title": "Integrative Mendelian Randomization and Multiomics Analysis Identifies CAF-Derived Complement Factor B as a Prognostic Biomarker and Therapeutic Vulnerability in Breast Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42147810",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42147810",
+    "source": "pubmed",
+    "publicationName": "Human mutation",
+    "journalName": "Human mutation",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-05-19T16:12:33.430Z",
+    "snippet": "Complement factor B (CFB), a key component of the alternative complement pathway, has been implicated in tumor-related inflammation; however, its causal role and therapeutic relevance in breast cancer remain unclear. By integrating genetic epidemiology, multiomics transcriptomics analyses, and AI-assisted drug prediction, we aimed to clarify the biological....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "biomarker",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "translational medicine",
+      "immunology",
+      "single-cell"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 68,
     "isFeatured": true
   },
   {
-    "id": "58df4df397a20edb",
-    "title": "Probenecid is a dual-acting antiviral/anti-inflammatory therapy for diverse respiratory viruses.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42137343",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42137343",
+    "id": "83357afeb4ddc884",
+    "title": "A Propionate Metabolism-Based Gene Signature Reveals Immunogenomic and Transcriptomic Determinants of Prognosis in Glioblastoma Through Multiomics Integration.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42147808",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42147808",
     "source": "pubmed",
-    "publicationName": "Frontiers in pharmacology",
-    "journalName": "Frontiers in pharmacology",
+    "publicationName": "Human mutation",
+    "journalName": "Human mutation",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-05-18T16:15:22.501Z",
-    "snippet": "Probenecid is a host-directed drug that inhibits virus replication. Studies exploring how probenecid affects viral replication have demonstrated that it inhibits mitogen-activated protein kinase (MAPK) signaling pathways, which are important for the virus's replication and inflammation, and disrupt the formation of the activator protein-1 (AP-1) transcripti...",
+    "fetchedAt": "2026-05-19T16:12:33.430Z",
+    "snippet": "Glioblastoma (GBM) remains a lethal brain tumor with limited prognostic tools. Metabolic reprogramming, particularly in understudied pathways like propionate metabolism, may offer new biomarkers. Here, we identified a novel prognostic signature based on seven propionate metabolism-related genes (SLC9A1, ELANE, ACADS, SOAT2, MYD88, ADSL, and BMP2) from the T...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "translational medicine",
+      "single-cell",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 68,
+    "isFeatured": true
+  },
+  {
+    "id": "9fbfc656b249017b",
+    "title": "Stromal ACTA2 Counteracts TCDD-Induced Hepatocarcinogenesis via Suppression of the PI3K-AKT-mTOR Pathway.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42148320",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42148320",
+    "source": "pubmed",
+    "publicationName": "Journal of hepatocellular carcinoma",
+    "journalName": "Journal of hepatocellular carcinoma",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-05-19T16:12:33.430Z",
+    "snippet": "2,3,7,8-Tetrachlorodibenzo-p-dioxin (TCDD) is a persistent environmental pollutant that promotes hepatocellular carcinoma (HCC) through non-genotoxic mechanisms. However, stromal regulatory factors that counteract its tumor-promoting effects remain poorly defined. This study aimed to elucidate the role of actin alpha-2 (ACTA2) in TCDD-associated hepatocarci...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "70a8e5f806309e74",
+    "title": "Spatial transcriptomics uncovers TAC-OGEs heterogeneity and FN1/MMP9 signature in ameloblastoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42148096",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42148096",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-05-19T16:12:33.430Z",
+    "snippet": "This study aims to explore how the tumour microenvironment influences the aggressiveness, malignancy, and recurrence of ameloblastoma. By employing a spatial omics approach, we will examine the characteristics of the invasive front of ameloblastoma. We systematically characterised the cellular heterogeneity of ameloblastoma using spatial transcriptomic sequ...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "spatial",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai",
+      "computational biology",
+      "spatial"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 68,
+    "isFeatured": false
+  },
+  {
+    "id": "9af118c8a1014253",
+    "title": "A machine learning-derived hypoxia- and lactylation-associated gene signature for prognostic stratification and immune landscape characterization in lung adenocarcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42148081",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42148081",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-05-19T16:12:33.430Z",
+    "snippet": "Lung cancer is one of the most frequently diagnosed cancers and the leading cause of cancer-related death worldwide. Hypoxia and histone lactylation are emerging regulators of tumor progression and immune escape. However, their concurrent enrichment and immune-associated features in lung adenocarcinoma (LUAD) remain unclear. In this study, we employed a com...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "machine learning"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "3c3b3ef35d41d5c4",
+    "title": "Paired single cell analysis reveals chemotherapy resistance in osteosarcoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42147718",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42147718",
+    "source": "pubmed",
+    "publicationName": "Cancer drug resistance (Alhambra, Calif.)",
+    "journalName": "Cancer drug resistance (Alhambra, Calif.)",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-05-19T16:12:33.430Z",
+    "snippet": "Osteosarcoma remains aggressive with poor prognosis, particularly in chemotherapy-resistant cases. This study aimed to characterize transcriptional features of chemoresistant osteosarcoma cells, establish a prognostic resistance signature, and identify therapeutic vulnerabilities.Single-cell RNA sequencing (scRNA-seq) was performed on paired pre- and post-n...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "b58eb986720de534",
+    "title": "Genetically modified bone marrow cells halt mitral cell loss by modulating inflammation and protecting against DNA damage.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42152825",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42152825",
+    "source": "pubmed",
+    "publicationName": "Journal of tissue engineering",
+    "journalName": "Journal of tissue engineering",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-05-19T16:12:33.430Z",
+    "snippet": "Cell therapy is a promising strategy for tackling neurodegenerative diseases. The most outstanding results with this approach usually involve neuroprotection of damaged neurons at risk of death, but only with limited success. Current therapies are often based on the idea of \"one gene, one disease, one drug\" for single targets, a concept that limits their ac...",
     "tags": [
       "research",
       "pubmed",
@@ -55,12 +345,13 @@
     ],
     "topicBuckets": [
       "gene therapy",
-      "immunology"
+      "immunology",
+      "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 48,
+    "importanceScore": 58,
     "importanceSignals": [
-      "priority topic: gene therapy",
+      "priority topic: gene therapy, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -68,35 +359,103 @@
     "isFeatured": true
   },
   {
-    "id": "0684b3707b8239b9",
-    "title": "A new era of natural killer cell immunotherapy in tumor treatment: latest advances and cutting-edge perspectives from basic research to clinical practice.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42136666",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42136666",
+    "id": "ac15e1050d01ee16",
+    "title": "Efficacy of immune checkpoint inhibitor plus chemotherapy in ARID1A-mutated advanced gastric cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42153215",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42153215",
     "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
+    "publicationName": "Therapeutic advances in gastroenterology",
+    "journalName": "Therapeutic advances in gastroenterology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-05-18T16:15:22.501Z",
-    "snippet": "As early as 1863, Virchow observed that cancer often arises at sites of chronic inflammation. Modern epidemiological and clinical studies have confirmed the link between inflammation and cancer. Natural Killer (NK) cells actively participate in and regulate inflammatory processes; however, they are not strictly classified as classic 'inflammatory cells' in....",
+    "fetchedAt": "2026-05-19T16:12:33.430Z",
+    "snippet": "ARID1A mutations are frequent in gastric cancer (GC) and may indicate an immune-active tumor microenvironment. This study aimed to assess the efficacy of the immune checkpoint inhibitor (ICI) plus chemotherapy as first-line therapy in advanced GC and explore its association with key molecular features according to the status of ARID1A-mutation. This was a r...",
     "tags": [
       "research",
       "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation",
-      "immunotherapy"
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
     ],
     "topicBuckets": [
-      "gene therapy",
-      "immunology",
+      "translational medicine",
       "oncology",
-      "translational medicine"
+      "ai",
+      "immunology"
     ],
     "isNewToday": false,
     "importanceScore": 68,
     "importanceSignals": [
-      "priority topic: gene therapy, oncology",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "3dfe56b965cadce4",
+    "title": "Dynamic inflammatory biomarkers as prognostic indicators in advanced breast cancer patients receiving PD-1 inhibitors.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42153091",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42153091",
+    "source": "pubmed",
+    "publicationName": "Therapeutic advances in medical oncology",
+    "journalName": "Therapeutic advances in medical oncology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-05-19T16:12:33.430Z",
+    "snippet": "While programmed cell death protein 1 (PD-1) inhibitors benefit breast cancer patients, simple predictors of their efficacy are lacking. This study aimed to evaluate inflammatory markers as prognostic indicators for advanced breast cancer (ABC) patients receiving immunotherapy. This is a single-center retrospective study of ABC patients treated with PD-1 in...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "27a9a61e073d8da2",
+    "title": "Optimizing Clinical Practice and Efficacy Evaluation of Radiotherapy Combined with Immunotherapy in Recurrent Esophageal Cancer: A Retrospective Cohort Study Focusing on Patient-Reported Pain Relief and Tumor Proliferation Inhibition.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42152826",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42152826",
+    "source": "pubmed",
+    "publicationName": "Journal of multidisciplinary healthcare",
+    "journalName": "Journal of multidisciplinary healthcare",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-05-19T16:12:33.430Z",
+    "snippet": "To evaluate the clinical efficacy and safety of radiotherapy combined with immunotherapy in patients with recurrent esophageal cancer, with a focus on patient-reported pain relief and changes in tumor proliferation-related biomarkers. This retrospective observational cohort study included 70 patients with recurrent esophageal cancer treated at a single cent...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology",
+      "immunotherapy"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"

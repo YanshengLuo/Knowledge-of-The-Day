@@ -7,7 +7,7 @@
     "source": "biospace",
     "publicationName": "BioSpace",
     "publishedAt": "2026-05-15T18:27:45.000Z",
-    "fetchedAt": "2026-05-18T16:15:21.829Z",
+    "fetchedAt": "2026-05-19T16:12:32.722Z",
     "snippet": "Just a few days after FDA Commissioner Makary resigned, ally Tracy Beth Høeg is also leaving the agency. Her departure comes amid reports of tension over a commissioner's voucher for Sanofi's diabetes drug.",
     "tags": [
       "biotech",
@@ -33,7 +33,7 @@
     "source": "biospace",
     "publicationName": "BioSpace",
     "publishedAt": "2026-05-15T16:55:00.000Z",
-    "fetchedAt": "2026-05-18T16:15:21.829Z",
+    "fetchedAt": "2026-05-19T16:12:32.722Z",
     "snippet": "Follow along as BioSpace tracks job cuts and restructuring initiatives.",
     "tags": [
       "biotech",
@@ -59,7 +59,7 @@
     "source": "biospace",
     "publicationName": "BioSpace",
     "publishedAt": "2026-05-15T14:27:56.000Z",
-    "fetchedAt": "2026-05-18T16:15:21.829Z",
+    "fetchedAt": "2026-05-19T16:12:32.722Z",
     "snippet": "California life sciences jobs declined 1.8% last year, according to the new California Life Sciences sector report. While National Institutes of Health funding and venture capital investment rose, their growth slowed from the previous year.",
     "tags": [
       "biotech",
@@ -80,346 +80,203 @@
     "isFeatured": false
   },
   {
-    "id": "a5f7c03dfaad08fd",
-    "title": "Genmab drops 2 antibody assets, including another ProfoundBio ADC",
-    "url": "https://www.biospace.com/drug-development/genmab-drops-2-antibody-assets-including-another-profoundbio-adc",
-    "canonicalUrl": "https://www.biospace.com/drug-development/genmab-drops-2-antibody-assets-including-another-profoundbio-adc",
-    "source": "biospace",
-    "publicationName": "BioSpace",
-    "publishedAt": "2026-05-15T14:15:12.000Z",
-    "fetchedAt": "2026-05-18T16:15:21.829Z",
-    "snippet": "Rina-S is the last candidate standing from Genmab’s $1.8 billion ProfoundBio acquisition two years ago, with the Danish drugmaker ending development of another clinical program stemming from the buyout.",
+    "id": "7da2319b2bc216d2",
+    "title": "Integrated bioinformatics and experimental validation identify aging-related prognostic genes in clear cell renal cell carcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42152390",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42152390",
+    "source": "pubmed",
+    "publicationName": "Medicine",
+    "journalName": "Medicine",
+    "publishedAt": "2026-05-15T00:00:00.000Z",
+    "fetchedAt": "2026-05-19T16:12:33.430Z",
+    "snippet": "Clear cell renal cell carcinoma (ccRCC) is the most common renal carcinoma subtype. Aging-related genes (ARGs) are implicated in ccRCC progression, though their mechanisms remain unclear. This study aimed to elucidate the molecular mechanisms of ARGs in ccRCC and identify potential prognostic biomarkers and therapeutic targets. Transcriptomic data from the....",
     "tags": [
-      "biotech",
-      "industry"
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification"
     ],
     "topicBuckets": [
-      "biotech",
-      "funding",
+      "computational biology",
+      "oncology",
+      "ai",
       "translational medicine"
     ],
     "isNewToday": false,
-    "importanceScore": 60,
     "importanceSignals": [
       "recent",
-      "priority topic: translational medicine",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 82,
+    "isFeatured": true
+  },
+  {
+    "id": "3b59549485f4a736",
+    "title": "Polysaccharides Alleviates Diet-Induced Obesity in Mice by Modulating the Gut Microbiota and Reducing Intestinal Inflammation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42152541",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42152541",
+    "source": "pubmed",
+    "publicationName": "Journal of microbiology and biotechnology",
+    "journalName": "Journal of microbiology and biotechnology",
+    "publishedAt": "2026-05-15T00:00:00.000Z",
+    "fetchedAt": "2026-05-19T16:12:33.430Z",
+    "snippet": "This study examined the potential function and mechanism ofpolysaccharide (PCP) in alleviating high-fat diet -induced obesity in mice. Our results showed that high-dose PCP (PCP-H) significantly reduced body weight, blood lipid, and blood glucose levels in HFD-induced obese mice, whereas low-dose PCP (PCP-L) exhibited limited efficacy. Gut microbiota analys...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 62,
+    "importanceSignals": [
+      "recent",
+      "priority topic: gene therapy",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "ef156a4dc462b7e9",
+    "title": "Network pharmacology and Mendelian randomization analysis to unravel the mechanism of Qingwen Baidu Decoction in sepsis treatment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42152365",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42152365",
+    "source": "pubmed",
+    "publicationName": "Medicine",
+    "journalName": "Medicine",
+    "publishedAt": "2026-05-15T00:00:00.000Z",
+    "fetchedAt": "2026-05-19T16:12:33.430Z",
+    "snippet": "The aim of this study was to evaluate the potential components and targets of Qingwen Baidu Decoction (QBD) for sepsis by integrating a comprehensive strategy of network pharmacology and Mendelian randomization (MR). Systematically search the Traditional Chinese Medicine Systems Pharmacology, HERB, and Stitch databases for potential active ingredients and t...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 72,
+    "importanceSignals": [
+      "recent",
+      "priority topic: gene therapy, ai",
+      "high-signal source",
       "rich summary",
       "rich metadata"
     ],
     "isFeatured": false
   },
   {
-    "id": "6f27073565b551a4",
-    "title": "Sun Pharma recalls cancer drug after finding glass particles in some vials",
-    "url": "https://www.biospace.com/business/sun-pharma-recalls-cancer-drug-after-finding-glass-particles-in-some-vials",
-    "canonicalUrl": "https://www.biospace.com/business/sun-pharma-recalls-cancer-drug-after-finding-glass-particles-in-some-vials",
-    "source": "biospace",
-    "publicationName": "BioSpace",
-    "publishedAt": "2026-05-15T13:53:46.000Z",
-    "fetchedAt": "2026-05-18T16:15:21.829Z",
-    "snippet": "A batch of a chemotherapy product made at a Sun facility with a history of quality and compliance issues is being withdrawn from the U.S. market.",
+    "id": "f4564f32b32654c9",
+    "title": "GalNAc-modified five-component lipid nanoparticles for liver-targeted delivery of p65 siRNA to alleviate cytokine storm in liver injuryNF-&#x3ba;B targeting.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42149053",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42149053",
+    "source": "pubmed",
+    "publicationName": "Journal of materials chemistry. B",
+    "journalName": "Journal of materials chemistry. B",
+    "publishedAt": "2026-05-15T00:00:00.000Z",
+    "fetchedAt": "2026-05-19T16:12:33.430Z",
+    "snippet": "Acute liver injury (ALI) often triggers a systemic cytokine storm, in which the NF-&#x3ba;B subunit p65 plays a central role in driving inflammatory progression in hepatocytes. Delivering p65 siRNA to hepatocytes can effectively inhibit cellular inflammation and apoptosis. However, siRNA is inherently unstable and lacks tissue specificity. Lipid nanoparticl...",
     "tags": [
-      "biotech",
-      "industry"
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
     ],
     "topicBuckets": [
-      "biotech",
+      "gene therapy",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 62,
+    "importanceSignals": [
+      "recent",
+      "priority topic: gene therapy",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "9bdc1262492de006",
+    "title": "Prediction of postoperative mortality risk in hepatocellular carcinoma based on biomarkers and neural network models.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42152385",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42152385",
+    "source": "pubmed",
+    "publicationName": "Medicine",
+    "journalName": "Medicine",
+    "publishedAt": "2026-05-15T00:00:00.000Z",
+    "fetchedAt": "2026-05-19T16:12:33.430Z",
+    "snippet": "Hepatocellular carcinoma (HCC) is one of the most common malignant tumors worldwide, with high morbidity and mortality. Postoperative survival is influenced by various factors. Traditional prognostic assessment methods have limitations and often fail to fully reflect individual patient differences. This study aims to analyze physiological, biochemical, and....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
       "oncology"
     ],
-    "isNewToday": false,
-    "importanceScore": 54,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "4552e79ed455d0c7",
-    "title": "Biogen’s Alzheimer’s results bolster tau theory—and Denali’s next gen candidate",
-    "url": "https://www.biospace.com/drug-development/biogens-alzheimers-results-bolster-tau-theory-and-denalis-next-gen-candidate",
-    "canonicalUrl": "https://www.biospace.com/drug-development/biogens-alzheimers-results-bolster-tau-theory-and-denalis-next-gen-candidate",
-    "source": "biospace",
-    "publicationName": "BioSpace",
-    "publishedAt": "2026-05-15T13:30:32.000Z",
-    "fetchedAt": "2026-05-18T16:15:21.829Z",
-    "snippet": "If Biogen has shown that tau can impact cognition, Denali’s technology—validated with an FDA approval in Hunter syndrome—could ensure the medicine gets where it needs to be for the greatest therapeutic impact, analysts said.",
-    "tags": [
-      "biotech",
-      "industry"
-    ],
     "topicBuckets": [
-      "ai",
-      "biotech"
-    ],
-    "isNewToday": false,
-    "importanceScore": 60,
-    "importanceSignals": [
-      "recent",
-      "priority topic: ai",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "9cb2f27329738aa7",
-    "title": "Future of Aardvark’s Prader-Willi drug in doubt as FDA slaps full hold on program",
-    "url": "https://www.biospace.com/fda/future-of-aardvarks-prader-willi-drug-in-doubt-as-fda-slaps-full-hold-on-program",
-    "canonicalUrl": "https://www.biospace.com/fda/future-of-aardvarks-prader-willi-drug-in-doubt-as-fda-slaps-full-hold-on-program",
-    "source": "biospace",
-    "publicationName": "BioSpace",
-    "publishedAt": "2026-05-15T11:23:53.000Z",
-    "fetchedAt": "2026-05-18T16:15:21.829Z",
-    "snippet": "Aardvark Therapeutics had previously voluntarily suspended studies of ARD-101—and a related asset called ARD-201—after detecting anomalous echocardiographic readings in healthy volunteers that could indicate reduced heart efficiency.",
-    "tags": [
-      "biotech",
-      "industry"
-    ],
-    "topicBuckets": [
-      "biotech"
-    ],
-    "isNewToday": false,
-    "importanceScore": 50,
-    "importanceSignals": [
-      "recent",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "8a6e5fb3091c1cf7",
-    "title": "CREATE jumps into CAR T competition with $122M series B",
-    "url": "https://www.biospace.com/business/create-jumps-into-car-t-competition-with-122m-series-b",
-    "canonicalUrl": "https://www.biospace.com/business/create-jumps-into-car-t-competition-with-122m-series-b",
-    "source": "biospace",
-    "publicationName": "BioSpace",
-    "publishedAt": "2026-05-15T11:23:12.000Z",
-    "fetchedAt": "2026-05-18T16:15:21.829Z",
-    "snippet": "CREATE Medicines is working on a clinical-stage pipeline for cancer, while its autoimmune programs are still in preclinical testing.",
-    "tags": [
-      "biotech",
-      "industry"
-    ],
-    "topicBuckets": [
-      "biotech",
-      "oncology",
-      "gene therapy",
-      "funding",
       "translational medicine",
-      "immunology"
+      "oncology",
+      "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 74,
+    "importanceScore": 82,
     "importanceSignals": [
       "recent",
-      "priority topic: oncology, gene therapy",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
       "rich metadata"
     ],
     "isFeatured": false
   },
   {
-    "id": "26757b57cf3e93cb",
-    "title": "Combined ctDNA and serum PSA for dynamic monitoring of metastatic prostate cancer starting first-line treatment: a prospective national cohort study.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42141175",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42141175",
+    "id": "a123126e2be133e1",
+    "title": "Identification and comprehensive analysis of gene characteristics related to chromatin remodeling in thyroid cancer patients.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42152354",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42152354",
     "source": "pubmed",
-    "publicationName": "Nature cancer",
-    "journalName": "Nature cancer",
+    "publicationName": "Medicine",
+    "journalName": "Medicine",
     "publishedAt": "2026-05-15T00:00:00.000Z",
-    "fetchedAt": "2026-05-18T16:15:22.501Z",
-    "snippet": "The prognosis of newly diagnosed metastatic prostate cancer is highly variable. The primary objective of the PARADIGM prospective cohort study was to evaluate predictors of survival in blood collected at the start of each of the first six treatment cycles from 114 patients with high-volume metastatic prostate cancer (biologically male) who were starting and...",
+    "fetchedAt": "2026-05-19T16:12:33.430Z",
+    "snippet": "Thyroid cancer (THCA) is the 9th most common endocrine tumor worldwide. However, its etiology and pathogenesis are not fully understood. Therefore, this study aimed to identify the biomarkers associated with chromatin remodeling in patients with THCA. THCA-related datasets and chromatin remodeling related genes were included in this study. Differential expr...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
       "oncology"
     ],
     "topicBuckets": [
-      "computational biology",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 72,
-    "importanceSignals": [
-      "recent",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "48f13b6fa079a933",
-    "title": "Modulation of WNT and FGF18 enhances yield and subtype identity of hPSC-derived midbrain dopamine neurons.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42138078",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42138078",
-    "source": "pubmed",
-    "publicationName": "The Journal of clinical investigation",
-    "journalName": "The Journal of clinical investigation",
-    "publishedAt": "2026-05-15T00:00:00.000Z",
-    "fetchedAt": "2026-05-18T16:15:22.501Z",
-    "snippet": "While clinical trials of human pluripotent stem cell-derived midbrain dopamine (mDA) neuron precursor grafts for Parkinson's disease (PD) are ongoing, current protocols remain suboptimal. In particular, the yield of TH+ mDA neurons after in vivo grafting and the expression of certain mDA neuron and subtype-specific markers require improvement. Single-cell t...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
+      "translational medicine",
       "oncology",
-      "ai",
-      "biotech",
-      "single-cell",
-      "funding",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "0a55477baf9004d9",
-    "title": "Association of SCART1T cells with neutrophils and cytokine-mediated induction of immunosuppressive neutrophils in neuroblastoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42142822",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42142822",
-    "source": "pubmed",
-    "publicationName": "Clinical immunology (Orlando, Fla.)",
-    "journalName": "Clinical immunology (Orlando, Fla.)",
-    "publishedAt": "2026-05-15T00:00:00.000Z",
-    "fetchedAt": "2026-05-18T16:15:22.501Z",
-    "snippet": "Neuroblastoma (NB) is a pediatric solid tumor with poor outcomes in high-risk cases, largely driven by the tumor microenvironment (TME). Tumor-associated neutrophils (TANs) exert potent regulatory effects within the TME, but the mechanisms orchestrating their activation and functional polarization in NB remain elusive. Here, utilizing proteomic and single-c...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "gene therapy"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "e53fa2e40ea45f87",
-    "title": "The retinol metabolizing enzyme DHRS3 coordinates antigen presentation, endothelial stability, and cholesterol metabolism to suppress hepatocellular carcinoma progression.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42142584",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42142584",
-    "source": "pubmed",
-    "publicationName": "The Journal of biological chemistry",
-    "journalName": "The Journal of biological chemistry",
-    "publishedAt": "2026-05-15T00:00:00.000Z",
-    "fetchedAt": "2026-05-18T16:15:22.501Z",
-    "snippet": "Hepatocellular carcinoma (HCC) remains a therapeutic challenge due to tumor microenvironment heterogeneity and metabolic reprogramming. DHRS3, a retinol-metabolizing enzyme, exhibits paradoxical roles across cancers, but its specific function in HCC is poorly understood.This study integrated pan-cancer data from TCGA and GTEx, conducted single-cell and spat...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 72,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "f655cfa0c0242f47",
-    "title": "Idiopathic recurrent pericarditis in children: a tertiary care cohort highlighting the emergence and effectiveness of interleukin-1 blockade.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42141100",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42141100",
-    "source": "pubmed",
-    "publicationName": "European journal of pediatrics",
-    "journalName": "European journal of pediatrics",
-    "publishedAt": "2026-05-15T00:00:00.000Z",
-    "fetchedAt": "2026-05-18T16:15:22.501Z",
-    "snippet": "Idiopathic recurrent pericarditis (IRP) is an increasingly recognized inflammatory condition in children, characterized by recurrent flares and therapeutic challenges, with emerging evidence supporting a role for interleukin-1 (IL-1)-mediated pathways. This study aimed to characterize the clinical features of a pediatric IRP cohort at our center, to examine...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "94f51e45a98c6f3b",
-    "title": "Chd4 and ThPOK cooperate to preserve structural and electrophysiological integrity of the adult heart through Sprr1a repression.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42138467",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42138467",
-    "source": "pubmed",
-    "publicationName": "The FEBS journal",
-    "journalName": "The FEBS journal",
-    "publishedAt": "2026-05-15T00:00:00.000Z",
-    "fetchedAt": "2026-05-18T16:15:22.501Z",
-    "snippet": "The structural and electrophysiological stability of the adult heart depends on coordinated transcriptional repression governed by chromatin remodeling and nuclear architecture. The Chd4/NuRD complex is essential to maintain cardiomyocyte identity, and its deletion leads to arrhythmias, aberrant expression of skeletal muscle sarcomeric genes, and dysregulat...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
       "ai",
       "computational biology"
     ],
@@ -427,116 +284,42 @@
     "importanceScore": 82,
     "importanceSignals": [
       "recent",
-      "priority topic: gene therapy, ai",
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
+    "isFeatured": false
   },
   {
-    "id": "8e2bddacf207a3ff",
-    "title": "The temporal architecture of the seminiferous epithelial cycle revealed by spatial transcriptomics.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42143021",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42143021",
+    "id": "2b679f423ede15e1",
+    "title": "Pathogenesis and novel therapeutic perspectives in non-small cell lung cancer: Focusing on PI3K/AKT pathway regulation by traditional Chinese medicine monomers.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42152333",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42152333",
     "source": "pubmed",
-    "publicationName": "Cell",
-    "journalName": "Cell",
+    "publicationName": "Medicine",
+    "journalName": "Medicine",
     "publishedAt": "2026-05-15T00:00:00.000Z",
-    "fetchedAt": "2026-05-18T16:15:22.501Z",
-    "snippet": "Spermatogenesis features the seminiferous epithelial cycle, a periodic progression of germ-cell differentiation along the seminiferous tubules. Using seqFISH+ spatial transcriptomics, we profiled 2,653 genes in 867,062 mouse testis cells, revealing tubule-level transcriptional patterns that recapitulate the cycle and enable high-resolution temporal mapping....",
+    "fetchedAt": "2026-05-19T16:12:33.430Z",
+    "snippet": "Non-small cell lung cancer (NSCLC) remains a leading cause of global cancer mortality, with treatment efficacy limited by drug resistance and tumor heterogeneity. The phosphatidylinositol 3-kinase (PI3K)/AKT signaling pathway functions as a central \"command hub\" that integrates diverse oncogenic signals and coordinates downstream processes to drive tumor pr...",
     "tags": [
       "research",
       "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "spatial"
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
     ],
     "topicBuckets": [
-      "spatial",
+      "translational medicine",
       "oncology",
-      "computational biology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 72,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "b06bfbbf58b25260",
-    "title": "Single-cell and spatial analyses identify a glycolysis-high state driven by STOML2 in epithelial ovarian cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42142700",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42142700",
-    "source": "pubmed",
-    "publicationName": "Experimental cell research",
-    "journalName": "Experimental cell research",
-    "publishedAt": "2026-05-15T00:00:00.000Z",
-    "fetchedAt": "2026-05-18T16:15:22.501Z",
-    "snippet": "Metabolic heterogeneity contributes to therapeutic resistance and poor prognosis in epithelial ovarian cancer (EOC), yet the regulatory drivers of aggressive glycolytic states remain incompletely defined. We aimed to delineate glycolysis-associated malignant epithelial states and identify actionable regulatory hubs. We integrated single-cell RNA sequencing....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "single-cell",
-      "spatial"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "ai",
-      "single-cell"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "1762e11f84e762d5",
-    "title": "Cross-Platform Comparative Spatial Transcriptomics in High-Grade Serous Carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42142589",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42142589",
-    "source": "pubmed",
-    "publicationName": "Laboratory investigation; a journal of technical methods and pathology",
-    "journalName": "Laboratory investigation; a journal of technical methods and pathology",
-    "publishedAt": "2026-05-15T00:00:00.000Z",
-    "fetchedAt": "2026-05-18T16:15:22.501Z",
-    "snippet": "High-grade serous carcinoma (HGSC) is a remarkably heterogeneous tumor. The purpose of this study was to directly compare the reproducibility of transcriptomic profiles and biologically relevant molecular features across two spatial transcriptomics platforms-GeoMx Digital Spatial Profiler (GeoMx) and Visium Spatial Gene Expression (Visium) using AI-defined....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "spatial"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
       "ai"
     ],
     "isNewToday": false,
     "importanceScore": 82,
     "importanceSignals": [
       "recent",
-      "priority topic: oncology, computational biology",
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -544,75 +327,38 @@
     "isFeatured": true
   },
   {
-    "id": "0c7a935aecadb1c4",
-    "title": "HESpotEx: a dual-stream deep learning framework for spot-level gene expression prediction from histological images.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42141326",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42141326",
+    "id": "b4e55ca84f67c5fe",
+    "title": "M2 macrophage-associated factors for constructing a prognostic model for osteosarcoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42152328",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42152328",
     "source": "pubmed",
-    "publicationName": "Nature computational science",
-    "journalName": "Nature computational science",
+    "publicationName": "Medicine",
+    "journalName": "Medicine",
     "publishedAt": "2026-05-15T00:00:00.000Z",
-    "fetchedAt": "2026-05-18T16:15:22.501Z",
-    "snippet": "Whole-slide histopathological images (WSIs) constitute a fundamental approach in disease diagnosis and prognosis. Recently emerging spatial transcriptomics (ST) methods can reveal the spatial gene expression landscape behind the histopathological images, but with much higher cost. Here, therefore, we propose HESpotEx, a dual-stream multimodal deep learning....",
+    "fetchedAt": "2026-05-19T16:12:33.430Z",
+    "snippet": "Osteosarcoma (OS) is a common clinical malignant bone tumor. This study aimed to identify M2 macrophage-associated factors to construct a prognostic model for OS. The osteosarcoma-related profiles including expression data and clinical information were obtained from TCGA and NCBI Gene Expression Omnibus, respectively. The M2 macrophage-associated differenti...",
     "tags": [
       "research",
       "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
     ],
     "topicBuckets": [
-      "spatial",
+      "translational medicine",
       "oncology",
-      "computational biology",
       "ai"
     ],
     "isNewToday": false,
     "importanceScore": 82,
     "importanceSignals": [
       "recent",
-      "priority topic: oncology, computational biology",
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
-  },
-  {
-    "id": "280ed44c0fe1b5be",
-    "title": "Multi-omics interrogation identifies IRF4 as a causal transcription factor in monocytes that suppresses colorectal cancer progression by remodeling the immune microenvironment and inhibiting EMT.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42140033",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42140033",
-    "source": "pubmed",
-    "publicationName": "Translational oncology",
-    "journalName": "Translational oncology",
-    "publishedAt": "2026-05-15T00:00:00.000Z",
-    "fetchedAt": "2026-05-18T16:15:22.501Z",
-    "snippet": "Although surgery and chemotherapy remain standard treatments for colorectal cancer (CRC), immunotherapy offers a promising avenue for patients with advanced disease. However, the cellular and molecular mechanisms underlying CRC progression and immune evasion are not fully elucidated. We integrated single-cell RNA sequencing (GSE161277), bulk transcriptomic....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "ai",
-      "single-cell",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
+    "isFeatured": false
   }
 ]

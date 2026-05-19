@@ -1,61 +1,27 @@
 [
   {
-    "id": "8f5a8d58c12f1955",
-    "title": "Monitoring Cytogenetic Effects in Peripheral Blood Lymphocytes of Thyroid Cancer Patients Receiving Radioiodine Treatment.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42123626",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42123626",
+    "id": "35d63d1a40d5095b",
+    "title": "Integrating AI-driven single-cell analysis to decode epithelial heterogeneity: A prognostic signature and translational immunotherapy strategy targeting-induced PD-L1 in lung adenocarcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42147369",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42147369",
     "source": "pubmed",
-    "publicationName": "International journal of molecular sciences",
-    "journalName": "International journal of molecular sciences",
+    "publicationName": "Chinese journal of cancer research = Chung-kuo yen cheng yen chiu",
+    "journalName": "Chinese journal of cancer research = Chung-kuo yen cheng yen chiu",
     "publishedAt": "2026-04-30T00:00:00.000Z",
-    "fetchedAt": "2026-05-14T15:12:18.719Z",
-    "snippet": "This study investigated cytogenetic damage in peripheral blood lymphocytes of 10 differentiated thyroid cancer patients who received multipleI radioiodine (RAI) treatments following total thyroidectomy. Blood samples were collected before the RAI therapy course and 2-3 days after the course for a few selected courses (from 1 to 3) for each patient. The cumu...",
+    "fetchedAt": "2026-05-19T16:12:33.430Z",
+    "snippet": "The heterogeneity of epithelial cells and their interaction with the immune microenvironment play crucial roles in tumor progression, but the underlying mechanisms remain unclear. We analyzed single-cell transcriptomic data from normal and tumor tissues to characterize epithelial cells and their microenvironment. Key genes were identified and used, via surv...",
     "tags": [
       "research",
       "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "immunotherapy"
     ],
     "topicBuckets": [
-      "spatial",
+      "single-cell",
       "oncology",
-      "computational biology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "d88a593c97b4c27a",
-    "title": "Next-Generation Artificial Intelligence Strategies for Mechanistic Cancer Target Discovery and Drug Development: A State-of-the-Art Review.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42123604",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42123604",
-    "source": "pubmed",
-    "publicationName": "International journal of molecular sciences",
-    "journalName": "International journal of molecular sciences",
-    "publishedAt": "2026-04-30T00:00:00.000Z",
-    "fetchedAt": "2026-05-14T15:12:18.719Z",
-    "snippet": "Artificial intelligence (AI) is increasingly used in cancer research, enabling integrative analysis of complex biomedical data to identify actionable therapeutic vulnerabilities. This review specifically examines how AI advances mechanistic cancer target discovery and translational drug development, focusing on: (1) the processing of large-scale genomics, t...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
+      "immunology",
       "ai",
       "translational medicine"
     ],
@@ -63,45 +29,11 @@
     "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology, computational biology",
+      "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": false
-  },
-  {
-    "id": "a20c838fc7c35fcb",
-    "title": "SPARCL1 Enrichment at the Glioblastoma Invasive Front Is Consistent with Synaptogenic and Angiogenic Tumor Niches.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42123596",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42123596",
-    "source": "pubmed",
-    "publicationName": "International journal of molecular sciences",
-    "journalName": "International journal of molecular sciences",
-    "publishedAt": "2026-04-30T00:00:00.000Z",
-    "fetchedAt": "2026-05-14T15:12:18.719Z",
-    "snippet": "Astrocytes regulate key aspects of the neural microenvironment that can be co-opted by cancer to support tumor growth and invasion. Secreted protein acidic and rich in cysteine-like 1 (SPARCL1) is a matricellular glycoprotein expressed by astrocytes and stromal cells, whose expression varies across cancer types. While SPARCL1 is downregulated in many periph...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 65,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
+    "isFeatured": true
   }
 ]

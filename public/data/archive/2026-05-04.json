@@ -1,26 +1,60 @@
 [
   {
-    "id": "2bce289daf823d16",
-    "title": "Estimating tumour immune infiltration: methodological convergence across histology and spatial technologies.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42139162",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42139162",
+    "id": "ac6f9ce9f31d4755",
+    "title": "Foundation models and deep learning for cancer drug response prediction: a framework for data, metrics, and validation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42153322",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42153322",
     "source": "pubmed",
     "publicationName": "Briefings in bioinformatics",
     "journalName": "Briefings in bioinformatics",
     "publishedAt": "2026-05-04T00:00:00.000Z",
-    "fetchedAt": "2026-05-18T16:15:22.501Z",
-    "snippet": "Estimating tumour immune infiltration is critical for understanding cancer biology and predicting patient response to surgery and immunotherapy. A wide array of experimental platforms supports various computational approaches for quantifying tumour-infiltrating lymphocytes and immune infiltration level within the tumour microenvironment, including tradition...",
+    "fetchedAt": "2026-05-19T16:12:33.430Z",
+    "snippet": "The emergence of large-scale omics data and foundational models has renewed efforts in the field of cancer drug response prediction (DRP). Despite recent progress, challenges such as limited tumor heterogeneity in standard cell lines and inconsistencies in experimental protocols across studies persist. However, these challenges also open significant opportu...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
-      "oncology",
-      "spatial"
+      "oncology"
     ],
     "topicBuckets": [
       "computational biology",
       "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "65f98ff2c976ce0a",
+    "title": "Contemporary data-driven innovations in peptide-based therapeutic design.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42153319",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42153319",
+    "source": "pubmed",
+    "publicationName": "Briefings in bioinformatics",
+    "journalName": "Briefings in bioinformatics",
+    "publishedAt": "2026-05-04T00:00:00.000Z",
+    "fetchedAt": "2026-05-19T16:12:33.430Z",
+    "snippet": "In recent years, peptides have grabbed significant attention across many fields, including pharmaceutical, biomedical, and biotechnological industries, owing to their notable biological activity, low toxicity, and high specificity. Naturally occurring peptides play crucial roles in handling different biological processes (cellular signaling, immune response...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "biotech",
       "immunology"
     ],
     "isNewToday": false,
@@ -28,6 +62,42 @@
     "importanceSignals": [
       "published this month",
       "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "43263ac505fbc3c8",
+    "title": "spatiAlytica: Viewer-Grounded Multimodal Agentic System for Interactive Spatial Omics Analysis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42146494",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42146494",
+    "source": "pubmed",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
+    "publishedAt": "2026-05-04T00:00:00.000Z",
+    "fetchedAt": "2026-05-19T16:12:33.430Z",
+    "snippet": "Spatial transcriptomics and proteomics map tissue architecture and cellular interactions, but analysis remains limited by programming demands and text-centered AI agents that lack viewer grounding and cross-turn context. We present spatiAlytica, a viewer-centric multimodal interactive agentic system embedded in the Napari viewer that enables non-programmer....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "spatial"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
