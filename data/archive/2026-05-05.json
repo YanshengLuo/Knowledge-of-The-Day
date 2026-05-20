@@ -1,35 +1,37 @@
 [
   {
-    "id": "756294eab1e6776d",
-    "title": "TGBWDriver: A Cancer Driver Gene Identification Method Based on GraphSAGE and Bidirectional Weighted Feature Aggregation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42123713",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42123713",
+    "id": "e644f03acdfe3342",
+    "title": "Voriconazole therapy and CYP2C19 phenotype: identifying patients who may need alternative antifungal therapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42153394",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42153394",
     "source": "pubmed",
-    "publicationName": "International journal of molecular sciences",
-    "journalName": "International journal of molecular sciences",
+    "publicationName": "The Journal of antimicrobial chemotherapy",
+    "journalName": "The Journal of antimicrobial chemotherapy",
     "publishedAt": "2026-05-05T00:00:00.000Z",
-    "fetchedAt": "2026-05-14T15:12:18.719Z",
-    "snippet": "Identifying cancer driver genes is fundamental for understanding tumor initiation and guiding therapeutic strategies. However, most existing methods assess gene importance from a global or static perspective, overlooking sample-specific functional differences in the same gene. To address this, we propose TGBWDriver, which integrates a two-layer GraphSAGE wi...",
+    "fetchedAt": "2026-05-20T16:21:20.360Z",
+    "snippet": "CYP2C19 phenotype is a known contributor to the interpatient variability in voriconazole response. Alternative therapy is recommended for ultrarapid/rapid and poor metabolizers due to increased probability of subtherapeutic exposure and side effects, respectively. We aimed to evaluate whether CYP2C19 phenotype is associated with switching from voriconazole....",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
     ],
     "topicBuckets": [
-      "computational biology",
-      "oncology"
+      "gene therapy",
+      "immunology",
+      "ai"
     ],
     "isNewToday": false,
     "importanceScore": 65,
     "importanceSignals": [
       "published this month",
-      "priority topic: computational biology, oncology",
+      "priority topic: gene therapy, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": false
+    "isFeatured": true
   }
 ]
