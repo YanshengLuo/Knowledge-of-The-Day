@@ -1,21 +1,22 @@
 [
   {
-    "id": "3b478fa370c65352",
-    "title": "Multi-Omics Integration Identifies a Six-Gene Diagnostic Signature for Ankylosing Spondylitis via Metabolic-Immune Crosstalk.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42123445",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42123445",
+    "id": "d54279358fe6ad65",
+    "title": "Machine learning integration of multi-omics data develops a sarcomatoid-related renal cell carcinoma score (SARS) for prognosis stratification and guiding therapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42164390",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42164390",
     "source": "pubmed",
-    "publicationName": "International journal of molecular sciences",
-    "journalName": "International journal of molecular sciences",
+    "publicationName": "Translational andrology and urology",
+    "journalName": "Translational andrology and urology",
     "publishedAt": "2026-04-27T00:00:00.000Z",
-    "fetchedAt": "2026-05-13T15:38:23.007Z",
-    "snippet": "Ankylosing spondylitis (AS) is a chronic immune-mediated inflammatory disease affecting the axial skeleton, characterized by progressive structural damage and functional impairment. Although biologic therapies targeting tumor necrosis factor and interleukin-17 have improved clinical outcomes, a substantial proportion of patients fail to achieve sustained di...",
+    "fetchedAt": "2026-05-21T16:09:30.138Z",
+    "snippet": "Clear cell renal cell carcinoma (ccRCC) exhibits significant molecular heterogeneity, which limits the benefit of immunotherapy and underscores the urgent need for robust predictive biomarkers. The highly aggressive sarcomatoid phenotype, with its distinct treatment responses, provides a promising biological foundation for model development. This study aime...",
     "tags": [
       "research",
       "pubmed",
       "Single-cell TME",
       "single-cell",
-      "tumor microenvironment"
+      "tumor microenvironment",
+      "machine learning"
     ],
     "topicBuckets": [
       "single-cell",
@@ -34,34 +35,39 @@
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": false
+    "isFeatured": true
   },
   {
-    "id": "d69188c9820a55b1",
-    "title": "Single-Cell Dissection Identifies METTL7B as Associated with Cell Adhesion-Mediated Tumor Invasion in Lung Adenocarcinoma and Glioblastoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42122180",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42122180",
+    "id": "e227fb5368e68021",
+    "title": "Spatial multi-omics reveals a cancer-associated fibroblast-T cell niche sustaining tissue-resident immunity in clear-cell renal cell carcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42164383",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42164383",
     "source": "pubmed",
-    "publicationName": "Cancers",
-    "journalName": "Cancers",
+    "publicationName": "Translational andrology and urology",
+    "journalName": "Translational andrology and urology",
     "publishedAt": "2026-04-27T00:00:00.000Z",
-    "fetchedAt": "2026-05-13T15:38:23.007Z",
-    "snippet": ": Tumor invasion is the central barrier to effective immunotherapy in lung adenocarcinoma (LUAD) and glioblastoma. Cell adhesion signaling critically shapes tumor-microenvironment interactions, yet the upstream regulators coordinating these invasive programs at single-cell resolution remain incompletely understood. Methyltransferase Like protein 7B (METTL7B...",
+    "fetchedAt": "2026-05-21T16:09:30.138Z",
+    "snippet": "Clear-cell renal cell carcinoma (ccRCC) has a lot of immune cells in it, but the performance of the body's immune system against ccRCC and the outcome for patients who have ccRCC vary greatly. Recent studies indicate that not only how many immune cells are present, but also the state of those cells and how they are arranged within the tumor microenvironment...",
     "tags": [
       "research",
       "pubmed",
       "Single-cell TME",
       "single-cell",
-      "tumor microenvironment"
+      "tumor microenvironment",
+      "spatial",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
     ],
     "topicBuckets": [
       "single-cell",
       "oncology",
       "immunology",
-      "ai"
+      "ai",
+      "computational biology",
+      "spatial"
     ],
     "isNewToday": false,
-    "importanceScore": 65,
     "importanceSignals": [
       "published this month",
       "priority topic: oncology, ai",
@@ -69,6 +75,7 @@
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": false
+    "importanceScore": 75,
+    "isFeatured": true
   }
 ]
