@@ -1,43 +1,5 @@
 [
   {
-    "id": "d54279358fe6ad65",
-    "title": "Machine learning integration of multi-omics data develops a sarcomatoid-related renal cell carcinoma score (SARS) for prognosis stratification and guiding therapy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42164390",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42164390",
-    "source": "pubmed",
-    "publicationName": "Translational andrology and urology",
-    "journalName": "Translational andrology and urology",
-    "publishedAt": "2026-04-27T00:00:00.000Z",
-    "fetchedAt": "2026-05-21T16:09:30.138Z",
-    "snippet": "Clear cell renal cell carcinoma (ccRCC) exhibits significant molecular heterogeneity, which limits the benefit of immunotherapy and underscores the urgent need for robust predictive biomarkers. The highly aggressive sarcomatoid phenotype, with its distinct treatment responses, provides a promising biological foundation for model development. This study aime...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "machine learning"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "computational biology",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
     "id": "e227fb5368e68021",
     "title": "Spatial multi-omics reveals a cancer-associated fibroblast-T cell niche sustaining tissue-resident immunity in clear-cell renal cell carcinoma.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42164383",
@@ -46,36 +8,32 @@
     "publicationName": "Translational andrology and urology",
     "journalName": "Translational andrology and urology",
     "publishedAt": "2026-04-27T00:00:00.000Z",
-    "fetchedAt": "2026-05-21T16:09:30.138Z",
+    "fetchedAt": "2026-05-22T15:42:59.386Z",
     "snippet": "Clear-cell renal cell carcinoma (ccRCC) has a lot of immune cells in it, but the performance of the body's immune system against ccRCC and the outcome for patients who have ccRCC vary greatly. Recent studies indicate that not only how many immune cells are present, but also the state of those cells and how they are arranged within the tumor microenvironment...",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "spatial",
       "Spatial oncology",
       "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "computational biology",
+      "cancer",
       "spatial"
     ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "ai",
+      "immunology"
+    ],
     "isNewToday": false,
+    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology, ai",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 75,
     "isFeatured": true
   }
 ]
