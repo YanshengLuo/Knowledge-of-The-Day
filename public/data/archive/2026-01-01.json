@@ -1,178 +1,32 @@
 [
   {
-    "id": "23670a627b572a45",
-    "title": "Bioinformatics Combined With Biological Experiments to Explore the Promotion of Lung Metastasis by CCL18 in the Immune Microenvironment of Colorectal Cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42170304",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42170304",
+    "id": "a40154ab69ff7d10",
+    "title": "Annealed variational mixtures for&#xa0;disease subtyping and&#xa0;biomarker discovery.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42173684",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42173684",
     "source": "pubmed",
-    "publicationName": "Human mutation",
-    "journalName": "Human mutation",
+    "publicationName": "Statistical applications in genetics and molecular biology",
+    "journalName": "Statistical applications in genetics and molecular biology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-05-22T15:42:59.386Z",
-    "snippet": "Colorectal cancer (CRC) is one of the most prevalent malignant neoplasms. Tumor metastasis represents a significant contributor to unfavorable prognosis, and lung metastasis is the most common extra-abdominal metastasis of CRC. However, pulmonary metastatic CRC has not received significant attention. Therefore, in this study, our main aim was to discover th...",
+    "fetchedAt": "2026-05-23T14:22:34.525Z",
+    "snippet": "Cluster analyses of high-dimensional data are often hampered by the presence of large numbers of variables that do not provide relevant information, as well as the perennial issue of choosing an appropriate number of clusters. These challenges are frequently encountered when analysing omics datasets, such as in molecular precision medicine, where a key goal...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
       "oncology",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification"
+      "biomarker"
     ],
     "topicBuckets": [
       "computational biology",
       "oncology",
-      "ai",
-      "immunology",
       "translational medicine"
     ],
     "isNewToday": false,
-    "importanceSignals": [
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "importanceScore": 68,
-    "isFeatured": true
-  },
-  {
-    "id": "6575edb34a3e67ed",
-    "title": "Preclinical evaluation of a multi-epitope mRNA vaccine platform for broad and durable SARS-CoV-2 protection.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42164511",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42164511",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-05-22T15:42:59.386Z",
-    "snippet": "The emergence of immune-evasive SARS-CoV-2 variants has exposed limitations in the breadth and durability of protection conferred by current Spike-based vaccines, highlighting the need for next-generation approaches targeting conserved viral regions. Here, we describe the design and preclinical evaluation of an optimized multi-epitope vaccine, CoV2-BMEPu. C...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "translational medicine",
-      "immunology"
-    ],
-    "isNewToday": false,
     "importanceScore": 68,
     "importanceSignals": [
       "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "069208239d780930",
-    "title": "Integrated characterization of distinct immune subtypes linked to drug responsiveness in breast cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42164482",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42164482",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-05-22T15:42:59.386Z",
-    "snippet": "Precision medicine emphasizes accurate patient stratification. However, existing molecular frameworks often fail to fully capture the intrinsic heterogeneity of breast cancer (BRCA). This study aims to establish a novel immune-based classification system using immunological gene sets to elucidate tumor heterogeneity and identify predictive biomarkers for op...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai",
-      "translational medicine",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "1bb94722912695d2",
-    "title": "A Mitoxyperilysis-Related Single-Cell and Machine-Learning Framework Defines an Immune-Cold Melanoma Phenotype and a Robust Prognostic Signature.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42170303",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42170303",
-    "source": "pubmed",
-    "publicationName": "Human mutation",
-    "journalName": "Human mutation",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-05-22T15:42:59.386Z",
-    "snippet": "Mitoxyperilysis is a mitochondria-dependent membrane lysis process driven by innate immune and metabolic cues, yet its clinical relevance in melanoma remains unclear. We analyzed single-cell RNA-seq data (GSE215120) to quantify a mitoxyperilysis-related score (MRS), resolve cell-type heterogeneity, and compare predicted cell-cell communication between MRS-h...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceSignals": [
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "importanceScore": 68,
-    "isFeatured": true
-  },
-  {
-    "id": "92c9687c4e69a1b6",
-    "title": "Chemotherapy-induced peripheral neuropathy in breast cancer: a narrative review.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42170578",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42170578",
-    "source": "pubmed",
-    "publicationName": "Translational breast cancer research : a journal focusing on translational research in breast cancer",
-    "journalName": "Translational breast cancer research : a journal focusing on translational research in breast cancer",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-05-22T15:42:59.386Z",
-    "snippet": "Chemotherapy-induced peripheral neuropathy (CIPN) remains a major, unresolved complication of breast cancer therapy, often leading to treatment modifications and enduring functional impairment. This review addresses the complex pathogenesis of CIPN, as well as the clinical presentation and impact of CIPN on patient quality of life. The primary objective of....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
