@@ -1,38 +1,74 @@
 [
   {
-    "id": "d0edc1ee549e5799",
-    "title": "Artificial intelligence-enhanced ultrasound multimodal imaging and tissue characterization for predicting immunotherapy efficacy in rectal cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42176680",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42176680",
+    "id": "dc3f150c13d8d0e1",
+    "title": "Spatiotemporal dynamics of adoptively transferred stem-like CD8T cells in the tumor microenvironment following vaccination.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42182429",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42182429",
     "source": "pubmed",
-    "publicationName": "Tissue & cell",
-    "journalName": "Tissue & cell",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
     "publishedAt": "2026-05-14T00:00:00.000Z",
-    "fetchedAt": "2026-05-24T14:18:32.733Z",
-    "snippet": "Rectal cancer remains a global health burden, with immunotherapy emerging as a transformative treatment modality demonstrating substantial pathological complete response rates across molecular subtypes. However, current response assessment methods based on anatomical size measurements (RECIST criteria) fail to capture complex Tumor Microenvironment transfor...",
+    "fetchedAt": "2026-05-26T16:33:33.210Z",
+    "snippet": "Adoptive cell therapy (ACT) of tumor-specific T cells can improve survival in a subset of cancer patients. Current ACT approaches may be limited by using highly differentiated T cells which can be inhibited by an immunosuppressive tumor microenvironment (TME). Here, we developed an approach to optimize ACT and used spatial transcriptomics to show how stem-l...",
     "tags": [
       "research",
       "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology",
-      "immunotherapy"
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
     ],
     "topicBuckets": [
-      "translational medicine",
+      "spatial",
       "oncology",
-      "ai"
+      "computational biology",
+      "gene therapy",
+      "immunology"
     ],
     "isNewToday": false,
     "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: translational medicine, oncology",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
     "isFeatured": true
+  },
+  {
+    "id": "7e58edcb0cf0802b",
+    "title": "DeSpotX: Identifiability-Based Decontamination for Spatial Transcriptomics.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42182137",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42182137",
+    "source": "pubmed",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
+    "publishedAt": "2026-05-14T00:00:00.000Z",
+    "fetchedAt": "2026-05-26T16:33:33.210Z",
+    "snippet": "Spatial transcriptomics (ST) at single-cell resolution profiles gene expression in its native spatial context, but a substantial fraction of transcripts contaminate neighboring cells, compromising downstream biological analyses. Existing decontamination methods rely on heuristic priors and either ignore the spatial structure of contamination or aggregate ov...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "spatial"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "single-cell"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
   }
 ]

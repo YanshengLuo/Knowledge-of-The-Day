@@ -1,15 +1,15 @@
 [
   {
-    "id": "73db11419b2bc097",
-    "title": "A scalable, multi-resolution consensus clustering approach for prioritizing robust signals from high-throughput screens.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42177640",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42177640",
+    "id": "9ef56f1aed8b6f24",
+    "title": "GOLDEN fusion: a graph-oriented learning with domain-embedding network fusion for generating super gene sets in functional genomics.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42184114",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42184114",
     "source": "pubmed",
     "publicationName": "Briefings in bioinformatics",
     "journalName": "Briefings in bioinformatics",
     "publishedAt": "2026-05-04T00:00:00.000Z",
-    "fetchedAt": "2026-05-25T15:44:31.392Z",
-    "snippet": "Modern biology increasingly relies on large-scale screening to generate high dimensional datasets with potential to accelerate discovery. However, analysing these complex datasets remains challenging, due to hierarchical biological structure, uncertainty in the true number of groups, and high dimensional noise that confounds genuine biological signal. Here....",
+    "fetchedAt": "2026-05-26T16:33:33.210Z",
+    "snippet": "The integrative analysis of gene sets, networks, and pathways is pivotal for deciphering omics data in translational biomedical research. To significantly increase gene coverage and enhance the utility of gene sets from diverse sources, we introduced pathways, annotated gene lists, and gene signatures (PAGs) enriched with metadata to represent biological fu...",
     "tags": [
       "research",
       "pubmed",
@@ -20,7 +20,43 @@
     "topicBuckets": [
       "computational biology",
       "oncology",
-      "ai"
+      "ai",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "2040453bd5e30cce",
+    "title": "ssNetShift: single-sample metabolic network rewiring reveals hidden prognostic subtypes beyond clinical staging in gastric cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42184110",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42184110",
+    "source": "pubmed",
+    "publicationName": "Briefings in bioinformatics",
+    "journalName": "Briefings in bioinformatics",
+    "publishedAt": "2026-05-04T00:00:00.000Z",
+    "fetchedAt": "2026-05-26T16:33:33.210Z",
+    "snippet": "Current metabolomics approaches predominantly rely on group-level differential abundance screening. While effective for identifying biomarkers, this paradigm often overlooks upstream regulatory hubs and fails to resolve the inter-individual heterogeneity inherent in complex diseases. To bridge this gap, we present ssNetShift, a single-sample network framewo...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "translational medicine"
     ],
     "isNewToday": false,
     "importanceScore": 75,
