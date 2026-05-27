@@ -1,34 +1,104 @@
 [
   {
-    "id": "c3a6267a7b0482d6",
-    "title": "Enhancing cell type annotation for cancer transcriptomics using retrieval-augmented generation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42184649",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42184649",
+    "id": "2478ba6accee1780",
+    "title": "[Myricetin inhibits proliferation and migration of bladder cancer cells by inhibiting HSP90AA1-mediated AKT phosphorylation].",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42198964",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42198964",
     "source": "pubmed",
-    "publicationName": "Cancer genetics",
-    "journalName": "Cancer genetics",
+    "publicationName": "Nan fang yi ke da xue xue bao = Journal of Southern Medical University",
+    "journalName": "Nan fang yi ke da xue xue bao = Journal of Southern Medical University",
     "publishedAt": "2026-05-20T00:00:00.000Z",
-    "fetchedAt": "2026-05-26T16:33:33.210Z",
-    "snippet": "Single-cell RNA sequencing has become an essential approach for investigating cellular heterogeneity in cancer, enabling detailed characterization of malignant cells, tumor microenvironments, and genetically distinct subpopulations. However, accurate and reproducible cell type annotation remains a major analytical bottleneck, limiting the reliability of dow...",
+    "fetchedAt": "2026-05-27T16:30:01.751Z",
+    "snippet": "To explore the targets and molecular mechanisms mediating the inhibitory effect of myricetin against bladder cancer. The potential targets of myricetin were predicted using SwissTargetPrediction and SEA Search Server, bladder cancer-related targets were screened from TCGA transcriptome and FinnGen plasma proteome data, and the intersecting genes were obtain...",
     "tags": [
       "research",
       "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "5d6f03398dedc3b4",
+    "title": "[Multi-omics integration deciphers immune-metabolic heterogeneity in colorectal cancer: a prognostic model and therapeutic strategies targeting ANGPTL4/FABP4/RBP7].",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42198959",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42198959",
+    "source": "pubmed",
+    "publicationName": "Nan fang yi ke da xue xue bao = Journal of Southern Medical University",
+    "journalName": "Nan fang yi ke da xue xue bao = Journal of Southern Medical University",
+    "publishedAt": "2026-05-20T00:00:00.000Z",
+    "fetchedAt": "2026-05-27T16:30:01.751Z",
+    "snippet": "To explore the heterogeneity of tumor immune microenvironment (TIME) in colorectal cancer (CRC) and the resultant treatment resistance and develop a prognostic model for predicting the treatment outcomes of CRC. The multi-omics data including transcriptomic, somatic mutation and single-cell RNA sequencing data of a total of 1136 CRC samples from a TCGA coho...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
       "Single-cell TME",
       "single-cell",
       "tumor microenvironment"
     ],
     "topicBuckets": [
-      "single-cell",
+      "computational biology",
       "oncology",
-      "immunology",
-      "ai",
-      "computational biology"
+      "single-cell",
+      "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
     "importanceSignals": [
-      "recent",
-      "priority topic: oncology, ai",
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 65,
+    "isFeatured": true
+  },
+  {
+    "id": "eeacba7afc1a2a74",
+    "title": "Circulating Polyamines and Metabolic Changes Following a Mediterranean Diet with or Without Naltrexone/Bupropion in Breast Cancer Survivors: An Exploratory Secondary Analysis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42197081",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42197081",
+    "source": "pubmed",
+    "publicationName": "Nutrients",
+    "journalName": "Nutrients",
+    "publishedAt": "2026-05-20T00:00:00.000Z",
+    "fetchedAt": "2026-05-27T16:30:01.751Z",
+    "snippet": "The Mediterranean diet is widely recognized for its cardiovascular and metabolic benefits, including weight reduction; however, the metabolic mechanisms underlying these effects remain incompletely understood. This study investigated whether changes in circulating polyamines are associated with metabolic improvements following a Mediterranean diet intervent...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"

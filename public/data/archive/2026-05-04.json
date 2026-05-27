@@ -1,72 +1,36 @@
 [
   {
-    "id": "9ef56f1aed8b6f24",
-    "title": "GOLDEN fusion: a graph-oriented learning with domain-embedding network fusion for generating super gene sets in functional genomics.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42184114",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42184114",
+    "id": "8f20e67cce451b6f",
+    "title": "Endostemonine I as a Multi-Target Inhibitor of Kaposi's Sarcoma-Associated Herpesvirus Oncogenic Pathways: An Integrative Computational Study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42201028",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42201028",
     "source": "pubmed",
-    "publicationName": "Briefings in bioinformatics",
-    "journalName": "Briefings in bioinformatics",
+    "publicationName": "Medical sciences (Basel, Switzerland)",
+    "journalName": "Medical sciences (Basel, Switzerland)",
     "publishedAt": "2026-05-04T00:00:00.000Z",
-    "fetchedAt": "2026-05-26T16:33:33.210Z",
-    "snippet": "The integrative analysis of gene sets, networks, and pathways is pivotal for deciphering omics data in translational biomedical research. To significantly increase gene coverage and enhance the utility of gene sets from diverse sources, we introduced pathways, annotated gene lists, and gene signatures (PAGs) enriched with metadata to represent biological fu...",
+    "fetchedAt": "2026-05-27T16:30:01.751Z",
+    "snippet": "Kaposi's sarcoma (KS) is an angioproliferative malignancy caused by Kaposi's sarcoma-associated herpesvirus (KSHV), characterized by aberrant angiogenesis, chronic inflammation, and endothelial cell transformation. Given the multi-factorial nature of KS pathogenesis, strategies that simultaneously modulate multiple mo-lecular targets are considered more pro...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
     ],
     "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai",
-      "translational medicine"
+      "gene therapy",
+      "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
+    "importanceScore": 55,
     "importanceSignals": [
       "published this month",
-      "priority topic: computational biology, oncology",
+      "priority topic: gene therapy",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
-  },
-  {
-    "id": "2040453bd5e30cce",
-    "title": "ssNetShift: single-sample metabolic network rewiring reveals hidden prognostic subtypes beyond clinical staging in gastric cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42184110",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42184110",
-    "source": "pubmed",
-    "publicationName": "Briefings in bioinformatics",
-    "journalName": "Briefings in bioinformatics",
-    "publishedAt": "2026-05-04T00:00:00.000Z",
-    "fetchedAt": "2026-05-26T16:33:33.210Z",
-    "snippet": "Current metabolomics approaches predominantly rely on group-level differential abundance screening. While effective for identifying biomarkers, this paradigm often overlooks upstream regulatory hubs and fails to resolve the inter-individual heterogeneity inherent in complex diseases. To bridge this gap, we present ssNetShift, a single-sample network framewo...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
+    "isFeatured": false
   }
 ]

@@ -1,15 +1,84 @@
 [
   {
-    "id": "dc3f150c13d8d0e1",
-    "title": "Spatiotemporal dynamics of adoptively transferred stem-like CD8T cells in the tumor microenvironment following vaccination.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42182429",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42182429",
+    "id": "c833785e39db1f18",
+    "title": "From Spatial Epigenomes to Clinical Diagnostics: Integrative Methylomics Across Scales and Modalities.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42196356",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42196356",
     "source": "pubmed",
-    "publicationName": "bioRxiv : the preprint server for biology",
-    "journalName": "bioRxiv : the preprint server for biology",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
     "publishedAt": "2026-05-14T00:00:00.000Z",
-    "fetchedAt": "2026-05-26T16:33:33.210Z",
-    "snippet": "Adoptive cell therapy (ACT) of tumor-specific T cells can improve survival in a subset of cancer patients. Current ACT approaches may be limited by using highly differentiated T cells which can be inhibited by an immunosuppressive tumor microenvironment (TME). Here, we developed an approach to optimize ACT and used spatial transcriptomics to show how stem-l...",
+    "fetchedAt": "2026-05-27T16:30:01.751Z",
+    "snippet": "Methylomics has emerged as a central framework for understanding gene regulation in development and disease, yet the rapid expansion of profiling technologies, computational integration methods, and clinical applications has outpaced comprehensive synthesis. This review addresses that gap by systematically examining current advances across the full methylom...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "spatial"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "292cbc99e10da18f",
+    "title": "Activin A in the central nervous system: Mechanistic and therapeutic insights unveiled by emerging technologies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42199099",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42199099",
+    "source": "pubmed",
+    "publicationName": "Neural regeneration research",
+    "journalName": "Neural regeneration research",
+    "publishedAt": "2026-05-14T00:00:00.000Z",
+    "fetchedAt": "2026-05-27T16:30:01.751Z",
+    "snippet": "Activin A exhibits both protective and pathological roles in the central nervous system, reflecting a functional duality that complicates its therapeutic development. To decipher the underlying mechanisms responsible for these contradictions, we leverage emerging technologies that establish comprehensive cellular and spatiotemporal contexts for its signalin...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 55,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: gene therapy",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "a26f881c0305e713",
+    "title": "Deciphering the Heterogeneity of Cancer-Associated Fibroblasts in Prostate Cancer: From Stromal Biology to Clinical Translation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42192959",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42192959",
+    "source": "pubmed",
+    "publicationName": "Cancers",
+    "journalName": "Cancers",
+    "publishedAt": "2026-05-14T00:00:00.000Z",
+    "fetchedAt": "2026-05-27T16:30:01.751Z",
+    "snippet": "Prostate cancer (PCa) progression and treatment resistance are driven by tumor-intrinsic mechanisms and adaptive remodeling of the tumor microenvironment, in which cancer-associated fibroblasts (CAFs) play a crucial role. Although CAF biology is increasingly recognized, a major translational gap remains: CAFs are highly heterogeneous, and comprise distinct....",
     "tags": [
       "research",
       "pubmed",
@@ -21,8 +90,8 @@
       "spatial",
       "oncology",
       "computational biology",
-      "gene therapy",
-      "immunology"
+      "ai",
+      "translational medicine"
     ],
     "isNewToday": false,
     "importanceScore": 75,
@@ -36,35 +105,68 @@
     "isFeatured": true
   },
   {
-    "id": "7e58edcb0cf0802b",
-    "title": "DeSpotX: Identifiability-Based Decontamination for Spatial Transcriptomics.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42182137",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42182137",
+    "id": "b9facfbf29185b3f",
+    "title": "ICU Admission and Post-Discharge Mortality in COVID-19: Different Risk Factors Across Clinical Phases.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42201047",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42201047",
     "source": "pubmed",
-    "publicationName": "bioRxiv : the preprint server for biology",
-    "journalName": "bioRxiv : the preprint server for biology",
+    "publicationName": "Medical sciences (Basel, Switzerland)",
+    "journalName": "Medical sciences (Basel, Switzerland)",
     "publishedAt": "2026-05-14T00:00:00.000Z",
-    "fetchedAt": "2026-05-26T16:33:33.210Z",
-    "snippet": "Spatial transcriptomics (ST) at single-cell resolution profiles gene expression in its native spatial context, but a substantial fraction of transcripts contaminate neighboring cells, compromising downstream biological analyses. Existing decontamination methods rely on heuristic priors and either ignore the spatial structure of contamination or aggregate ov...",
+    "fetchedAt": "2026-05-27T16:30:01.751Z",
+    "snippet": "Risk factors for severe COVID-19 and in-hospital mortality are well described, but it remains unclear whether the same factors predict mortality after hospital discharge. Distinguishing risk profiles across clinical phases may improve patient management and follow-up strategies. We conducted a retrospective observational cohort study of 595 adults hospitali...",
     "tags": [
       "research",
       "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "spatial"
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
     ],
     "topicBuckets": [
-      "spatial",
+      "translational medicine",
       "oncology",
-      "computational biology",
-      "single-cell"
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "829b90145f732a7d",
+    "title": "Loss of PTEN as an Independent Poor Prognosis Indicator in Lung Adenocarcinoma, but Not in Squamous Cell Carcinoma, Is Associated with an Immunosuppressive Tumor Microenvironment and Distinct Co-Mutational Profiles.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42201046",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42201046",
+    "source": "pubmed",
+    "publicationName": "Medical sciences (Basel, Switzerland)",
+    "journalName": "Medical sciences (Basel, Switzerland)",
+    "publishedAt": "2026-05-14T00:00:00.000Z",
+    "fetchedAt": "2026-05-27T16:30:01.751Z",
+    "snippet": "Non-small cell lung cancer (NSCLC) comprises biologically heterogeneous tumors, primarily lung adenocarcinoma (LUAD) and lung squamous cell carcinoma (LUSC), which differ in genomic landscape and clinical behavior. The tumor suppressor PTEN is a key negative regulator of the PI3K/AKT/mTOR pathway and is frequently inactivated in NSCLC through genetic and no...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology"
     ],
     "isNewToday": false,
     "importanceScore": 65,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology, computational biology",
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
