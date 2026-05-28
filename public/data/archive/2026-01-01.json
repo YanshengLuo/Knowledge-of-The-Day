@@ -1,100 +1,221 @@
 [
   {
-    "id": "eea529e5ca4317ce",
-    "title": "Integrated bulk and single-cell transcriptomics reveals TREH as a novel protective biomarker and prognostic predictor in clear cell renal cell carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42200006",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42200006",
+    "id": "3843b13d82eab3ae",
+    "title": "CENPA as a Genome Stability-Associated Biomarker in Hepatocellular Carcinoma: Multiomics Analysis and Experimental Validation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42206268",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42206268",
     "source": "pubmed",
-    "publicationName": "Frontiers in oncology",
-    "journalName": "Frontiers in oncology",
+    "publicationName": "Human mutation",
+    "journalName": "Human mutation",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-05-27T16:30:01.751Z",
-    "snippet": "Clear cell renal cell carcinoma (ccRCC) is marked by substantial intratumoral heterogeneity and highly variable clinical outcomes. The identification of robust biomarkers that drive tumor progression is essential for improving prognostic accuracy and guiding therapeutic strategies. We employed an integrated transcriptomic data analysis strategy, combining W...",
+    "fetchedAt": "2026-05-28T16:45:08.400Z",
+    "snippet": "Genomic instability is closely involved in hepatocellular carcinoma (HCC) progression, but biomarkers that reflect genome stability-related tumor biology and functional vulnerability remain incompletely defined. In this study, we performed an integrative multiomics analysis to identify genome stability-associated candidates in HCC and experimentally evaluat...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "biomarker"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "3c9efced9374eee0",
+    "title": "Multi-omics investigation of perineural invasion in head and neck squamous cell carcinoma: neuroimmune mechanisms and clinical implications.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42206060",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42206060",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-05-28T16:45:08.400Z",
+    "snippet": "Perineural invasion (PNI) is an aggressive feature in head and neck squamous cell carcinoma (HNSCC), but its molecular basis and neuroimmune implications, including potential links to immunotherapy response, remain unclear. We performed an integrative multi-omics analysis using public datasets and an independent clinical cohort. Transcriptomic, proteomic, s...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "translational medicine",
+      "immunology",
+      "single-cell"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 68,
+    "isFeatured": true
+  },
+  {
+    "id": "acb3aecc559f1f00",
+    "title": "Deciphering the mechanistic landscape of immune checkpoint blockade in ccRCC: from molecular drivers to therapeutic responses.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42206054",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42206054",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-05-28T16:45:08.400Z",
+    "snippet": "Immune checkpoint inhibitor (ICI) based combination therapies have revolutionized the management of advanced clear-cell renal cell carcinoma (ccRCC), establishing a new standard of care and significantly improving survival outcomes. However, this success is challenged by substantial heterogeneity in patient response, with primary and acquired resistance rem...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "immunology",
+      "single-cell",
+      "spatial"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 58,
+    "isFeatured": false
+  },
+  {
+    "id": "300dd832763de795",
+    "title": "CA9-Targeted Liposomal Delivery of siETS1 Inhibits Clear Cell Renal Cell Carcinoma Progression by Disrupting the ETS1/MYC Regulatory Axis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42205867",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42205867",
+    "source": "pubmed",
+    "publicationName": "International journal of nanomedicine",
+    "journalName": "International journal of nanomedicine",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-05-28T16:45:08.400Z",
+    "snippet": "Clear cell renal cell carcinoma (ccRCC) is a highly aggressive malignancy with a high rate of recurrence and limited therapeutic options. Carbonic anhydrase IX (CA9) is characteristically overexpressed on the surface of ccRCC cells, making it a promising target for site-specific drug delivery. However, identifying the key molecular drivers of ccRCC progress...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "funding"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "7262c55336b56ab1",
+    "title": "A Spatially Constrained Fibroblast-Myeloid Program Associates With Immune Exclusion and Poor Prognosis in Lung Adenocarcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42206269",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42206269",
+    "source": "pubmed",
+    "publicationName": "Human mutation",
+    "journalName": "Human mutation",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-05-28T16:45:08.400Z",
+    "snippet": "Although immune checkpoint blockade (ICB) therapy has improved clinical outcomes for some patients with lung adenocarcinoma (LUAD), only a subset of cases can achieve durable benefits, and primary resistance is often associated with an immune-excluded tumor microenvironment (TME). Existing studies indicate that cancer-associated fibroblasts (CAFs) are incre...",
     "tags": [
       "research",
       "pubmed",
       "Single-cell TME",
       "single-cell",
       "tumor microenvironment",
-      "biomarker"
+      "spatial",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
     ],
     "topicBuckets": [
       "single-cell",
       "oncology",
       "immunology",
-      "computational biology",
-      "translational medicine"
+      "ai",
+      "translational medicine",
+      "spatial",
+      "computational biology"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 68,
+    "isFeatured": false
+  },
+  {
+    "id": "513c1b7fa99dd9a0",
+    "title": "Development and Validation of a HAUS-Related Prognostic Signature in Liver Hepatocellular Carcinoma: A Multi-Omics Integration from Pan-Cancer Analysis to Single-Cell Resolution.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42206070",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42206070",
+    "source": "pubmed",
+    "publicationName": "Journal of hepatocellular carcinoma",
+    "journalName": "Journal of hepatocellular carcinoma",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-05-28T16:45:08.400Z",
+    "snippet": "The HAUS family proteins (HAUS1-HAUS8) are essential for mitotic spindle microtubule nucleation. Although HAUS dysregulation has been linked to tumor progression, whether these oncogenic functions are conserved or tissue-specific remains unclear. Therefore, a pan-cancer analysis is needed to identify universal HAUS drivers and context-dependent members for....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai",
+      "computational biology"
     ],
     "isNewToday": false,
     "importanceScore": 68,
     "importanceSignals": [
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "38eced132f6e9533",
-    "title": "Immunomodulatory crosstalk between GPCR and hippo signaling in cancer: implications for tumor immunity and therapeutic targeting.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42199411",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42199411",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-05-27T16:30:01.751Z",
-    "snippet": "G protein-coupled receptors (GPCRs) and the Hippo signaling pathway are central regulators of tissue homeostasis, cell proliferation, and immune modulation. Emerging evidence reveals a pivotal, bidirectional crosstalk between these systems in cancer initiation, progression, and immune evasion. This review systematically outlines the molecular mechanisms of....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 48,
-    "importanceSignals": [
-      "priority topic: oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "b98265ace2d970ef",
-    "title": "Epigenetic dysregulation in mycosis fungoides and s&#xe9;zary syndrome.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42199345",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42199345",
-    "source": "pubmed",
-    "publicationName": "Frontiers in cell and developmental biology",
-    "journalName": "Frontiers in cell and developmental biology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-05-27T16:30:01.751Z",
-    "snippet": "Cutaneous T-cell lymphomas (CTCL), including mycosis fungoides (MF) and S&#xe9;zary syndrome (SS), remain challenging to diagnose at early stages and to manage durably. Although staging and classification have improved, early MF can mimic benign inflammatory dermatoses, and advanced disease frequently develops resistance to standard therapies, including his...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
       "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
@@ -103,50 +224,16 @@
     "isFeatured": true
   },
   {
-    "id": "3dcf2390eadd868c",
-    "title": "Mast cell driven immunometabolism as a therapeutic entry point in ESCC.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42199342",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42199342",
+    "id": "0a5a9cd5d8b4cc67",
+    "title": "PLSCR3 Deficiency Triggers mtDNA-Driven cGAS-STING Activation to Potentiate Antitumor Immunity in Colorectal Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42206267",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42206267",
     "source": "pubmed",
-    "publicationName": "Frontiers in cell and developmental biology",
-    "journalName": "Frontiers in cell and developmental biology",
+    "publicationName": "Human mutation",
+    "journalName": "Human mutation",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-05-27T16:30:01.751Z",
-    "snippet": "Esophageal squamous cell carcinoma (ESCC) remains one of the most aggressive epithelial malignancies, with most patients deriving only modest benefit from surgery, chemoradiotherapy, or immune checkpoint inhibition. Recent studies suggest that tumor metabolic reprogramming and immune dysfunction evolve together and reinforce one another, yet the causal link...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "5396f83f3e69bc71",
-    "title": "Negative regulators antagonizing antitumor innate immune pathways in lung cancer immune evasion.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42199421",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42199421",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-05-27T16:30:01.751Z",
-    "snippet": "The innate immune sensing system serves as a critical line of defense for recognizing tumor-associated abnormal nucleic acids and initiating antitumor immune responses, and it plays an essential role in lung cancer development, progression, and therapeutic response. Recent studies have shown that, under conditions such as genomic instability, mitochondrial....",
+    "fetchedAt": "2026-05-28T16:45:08.400Z",
+    "snippet": "Immunotherapy efficacy in colorectal cancer (CRC) is largely restricted to microsatellite instability-high (MSI-H) tumors, highlighting an urgent need to overcome resistance in microsatellite-stable (MSS) CRC. Mitochondrial DNA (mtDNA) leakage activates the cGAS-STING pathway, a potent inducer of antitumor immunity. However, endogenous regulators constraini...",
     "tags": [
       "research",
       "pubmed",
@@ -158,12 +245,13 @@
     "topicBuckets": [
       "gene therapy",
       "immunology",
+      "ai",
       "oncology"
     ],
     "isNewToday": false,
-    "importanceScore": 58,
+    "importanceScore": 68,
     "importanceSignals": [
-      "priority topic: gene therapy, oncology",
+      "priority topic: gene therapy, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -171,16 +259,16 @@
     "isFeatured": true
   },
   {
-    "id": "0697d055f9113e99",
-    "title": "Recurrent aseptic meningitis in adults: a potential indicator of undetermined autoinflammatory disease.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42199401",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42199401",
+    "id": "bda17efec219fe2c",
+    "title": "Temporal transcriptional dynamics in cutaneous leishmaniasis reveal novel targets for therapeutic interventions in a dermal mouse model.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42206058",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42206058",
     "source": "pubmed",
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-05-27T16:30:01.751Z",
-    "snippet": "Autoinflammatory diseases (AIDs) are characterized by recurrent episodes of inflammation caused by primary immune system dysregulation. Central nervous manifestations, including aseptic meningitis (AM), are rare in AIDs. In this study, we identified six patients with undetermined AIDs characterized by recurrent aseptic meningitis (RAM). Patients referred to...",
+    "fetchedAt": "2026-05-28T16:45:08.400Z",
+    "snippet": "Cutaneous leishmaniasis (CL) caused byresults in chronic skin ulceration and remains challenging to treat. While human transcriptomic studies have identified pathways driving immunopathology, the early events of infection and the molecular transitions from lesion formation to healing are still poorly understood. Here, we performed a longitudinal transcripto...",
     "tags": [
       "research",
       "pubmed",
@@ -198,6 +286,213 @@
     "importanceScore": 58,
     "importanceSignals": [
       "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "863a3b82428aca98",
+    "title": "prevents UV-induced skin aging by suppressing TLR3-mediated senescence.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42206047",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42206047",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-05-28T16:45:08.400Z",
+    "snippet": "Ultraviolet (UV) radiation is a major environmental driver of skin photoaging and induces keratinocyte senescence accompanied by the release of senescence-associated secretory phenotype (SASP) factors that promote dermal degeneration. However, whether and how skin commensal bacteria modulate UV-induced senescence remains incompletely understood. Here, we in...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "0bfc8fccb340d765",
+    "title": "Strategies to promote liver fibrosis amelioration with involvement of restorative macrophages.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42206026",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42206026",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-05-28T16:45:08.400Z",
+    "snippet": "Chronic liver diseases represent a major global health burden, with fibrosis as the common pathological outcome of sustained hepatic injury. Once considered irreversible, liver fibrosis is now recognized as a dynamic and potentially reversible process driven by complex cellular and molecular interactions within the hepatic microenvironment. Among these, hep...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "7436f9ab1a2ea2f1",
+    "title": "Integrase inhibitor-based antiretroviral therapy drives gut microbiota remodeling and immune recovery in HIV infection.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42205833",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42205833",
+    "source": "pubmed",
+    "publicationName": "Frontiers in medicine",
+    "journalName": "Frontiers in medicine",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-05-28T16:45:08.400Z",
+    "snippet": "The gastrointestinal tract serves as a major viral reservoir in HIV infection, and persistent gut dysbiosis contributes to systemic inflammation and immune dysfunction despite effective antiretroviral therapy (ART). Integrase strand transfer inhibitor (INSTI)-based regimens are now preferred for their efficacy and tolerability; however, their impact on gut....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "computational biology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: gene therapy, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "37bd46a3d5f21974",
+    "title": "Tumor-directed evolution of VSV&#x394;51M produces novel viruses with enhanced antitumor efficacy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42205537",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42205537",
+    "source": "pubmed",
+    "publicationName": "Frontiers in molecular biosciences",
+    "journalName": "Frontiers in molecular biosciences",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-05-28T16:45:08.400Z",
+    "snippet": "Oncolytic virotherapy has gained enormous attention and is undergoing extensive research, specifically, the Vesicular Stomatitis Virus (VSV). VSV has been shown to provide a potential tool on which many modifications can be introduced to improve its efficacy. Here we report utilizing a modified VSV with a deletion mutation at the 51 amino acid of its matrix...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "ba55bb961e666875",
+    "title": "Fatal Panton-Valentine leukocidin-positive MSSA toxic shock syndrome: a call for rapid virulence detection and optimized antimicrobial therapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42205483",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42205483",
+    "source": "pubmed",
+    "publicationName": "Frontiers in cellular and infection microbiology",
+    "journalName": "Frontiers in cellular and infection microbiology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-05-28T16:45:08.400Z",
+    "snippet": "Toxic shock syndrome (TSS) is a rare but potentially life-threatening toxin-mediated infection. Cases associated with Panton-Valentine leukocidin (PVL)-producingare particularly uncommon in clinical settings and remain insufficiently documented in the literature. This report aims to strengthen clinical understanding of TSS caused by methicillin-sensitive(MS...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "ce1fcc2524383a78",
+    "title": "Nitidine chloride suppresses polo-like kinase 1 via MYCN-associated transcriptional regulation in colorectal cancer: a multi-omics and spatial transcriptomics study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42205755",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42205755",
+    "source": "pubmed",
+    "publicationName": "Frontiers in oncology",
+    "journalName": "Frontiers in oncology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-05-28T16:45:08.400Z",
+    "snippet": "Colorectal cancer (CRC) remains a major global health burden. While nitidine chloride (NC) exhibits anti-tumor effects, its molecular targets in CRC are still largely unknown. To delineate the role of Polo-like kinase 1 (PLK1) in CRC, we combined RNA sequencing with comprehensive multi-omics integration across 3,513 specimens (2,256 tumor and 1,257 non-tumo...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "spatial"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
