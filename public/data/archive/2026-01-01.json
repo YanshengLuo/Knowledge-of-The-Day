@@ -8,7 +8,7 @@
     "publicationName": "PloS one",
     "journalName": "PloS one",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-02T17:12:14.332Z",
+    "fetchedAt": "2026-06-03T17:53:24.230Z",
     "snippet": "Cancer is characterized as a multifactorial disease due to their complex genetic and molecular mechanisms that often converge across tissue types. Shared oncogenic pathways can help us understand these functions and discover broad-spectrum therapeutics. Earlier, most studies focused on finding specific drivers for individual cancer types. However, researche...",
     "tags": [
       "research",
@@ -41,7 +41,7 @@
     "publicationName": "Frontiers in cell and developmental biology",
     "journalName": "Frontiers in cell and developmental biology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-02T17:12:14.332Z",
+    "fetchedAt": "2026-06-03T17:53:24.230Z",
     "snippet": "Emergency myelopoiesis in cancer and chronic inflammation leads to the accumulation of myeloid-derived suppressor cells (MDSCs) which localize at tumor sites or areas of chronic inflammation, serving as suppressor cells. Besides reducing the cytotoxic functions of T/NK cells, these cells are major players of the inflammatory process that characterizes the o...",
     "tags": [
       "research",
@@ -74,7 +74,7 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-02T17:12:14.332Z",
+    "fetchedAt": "2026-06-03T17:53:24.230Z",
     "snippet": "Gliomas have an inferior prognosis and urgently require new biomarkers and treatment strategies. Although some studies have explored the association between specific categories of programmed cell death (PCD) and glioma, research on the combined mechanism of PCD and its contribution to glioma development remains insufficient. This study aims to systematicall...",
     "tags": [
       "research",
@@ -100,6 +100,111 @@
     "isFeatured": true
   },
   {
+    "id": "831cb2744c09b4e7",
+    "title": "Identification of immunosuppressive neutrophils using multi-omics: why functional testing remains key.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42233007",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42233007",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-06-03T17:53:24.230Z",
+    "snippet": "Polymorphonuclear neutrophils (PMNs) are innate cells that may act as myeloid-derived suppressor cells (MDSCs), most often characterized by their immunosuppressive capacity towards immune cells within the tumor microenvironment. Over the last decade, many studies have tried to characterize these PMN-MDSCs. Although all human neutrophils obtain suppressive a...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai",
+      "computational biology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "3f897b5c1693fa95",
+    "title": "The crotonylation reader DPF2 promotes the development and progression of colon adenocarcinoma through cell-type-specific immune regulation and metabolic reprogramming.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42232179",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42232179",
+    "source": "pubmed",
+    "publicationName": "Frontiers in pharmacology",
+    "journalName": "Frontiers in pharmacology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-06-03T17:53:24.230Z",
+    "snippet": "The crotonylation reader DPF2 has been implicated in tumor progression, but its role in colon adenocarcinoma (COAD), especially in cell-type-specific immune regulation and metabolic reprogramming, remains unclear. We conducted an integrative multi-omics study combining genetic association analysis for COAD, public transcriptomic validation data, CRC-context...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai",
+      "computational biology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "1fee26c1c476e3d8",
+    "title": "Integrative Multiomics and Single-Cell Profiling Identify TNFRSF1AMacrophages as a Prognostic and Therapeutic Target in Diffuse Large B-cell Lymphoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42231904",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42231904",
+    "source": "pubmed",
+    "publicationName": "Computational and structural biotechnology journal",
+    "journalName": "Computational and structural biotechnology journal",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-06-03T17:53:24.230Z",
+    "snippet": "The tumor microenvironment plays a critical role in therapeutic resistance in diffuse large B-cell lymphoma (DLBCL), yet actionable targets within the immune cells remain largely undefined. Through integrative multiomics profiling, we identified tumor necrosis factor receptor superfamily member 1A () as a key prognostic determinant associated with predicted...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai",
+      "computational biology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
     "id": "788fd64a14537e66",
     "title": "Single-cell RNA sequencing unveils macrophage heterogeneity and cell-cell interactions in hepatocellular carcinoma progression.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42227003",
@@ -108,7 +213,7 @@
     "publicationName": "Frontiers in genetics",
     "journalName": "Frontiers in genetics",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-02T17:12:14.332Z",
+    "fetchedAt": "2026-06-03T17:53:24.230Z",
     "snippet": "Hepatocellular carcinoma (HCC) represents a major global health burden, characterized by complex metabolic reprogramming and immunological dysregulation. This study aimed to elucidate the molecular mechanisms underlying HCC progression using integrative multi-omics analyses, with a specific focus on macrophage heterogeneity and intercellular communication n...",
     "tags": [
       "research",
@@ -135,50 +240,16 @@
     "isFeatured": true
   },
   {
-    "id": "44014ed075669aef",
-    "title": "Clinical Significance of SDC2 in Gastric Cancer: Insights From a Multi-Center Cohort Study.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42226796",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42226796",
+    "id": "fe2f3f38ca29af70",
+    "title": "Senescence-associated secretory phenotype: the \"pathogenic\" factor driving orthopedic degenerative diseases and its regulation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42232719",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42232719",
     "source": "pubmed",
-    "publicationName": "Cancer informatics",
-    "journalName": "Cancer informatics",
+    "publicationName": "Frontiers in aging",
+    "journalName": "Frontiers in aging",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-02T17:12:14.332Z",
-    "snippet": "Gastric Cancer (GC) poses a significant global health challenge, necessitating effective biomarkers for early detection and prognosis. This study investigates the relationship between SDC2 expression and GC patient outcomes. We analyzed SDC2 expression in GC and its association with patient outcomes using Kaplan-Meier survival and Cox regression analyses. A...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: oncology, translational medicine",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "ef3255dd469b34ed",
-    "title": "Apigenin Upregulates Regulatory B Cells, Suppresses Class Switch Recombination, and Restores Immune Homeostasis to Treat Autoimmune Arthritis and Sepsis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42221357",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42221357",
-    "source": "pubmed",
-    "publicationName": "Drug design, development and therapy",
-    "journalName": "Drug design, development and therapy",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-02T17:12:14.332Z",
-    "snippet": "Restoring immune homeostasis is crucial for inflammation resolution, in which B cells play dual regulatory roles. A promising therapeutic strategy involves simultaneously suppressing proinflammatory B-cell activity while enhancing regulatory B cells (Bregs). Natural anti-inflammatory compounds, such as the flavonoid apigenin (API), may achieve this dual imm...",
+    "fetchedAt": "2026-06-03T17:53:24.230Z",
+    "snippet": "Orthopedic degenerative diseases, including osteoarthritis (OA), intervertebral disc degeneration (IVDD), and osteoporosis (OP), are major causes of chronic pain and functional decline in aging populations worldwide. The senescence-associated secretory phenotype (SASP), a downstream but central effector of cellular senescence, has emerged as a key pathogeni...",
     "tags": [
       "research",
       "pubmed",
@@ -189,16 +260,121 @@
     ],
     "topicBuckets": [
       "gene therapy",
-      "immunology"
+      "immunology",
+      "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 48,
+    "importanceScore": 58,
     "importanceSignals": [
-      "priority topic: gene therapy",
+      "priority topic: gene therapy, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
+    "isFeatured": true
+  },
+  {
+    "id": "cf7e831d16d87686",
+    "title": "Multi-Omics and Single-Cell Dissection Reveals EXT1 as a Glycosylation-Linked Therapeutic Target in Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42232599",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42232599",
+    "source": "pubmed",
+    "publicationName": "Oncology research",
+    "journalName": "Oncology research",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-06-03T17:53:24.230Z",
+    "snippet": "Glycosylation and inflammation are pivotal in tumor progression, yet the specific glycosyltransferases bridging these processes remain poorly defined. This study investigated Exostosin-1 (EXT1), a key enzyme in heparan sulfate (HS) biosynthesis, as a mechanistic bridge connecting inflammation, stromal remodeling, and immune evasion-driven cancers.We used a....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation",
+      "single-cell"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai",
+      "computational biology",
+      "oncology",
+      "single-cell"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "7c4da8f1fae1292b",
+    "title": "Cell Segmentation as Strategic Decision Making.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42232295",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42232295",
+    "source": "pubmed",
+    "publicationName": "Research (Washington, D.C.)",
+    "journalName": "Research (Washington, D.C.)",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-06-03T17:53:24.230Z",
+    "snippet": "Cell segmentation in imaging-based spatial transcriptomics (ST) relies on stained image segmentation or transcript clustering, but current methods are limited by dependence on manual annotations, sensitivity to staining quality and cell density, and lack of alignment with true transcriptomic profiles. We introduce RedeFISH, a reinforcement learning-based fr...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "797cd6e63b650321",
+    "title": "Correction: Editorial: New advancement in tumor microenvironment remodeling and cancer therapy, volume II.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42232049",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42232049",
+    "source": "pubmed",
+    "publicationName": "Frontiers in cell and developmental biology",
+    "journalName": "Frontiers in cell and developmental biology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-06-03T17:53:24.230Z",
+    "snippet": "[This corrects the article DOI: 10.3389/fcell.2026.1859833.].",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich metadata"
+    ],
+    "importanceScore": 52,
     "isFeatured": true
   },
   {
@@ -210,7 +386,7 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-02T17:12:14.332Z",
+    "fetchedAt": "2026-06-03T17:53:24.230Z",
     "snippet": "Neoadjuvant immunochemotherapy (nICT) has emerged as a promising strategy for locally advanced gastric cancer (LAGC), yet clinical responses remain heterogeneous and reliable predictive biomarkers are lacking. A comprehensive dissection of the tumor microenvironment (TME) is essential to uncover determinants of therapeutic efficacy and enable precision immu...",
     "tags": [
       "research",
@@ -247,7 +423,7 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-02T17:12:14.332Z",
+    "fetchedAt": "2026-06-03T17:53:24.230Z",
     "snippet": "Macrophages are key regulators within the lung adenocarcinoma (LUAD) tumor microenvironment, and their functional states and interaction patterns are closely linked to prognosis and immunotherapy response. However, macrophage-associated risk models derived from single-cell features remain limited. Single-cell datasets from GEO were integrated with TCGA-LUAD...",
     "tags": [
       "research",
