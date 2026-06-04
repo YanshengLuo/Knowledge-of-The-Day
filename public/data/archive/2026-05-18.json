@@ -1,31 +1,33 @@
 [
   {
-    "id": "e16de7b4fc671916",
-    "title": "Integrated Genomic Profiling of Pediatric Acute Lymphoblastic Leukemia: Genomic Landscape, Risk Stratification and Association of RAS Pathway Mutations with Early Treatment Response.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42196495",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42196495",
+    "id": "fd0e472829ac146b",
+    "title": "SpatialArtifacts: a computational framework for tissue artifact detection in spatial transcriptomics data.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42239246",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42239246",
     "source": "pubmed",
-    "publicationName": "International journal of molecular sciences",
-    "journalName": "International journal of molecular sciences",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
     "publishedAt": "2026-05-18T00:00:00.000Z",
-    "fetchedAt": "2026-05-29T16:32:07.497Z",
-    "snippet": "Acute lymphoblastic leukemia (ALL) is the most common pediatric malignancy and genomic profiling has become increasingly vital for risk stratification. We conducted a retrospective single-center study including 96 newly diagnosed pediatric patients with ALL and mixed phenotype acute leukemia to characterize the genomic landscape using conventional and molec...",
+    "fetchedAt": "2026-06-04T16:13:28.092Z",
+    "snippet": "Spatial transcriptomics data are frequently compromised by technical artifacts, such as dry patches, tissue lifting, and uneven reagent coverage, which manifests as regions with low UMI counts, in particular at tissue borders. It can often be challenging to identify these regions using existing quality control methods. Here, we present SpatialArtifacts , a....",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "spatial"
     ],
     "topicBuckets": [
-      "computational biology",
-      "oncology"
+      "spatial",
+      "oncology",
+      "computational biology"
     ],
     "isNewToday": false,
     "importanceScore": 65,
     "importanceSignals": [
       "published this month",
-      "priority topic: computational biology, oncology",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"

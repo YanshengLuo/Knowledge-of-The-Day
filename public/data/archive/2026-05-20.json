@@ -1,32 +1,35 @@
 [
   {
-    "id": "2478ba6accee1780",
-    "title": "[Myricetin inhibits proliferation and migration of bladder cancer cells by inhibiting HSP90AA1-mediated AKT phosphorylation].",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42198964",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42198964",
+    "id": "c37b915e7c386c36",
+    "title": "Comparative single-cell transcriptomics of orthotopic and subcutaneous gastric tumors reveal immune and stromal heterogeneity.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42239432",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42239432",
     "source": "pubmed",
-    "publicationName": "Nan fang yi ke da xue xue bao = Journal of Southern Medical University",
-    "journalName": "Nan fang yi ke da xue xue bao = Journal of Southern Medical University",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
     "publishedAt": "2026-05-20T00:00:00.000Z",
-    "fetchedAt": "2026-05-29T16:32:07.497Z",
-    "snippet": "To explore the targets and molecular mechanisms mediating the inhibitory effect of myricetin against bladder cancer. The potential targets of myricetin were predicted using SwissTargetPrediction and SEA Search Server, bladder cancer-related targets were screened from TCGA transcriptome and FinnGen plasma proteome data, and the intersecting genes were obtain...",
+    "fetchedAt": "2026-06-04T16:13:28.092Z",
+    "snippet": "Preclinical cancer models often use subcutaneous (SC) implantation, which fails to recapitulate the native tumor microenvironment (TME) of orthotopic (ORT) sites. To resolve these differences, we used single-cell RNA sequencing (scRNA-seq) on paired SC and ORT implants of the CKP syngeneic gastric cancer model. Histopathological differences were minimal, bu...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
     ],
     "topicBuckets": [
-      "computational biology",
+      "single-cell",
       "oncology",
-      "ai"
+      "immunology",
+      "ai",
+      "computational biology",
+      "translational medicine"
     ],
     "isNewToday": false,
     "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: computational biology, oncology",
+      "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -34,68 +37,34 @@
     "isFeatured": true
   },
   {
-    "id": "5d6f03398dedc3b4",
-    "title": "[Multi-omics integration deciphers immune-metabolic heterogeneity in colorectal cancer: a prognostic model and therapeutic strategies targeting ANGPTL4/FABP4/RBP7].",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42198959",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42198959",
+    "id": "a60787ea6b8dcf43",
+    "title": "Single-fiber morphometry and spatial transcriptomics reveal selective oxidative muscle fiber atrophy in non-metastatic breast cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42238445",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42238445",
     "source": "pubmed",
-    "publicationName": "Nan fang yi ke da xue xue bao = Journal of Southern Medical University",
-    "journalName": "Nan fang yi ke da xue xue bao = Journal of Southern Medical University",
+    "publicationName": "medRxiv : the preprint server for health sciences",
+    "journalName": "medRxiv : the preprint server for health sciences",
     "publishedAt": "2026-05-20T00:00:00.000Z",
-    "fetchedAt": "2026-05-29T16:32:07.497Z",
-    "snippet": "To explore the heterogeneity of tumor immune microenvironment (TIME) in colorectal cancer (CRC) and the resultant treatment resistance and develop a prognostic model for predicting the treatment outcomes of CRC. The multi-omics data including transcriptomic, somatic mutation and single-cell RNA sequencing data of a total of 1136 CRC samples from a TCGA coho...",
+    "fetchedAt": "2026-06-04T16:13:28.092Z",
+    "snippet": "Cancer-related fatigue is the most common and persistent symptom in breast cancer, with fatigue reported up to 10 years post-diagnosis. Unlike many cancers, fatigue in breast cancer often arises during early-stage disease in the absence of cachexia. While many factors contribute to fatigue, the direct contribution of cancer-associated skeletal muscle pathol...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "spatial"
     ],
     "topicBuckets": [
-      "computational biology",
+      "spatial",
       "oncology",
-      "single-cell",
-      "immunology"
+      "computational biology"
     ],
     "isNewToday": false,
     "importanceScore": 65,
     "importanceSignals": [
       "published this month",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "eeacba7afc1a2a74",
-    "title": "Circulating Polyamines and Metabolic Changes Following a Mediterranean Diet with or Without Naltrexone/Bupropion in Breast Cancer Survivors: An Exploratory Secondary Analysis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42197081",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42197081",
-    "source": "pubmed",
-    "publicationName": "Nutrients",
-    "journalName": "Nutrients",
-    "publishedAt": "2026-05-20T00:00:00.000Z",
-    "fetchedAt": "2026-05-29T16:32:07.497Z",
-    "snippet": "The Mediterranean diet is widely recognized for its cardiovascular and metabolic benefits, including weight reduction; however, the metabolic mechanisms underlying these effects remain incompletely understood. This study investigated whether changes in circulating polyamines are associated with metabolic improvements following a Mediterranean diet intervent...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: computational biology, oncology",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
