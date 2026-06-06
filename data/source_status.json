@@ -1,25 +1,22 @@
 [
   {
     "source": "biospace",
-    "success": false,
-    "fetchedAt": "2026-06-05T15:44:40.792Z",
+    "success": true,
+    "fetchedAt": "2026-06-06T14:21:57.465Z",
     "itemCount": 24,
-    "usedFallback": true,
-    "fallbackReason": "request failure",
-    "cacheTimestamp": "2026-04-13T14:25:22.825Z",
-    "errorMessage": "Status code 403"
+    "usedFallback": false
   },
   {
     "source": "pubmed",
     "success": true,
-    "fetchedAt": "2026-06-05T15:48:41.257Z",
+    "fetchedAt": "2026-06-06T14:21:58.379Z",
     "itemCount": 60,
     "usedFallback": false
   },
   {
     "source": "mckinsey",
     "success": false,
-    "fetchedAt": "2026-06-05T15:49:07.829Z",
+    "fetchedAt": "2026-06-06T14:22:24.978Z",
     "itemCount": 11,
     "usedFallback": true,
     "fallbackReason": "timeout",
@@ -29,14 +26,14 @@
   {
     "source": "a16z",
     "success": true,
-    "fetchedAt": "2026-06-05T15:52:06.067Z",
+    "fetchedAt": "2026-06-06T14:25:21.204Z",
     "itemCount": 44,
     "usedFallback": false
   },
   {
     "source": "crunchbase",
     "success": true,
-    "fetchedAt": "2026-06-05T15:52:51.588Z",
+    "fetchedAt": "2026-06-06T14:26:06.750Z",
     "itemCount": 18,
     "usedFallback": false
   }
