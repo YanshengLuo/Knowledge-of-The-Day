@@ -1,5 +1,40 @@
 [
   {
+    "id": "a7746008f6b43577",
+    "title": "Ubiquitination-anchored signature defines neuroendocrine prostate cancer: hub genes and single-cell ecosystem insights from integrated bioinformatics analysis of public transcriptomic datasets.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42249833",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42249833",
+    "source": "pubmed",
+    "publicationName": "The aging male : the official journal of the International Society for the Study of the Aging Male",
+    "journalName": "The aging male : the official journal of the International Society for the Study of the Aging Male",
+    "publishedAt": "2026-12-31T00:00:00.000Z",
+    "fetchedAt": "2026-06-07T14:44:02.865Z",
+    "snippet": "Neuroendocrine prostate cancer (NEPC) is an aggressive, treatment-refractory state that often emerges under androgen-receptor pathway inhibition. We hypothesized that dysregulated ubiquitination underpins NEPC lineage plasticity and that integrating bulk and single-cell transcriptomes would define a ubiquitination-centered signature and tumor microenvironme...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "computational biology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 82,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
     "id": "d19ab0b7d1705736",
     "title": "Neoplastic CD3&#x207a; B cells remodel the DLBCL tumor microenvironment via single-cell and spatial transcriptomics.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42247321",
@@ -8,27 +43,26 @@
     "publicationName": "Cancer biology & therapy",
     "journalName": "Cancer biology & therapy",
     "publishedAt": "2026-12-31T00:00:00.000Z",
-    "fetchedAt": "2026-06-06T14:21:58.379Z",
+    "fetchedAt": "2026-06-07T14:44:02.865Z",
     "snippet": "This study constructs a high-resolution multi-omics map of Diffuse Large B-Cell Lymphoma (DLBCL) by integrating single-cell, single-nucleus, and spatial transcriptomics. We identified a previously unrecognized, recurrent subset of malignant B cells that unexpectedly express CD3, a protein typically found only on T cells. This unusual CD3&#x207a; B cell popu...",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "spatial",
       "Spatial oncology",
       "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
+      "cancer",
       "single-cell",
-      "oncology",
-      "immunology",
-      "computational biology",
       "spatial"
     ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "single-cell",
+      "immunology"
+    ],
     "isNewToday": false,
+    "importanceScore": 82,
     "importanceSignals": [
       "very recent",
       "priority topic: oncology, computational biology",
@@ -36,7 +70,6 @@
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 82,
     "isFeatured": true
   }
 ]
