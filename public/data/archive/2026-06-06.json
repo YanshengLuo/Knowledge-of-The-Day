@@ -8,7 +8,7 @@
     "publicationName": "NPJ precision oncology",
     "journalName": "NPJ precision oncology",
     "publishedAt": "2026-06-06T00:00:00.000Z",
-    "fetchedAt": "2026-06-08T16:40:48.566Z",
+    "fetchedAt": "2026-06-09T15:47:08.949Z",
     "snippet": "Acute myeloid leukemia (AML) presents significant clinical challenges due to patient heterogeneity and variable treatment responses. Cytogenetic and mutation-based biomarkers dominate current prognostic classifications. However, many patients lack these canonical markers, and most are not therapeutic targets. Gene expression-based biomarkers, despite their....",
     "tags": [
       "research",
@@ -42,7 +42,7 @@
     "publicationName": "Journal of computer-aided molecular design",
     "journalName": "Journal of computer-aided molecular design",
     "publishedAt": "2026-06-06T00:00:00.000Z",
-    "fetchedAt": "2026-06-08T16:40:48.566Z",
+    "fetchedAt": "2026-06-09T15:47:08.949Z",
     "snippet": "Large-scale pharmacogenomic screens provide extensive measurements of drug response across diverse cancer cell lines; however, most computational approaches emphasize point-wise sensitivity prediction or static ranking, which are poorly aligned with practical decision-making, where only a limited number of candidate drugs can be tested. We propose NetPolicy...",
     "tags": [
       "research",
@@ -75,7 +75,7 @@
     "publicationName": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
     "journalName": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
     "publishedAt": "2026-06-06T00:00:00.000Z",
-    "fetchedAt": "2026-06-08T16:40:48.566Z",
+    "fetchedAt": "2026-06-09T15:47:08.949Z",
     "snippet": "Several studies support the benefits of music therapy (MT) for improving symptoms within a single session among patients with hematologic/oncologic conditions, but none have examined real-world longitudinal impacts. This study evaluated whether there was a dose-response relationship between MT intervention exposure and longitudinal changes in pain intensity...",
     "tags": [
       "research",
@@ -101,262 +101,6 @@
     "isFeatured": true
   },
   {
-    "id": "5b63d29a6df2676a",
-    "title": "Comprehensive multi-omics pan-cancer analysis revealed that ANTXR1 is a potential biomarker for diagnosis and immunotherapy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42251445",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42251445",
-    "source": "pubmed",
-    "publicationName": "Biology direct",
-    "journalName": "Biology direct",
-    "publishedAt": "2026-06-06T00:00:00.000Z",
-    "fetchedAt": "2026-06-08T16:40:48.566Z",
-    "snippet": "Anthrax toxin receptor 1 (ANTXR1, TEM8) has been implicated in tumor angiogenesis and progression, yet its pan-cancer immunological role remains incompletely defined. We conducted an integrative pan-cancer analysis using multi-omics and clinical data from TCGA, GTEx, and public databases to evaluate the expression, prognostic and diagnostic value, genomic f...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "biomarker",
-      "immunotherapy"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "computational biology",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "e0a03624c5e8c107",
-    "title": "Multi-dimensional profiling of lactylation-related signatures for prognostic and therapeutic insights in bladder cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42251369",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42251369",
-    "source": "pubmed",
-    "publicationName": "Cancer cell international",
-    "journalName": "Cancer cell international",
-    "publishedAt": "2026-06-06T00:00:00.000Z",
-    "fetchedAt": "2026-06-08T16:40:48.566Z",
-    "snippet": "Bladder cancer (BCa) is a prevalent malignancy with challenging prognosis and management. Lactylation, a novel post-translational modification, is dysregulated in various cancers. This study investigates lactylation-derived signature for prognostic assessment and treatment decisions in BCa. We used immunohistochemistry (IHC) to assess tissue microarrays (TM...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 72,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, translational medicine",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "85bc70a95b8f5a68",
-    "title": "Multi-omic profiling identifies TREM2lipid-laden macrophages as inflammatory drivers and therapeutic targets of colorectal cancer liver metastasis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42250756",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42250756",
-    "source": "pubmed",
-    "publicationName": "Cancer letters",
-    "journalName": "Cancer letters",
-    "publishedAt": "2026-06-06T00:00:00.000Z",
-    "fetchedAt": "2026-06-08T16:40:48.566Z",
-    "snippet": "Tumor-associated macrophages (TAMs) are key regulators of the metastatic immune microenvironment, yet the specific TAM subsets that drive immune suppression and tumor progression in colorectal cancer liver metastasis (CRLM) remain poorly defined. Here, we integrated CyTOF, single-cell and spatial transcriptomics, bulk RNA sequencing, and lipidomics to ident...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "computational biology",
-      "spatial"
-    ],
-    "isNewToday": false,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "importanceScore": 82,
-    "isFeatured": true
-  },
-  {
-    "id": "1c9cbd2b7dff4f63",
-    "title": "Fusobacterium nucleatum in oral squamous cell carcinoma: molecular mechanisms, tumor microenvironment and translational implications.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42250132",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42250132",
-    "source": "pubmed",
-    "publicationName": "Archives of microbiology",
-    "journalName": "Archives of microbiology",
-    "publishedAt": "2026-06-06T00:00:00.000Z",
-    "fetchedAt": "2026-06-08T16:40:48.566Z",
-    "snippet": "Fusobacterium nucleatum has increasingly emerged as a microorganism of major interest in microbial dysbiosis-associated carcinogenesis, particularly in oral squamous cell carcinoma (OSCC), where chronic inflammatory remodeling, immune dysfunction, and epithelial plasticity contribute to aggressive tumor behavior and poor clinical outcomes. Recent experiment...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "computational biology",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "dd31b0f666180b64",
-    "title": "Single-cell immunoprofiling reveals a dysfunctional-like immune microenvironment and malignant phenotype in aging penile squamous cell carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42249992",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42249992",
-    "source": "pubmed",
-    "publicationName": "Cell biology and toxicology",
-    "journalName": "Cell biology and toxicology",
-    "publishedAt": "2026-06-06T00:00:00.000Z",
-    "fetchedAt": "2026-06-08T16:40:48.566Z",
-    "snippet": "Penile squamous cell carcinoma (PSCC) can affect men of any age, but we know little about the differences between non-old and old patients with PSCC, which severely limits the precise diagnosis and treatment of PSCC. We collected 2 non-old and 3 old PSCC samples and performed single-cell RNA sequencing and single-cell TCR-Seq analysis. All samples were subj...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 62,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "d10746ba8869f20d",
-    "title": "Single cell and spatial atlas of macrophage and astrocyte interactions in glioblastoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42249233",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42249233",
-    "source": "pubmed",
-    "publicationName": "Discover oncology",
-    "journalName": "Discover oncology",
-    "publishedAt": "2026-06-06T00:00:00.000Z",
-    "fetchedAt": "2026-06-08T16:40:48.566Z",
-    "snippet": "Glioblastoma (GBM) exhibits pronounced intratumoral heterogeneity, yet the interactions between macrophages and astrocyte-like (AC-like) cells remain incompletely understood. We analyzed single-cell RNA sequencing data from 10 GBM patients, performing clustering with Seurat and Harmony, copy number variation to distinguish malignant cells, and trajectory in...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "spatial"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 72,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "e266d6b619368d82",
-    "title": "An umbrella review of inflammatory biomarkers and their relationship to treatment response in MDD.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42252042",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42252042",
-    "source": "pubmed",
-    "publicationName": "Neuroscience and biobehavioral reviews",
-    "journalName": "Neuroscience and biobehavioral reviews",
-    "publishedAt": "2026-06-06T00:00:00.000Z",
-    "fetchedAt": "2026-06-08T16:40:48.566Z",
-    "snippet": "Major depressive disorder (MDD) is often resistant to standard antidepressant therapy. Inflammation has been implicated in MDD pathophysiology and inflammatory biomarkers have been proposed as predictors of treatment response. This umbrella review synthesises meta-analytic evidence on associations between inflammatory biomarkers and treatment response in MD...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation",
-      "biomarker"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 72,
-    "importanceSignals": [
-      "recent",
-      "priority topic: gene therapy, translational medicine",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
     "id": "e07ceb34598bec5d",
     "title": "NOTCH3 regulates myofibroblastic CAF differentiation via the P62-ROS signaling axis to promote bladder cancer progression.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42251414",
@@ -365,7 +109,7 @@
     "publicationName": "Journal of experimental & clinical cancer research : CR",
     "journalName": "Journal of experimental & clinical cancer research : CR",
     "publishedAt": "2026-06-06T00:00:00.000Z",
-    "fetchedAt": "2026-06-08T16:40:48.566Z",
+    "fetchedAt": "2026-06-09T15:47:08.949Z",
     "snippet": "Cancer-associated fibroblasts (CAFs) are important contributors to malignant progression in bladder cancer (BLCA), yet the mechanisms by which they promote tumor progression remain incompletely understood. In this study, we integrated patient-derived CAFs with bulk and single-cell transcriptomics, spatial transcriptomics, and multi-cohort clinical datasets....",
     "tags": [
       "research",
@@ -402,7 +146,7 @@
     "publicationName": "Communications medicine",
     "journalName": "Communications medicine",
     "publishedAt": "2026-06-06T00:00:00.000Z",
-    "fetchedAt": "2026-06-08T16:40:48.566Z",
+    "fetchedAt": "2026-06-09T15:47:08.949Z",
     "snippet": "The Oxford Classic (OxC) prognostic signature classifies high-grade serous ovarian cancer (HGSOC) into five transcriptional programs, with epithelial-to-mesenchymal transition (EMT) marking poor prognosis. While successful in bulk transcriptomics, the spatial organisation of these programs within the tumour microenvironment remains unexplored. We developed....",
     "tags": [
       "research",
@@ -423,180 +167,6 @@
     "importanceSignals": [
       "recent",
       "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "39005775b98fc4fb",
-    "title": "Advances in early-stage lung cancer patients: from preanalytics to molecular analysis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42252070",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42252070",
-    "source": "pubmed",
-    "publicationName": "Critical reviews in oncology/hematology",
-    "journalName": "Critical reviews in oncology/hematology",
-    "publishedAt": "2026-06-06T00:00:00.000Z",
-    "fetchedAt": "2026-06-08T16:40:48.566Z",
-    "snippet": "Lung Cancer (LC) remains one of the leading causes of cancer death worldwide. Molecular profiling of mandatory testing biomarkers significantly meliorates clinical outcome of advanced stage LC patients while intercepting early-stage lesions represents an unmet need. Recent advances in treatments for early-stage LC patients lay the basis for accelerating mol...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "ad0de2993f2a9e52",
-    "title": "Future approaches to immune base biomarkers.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42251938",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42251938",
-    "source": "pubmed",
-    "publicationName": "Annals of oncology : official journal of the European Society for Medical Oncology",
-    "journalName": "Annals of oncology : official journal of the European Society for Medical Oncology",
-    "publishedAt": "2026-06-06T00:00:00.000Z",
-    "fetchedAt": "2026-06-08T16:40:48.566Z",
-    "snippet": "",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 66,
-    "importanceSignals": [
-      "recent",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "8184121e7518c4e7",
-    "title": "PDZK1 disassembles HER2-HSP90 complexes to promote ubiquitin-mediated HER2 degradation and overcome therapy resistance.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42251936",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42251936",
-    "source": "pubmed",
-    "publicationName": "Journal of advanced research",
-    "journalName": "Journal of advanced research",
-    "publishedAt": "2026-06-06T00:00:00.000Z",
-    "fetchedAt": "2026-06-08T16:40:48.566Z",
-    "snippet": "Limited therapeutic response and disease recurrence remain major challenges in HER2-positive breast cancer, largely driven by sustained HER2 stabilization and persistent oncogenic signaling mediated by HSP90. Therefore, targeting HER2 protein stability may represent a promising strategy to improve therapeutic responsiveness and suppress HER2-driven tumor pr...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "05782cfd3f7a4c4d",
-    "title": "Liquid biopsy in primary central nervous system tumors: Emerging biomarkers for precision oncology and real-time disease monitoring.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42251924",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42251924",
-    "source": "pubmed",
-    "publicationName": "Clinica chimica acta; international journal of clinical chemistry",
-    "journalName": "Clinica chimica acta; international journal of clinical chemistry",
-    "publishedAt": "2026-06-06T00:00:00.000Z",
-    "fetchedAt": "2026-06-08T16:40:48.566Z",
-    "snippet": "Central nervous system (CNS) tumors represent one of the most heterogeneous and clinically challenging groups of malignancies, largely due to their limited accessibility, complex molecular landscape, and the constraints associated with conventional tissue biopsy. Liquid biopsy has emerged as a promising minimally invasive strategy for detecting and monitori...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "a17ed3953383656c",
-    "title": "Diagnostic and prognostic biomarkers in heart failure and myeloproliferative neoplasms: clinical applications and risk scores - a narrative review.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42251458",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42251458",
-    "source": "pubmed",
-    "publicationName": "Cardio-oncology (London, England)",
-    "journalName": "Cardio-oncology (London, England)",
-    "publishedAt": "2026-06-06T00:00:00.000Z",
-    "fetchedAt": "2026-06-08T16:40:48.566Z",
-    "snippet": "Heart failure (HF) remains a leading cause of morbidity and mortality worldwide and frequently coexists with Philadelphia-negative myeloproliferative neoplasms (MPNs), which share thrombo-inflammatory pathways that increase cardiovascular risk. HF is often underestimated in this population, and current risk models rarely include variables specific to this c...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
