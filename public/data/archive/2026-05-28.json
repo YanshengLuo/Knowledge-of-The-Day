@@ -1,161 +1,33 @@
 [
   {
-    "id": "2aac8ec428e9a4e5",
-    "title": "The long wait: biopharma job searches often take at least 6 months, BioSpace finds",
-    "url": "https://www.biospace.com/job-trends/the-long-wait-biopharma-job-searches-often-take-at-least-6-months-biospace-finds",
-    "canonicalUrl": "https://www.biospace.com/job-trends/the-long-wait-biopharma-job-searches-often-take-at-least-6-months-biospace-finds",
-    "source": "biospace",
-    "publicationName": "BioSpace",
-    "publishedAt": "2026-05-28T13:05:47.000Z",
-    "fetchedAt": "2026-06-01T18:31:59.470Z",
-    "snippet": "More than half of biotech and pharma job seekers have been looking for their next opportunity for six months or longer, and more than a quarter have searched for over a year, according to a BioSpace LinkedIn poll. Job seekers share their frustrations.",
-    "tags": [
-      "biotech",
-      "industry"
-    ],
-    "topicBuckets": [
-      "ai",
-      "biotech"
-    ],
-    "isNewToday": false,
-    "importanceScore": 60,
-    "importanceSignals": [
-      "recent",
-      "priority topic: ai",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "7bdffb31b292d61a",
-    "title": "GSK, Ionis’ hepatitis B functional cure effectively eliminates virus in nearly 20% of patients",
-    "url": "https://www.biospace.com/drug-development/gsk-ionis-hepatitis-b-functional-cure-effectively-eliminates-virus-in-nearly-20-of-patients",
-    "canonicalUrl": "https://www.biospace.com/drug-development/gsk-ionis-hepatitis-b-functional-cure-effectively-eliminates-virus-in-nearly-20-of-patients",
-    "source": "biospace",
-    "publicationName": "BioSpace",
-    "publishedAt": "2026-05-28T12:40:12.000Z",
-    "fetchedAt": "2026-06-01T18:31:59.470Z",
-    "snippet": "The antisense oligonucleotide was even more effective in patients with relatively low viral activity. More than one-quarter of these individuals had undetectable levels of the virus in the blood for at least six months after stopping treatment.",
-    "tags": [
-      "biotech",
-      "industry"
-    ],
-    "topicBuckets": [
-      "biotech"
-    ],
-    "isNewToday": false,
-    "importanceScore": 50,
-    "importanceSignals": [
-      "recent",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "738505e4fdeabe1a",
-    "title": "Investigating Infection and Clinical Data to Predict Effective Antibiotic Therapy and Monitor Resistance Trends.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42214660",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42214660",
+    "id": "bc8beb0fbf3d03cf",
+    "title": "Dihydrotanshinone I inhibits PHGDH to suppress serine synthesis and remodel TME in NSCLC.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42263544",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42263544",
     "source": "pubmed",
-    "publicationName": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
-    "journalName": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+    "publicationName": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+    "journalName": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
     "publishedAt": "2026-05-28T00:00:00.000Z",
-    "fetchedAt": "2026-06-01T18:32:00.137Z",
-    "snippet": "Data-driven approaches to effectively select antibiotics are crucial to improving patient outcomes and reducing antibiotic resistance. This study aimed to determine whether routinely collected clinical and microbiological data can be used to train machine learning (ML) models to predict antibiotic resistance in patients with bacterial infections. We conduct...",
+    "fetchedAt": "2026-06-10T16:28:33.994Z",
+    "snippet": "The strategy of limiting the availability of tumor cell phosphoglycerate dehydrogenase (PHGDH) has become a potential treatment for cancer. Modulation of the tumor-derived serine synthesis pathway to reprogram the tumor microenvironment represents a viable approach to optimize the efficacy of anti-tumor immunotherapy. However, currently no reliable PHGDH in...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
     ],
     "topicBuckets": [
-      "computational biology",
+      "single-cell",
       "oncology",
-      "ai",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "f30de11ad7643308",
-    "title": "Targeting EP2/EP4-driven expansion of suppressive VSIG4macrophages overcomes immunotherapy resistance in colorectal cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42213779",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42213779",
-    "source": "pubmed",
-    "publicationName": "Cell reports",
-    "journalName": "Cell reports",
-    "publishedAt": "2026-05-28T00:00:00.000Z",
-    "fetchedAt": "2026-06-01T18:32:00.137Z",
-    "snippet": "Tumor-associated macrophages (TAMs) pose a significant obstacle to successful cancer immunotherapy in colorectal cancer (CRC). Herein, we demonstrate that genetic deletion of PGE2 receptors EP2/EP4 markedly sensitizes CRC tumors to anti-PD-1 therapy. We then report the development of TP-18, a potent and orally available dual EP2/EP4 antagonist. TP-18 treatm...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology",
-      "immunotherapy"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
+      "immunology",
       "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
+    "importanceScore": 65,
     "importanceSignals": [
-      "recent",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "cf9edbced43d9dcc",
-    "title": "Single-cell spatial transcriptional profiling of pancreatic ductal adenocarcinoma uncovers key immune-modulating and pro-metastatic mechanisms.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42214806",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42214806",
-    "source": "pubmed",
-    "publicationName": "Cancer letters",
-    "journalName": "Cancer letters",
-    "publishedAt": "2026-05-28T00:00:00.000Z",
-    "fetchedAt": "2026-06-01T18:32:00.137Z",
-    "snippet": "Pancreatic ductal adenocarcinoma (PDAC) is a highly aggressive malignancy characterized by profound tumor microenvironment (TME) heterogeneity and therapeutic resistance. However, the cellular dynamics, spatial architecture, and molecular networks driving progression from primary tumors (PTs) to hepatic metastases (HMs) remain incompletely understood. Here,...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "single-cell",
-      "spatial"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "ai",
-      "single-cell",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, computational biology",
+      "published this month",
+      "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
