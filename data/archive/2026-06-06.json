@@ -1,172 +1,33 @@
 [
   {
-    "id": "b577bc63d664d753",
-    "title": "Discovery of BEND4 as a novel single-gene prognostic marker and therapeutic target for adverse AML.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42251161",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42251161",
+    "id": "32a570544bdf9bb3",
+    "title": "Hematopoietic cell kinase activation in skeletal myocytes contributes to local inflammation and pain sensitization in myofascial trigger points.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42269276",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42269276",
     "source": "pubmed",
-    "publicationName": "NPJ precision oncology",
-    "journalName": "NPJ precision oncology",
+    "publicationName": "Biochemical and biophysical research communications",
+    "journalName": "Biochemical and biophysical research communications",
     "publishedAt": "2026-06-06T00:00:00.000Z",
-    "fetchedAt": "2026-06-09T15:47:08.949Z",
-    "snippet": "Acute myeloid leukemia (AML) presents significant clinical challenges due to patient heterogeneity and variable treatment responses. Cytogenetic and mutation-based biomarkers dominate current prognostic classifications. However, many patients lack these canonical markers, and most are not therapeutic targets. Gene expression-based biomarkers, despite their....",
+    "fetchedAt": "2026-06-11T16:42:22.820Z",
+    "snippet": "Myofascial trigger points (MTrPs) are key pathological features of myofascial pain syndrome (MPS), and local inflammation is a key driver of their initiation and persistence. Hematopoietic cell kinase (HCK) is critical for the regulation of inflammation; however, its role in MTrPs remains unreported. The study was designed to characterize the expression pro...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
     ],
     "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "5b4e9aac11716271",
-    "title": "NetPolicy-RL: network-informed offline reinforcement learning for pharmacogenomic drug prioritization.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42249216",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42249216",
-    "source": "pubmed",
-    "publicationName": "Journal of computer-aided molecular design",
-    "journalName": "Journal of computer-aided molecular design",
-    "publishedAt": "2026-06-06T00:00:00.000Z",
-    "fetchedAt": "2026-06-09T15:47:08.949Z",
-    "snippet": "Large-scale pharmacogenomic screens provide extensive measurements of drug response across diverse cancer cell lines; however, most computational approaches emphasize point-wise sensitivity prediction or static ranking, which are poorly aligned with practical decision-making, where only a limited number of candidate drugs can be tested. We propose NetPolicy...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology"
+      "gene therapy",
+      "immunology",
+      "ai"
     ],
     "isNewToday": false,
     "importanceScore": 72,
     "importanceSignals": [
       "recent",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "d4545ce0f59efbf7",
-    "title": "Longitudinal effects of inpatient music therapy dosage on pain intensity and opioid utilization among patients with hematologic or oncologic conditions: a retrospective cohort study.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42249214",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42249214",
-    "source": "pubmed",
-    "publicationName": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
-    "journalName": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
-    "publishedAt": "2026-06-06T00:00:00.000Z",
-    "fetchedAt": "2026-06-09T15:47:08.949Z",
-    "snippet": "Several studies support the benefits of music therapy (MT) for improving symptoms within a single session among patients with hematologic/oncologic conditions, but none have examined real-world longitudinal impacts. This study evaluated whether there was a dose-response relationship between MT intervention exposure and longitudinal changes in pain intensity...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "e07ceb34598bec5d",
-    "title": "NOTCH3 regulates myofibroblastic CAF differentiation via the P62-ROS signaling axis to promote bladder cancer progression.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42251414",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42251414",
-    "source": "pubmed",
-    "publicationName": "Journal of experimental & clinical cancer research : CR",
-    "journalName": "Journal of experimental & clinical cancer research : CR",
-    "publishedAt": "2026-06-06T00:00:00.000Z",
-    "fetchedAt": "2026-06-09T15:47:08.949Z",
-    "snippet": "Cancer-associated fibroblasts (CAFs) are important contributors to malignant progression in bladder cancer (BLCA), yet the mechanisms by which they promote tumor progression remain incompletely understood. In this study, we integrated patient-derived CAFs with bulk and single-cell transcriptomics, spatial transcriptomics, and multi-cohort clinical datasets....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "ai",
-      "single-cell",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "7e0459bd8b79d9b6",
-    "title": "Understanding the spatial determinants of the Oxford Classic prognostic signature for high-grade serous ovarian cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42251166",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42251166",
-    "source": "pubmed",
-    "publicationName": "Communications medicine",
-    "journalName": "Communications medicine",
-    "publishedAt": "2026-06-06T00:00:00.000Z",
-    "fetchedAt": "2026-06-09T15:47:08.949Z",
-    "snippet": "The Oxford Classic (OxC) prognostic signature classifies high-grade serous ovarian cancer (HGSOC) into five transcriptional programs, with epithelial-to-mesenchymal transition (EMT) marking poor prognosis. While successful in bulk transcriptomics, the spatial organisation of these programs within the tumour microenvironment remains unexplored. We developed....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "spatial"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, computational biology",
+      "priority topic: gene therapy, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"

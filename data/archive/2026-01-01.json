@@ -1,5 +1,39 @@
 [
   {
+    "id": "c165e583817d69c6",
+    "title": "Case Report: Cutaneous niche-restricted malignant phenotypes in PTCL-NOS revealed by single-cell sequencing.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42272657",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42272657",
+    "source": "pubmed",
+    "publicationName": "Frontiers in oncology",
+    "journalName": "Frontiers in oncology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-06-11T16:42:22.820Z",
+    "snippet": "Peripheral T-cell lymphoma, not otherwise specified (PTCL-NOS) presenting with disseminated cutaneous involvement represents an aggressive disease subset with poor response to conventional chemotherapy and dismal prognosis. The tissue-specific molecular mechanisms driving cutaneous aggression remain poorly characterized at single-cell resolution. Here we re...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
     "id": "762d5bef937f2fec",
     "title": "Deep spatial proteomics reveals a suppressive immune niche linked to immune evasion in renal cell carcinoma.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42267194",
@@ -8,7 +42,7 @@
     "publicationName": "Cancer drug resistance (Alhambra, Calif.)",
     "journalName": "Cancer drug resistance (Alhambra, Calif.)",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-10T16:28:33.994Z",
+    "fetchedAt": "2026-06-11T16:42:22.820Z",
     "snippet": "Clear cell renal cell carcinoma (ccRCC) presents an \"immune paradox\" where high CD8T cell infiltration correlates with poor survival and limited response to immune checkpoint blockade (ICB). Simple cell density metrics fail to capture the functional state of the immune microenvironment, suggesting an uncharacterized spatial mechanism underlying immune evasi...",
     "tags": [
       "research",
@@ -44,14 +78,18 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-10T16:28:33.994Z",
+    "fetchedAt": "2026-06-11T16:42:22.820Z",
     "snippet": "Lung adenocarcinoma (LUAD) remains a leading cause of cancer-related mortality, necessitating identification of novel biomarkers for precision therapy. Herein, we aimed to investigate the role of efferocytosis-related genes (ERGs) in LUAD progression, focusing on ADAM9 as a potential prognostic and therapeutic target. TCGA-LUAD datasets including 517 tumor....",
     "tags": [
       "research",
       "pubmed",
       "Single-cell TME",
       "single-cell",
-      "tumor microenvironment"
+      "tumor microenvironment",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
     ],
     "topicBuckets": [
       "single-cell",
@@ -59,46 +97,48 @@
       "immunology",
       "ai",
       "computational biology",
-      "translational medicine"
+      "translational medicine",
+      "gene therapy"
     ],
     "isNewToday": false,
-    "importanceScore": 68,
     "importanceSignals": [
       "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
+    "importanceScore": 68,
     "isFeatured": true
   },
   {
-    "id": "080bdd4ad4185e49",
-    "title": "Multi-omics analysis identifies stemness-driven molecular subtypes, prognostic signature, epigenetic target APCDD1, and drug candidate Leflunomide in Wilms tumor.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42266675",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42266675",
+    "id": "373dfc7c048727bf",
+    "title": "Extracellular Metabolites and Natural Killer Cell Antitumor Function: Mechanisms and Therapeutic Strategies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42273225",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42273225",
     "source": "pubmed",
-    "publicationName": "Frontiers in oncology",
-    "journalName": "Frontiers in oncology",
+    "publicationName": "Research (Washington, D.C.)",
+    "journalName": "Research (Washington, D.C.)",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-10T16:28:33.994Z",
-    "snippet": "Wilms tumor (WT), the most common pediatric renal malignancy, continues to present therapeutic challenges in refractory and relapsed patients. Stemness plays a crucial role in the development and progression of WT, yet the specific mechanisms involved are not yet fully understood. This study systematically investigated the molecular basis of stemness featur...",
+    "fetchedAt": "2026-06-11T16:42:22.820Z",
+    "snippet": "Natural killer (NK) cells are innate cytotoxic lymphocytes capable of eliminating malignant cells independent of prior antigen sensitization, thereby constituting a critical first-line defense in tumor immunosurveillance. Within the tumor microenvironment (TME), metabolic dysregulation profoundly impairs NK cell effector function, and accumulating studies h...",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
     ],
     "topicBuckets": [
-      "single-cell",
-      "oncology",
+      "gene therapy",
       "immunology",
-      "computational biology"
+      "ai",
+      "oncology"
     ],
     "isNewToday": false,
-    "importanceScore": 58,
+    "importanceScore": 68,
     "importanceSignals": [
-      "priority topic: oncology, computational biology",
+      "priority topic: gene therapy, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -114,7 +154,7 @@
     "publicationName": "Frontiers in cardiovascular medicine",
     "journalName": "Frontiers in cardiovascular medicine",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-10T16:28:33.994Z",
+    "fetchedAt": "2026-06-11T16:42:22.820Z",
     "snippet": "Chronic Thromboembolic Pulmonary Hypertension (CTEPH), classified as group 4 pulmonary hypertension (PH), is a progressive disease caused by unresolved pulmonary artery thrombi that undergo organization and fibrosis, leading to increased pulmonary vascular resistance, right heart failure, and death. Over the past decade, the understanding, diagnosis, and ma...",
     "tags": [
       "research",
@@ -148,7 +188,7 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-10T16:28:33.994Z",
+    "fetchedAt": "2026-06-11T16:42:22.820Z",
     "snippet": "Immune checkpoint inhibitors have transformed the landscape of cancer therapy; however, the challenge that most patients do not achieve durable benefits urgently necessitates the development of new strategies that extend beyond mere T-cell activation. mRNA processing-comprising alternative splicing, RNA modifications, and RNA editing-establishes a dynamical...",
     "tags": [
       "research",
@@ -175,40 +215,6 @@
     "isFeatured": false
   },
   {
-    "id": "5f18b0c4a8285cab",
-    "title": "Combination drug therapy reduces iron accumulation and microglia-mediated pathologies in neonatal intraventricular hemorrhage: a biochemical and transcriptomic analysis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42266249",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42266249",
-    "source": "pubmed",
-    "publicationName": "Frontiers in cellular neuroscience",
-    "journalName": "Frontiers in cellular neuroscience",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-10T16:28:33.994Z",
-    "snippet": "This study describes the distribution of non-reactive brain-resident microglia densely populated along the borders of the lateral ventricles and choroid plexus in premature rabbit pups during early forebrain development. Following intraventricular hemorrhage (IVH) injury, activated microglia expand by proliferation, and migrate deeper into parenchymal regio...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
     "id": "49969e8da37a4488",
     "title": "Non-invasive radiogenomic mapping of the SMARCAL1-driven ferroptotic niche is associated with longitudinal MRD-negative surveillance in early-stage NSCLC.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42266691",
@@ -217,7 +223,7 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-10T16:28:33.994Z",
+    "fetchedAt": "2026-06-11T16:42:22.820Z",
     "snippet": "Post-operative molecular residual disease (MRD) detection using circulating tumor DNA (ctDNA) has been established as a sensitive biomarker for early recurrence risk stratification in early-stage non-small cell lung cancer (NSCLC). However, the biological heterogeneity of patients MRD-negative at baseline remains incompletely characterized, and a proportion...",
     "tags": [
       "research",
@@ -244,50 +250,15 @@
     "isFeatured": true
   },
   {
-    "id": "a30156506afb39be",
-    "title": "When Resectability Emerges After Systemic Therapy in Hepatocellular Carcinoma: A Proposed Response-Guided Consolidation Framework.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42267214",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42267214",
+    "id": "8d082821cc1ce166",
+    "title": "Editorial: Exploring molecular mechanisms in cancer through tumor molecular pathology.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42272652",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42272652",
     "source": "pubmed",
-    "publicationName": "Journal of hepatocellular carcinoma",
-    "journalName": "Journal of hepatocellular carcinoma",
+    "publicationName": "Frontiers in oncology",
+    "journalName": "Frontiers in oncology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-10T16:28:33.994Z",
-    "snippet": "Immune checkpoint inhibitor-based combination therapies have increased the likelihood that a subset of patients with initially unresectable hepatocellular carcinoma (HCC) may achieve sufficient tumor regression to become technically resectable However, when resectability emerges systemic therapy, the optimal next step remains uncertain. Surgical resection m...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "b0208fd86f21ab72",
-    "title": "Editorial: Biomarkers in head and neck cancer: genomic insights and nuclear medicine innovations.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42266958",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42266958",
-    "source": "pubmed",
-    "publicationName": "Frontiers in medicine",
-    "journalName": "Frontiers in medicine",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-10T16:28:33.994Z",
+    "fetchedAt": "2026-06-11T16:42:22.820Z",
     "snippet": "",
     "tags": [
       "research",
@@ -311,16 +282,16 @@
     "isFeatured": true
   },
   {
-    "id": "9caba4ff240e8b82",
-    "title": "Extracellular Vesicle-Based Strategies for the Prevention of Chemotherapy-Induced Cardiotoxicity.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42266881",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42266881",
+    "id": "f465edaaaec96aef",
+    "title": "Heterogeneity-based stratification identifies CKMT2 as a prognostic marker in osteosarcoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42272640",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42272640",
     "source": "pubmed",
-    "publicationName": "Therapeutics and clinical risk management",
-    "journalName": "Therapeutics and clinical risk management",
+    "publicationName": "Frontiers in cell and developmental biology",
+    "journalName": "Frontiers in cell and developmental biology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-10T16:28:33.994Z",
-    "snippet": "Chemotherapy-induced cardiotoxicity (CIC) is a major limitation of modern anticancer therapy, particularly with anthracyclines and targeted agents, and contributes to long-term cardiovascular complications in cancer survivors. Extracellular vesicles (EVs) are nanoscale lipid-bilayer particles that mediate intercellular communication through the transfer of....",
+    "fetchedAt": "2026-06-11T16:42:22.820Z",
+    "snippet": "Osteosarcoma (OS) is the most common primary malignant bone tumor. Intratumoral heterogeneity (ITH) contributes to therapy resistance and disease spread. Understanding the molecular structure and cellular groups contributing to ITH, as well as their clinical impacts, remains limited. To build our investigation, we started by integrating single-cell transcri...",
     "tags": [
       "research",
       "pubmed",
@@ -331,10 +302,12 @@
     ],
     "topicBuckets": [
       "translational medicine",
-      "oncology"
+      "oncology",
+      "ai",
+      "single-cell"
     ],
     "isNewToday": false,
-    "importanceScore": 58,
+    "importanceScore": 68,
     "importanceSignals": [
       "priority topic: translational medicine, oncology",
       "high-signal source",
@@ -344,16 +317,16 @@
     "isFeatured": true
   },
   {
-    "id": "2051c8c1290f7894",
-    "title": "Neoadjuvant chemotherapy followed by limb-sparing surgery for osteosarcoma: a retrospective cohort study on efficacy, safety, and prognostic factors.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42266753",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42266753",
+    "id": "2504b99d92a78221",
+    "title": "Comprehensivemutation landscape in prostate cancer in the UAE and Arab population.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42272637",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42272637",
     "source": "pubmed",
-    "publicationName": "American journal of cancer research",
-    "journalName": "American journal of cancer research",
+    "publicationName": "Frontiers in cell and developmental biology",
+    "journalName": "Frontiers in cell and developmental biology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-10T16:28:33.994Z",
-    "snippet": "This retrospective study evaluated the outcomes of neoadjuvant chemotherapy (NACT) combined with limb-sparing surgery (LSS) for osteosarcoma (OS). A total of 204 OS patients treated at West China Hospital, Sichuan University between February 2020 and February 2023 were enrolled. Based on treatment modalities, patients were assigned to a control group (n=100...",
+    "fetchedAt": "2026-06-11T16:42:22.820Z",
+    "snippet": "Prostate cancer (PCa) is the most common malignancy among men in the United Arab Emirates (UAE) and is often diagnosed at advanced stages with aggressive features. Germline mutations in DNA-repair genes, especiallyand, increase PCa risk, withconferring up to 8.6-fold anda 3.7-fold risk. The objective is to determine the prevalence, zygosity, and clinical si...",
     "tags": [
       "research",
       "pubmed",
@@ -364,10 +337,11 @@
     ],
     "topicBuckets": [
       "translational medicine",
-      "oncology"
+      "oncology",
+      "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 58,
+    "importanceScore": 68,
     "importanceSignals": [
       "priority topic: translational medicine, oncology",
       "high-signal source",
