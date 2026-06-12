@@ -1,15 +1,15 @@
 [
   {
-    "id": "c165e583817d69c6",
-    "title": "Case Report: Cutaneous niche-restricted malignant phenotypes in PTCL-NOS revealed by single-cell sequencing.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42272657",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42272657",
+    "id": "a2b13c2ef9a69d73",
+    "title": "Single-cell transcriptomic profiling uncovers key molecular signatures in glioma pathogenesis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42283031",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42283031",
     "source": "pubmed",
-    "publicationName": "Frontiers in oncology",
-    "journalName": "Frontiers in oncology",
+    "publicationName": "Frontiers in genetics",
+    "journalName": "Frontiers in genetics",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-11T16:42:22.820Z",
-    "snippet": "Peripheral T-cell lymphoma, not otherwise specified (PTCL-NOS) presenting with disseminated cutaneous involvement represents an aggressive disease subset with poor response to conventional chemotherapy and dismal prognosis. The tissue-specific molecular mechanisms driving cutaneous aggression remain poorly characterized at single-cell resolution. Here we re...",
+    "fetchedAt": "2026-06-12T16:00:44.406Z",
+    "snippet": "Glioma represents the most prevalent and lethal primary malignant tumor of the central nervous system, characterized by remarkable cellular heterogeneity and poor prognosis. Comprehensive characterization of glioma at single-cell resolution is essential for identifying novel therapeutic targets and improving patient outcomes. We performed comprehensive sing...",
     "tags": [
       "research",
       "pubmed",
@@ -20,13 +20,12 @@
     "topicBuckets": [
       "single-cell",
       "oncology",
-      "immunology",
-      "ai"
+      "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 58,
+    "importanceScore": 48,
     "importanceSignals": [
-      "priority topic: oncology, ai",
+      "priority topic: oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -34,145 +33,68 @@
     "isFeatured": true
   },
   {
-    "id": "762d5bef937f2fec",
-    "title": "Deep spatial proteomics reveals a suppressive immune niche linked to immune evasion in renal cell carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42267194",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42267194",
+    "id": "5db8666b5647d3e5",
+    "title": "Unveiling the Silent Regulators: Noncoding RNAs in Parasitic Disease Diagnosis and Therapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42282505",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42282505",
     "source": "pubmed",
-    "publicationName": "Cancer drug resistance (Alhambra, Calif.)",
-    "journalName": "Cancer drug resistance (Alhambra, Calif.)",
+    "publicationName": "Journal of parasitology research",
+    "journalName": "Journal of parasitology research",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-11T16:42:22.820Z",
-    "snippet": "Clear cell renal cell carcinoma (ccRCC) presents an \"immune paradox\" where high CD8T cell infiltration correlates with poor survival and limited response to immune checkpoint blockade (ICB). Simple cell density metrics fail to capture the functional state of the immune microenvironment, suggesting an uncharacterized spatial mechanism underlying immune evasi...",
+    "fetchedAt": "2026-06-12T16:00:44.406Z",
+    "snippet": "Parasitic diseases remain a major global health burden, particularly in tropical and low-resource regions, where limitations in early diagnosis and effective therapeutics contribute to high morbidity and mortality. Emerging evidence highlights noncoding RNAs (ncRNAs) as critical regulators of host-parasite interactions, offering novel opportunities for diag...",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "spatial"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "computational biology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "ec05619deeb1d471",
-    "title": "Multi-omics profiling identifies ADAM9 as a key efferocytosis driver in lung adenocarcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42266684",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42266684",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-11T16:42:22.820Z",
-    "snippet": "Lung adenocarcinoma (LUAD) remains a leading cause of cancer-related mortality, necessitating identification of novel biomarkers for precision therapy. Herein, we aimed to investigate the role of efferocytosis-related genes (ERGs) in LUAD progression, focusing on ADAM9 as a potential prognostic and therapeutic target. TCGA-LUAD datasets including 517 tumor....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
       "Gene therapy inflammation",
       "gene therapy",
       "mRNA delivery",
       "inflammation"
     ],
     "topicBuckets": [
-      "single-cell",
-      "oncology",
+      "gene therapy",
       "immunology",
       "ai",
-      "computational biology",
+      "biotech"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "f42fbf968f469820",
+    "title": "CLEC4G Promotes Pancreatic Cancer Progression by Suppressing Cathepsin B-Mediated Ferroptosis: Evidence From Mendelian Randomization Study and Experimental Validation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42282992",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42282992",
+    "source": "pubmed",
+    "publicationName": "Human mutation",
+    "journalName": "Human mutation",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-06-12T16:00:44.406Z",
+    "snippet": "Pancreatic cancer (PC) is highly lethal and lacks causal biomarkers that can inform mechanism-based therapies. Ferroptosis is an iron-dependent form of regulated cell death implicated in PC, but upstream determinants of ferroptosis in PC remain unclear. We integrated large-scale proteomic quantitative trait locus (pQTL) resources with Mendelian randomizatio...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
       "translational medicine",
-      "gene therapy"
-    ],
-    "isNewToday": false,
-    "importanceSignals": [
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "importanceScore": 68,
-    "isFeatured": true
-  },
-  {
-    "id": "373dfc7c048727bf",
-    "title": "Extracellular Metabolites and Natural Killer Cell Antitumor Function: Mechanisms and Therapeutic Strategies.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42273225",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42273225",
-    "source": "pubmed",
-    "publicationName": "Research (Washington, D.C.)",
-    "journalName": "Research (Washington, D.C.)",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-11T16:42:22.820Z",
-    "snippet": "Natural killer (NK) cells are innate cytotoxic lymphocytes capable of eliminating malignant cells independent of prior antigen sensitization, thereby constituting a critical first-line defense in tumor immunosurveillance. Within the tumor microenvironment (TME), metabolic dysregulation profoundly impairs NK cell effector function, and accumulating studies h...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "e25511fc89eeee91",
-    "title": "Research advances in chronic thromboembolic pulmonary hypertension: from pathological mechanisms to multidisciplinary management.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42267096",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42267096",
-    "source": "pubmed",
-    "publicationName": "Frontiers in cardiovascular medicine",
-    "journalName": "Frontiers in cardiovascular medicine",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-11T16:42:22.820Z",
-    "snippet": "Chronic Thromboembolic Pulmonary Hypertension (CTEPH), classified as group 4 pulmonary hypertension (PH), is a progressive disease caused by unresolved pulmonary artery thrombi that undergo organization and fibrosis, leading to increased pulmonary vascular resistance, right heart failure, and death. Over the past decade, the understanding, diagnosis, and ma...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
+      "oncology",
       "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 58,
+    "importanceScore": 68,
     "importanceSignals": [
-      "priority topic: gene therapy, ai",
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -180,69 +102,34 @@
     "isFeatured": true
   },
   {
-    "id": "dfb78c54278fabd9",
-    "title": "Enhancing targeted strategies for cancer immunotherapy by elucidating mRNA processing mechanisms.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42266677",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42266677",
+    "id": "49f546d273d1c641",
+    "title": "Association Between ABO Blood Group and Survival in Early-Stage Colon Cancer: A Single-Center Retrospective Cohort Analysis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42281914",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42281914",
     "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
+    "publicationName": "Cancer management and research",
+    "journalName": "Cancer management and research",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-11T16:42:22.820Z",
-    "snippet": "Immune checkpoint inhibitors have transformed the landscape of cancer therapy; however, the challenge that most patients do not achieve durable benefits urgently necessitates the development of new strategies that extend beyond mere T-cell activation. mRNA processing-comprising alternative splicing, RNA modifications, and RNA editing-establishes a dynamical...",
+    "fetchedAt": "2026-06-12T16:00:44.406Z",
+    "snippet": "ABO blood group antigens influence cell adhesion, inflammation, and metastatic processes, raising interest in their potential prognostic role in colorectal cancer. However, previous studies have reported inconsistent findings. This study evaluated the association between ABO blood group and overall survival (OS) in early-stage colon cancer patients undergoi...",
     "tags": [
       "research",
       "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation",
-      "immunotherapy"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
       "oncology"
     ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: gene therapy, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "49969e8da37a4488",
-    "title": "Non-invasive radiogenomic mapping of the SMARCAL1-driven ferroptotic niche is associated with longitudinal MRD-negative surveillance in early-stage NSCLC.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42266691",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42266691",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-11T16:42:22.820Z",
-    "snippet": "Post-operative molecular residual disease (MRD) detection using circulating tumor DNA (ctDNA) has been established as a sensitive biomarker for early recurrence risk stratification in early-stage non-small cell lung cancer (NSCLC). However, the biological heterogeneity of patients MRD-negative at baseline remains incompletely characterized, and a proportion...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
-    ],
     "topicBuckets": [
-      "spatial",
+      "translational medicine",
       "oncology",
-      "computational biology",
       "ai",
-      "translational medicine"
+      "immunology"
     ],
     "isNewToday": false,
     "importanceScore": 68,
     "importanceSignals": [
-      "priority topic: oncology, computational biology",
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -250,15 +137,15 @@
     "isFeatured": true
   },
   {
-    "id": "8d082821cc1ce166",
-    "title": "Editorial: Exploring molecular mechanisms in cancer through tumor molecular pathology.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42272652",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42272652",
+    "id": "ad22295c9e1725f7",
+    "title": "Editorial: Epigenetic modulation in cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42281597",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42281597",
     "source": "pubmed",
     "publicationName": "Frontiers in oncology",
     "journalName": "Frontiers in oncology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-11T16:42:22.820Z",
+    "fetchedAt": "2026-06-12T16:00:44.406Z",
     "snippet": "",
     "tags": [
       "research",
@@ -282,16 +169,16 @@
     "isFeatured": true
   },
   {
-    "id": "f465edaaaec96aef",
-    "title": "Heterogeneity-based stratification identifies CKMT2 as a prognostic marker in osteosarcoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42272640",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42272640",
+    "id": "03bcc364ab6bca9f",
+    "title": "Exceptional response of radiotherapy-na&#xef;ve cranial meningiomas to dual immune checkpoint blockade in BAP1 tumor predisposition syndrome.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42281575",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42281575",
     "source": "pubmed",
-    "publicationName": "Frontiers in cell and developmental biology",
-    "journalName": "Frontiers in cell and developmental biology",
+    "publicationName": "Neuro-oncology advances",
+    "journalName": "Neuro-oncology advances",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-11T16:42:22.820Z",
-    "snippet": "Osteosarcoma (OS) is the most common primary malignant bone tumor. Intratumoral heterogeneity (ITH) contributes to therapy resistance and disease spread. Understanding the molecular structure and cellular groups contributing to ITH, as well as their clinical impacts, remains limited. To build our investigation, we started by integrating single-cell transcri...",
+    "fetchedAt": "2026-06-12T16:00:44.406Z",
+    "snippet": "Meningiomas are the most common primary central nervous system tumors, and while most are benign, atypical and anaplastic variants frequently recur and have limited effective treatment options. Recent trials of PD-1 blockade in unselected meningioma cohorts have demonstrated modest activity, with low objective response rates. These findings highlight the ne...",
     "tags": [
       "research",
       "pubmed",
@@ -303,45 +190,10 @@
     "topicBuckets": [
       "translational medicine",
       "oncology",
-      "ai",
-      "single-cell"
+      "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "2504b99d92a78221",
-    "title": "Comprehensivemutation landscape in prostate cancer in the UAE and Arab population.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42272637",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42272637",
-    "source": "pubmed",
-    "publicationName": "Frontiers in cell and developmental biology",
-    "journalName": "Frontiers in cell and developmental biology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-11T16:42:22.820Z",
-    "snippet": "Prostate cancer (PCa) is the most common malignancy among men in the United Arab Emirates (UAE) and is often diagnosed at advanced stages with aggressive features. Germline mutations in DNA-repair genes, especiallyand, increase PCa risk, withconferring up to 8.6-fold anda 3.7-fold risk. The objective is to determine the prevalence, zygosity, and clinical si...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
+    "importanceScore": 58,
     "importanceSignals": [
       "priority topic: translational medicine, oncology",
       "high-signal source",

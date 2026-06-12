@@ -1,5 +1,39 @@
 [
   {
+    "id": "f067ee48423bbe9b",
+    "title": "Deploying a JupyterHub Server for Academic Research Using Netbooks as an Example.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42273923",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42273923",
+    "source": "pubmed",
+    "publicationName": "Current protocols",
+    "journalName": "Current protocols",
+    "publishedAt": "2026-06-01T00:00:00.000Z",
+    "fetchedAt": "2026-06-12T16:00:44.406Z",
+    "snippet": "Jupyter Notebooks have transformed the way we conduct computational research thanks to a versatile platform that combines code, annotations, plots, and a lightweight format that enables versioning. However, steps for installing dependencies and downloading data for a specific notebook may require significant time and failure to establish identical environme...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
     "id": "2b4e69c6dff2c0dc",
     "title": "RNA Metabolism Genes as Prognostic Biomarkers and Therapeutic Targets in Colorectal Cancer Based on the Analysis of Single-Cell and Bulk-RNA Sequencing Data.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42271539",
@@ -8,7 +42,7 @@
     "publicationName": "Journal of cellular and molecular medicine",
     "journalName": "Journal of cellular and molecular medicine",
     "publishedAt": "2026-06-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-11T16:42:22.820Z",
+    "fetchedAt": "2026-06-12T16:00:44.406Z",
     "snippet": "Colorectal cancer (CRC) is one of the most common malignancies worldwide and remains a major cause of cancer-related mortality. Increasing evidence suggests that aberrant RNA metabolism contributes to tumour initiation, progression and therapeutic resistance. In this study, we integrated single-cell RNA sequencing and bulk transcriptomic data to identify RN...",
     "tags": [
       "research",
@@ -17,21 +51,17 @@
       "computational biology",
       "oncology",
       "biomarker",
-      "single-cell",
-      "Single-cell TME",
-      "tumor microenvironment",
-      "Biomarkers in oncology",
-      "patient stratification"
+      "single-cell"
     ],
     "topicBuckets": [
       "computational biology",
       "oncology",
       "ai",
       "single-cell",
-      "translational medicine",
-      "immunology"
+      "translational medicine"
     ],
     "isNewToday": false,
+    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
       "priority topic: computational biology, oncology",
@@ -39,39 +69,70 @@
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 75,
     "isFeatured": true
   },
   {
-    "id": "e39faee67b802644",
-    "title": "Transcriptomic profiling of varicose veins and associated blood biomarkers.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42267758",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42267758",
+    "id": "f5a809d7129f72ea",
+    "title": "A Novel Therapeutic Approach: Gamma Secretase Inhibitor Enhances Radiotherapy and Checkpoint Blockade Therapy via Reprogramming of the Tumor Microenvironment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42282538",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42282538",
     "source": "pubmed",
-    "publicationName": "Vascular medicine (London, England)",
-    "journalName": "Vascular medicine (London, England)",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
     "publishedAt": "2026-06-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-11T16:42:22.820Z",
-    "snippet": "Intervention for patients with symptomatic varicose veins is largely driven by a combination of symptoms, the magnitude of venous reflux, clinical severity scoring algorithms, and unresponsiveness to conservative medical therapy. Our goal was to evaluate biological features of superficial veins from patients with symptomatic varicose veins, comparing these....",
+    "fetchedAt": "2026-06-12T16:00:44.406Z",
+    "snippet": "High-dose radiotherapy (RT) in cancer is immunogenic but also induces an immunosuppressive tumor microenvironment (TME) that limits the efficacy of immune checkpoint inhibitors (ICIs). Overcoming this immunosuppressive barrier is therefore critical to unlocking the full potential of RT-ICI combinations. As Notch signaling regulates tumor microenvironment, w...",
     "tags": [
       "research",
       "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation",
-      "biomarker"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
     ],
     "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "translational medicine"
+      "single-cell",
+      "oncology",
+      "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 65,
+    "importanceScore": 55,
     "importanceSignals": [
       "published this month",
-      "priority topic: gene therapy, translational medicine",
+      "priority topic: oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "9b218e5d2fb3dd30",
+    "title": "Immune Landscape and Tumour Heterogeneity in Ovarian Cancer: Insights From Single-Cell RNA Sequencing.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42277572",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42277572",
+    "source": "pubmed",
+    "publicationName": "Journal of cellular and molecular medicine",
+    "journalName": "Journal of cellular and molecular medicine",
+    "publishedAt": "2026-06-01T00:00:00.000Z",
+    "fetchedAt": "2026-06-12T16:00:44.406Z",
+    "snippet": "Tumour heterogeneity is a key factor in cancer progression, with immune responses within the tumour microenvironment (TME) contributing significantly to treatment resistance and immunotherapy outcomes. Recent advances in single-cell RNA sequencing (scRNA-seq) have provided unprecedented insights into the diverse immune cell populations infiltrating tumours,...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 55,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -79,16 +140,52 @@
     "isFeatured": true
   },
   {
-    "id": "e5fa74dc8843a580",
-    "title": "Evaluation of mid-treatmentF-FDG PET changes in the oral cavity as a predictor of radiation-induced mucositis severity.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42273108",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42273108",
+    "id": "e7f79bf10be07d87",
+    "title": "Comparative Effects ofvs.Lipopolysaccharides on Osteogenic Differentiation and the Expression of lncRNAs in Periodontal Ligament Stem Cells.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42278535",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42278535",
     "source": "pubmed",
-    "publicationName": "Quantitative imaging in medicine and surgery",
-    "journalName": "Quantitative imaging in medicine and surgery",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
     "publishedAt": "2026-06-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-11T16:42:22.820Z",
-    "snippet": "Oral mucositis is a debilitating yet potentially modifiable toxicity frequently encountered in patients receiving head and neck radiotherapy. This study aimed to evaluate mid-treatment functional changes in the oral cavity using fluorodeoxyglucose positron emission tomography/computed tomography (FDG-PET/CT) and correlate these early imaging findings with m...",
+    "fetchedAt": "2026-06-12T16:00:44.406Z",
+    "snippet": "Periodontal ligament mesenchymal stem cells (PL-MSCs) are vital for both periodontal regeneration and alveolar bone maintenance, including their turnover during orthodontic therapy. Chronic periodontal inflammation, mainly caused by Gram-negative bacterial lipopolysaccharides (LPS), interferes with osteogenic differentiation and leads to bone loss. Increasi...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai",
+      "funding"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "8594f8a2f2e1ff9c",
+    "title": "MCLAM: a cost-effective deep learning model for predicting recurrence risk in HR+/HER2- breast cancer-a multi-center study in a Chinese cohort.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42282128",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42282128",
+    "source": "pubmed",
+    "publicationName": "Journal of the National Cancer Center",
+    "journalName": "Journal of the National Cancer Center",
+    "publishedAt": "2026-06-01T00:00:00.000Z",
+    "fetchedAt": "2026-06-12T16:00:44.406Z",
+    "snippet": "EndoPredict is a gold-standard for HR+/HER2- breast cancer risk stratification but limited by high cost. We propose Multi-modal Clustering-constrained Attention Multiple Instance Learning (MCLAM), a novel deep learning framework, offering a cost-effective, accurate alternative for recurrence risk prediction. We retrospectively analyzed 254 early-stage HR+/H...",
     "tags": [
       "research",
       "pubmed",
@@ -114,16 +211,16 @@
     "isFeatured": true
   },
   {
-    "id": "ce06b9192dbe7180",
-    "title": "Emerging metallic nanotechnology platforms for cancer sensing and imaging.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42272923",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42272923",
+    "id": "a8e8cd6ccd2e7e06",
+    "title": "Extracellular vesicles in prostate cancer: current understanding and future perspectives.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42282127",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42282127",
     "source": "pubmed",
-    "publicationName": "Nano today",
-    "journalName": "Nano today",
+    "publicationName": "Journal of the National Cancer Center",
+    "journalName": "Journal of the National Cancer Center",
     "publishedAt": "2026-06-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-11T16:42:22.820Z",
-    "snippet": "Despite major advances, the management of cancer remains one of the greatest unresolved challenges in medicine and a leading cause of death worldwide. Thus, improved, early, and minimally invasive diagnostics are urgently demanded. In recent years, extraordinary progress in nanotechnology has radically changed this situation by providing unprecedented molec...",
+    "fetchedAt": "2026-06-12T16:00:44.406Z",
+    "snippet": "Exosomes are nanoscale, lipid bilayer extracellular vesicles (EVs) actively secreted by cells under both physiological and pathological conditions. As key mediators of intercellular communication, exosomes carry a diverse array of molecular cargo, including nucleic acids, proteins, lipids, and metabolites, which can influence the function of recipient cells...",
     "tags": [
       "research",
       "pubmed",
@@ -135,7 +232,79 @@
     "topicBuckets": [
       "translational medicine",
       "oncology",
-      "ai"
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "f0f854ba2cacce4d",
+    "title": "Migrasomes program tissue microenvironment: from physiology to oncology, future perspectives in clinical advances.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42282125",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42282125",
+    "source": "pubmed",
+    "publicationName": "Journal of the National Cancer Center",
+    "journalName": "Journal of the National Cancer Center",
+    "publishedAt": "2026-06-01T00:00:00.000Z",
+    "fetchedAt": "2026-06-12T16:00:44.406Z",
+    "snippet": "Cancer remains a critical global health challenge, necessitating an in-depth investigation into spatiotemporal dimensions. Migrasomes, a class of migration-dependent organelles that sequester spatiotemporal and biochemical cues, offer a previously overlooked pathway for microenvironmental programming during tumor evolution. At the cellular level, migrasomes...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "4ba02cf2bd0dce76",
+    "title": "Checkpoint inhibitors in microsatellite instability-high metastatic colorectal cancer: treatment strategies, specificities, and care management questions.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42282106",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42282106",
+    "source": "pubmed",
+    "publicationName": "ESMO gastrointestinal oncology",
+    "journalName": "ESMO gastrointestinal oncology",
+    "publishedAt": "2026-06-01T00:00:00.000Z",
+    "fetchedAt": "2026-06-12T16:00:44.406Z",
+    "snippet": "For patients with metastatic colorectal cancer (mCRC), defective mismatch repair (dMMR) or microsatellite instability-high (MSI-H) status strongly predicts benefit from immune checkpoint inhibitors (ICIs). Based on the phase III KEYNOTE-177 and CheckMate 8HW trials, first-line treatment with ICIs, either anti-PD-1 monotherapy or anti-PD-1 + anti-CTLA-4 comb...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai",
+      "immunology"
     ],
     "isNewToday": false,
     "importanceScore": 75,
