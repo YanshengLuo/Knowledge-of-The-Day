@@ -1,115 +1,35 @@
 [
   {
-    "id": "34ec3f36dbeb4592",
-    "title": "DNA damage response signature-based prognostic genes for intrahepatic cholangiocarcinoma: a combined analysis of machine learning and biological experiments.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42216034",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42216034",
+    "id": "173e27dfb062a280",
+    "title": "Use of the J774A.1 Cell Line as a Model in the In Vitro Study of Extracellular Vesicle Secretion from Histiocytic Sarcoma in Patients with Bacterial Co-Infections.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42278472",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42278472",
     "source": "pubmed",
-    "publicationName": "Cancer cell international",
-    "journalName": "Cancer cell international",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
     "publishedAt": "2026-05-29T00:00:00.000Z",
-    "fetchedAt": "2026-06-02T17:12:14.332Z",
-    "snippet": "Intrahepatic cholangiocarcinoma (ICC) is a highly aggressive subtype of primary liver cancer with insidious onset, early metastasis, and poor prognosis. DNA damage response (DDR) dysfunction is linked to ICC tumorigenesis, progression, and drug resistance. However, the detailed mechanisms remain underexplored. DDR activity was quantified by ssGSEA across 6....",
+    "fetchedAt": "2026-06-13T14:54:27.433Z",
+    "snippet": "Histiocytic sarcoma (HS) is an aggressive hematological malignancy whose transformed cells exhibit morphological and immunophenotypic characteristics similar to macrophages, and arises de novo or as part of a clonal 'evolution' of other pre-existing hematological neoplasms. This study investigates the potential use of the J774A.1 cell line (a cell line deri...",
     "tags": [
       "research",
       "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "machine learning"
+      "Computational oncology",
+      "computational biology",
+      "oncology"
     ],
     "topicBuckets": [
-      "spatial",
-      "oncology",
       "computational biology",
-      "ai"
+      "oncology"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
+    "importanceScore": 65,
     "importanceSignals": [
-      "recent",
-      "priority topic: oncology, computational biology",
+      "published this month",
+      "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
-  },
-  {
-    "id": "ea574aba418b18aa",
-    "title": "Spatial transcriptomics of cervical cancer reveals microenvironment shaped the malignant epithelial programs and ECM-associated immune niches.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42215810",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42215810",
-    "source": "pubmed",
-    "publicationName": "Cancer immunology, immunotherapy : CII",
-    "journalName": "Cancer immunology, immunotherapy : CII",
-    "publishedAt": "2026-05-29T00:00:00.000Z",
-    "fetchedAt": "2026-06-02T17:12:14.332Z",
-    "snippet": "Cervical cancer progression and therapeutic response are influenced by intratumoral heterogeneity and the tumor microenvironment. The diversity of malignant epithelial subtypes and their interactions with immune cells present significant challenges for effective clinical management. We applied Stereo-seq spatial transcriptomics to FFPE cervical cancer speci...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "spatial"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "translational medicine",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "5cb9aa26a7607fd0",
-    "title": "GraphTME: graph-based framework for predicting immunotherapy response by interpreting tumour microenvironment interactions using spatial transcriptomics.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42215484",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42215484",
-    "source": "pubmed",
-    "publicationName": "NPJ systems biology and applications",
-    "journalName": "NPJ systems biology and applications",
-    "publishedAt": "2026-05-29T00:00:00.000Z",
-    "fetchedAt": "2026-06-02T17:12:14.332Z",
-    "snippet": "Immune checkpoint inhibitors (ICIs), which reactivate T-cell responses against tumours, show limited clinical efficacy due to low response rates and the lack of robust predictive biomarkers. Cell-cell interactions within the tumour microenvironment influence therapeutic response and can be analysed at single-cell resolution using imaging-based spatial trans...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "spatial",
-      "immunotherapy"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "ai",
-      "single-cell",
-      "translational medicine",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
+    "isFeatured": false
   }
 ]

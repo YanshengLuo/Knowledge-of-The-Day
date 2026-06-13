@@ -1,5 +1,81 @@
 [
   {
+    "id": "0a1e527683992420",
+    "title": "From Genes to Proteins: The Indispensable Role of Proteogenomics in Advancing Clear Cell Renal Cell Carcinoma Research.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42278578",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42278578",
+    "source": "pubmed",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
+    "publishedAt": "2026-06-03T00:00:00.000Z",
+    "fetchedAt": "2026-06-13T14:54:27.433Z",
+    "snippet": "Clear cell renal cell carcinoma (ccRCC) is characterized by a complex molecular landscape driven by recurrent genetic alterations. While genomic and transcriptomic profiling have identified core drivers, they often fail to provide robust biomarkers due to the significant decoupling of mRNA and protein levels, as well as the critical role of post-translation...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "95b4075d068dfffe",
+    "title": "SpatioCell: deep integration of histology and spatial transcriptomics for profiling the cellular microenvironment at single-cell level.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42285802",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42285802",
+    "source": "pubmed",
+    "publicationName": "Science bulletin",
+    "journalName": "Science bulletin",
+    "publishedAt": "2026-06-03T00:00:00.000Z",
+    "fetchedAt": "2026-06-13T14:54:27.433Z",
+    "snippet": "Spatial transcriptomics (ST) is a powerful assay for capturing gene expression in tissues. However, due to inherent limitations of spatial resolution, most existing ST datasets remain at a multicellular resolution, which hinders a comprehensive understanding of spatial organization. We propose SpatioCell, a computational algorithm to automatically extract b...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "spatial",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai",
+      "computational biology",
+      "spatial"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 75,
+    "isFeatured": true
+  },
+  {
     "id": "205c3ec39c687625",
     "title": "HyperNiche: Learning Heterophilic Cellular Niches with Hypergraph Neural Networks.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42282514",
@@ -8,43 +84,8 @@
     "publicationName": "bioRxiv : the preprint server for biology",
     "journalName": "bioRxiv : the preprint server for biology",
     "publishedAt": "2026-06-03T00:00:00.000Z",
-    "fetchedAt": "2026-06-12T16:00:44.406Z",
+    "fetchedAt": "2026-06-13T14:54:27.433Z",
     "snippet": "We propose HyperNiche, a hypergraph-based framework for modeling higher-order, heterogeneous cellular niches from spatial transcriptomics data. Unlike conventional graph-based methods that rely on pairwise similarity and tend to produce homogeneous clusters, HyperNiche learns anchor-centered hyperedges through a compatibility-driven mechanism that captures....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "c02b4455c36914ef",
-    "title": "Artificial Intelligence in Tumor Evolution: Understanding Cancer Complexity Through Multi-Modal Data Integration in Precision Oncology.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42274624",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42274624",
-    "source": "pubmed",
-    "publicationName": "Cells",
-    "journalName": "Cells",
-    "publishedAt": "2026-06-03T00:00:00.000Z",
-    "fetchedAt": "2026-06-12T16:00:44.406Z",
-    "snippet": "Cancer research has undergone a fundamental transformation in recent decades due to the integration of artificial intelligence (AI) models into the study of tumor biology. However, tumor evolution, driven by genetic and phenotypic alterations leading to heterogeneity, resistance and metastasis, remains a major challenge in oncology. To understand these proc...",
     "tags": [
       "research",
       "pubmed",
