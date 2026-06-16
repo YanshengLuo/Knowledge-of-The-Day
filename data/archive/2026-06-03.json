@@ -8,7 +8,7 @@
     "publicationName": "Science bulletin",
     "journalName": "Science bulletin",
     "publishedAt": "2026-06-03T00:00:00.000Z",
-    "fetchedAt": "2026-06-15T17:46:33.375Z",
+    "fetchedAt": "2026-06-16T17:51:39.803Z",
     "snippet": "Spatial transcriptomics (ST) is a powerful assay for capturing gene expression in tissues. However, due to inherent limitations of spatial resolution, most existing ST datasets remain at a multicellular resolution, which hinders a comprehensive understanding of spatial organization. We propose SpatioCell, a computational algorithm to automatically extract b...",
     "tags": [
       "research",
@@ -25,41 +25,6 @@
       "computational biology",
       "ai",
       "single-cell"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "205c3ec39c687625",
-    "title": "HyperNiche: Learning Heterophilic Cellular Niches with Hypergraph Neural Networks.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42282514",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42282514",
-    "source": "pubmed",
-    "publicationName": "bioRxiv : the preprint server for biology",
-    "journalName": "bioRxiv : the preprint server for biology",
-    "publishedAt": "2026-06-03T00:00:00.000Z",
-    "fetchedAt": "2026-06-15T17:46:33.375Z",
-    "snippet": "We propose HyperNiche, a hypergraph-based framework for modeling higher-order, heterogeneous cellular niches from spatial transcriptomics data. Unlike conventional graph-based methods that rely on pairwise similarity and tend to produce homogeneous clusters, HyperNiche learns anchor-centered hyperedges through a compatibility-driven mechanism that captures....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "ai"
     ],
     "isNewToday": false,
     "importanceScore": 75,
