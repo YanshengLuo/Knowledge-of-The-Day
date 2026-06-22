@@ -8,7 +8,7 @@
     "publicationName": "Frontiers in artificial intelligence",
     "journalName": "Frontiers in artificial intelligence",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-21T15:05:00.802Z",
+    "fetchedAt": "2026-06-22T17:20:58.752Z",
     "snippet": "Artificial intelligence (AI) has rapidly become the focal point of global governmental attention and investment. Nations are launching AI for science strategies on a scale comparable to historic endeavors such as Apollo and the Manhattan Project. These coordinated programs carry profound promise for people living with cancer, for those at risk of disease an...",
     "tags": [
       "research",
@@ -42,17 +42,14 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-21T15:05:00.802Z",
+    "fetchedAt": "2026-06-22T17:20:58.752Z",
     "snippet": "Chaperone-mediated autophagy (CMA) plays an important role in tumor progression and remodeling of the tumor immune microenvironment. However, its functional heterogeneity, immune associations, and clinical significance in colon cancer remain unclear. Single-cell and bulk transcriptomic data were integrated to characterize CMA-related features in colon cance...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
-      "oncology",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
+      "oncology"
     ],
     "topicBuckets": [
       "computational biology",
@@ -63,248 +60,9 @@
       "immunology"
     ],
     "isNewToday": false,
+    "importanceScore": 68,
     "importanceSignals": [
       "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "importanceScore": 68,
-    "isFeatured": true
-  },
-  {
-    "id": "a8c0db3b650b324a",
-    "title": "A diagnostic signature derived from NK cell related genes in prostate cancer: insights from integrated scRNA-seq and bulk RNA-seq analyses with functional validation of KIT.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42317356",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42317356",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-21T15:05:00.802Z",
-    "snippet": "Prostate cancer is one of the most common malignant tumors of the male genitourinary system. The impaired activity of natural killer (NK) cells observed in prostate cancer may contribute to immune evasion. This study aimed to develop robust NK cell-related diagnostic signatures. Based on NK related genes identified by scRNA-seq analysis, weighted gene co-ex...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "dd670aeadf13854d",
-    "title": "Senescence-circadian interplay stratifies patient prognosis and reveals immune remodeling heterogeneity in colorectal cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42317343",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42317343",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-21T15:05:00.802Z",
-    "snippet": "Colorectal cancer (CRC) exhibits substantial biological and prognostic heterogeneity that is not fully captured by conventional clinicopathological staging, and the interplay between the cellular senescence and circadian dysregulation in CRC remains insufficiently defined. We integrated bulk transcriptomic and clinical data from public CRC cohorts to constr...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "computational biology",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "53f6bb4cae95902c",
-    "title": "Early identification of difficult-to-manage axial spondyloarthritis using machine-learning decision trees.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42318515",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42318515",
-    "source": "pubmed",
-    "publicationName": "Therapeutic advances in musculoskeletal disease",
-    "journalName": "Therapeutic advances in musculoskeletal disease",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-21T15:05:00.802Z",
-    "snippet": "Axial spondyloarthritis (axSpA) is an inflammatory disease in which, despite expanding therapeutic options, a substantial proportion of patients do not achieve the desired treatment target, highlighting the emerging concept of difficult-to-manage (D2M) axSpA. To identify characteristics and predictive factors of D2M axSpA and to develop machine learning mod...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "2fb4d1d80b54b2ba",
-    "title": "Can a mosquito-borne virus become a cancer therapy? rethinking Getah virus through the lens of oncolytic virotherapy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42318018",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42318018",
-    "source": "pubmed",
-    "publicationName": "Frontiers in cellular and infection microbiology",
-    "journalName": "Frontiers in cellular and infection microbiology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-21T15:05:00.802Z",
-    "snippet": "Getah virus (GetV) is an arthropod-borne alphavirus historically recognized as an emerging zoonotic pathogen of veterinary significance, particularly in livestock and equine populations across Asia and parts of the Western Pacific. Over the past several decades, its expanding ecological range, broad mosquito vector competence, and increasing frequency of an...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: gene therapy, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "26c4de69e0c569d7",
-    "title": "Research progress on multispecies animal models of chronic rhinosinusitis: modeling strategies and research applications.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42318012",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42318012",
-    "source": "pubmed",
-    "publicationName": "Frontiers in allergy",
-    "journalName": "Frontiers in allergy",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-21T15:05:00.802Z",
-    "snippet": "Chronic rhinosinusitis (CRS) is a systemic, complicated, inflammatory disease which results in a significant burden on the patient's quality of life. Although the prevalence has been increasing worldwide, our therapeutic advances have been limited by the complexity of immune imbalance in addition to epithelial breakdown. Although murine models have always b...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "computational biology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: gene therapy, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "95cee9457ad4e86b",
-    "title": "Fecal microbiota transplantation reduces inflammation and modulates gene expression in HIV-infected double humanized-BLT (dHu-BLT) mice on antiretroviral therapy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42317353",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42317353",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-21T15:05:00.802Z",
-    "snippet": "Persistent immune activation and inflammation remain significant barriers to managing comorbidities in people living with HIV (PLWH) on suppressive antiretroviral therapy (ART). While ART substantially reduces plasma viral loads to an undetectable level, it fails to fully restore gut microbial homeostasis and prevent microbial translocation, a critical path...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "729f050d7ea7a49c",
-    "title": "Lineage infidelity in FH-deficient RCC with secondary somatic alterations: a case report and implications for diagnosis and treatment.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42317258",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42317258",
-    "source": "pubmed",
-    "publicationName": "Therapeutic advances in medical oncology",
-    "journalName": "Therapeutic advances in medical oncology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-21T15:05:00.802Z",
-    "snippet": "Fumarate hydratase (FH)-deficient renal cell carcinoma (RCC) can exhibit striking histologic and immunophenotypic heterogeneity. A 36-year-old woman with uterine leiomyomas presented with a 5.1-cm left renal sinus mass and retroperitoneal adenopathy. Biopsy showed juxtaposed lower-grade oncocytic (PAX8 strong, GATA3 weak) and higher-grade pleomorphic (PAX8....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 48,
-    "importanceSignals": [
-      "priority topic: gene therapy",
       "high-signal source",
       "rich summary",
       "rich metadata"
