@@ -8,7 +8,7 @@
     "publicationName": "Cancer cell international",
     "journalName": "Cancer cell international",
     "publishedAt": "2026-06-21T00:00:00.000Z",
-    "fetchedAt": "2026-06-22T17:20:58.752Z",
+    "fetchedAt": "2026-06-23T15:41:57.785Z",
     "snippet": "To investigate MRI-based radiomic features in glioma and key genes related to IDH mutations, and to analyze their correlation. 61 MRI files from TCIA were divided into training and validation sets (7:3). An external validation set included 66 pathologically confirmed glioma patients. Regions of interest (ROIs) were manually delineated, extracting 1,037 radi...",
     "tags": [
       "research",
@@ -30,13 +30,13 @@
     ],
     "isNewToday": false,
     "importanceSignals": [
-      "very recent",
+      "recent",
       "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 92,
+    "importanceScore": 82,
     "isFeatured": true
   },
   {
@@ -48,7 +48,7 @@
     "publicationName": "Journal of translational medicine",
     "journalName": "Journal of translational medicine",
     "publishedAt": "2026-06-21T00:00:00.000Z",
-    "fetchedAt": "2026-06-22T17:20:58.752Z",
+    "fetchedAt": "2026-06-23T15:41:57.785Z",
     "snippet": "Glioma is characterized by a profoundly immunosuppressive tumor microenvironment (TME) that severely limits immune checkpoint blockade efficacy. Glioma-associated myeloid cells (GAMs), including resident microglia and infiltrating macrophages, constitute the dominant immune population within gliomas and shape antitumor immune responses. While immune checkpo...",
     "tags": [
       "research",
@@ -63,322 +63,10 @@
       "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 72,
+    "importanceScore": 62,
     "importanceSignals": [
-      "very recent",
+      "recent",
       "priority topic: oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "fbcb9e6785bae73c",
-    "title": "Identification of macrophage-enriched genes in ovarian cancer by single-cell RNA sequencing and establishment of a prognosis model.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42324278",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42324278",
-    "source": "pubmed",
-    "publicationName": "Scientific reports",
-    "journalName": "Scientific reports",
-    "publishedAt": "2026-06-21T00:00:00.000Z",
-    "fetchedAt": "2026-06-22T17:20:58.752Z",
-    "snippet": "Ovarian cancer (OC) is the most lethal gynecologic malignancy, presenting insidious onset and lacking specific biomarkers. Tumor-associated macrophages (TAMs) modulate immunity via M1/M2 plasticity, yet their heterogeneity and pro-metastatic mechanisms remain unclear. Using scRNA-seq, we compared immune profiles of OC and normal tissues, extracted TAM modul...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 92,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "10a141e62203d5f1",
-    "title": "Restoring STING expression in soft tissue sarcoma increases activation and function of tumor-infiltrating lymphocytes.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42323747",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42323747",
-    "source": "pubmed",
-    "publicationName": "Cancer immunology, immunotherapy : CII",
-    "journalName": "Cancer immunology, immunotherapy : CII",
-    "publishedAt": "2026-06-21T00:00:00.000Z",
-    "fetchedAt": "2026-06-22T17:20:58.752Z",
-    "snippet": "Sarcomas are rare, highly heterogeneous malignancies, with soft tissue sarcomas (STS) comprising nearly 80 histological subtypes. Localized STS is generally treated with surgery and radiotherapy, whereas metastatic disease relies largely on chemotherapy, which offers limited benefit. Although inflammation influences tumor development, treatment response, an...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: gene therapy, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "20e5582a51563110",
-    "title": "Parallel Liquid Biopsy Analysis of miR-371a-3p and Cell-Free DNA in an Unselected Cohort of Patients With Testicular Germ Cell Tumors.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42324838",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42324838",
-    "source": "pubmed",
-    "publicationName": "Andrology",
-    "journalName": "Andrology",
-    "publishedAt": "2026-06-21T00:00:00.000Z",
-    "fetchedAt": "2026-06-22T17:20:58.752Z",
-    "snippet": "Despite robust data showing strong potential to improve diagnosis and disease monitoring in testicular germ cell tumors (TGCTs), miR-371a-3p testing has not yet been implemented in routine clinical practice. Cell-free DNA (cfDNA) represents another promising liquid biopsy biomarker that may provide complementary molecular information. To evaluate miR-371a-3...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "60b0a6d9f3ec04d5",
-    "title": "Personalized whole-genome-based ctDNA dynamics during neoadjuvant therapy across breast cancer subtypes: results from MONITOR-Breast.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42324681",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42324681",
-    "source": "pubmed",
-    "publicationName": "Future oncology (London, England)",
-    "journalName": "Future oncology (London, England)",
-    "publishedAt": "2026-06-21T00:00:00.000Z",
-    "fetchedAt": "2026-06-22T17:20:58.752Z",
-    "snippet": "Pathological complete response (pCR) after neoadjuvant therapy (NAT) strongly associates with reduced breast cancer relapse risk. Circulating tumor DNA (ctDNA) shows promise as a therapy-response biomarker, but prior studies had limited sampling and assay sensitivity. MONITOR-Breast characterized ctDNA dynamics across NAT at high temporal resolution using a...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "98b873534e41174c",
-    "title": "The Association Between Lymphocyte-Monocyte Ratio, Tumor-Infiltrating Lymphocytes, and Tumor-Associated Macrophages with 3-Year Progression-Free Survival in Advanced Local Stage Nasopharyngeal Cancer Patients.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42324616",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42324616",
-    "source": "pubmed",
-    "publicationName": "Cancer investigation",
-    "journalName": "Cancer investigation",
-    "publishedAt": "2026-06-21T00:00:00.000Z",
-    "fetchedAt": "2026-06-22T17:20:58.752Z",
-    "snippet": "Nasopharyngeal cancer (NPC) is a major health burden in Indonesia, and reliable prognostic biomarkers are needed to guide treatment decisions. This study examined associations between lymphocyte-monocyte ratio (LMR), tumor-infiltrating lymphocytes (TILs), tumor-associated macrophages (TAMs), and 3-year progression-free survival (PFS) in advanced-stage NPC.....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "89a1fb5b9eb9aded",
-    "title": "Association between the TP63 and CIR1 polymorphisms and non-small cell lung cancer in Chinese population.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42324549",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42324549",
-    "source": "pubmed",
-    "publicationName": "Journal of cardiothoracic surgery",
-    "journalName": "Journal of cardiothoracic surgery",
-    "publishedAt": "2026-06-21T00:00:00.000Z",
-    "fetchedAt": "2026-06-22T17:20:58.752Z",
-    "snippet": "Lung cancer is a leading cause of cancer-related death globally, with non-small cell lung cancer (NSCLC) being the predominant form. Genetic factors significantly influence individual susceptibility. This study investigated the association of TP63 (rs7631358) and CIR1 (rs13009079) polymorphisms with NSCLC risk in a Chinese population. A case-control study w...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "a4177a4d495be6b3",
-    "title": "Prognostic value of tertiary lymphoid structures in locally advanced esophageal squamous cell carcinoma treated with neoadjuvant chemoimmunotherapy: a retrospective study.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42324542",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42324542",
-    "source": "pubmed",
-    "publicationName": "Journal of cardiothoracic surgery",
-    "journalName": "Journal of cardiothoracic surgery",
-    "publishedAt": "2026-06-21T00:00:00.000Z",
-    "fetchedAt": "2026-06-22T17:20:58.752Z",
-    "snippet": "This retrospective study analyzed 73 patients with locally advanced esophageal squamous cell carcinoma (ESCC) who received neoadjuvant chemoimmunotherapy, aiming to investigate the impact of the multiple heterogeneity of tertiary lymphoid structures (TLS) on treatment efficacy and prognosis. The results demonstrated that intratumoral TLS presence correlated...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology",
-      "immunotherapy"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 92,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "0e8c769ab30376bb",
-    "title": "Considering Tumour Sidedness is Critical for Accurate Interpretation of Liquid Biopsy Results in Metastatic Colorectal Cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42324399",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42324399",
-    "source": "pubmed",
-    "publicationName": "Molecular diagnosis & therapy",
-    "journalName": "Molecular diagnosis & therapy",
-    "publishedAt": "2026-06-21T00:00:00.000Z",
-    "fetchedAt": "2026-06-22T17:20:58.752Z",
-    "snippet": "Colorectal cancer is one of the most common and deadly malignancies worldwide. Traditionally, all colon tumours have been treated as a single entity, but growing evidence shows that tumour behaviour differs markedly according to tumour sidedness. Right-sided and left-sided tumours exhibit distinct molecular profiles, prognoses and therapeutic responses. A l...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "6bd6c5b5d14cabc3",
-    "title": "Early prediction of severe Omicron pneumonia using a multimodal a.i. model integrating delta CT radiomics and laboratory indicators.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42324292",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42324292",
-    "source": "pubmed",
-    "publicationName": "Scientific reports",
-    "journalName": "Scientific reports",
-    "publishedAt": "2026-06-21T00:00:00.000Z",
-    "fetchedAt": "2026-06-22T17:20:58.752Z",
-    "snippet": "Early identification of patients at risk of severe pneumonia during Omicron SARS-CoV-2 infection is critical for optimizing care and allocating resources. While clinical markers provide insights, imaging-derived radiomics features may enhance prognostic accuracy. We developed a multimodal predictive model combining Delta Radiomics features from serial chest...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "computational biology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 92,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
