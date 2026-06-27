@@ -1,212 +1,107 @@
 [
   {
-    "id": "7bdb0d815ea7b594",
-    "title": "Comprehensive Pan-Cancer Bioinformatics Analysis Identifies DHX58 as a Promising Therapeutic Target and Prognostic Biomarker Across Multiple Tumor Types.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42345158",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42345158",
+    "id": "22f077760452e36b",
+    "title": "scRADAR: Dissecting intratumoral drug response heterogeneity at single-cell resolution via mechanism-guided prototype routing.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42361193",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42361193",
     "source": "pubmed",
-    "publicationName": "Asian Pacific journal of cancer prevention : APJCP",
-    "journalName": "Asian Pacific journal of cancer prevention : APJCP",
+    "publicationName": "PLoS computational biology",
+    "journalName": "PLoS computational biology",
     "publishedAt": "2026-06-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-25T15:34:42.567Z",
-    "snippet": "DExH-box helicase 58 (DHX58/LGP2) is an innate immune regulator with a previously uncharacterized role in oncology. This study evaluates the multifaceted role of the DHX58 gene, examining its pan-cancer expression, prognostic value, and therapeutic potential across various tumor types through an extensive pan-cancer bioinformatics analysis. We conducted a b...",
+    "fetchedAt": "2026-06-27T14:19:41.147Z",
+    "snippet": "Precision oncology requires resolving intratumoral heterogeneity to identify drug-resistant cell states associated with treatment failure and relapse. Although single-cell RNA sequencing enables characterization of heterogeneous resistance-associated states, single-cell drug-response phenotype prediction remains challenging because of sparsity, noise, class...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
       "oncology",
-      "biomarker",
+      "single-cell"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "single-cell",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "655ce0ce92dab328",
+    "title": "Design, Synthesis, and In&#xa0;Vitro Biological Assessment of Novel Benzimidazole and Hydrazone Derivatives Against Pancreatic Cancer and Melanoma Cells.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42359994",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42359994",
+    "source": "pubmed",
+    "publicationName": "Chemical biology & drug design",
+    "journalName": "Chemical biology & drug design",
+    "publishedAt": "2026-06-01T00:00:00.000Z",
+    "fetchedAt": "2026-06-27T14:19:41.147Z",
+    "snippet": "In this study, novel Benzimidazole-Hydrazone derivatives (5A-5J) were synthesized and evaluated for their in&#xa0;vitro anticancer activities against Panc-1, SK-MEL-30, HeLa, and BEAS-2B cell lines. WST-1 cytotoxicity assays revealed that compound 5A displayed notable potency in SK-MEL-30 cells (IC&#x2009;=&#x2009;23.25&#x2009;&#xb1;&#x2009;1.40&#x2009;&#x3...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "c3b4834d055e15a2",
+    "title": "Vactosertib enhances radiotherapy efficacy by modulating radiation-induced tumor microenvironment remodeling in breast cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42359757",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42359757",
+    "source": "pubmed",
+    "publicationName": "Radiology and oncology",
+    "journalName": "Radiology and oncology",
+    "publishedAt": "2026-06-01T00:00:00.000Z",
+    "fetchedAt": "2026-06-27T14:19:41.147Z",
+    "snippet": "Radiotherapy (RT) is a standard treatment for breast cancer; however, it can induce unfavorable alterations in the tumor microenvironment (TME), including inflammatory responses, fibrosis, and immune dysregulation, which may compromise therapeutic efficacy and contribute to suboptimal treatment outcomes. This study aimed to investigate whether Vactosertib,....",
+    "tags": [
+      "research",
+      "pubmed",
       "Gene therapy inflammation",
       "gene therapy",
       "mRNA delivery",
-      "inflammation",
-      "Biomarkers in oncology",
-      "patient stratification"
+      "inflammation"
     ],
     "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "translational medicine",
-      "immunology",
-      "gene therapy"
-    ],
-    "isNewToday": false,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "importanceScore": 75,
-    "isFeatured": false
-  },
-  {
-    "id": "73b71cde9bfed298",
-    "title": "Impact of Genetic Polymorphisms on Bortezomib-Induced Peripheral Neuropathy in Multiple Myeloma: A Systematic Review and Bioinformatics Analysis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42345143",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42345143",
-    "source": "pubmed",
-    "publicationName": "Asian Pacific journal of cancer prevention : APJCP",
-    "journalName": "Asian Pacific journal of cancer prevention : APJCP",
-    "publishedAt": "2026-06-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-25T15:34:42.567Z",
-    "snippet": "Bortezomib, a 26S proteasome inhibitor, has become a cornerstone in the treatment of multiple myeloma. However, its use is limited by a common and potentially serious adverse effect, bortezomib-induced peripheral neuropathy (BIPN), which manifests in 30-60% of multiple myeloma patients primarily as a sensory, distal, axonal neuropathy, often with pain, numb...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "e5e8a6b1ed0a1c7d",
-    "title": "Network pharmacology and bioinformatics analysis-based strategy for exploring the mechanisms of luteolin in the treatment of five types of cancer: A retrospective computational study.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42343650",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42343650",
-    "source": "pubmed",
-    "publicationName": "The Journal of international medical research",
-    "journalName": "The Journal of international medical research",
-    "publishedAt": "2026-06-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-25T15:34:42.567Z",
-    "snippet": "ObjectiveLuteolin, a natural flavonoid, exhibits anticancer effects; however, its mechanisms of action are unclear.MethodsThis retrospective computational study combined network pharmacology, molecular docking, and molecular dynamics simulation to explore luteolin's anticancer mechanisms in five types of cancers, including breast, lung, colorectal, gastric,...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 65,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "2555afe928958a2f",
-    "title": "From Genomic Alterations to Functional Tumor Biology: Integrating Organoids and Organ-on-a-Chip in Colorectal Cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42340051",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42340051",
-    "source": "pubmed",
-    "publicationName": "Biology of the cell",
-    "journalName": "Biology of the cell",
-    "publishedAt": "2026-06-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-25T15:34:42.567Z",
-    "snippet": "Colorectal cancer (CRC) develops through the stepwise accumulation of genetic alterations, including mutations in APC, KRAS, and TP53, which drive tumor initiation and progression. Although advances in genomic profiling have significantly improved our understanding of CRC, translating these alterations into functional outcomes and therapeutic responses rema...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 65,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "3149972acb5bb037",
-    "title": "Multifunctional nanotherapeutics for targeted modulation of endoplasmic reticulum stress to potentiate cancer therapy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42338757",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42338757",
-    "source": "pubmed",
-    "publicationName": "Asian journal of pharmaceutical sciences",
-    "journalName": "Asian journal of pharmaceutical sciences",
-    "publishedAt": "2026-06-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-25T15:34:42.567Z",
-    "snippet": "Endoplasmic reticulum stress (ERS), arising from the disruption of proteostasis within the tumor microenvironment, represents a fundamental driver of tumorigenesis, immune evasion and resistance against conventional therapies. In recent years, the precise modulation of ERS through the application of nanotechnology has emerged as a promising strategy to enha...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
+      "gene therapy",
       "immunology",
       "ai",
-      "biotech"
-    ],
-    "isNewToday": false,
-    "importanceScore": 65,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "76a7cb115442f079",
-    "title": "Persistent interferon signaling and clonal expansion mark early events in DNA methylation damage-induced liver cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42344606",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42344606",
-    "source": "pubmed",
-    "publicationName": "NAR cancer",
-    "journalName": "NAR cancer",
-    "publishedAt": "2026-06-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-25T15:34:42.567Z",
-    "snippet": "-Nitrosodimethylamine (NDMA), a probable human carcinogen, induces toxic and mutagenic DNA-methylguanine (MeG) adducts that are repaired by-methylguanine-DNA methyltransferase (MGMT). To elucidate how early-life environmental mutagenic exposures promote latent liver tumorigenesis, we performed longitudinal studies in wild-type and MGMT-deficient () mice. Ne...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
       "computational biology",
-      "ai"
+      "oncology"
     ],
     "isNewToday": false,
     "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology, computational biology",
+      "priority topic: gene therapy, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -214,351 +109,38 @@
     "isFeatured": true
   },
   {
-    "id": "19a474e52a7c4d81",
-    "title": "Gene Expression Alterations of TIMP3, ELASTIN, K-RAS, and BRAF in Colorectal Cancer Patients with H. pylori Infection.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42345178",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42345178",
+    "id": "57e231f32509e80c",
+    "title": "Dysregulation of the TLR4/MyD88/NF-&#x3ba;B Signaling Pathway and Pro-Inflammatory Cytokines in First-Episode Major Depressive Disorder: A Cross-Sectional Case-Control Study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42357924",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42357924",
     "source": "pubmed",
-    "publicationName": "Asian Pacific journal of cancer prevention : APJCP",
-    "journalName": "Asian Pacific journal of cancer prevention : APJCP",
+    "publicationName": "Immunity, inflammation and disease",
+    "journalName": "Immunity, inflammation and disease",
     "publishedAt": "2026-06-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-25T15:34:42.567Z",
-    "snippet": "Colorectal cancer (CRC) is the third most common malignancy and the second leading cause of cancer-related mortality worldwide, with over 1.9 million new cases and 0.9 million deaths reported in 2020. The role of Helicobacter pylori infection in CRC pathogenesis remains a significant area of research. This study aimed to investigate the association between....",
+    "fetchedAt": "2026-06-27T14:19:41.147Z",
+    "snippet": "Inflammation is increasingly recognized as a key contributor to the development and progression of major depressive disorder (MDD). This case-control study aims to assess the expression of inflammatory pathway components (TRIF, MyD88, NF-&#x3ba;B) and serum levels of TNF-&#x3b1; and IL-6 in remitted and untreated MDD patients compared to healthy controls. T...",
     "tags": [
       "research",
       "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
     ],
     "topicBuckets": [
-      "translational medicine",
-      "oncology",
+      "gene therapy",
+      "immunology",
       "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
+    "importanceScore": 65,
     "importanceSignals": [
       "published this month",
-      "priority topic: translational medicine, oncology",
+      "priority topic: gene therapy, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
     "isFeatured": true
-  },
-  {
-    "id": "3e912f3d6f7db34f",
-    "title": "Vitamin D3 Supplementation Modulates C-MYC/VEGF and Improves Chemotherapy Outcomes in Metastatic CRC Patients: Integrated Clinical-Mechanistic Evidence.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42345177",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42345177",
-    "source": "pubmed",
-    "publicationName": "Asian Pacific journal of cancer prevention : APJCP",
-    "journalName": "Asian Pacific journal of cancer prevention : APJCP",
-    "publishedAt": "2026-06-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-25T15:34:42.567Z",
-    "snippet": "Systemic chemotherapy with fluoropyrimidine regimens is the cornerstone of management for unresectable metastatic colorectal cancer (CRC). This study aimed to evaluate the clinical outcomes and potential molecular mechanisms of adding vitamin D3 supplementation to fluoropyrimidine-based chemotherapy in metastatic CRC patients. This study evaluated the clini...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "9a640ad985f4d4cb",
-    "title": "Blood-Based vs. Tissue-Based mRNA Expression of Thymidylate Synthase, Dihydropyrimidine Dehydrogenase, and Methylenetetrahydrofolate Reductase: A Prospective Study to Predict the Neoadjuvant CAPEOX Response in Advanced Colorectal Cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42345176",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42345176",
-    "source": "pubmed",
-    "publicationName": "Asian Pacific journal of cancer prevention : APJCP",
-    "journalName": "Asian Pacific journal of cancer prevention : APJCP",
-    "publishedAt": "2026-06-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-25T15:34:42.567Z",
-    "snippet": "Fluoropyrimidine-based chemotherapy is a fundamental treatment for colorectal cancer (CRC), yet its therapeutic efficacy is often limited by significant inter-individual variability. Enzymes involved in 5-fluorouracil (5-FU) metabolism thymidylate synthase (TS), dihydropyrimidine dehydrogenase (DPD), and methylenetetrahydrofolate reductase (MTHFR) are criti...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 65,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "40c8e5b345145054",
-    "title": "Combined Diagnostic Utility of Serum CA15-3 and Routine Hematological Indicators for Breast Cancer Differentiation in an Iraqi Cohort.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42345174",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42345174",
-    "source": "pubmed",
-    "publicationName": "Asian Pacific journal of cancer prevention : APJCP",
-    "journalName": "Asian Pacific journal of cancer prevention : APJCP",
-    "publishedAt": "2026-06-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-25T15:34:42.567Z",
-    "snippet": "Breast cancer (BC) is a leading cause of mortality among Iraqi women, underscoring the need for accessible diagnostic tools. This study evaluates the combined utility of the tumor marker CA15-3 and routine hematological parameters as an adjunctive tool for distinguishing between treatment-na&#xef;ve BC patients with a pre-existing diagnosis and healthy indi...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 65,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "ab1d2f7cf892cfd8",
-    "title": "Prognostic and Clinical Significance of Circulating Cystatin C Levels in Cancer Patients: A Meta-Analysis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42345173",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42345173",
-    "source": "pubmed",
-    "publicationName": "Asian Pacific journal of cancer prevention : APJCP",
-    "journalName": "Asian Pacific journal of cancer prevention : APJCP",
-    "publishedAt": "2026-06-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-25T15:34:42.567Z",
-    "snippet": "Cystatin C (CysC) exhibits both tumor-promoting and tumor-suppressing effects. Although elevated circulating CysC levels have been reported in multiple cancer types, studies assessing its prognostic value have produced conflicting results. This study aims to resolve these discrepancies and clarify the role of CysC as a prognostic marker. A literature search...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "6fbce08fcc019cbd",
-    "title": "HCC-miR: A Simple, Noninvasive, and Sensitive Model for Early Diagnosis of HCV-Associated Hepatocellular Carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42345172",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42345172",
-    "source": "pubmed",
-    "publicationName": "Asian Pacific journal of cancer prevention : APJCP",
-    "journalName": "Asian Pacific journal of cancer prevention : APJCP",
-    "publishedAt": "2026-06-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-25T15:34:42.567Z",
-    "snippet": "Hepatocellular carcinoma (HCC) is the most common primary liver malignancy and a major cause of cancer-related mortality worldwide. Chronic hepatitis C virus (HCV) infection remains the predominant etiological factor in Egypt. The limited sensitivity and specificity of alpha-fetoprotein (AFP) continue to hinder early HCC detection. This study aimed to asses...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "8b95b2ccc4e4bb54",
-    "title": "Melatonin Receptors in Uterine Leiomyomas: An Immunohistochemical Study.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42345168",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42345168",
-    "source": "pubmed",
-    "publicationName": "Asian Pacific journal of cancer prevention : APJCP",
-    "journalName": "Asian Pacific journal of cancer prevention : APJCP",
-    "publishedAt": "2026-06-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-25T15:34:42.567Z",
-    "snippet": "Uterine leiomyomas are the most common benign tumors in women of reproductive age, often causing significant symptoms such as abnormal bleeding, pain, and infertility. Melatonin, a hormone with anti-proliferative and oncostatic properties, has been studied; however, its effects on uterine leiomyomas remain unclear. This study aimed to evaluate the immunohis...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "2b8a8f01113c8156",
-    "title": "MUC5AC Protein Expression as a Potential Predictor of Metastasis in Mucinous Ovarian Carcinoma: Unveiling a New Biomarker in a Rare Cancer Subtype.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42345163",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42345163",
-    "source": "pubmed",
-    "publicationName": "Asian Pacific journal of cancer prevention : APJCP",
-    "journalName": "Asian Pacific journal of cancer prevention : APJCP",
-    "publishedAt": "2026-06-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-25T15:34:42.567Z",
-    "snippet": "Mucinous ovarian carcinoma (MOC) is a distinct and lethal histological subtype of ovarian cancer, frequently characterized by late-stage diagnosis and chemoresistance. The role of MUC5AC a gel-forming mucin associated with aggressive behavior in various epithelial malignancies remains under-investigated in the context of MOC metastasis, particularly within....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "b2be12d3b52a9f96",
-    "title": "Impact of Depiction of Brown Adipose Tissue (BAT) in Baseline FDG PET/CT on Progression-free Survival in Lymphoma Patients.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42345152",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42345152",
-    "source": "pubmed",
-    "publicationName": "Asian Pacific journal of cancer prevention : APJCP",
-    "journalName": "Asian Pacific journal of cancer prevention : APJCP",
-    "publishedAt": "2026-06-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-25T15:34:42.567Z",
-    "snippet": "Brown adipose tissue (BAT) activity seen on 18F-fluorodeoxyglucose positron emission tomography/computed tomography (FDG PET/CT) has been increasingly recognized as a potential biomarker in various cancers, including lymphomas. The aim of this study was to investigate the correlation between posttreatment survival outcomes and BAT activity depicted in basel...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai",
-      "funding"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "4a675fcf8a7fbd84",
-    "title": "Mammographic Microcalcifications and Breast Cancer: A Case - Control Study.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42345149",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42345149",
-    "source": "pubmed",
-    "publicationName": "Asian Pacific journal of cancer prevention : APJCP",
-    "journalName": "Asian Pacific journal of cancer prevention : APJCP",
-    "publishedAt": "2026-06-01T00:00:00.000Z",
-    "fetchedAt": "2026-06-25T15:34:42.567Z",
-    "snippet": "Microcalcifications are among the earliest radiographic findings suggestive of breast malignancy and are often detected in women undergoing diagnostic mammography. Their association with breast cancer, independent of other risk factors, is clinically important but not fully understood. To investigate the associations between mammographic microcalcifications...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 65,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
   }
 ]
