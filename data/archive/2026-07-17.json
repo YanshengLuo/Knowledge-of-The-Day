@@ -1,37 +1,142 @@
 [
   {
-    "id": "5d2e786978a3b1f0",
-    "title": "Integrative spatial multi-omics reveals the tumor ecosystem: From mechanistic insights to therapeutic strategies.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42317389",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42317389",
+    "id": "d0033822e445fc33",
+    "title": "Machine learning algorithms develop a tumor-educated platelets-related gene signature to predict colorectal cancer prognosis and therapy response.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42375537",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42375537",
     "source": "pubmed",
     "publicationName": "iScience",
     "journalName": "iScience",
     "publishedAt": "2026-07-17T00:00:00.000Z",
-    "fetchedAt": "2026-06-22T17:20:58.752Z",
-    "snippet": "Tumor heterogeneity and complex microenvironment interactions drive malignant progression and therapeutic resistance. Traditional omics technologies struggle to capture this complexity due to the loss of spatial molecular context. Spatial multi-omics technologies enable the simultaneousanalysis of gene expression, metabolic activity, and protein function wi...",
+    "fetchedAt": "2026-06-30T15:21:33.354Z",
+    "snippet": "Tumor-educated platelets (TEPs) have recently emerged as an important component of liquid biopsy, yet the clinical relevance in colorectal cancer (CRC) remains unclear. Here, we employed 10 machine learning algorithms to develop a stable, accurate TEP-related gene signature (TEPGS) to explore its links to tumor-associated macrophages (TAMs) and spatial plat...",
     "tags": [
       "research",
       "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "spatial"
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology",
+      "machine learning"
     ],
     "topicBuckets": [
-      "spatial",
+      "translational medicine",
       "oncology",
-      "computational biology"
+      "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
+    "importanceScore": 92,
     "importanceSignals": [
       "very recent",
-      "priority topic: oncology, computational biology",
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
     "isFeatured": true
+  },
+  {
+    "id": "763b93bcaa0b2463",
+    "title": "Dual modal pathomics model for colorectal cancer early recurrence prediction and mutation landscape analysis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42375536",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42375536",
+    "source": "pubmed",
+    "publicationName": "iScience",
+    "journalName": "iScience",
+    "publishedAt": "2026-07-17T00:00:00.000Z",
+    "fetchedAt": "2026-06-30T15:21:33.354Z",
+    "snippet": "Patients with stage II/III colorectal cancer remain at substantial risk of early postoperative recurrence, yet accurate risk stratification remains challenging. Here, we developed a dual-modal pathomics model integrating hematoxylin-eosin and Ki-67 whole-slide images to predict early recurrence in 362 patients from two medical centers. Among multiple pretra...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai",
+      "computational biology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 92,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "8d1e6b2e052120a0",
+    "title": "An exploratory study of circulating cell-free mRNAs across colorectal cancer stages.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42375535",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42375535",
+    "source": "pubmed",
+    "publicationName": "iScience",
+    "journalName": "iScience",
+    "publishedAt": "2026-07-17T00:00:00.000Z",
+    "fetchedAt": "2026-06-30T15:21:33.354Z",
+    "snippet": "This study evaluated circulating mRNAs (B2M, TIMP-1, CLU, SERPINE1, GAL3, and S100A9) as potential biomarkers for colorectal cancer (CRC). Plasma levels were measured in CRC patients (stages I-IV,= 178) and healthy individuals (HIs,= 171). B2M, TIMP-1, CLU, and S100A9 mRNA levels were significantly elevated in CRC patients vs. HIs. B2M differed only in stag...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 82,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "86c14fc2b28a5d5d",
+    "title": "CDC20 promotes prostate cancer progression via modulating c-MYC and PI3K-AKT signaling.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42375519",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42375519",
+    "source": "pubmed",
+    "publicationName": "iScience",
+    "journalName": "iScience",
+    "publishedAt": "2026-07-17T00:00:00.000Z",
+    "fetchedAt": "2026-06-30T15:21:33.354Z",
+    "snippet": "Prostate cancer shows substantial variability in clinical outcomes, underscoring the need for reliable biomarkers and mechanistic insights. Analysis of The Cancer Genome Atlas data identified CDC20 as an independent prognostic factor with elevated expression in prostate cancer. Functional studies in DU145 and PC-3 cells demonstrated that CDC20 promotes cell...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 82,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
   }
 ]
