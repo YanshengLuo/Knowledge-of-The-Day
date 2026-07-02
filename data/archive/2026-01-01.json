@@ -1,50 +1,94 @@
 [
   {
-    "id": "43c57bf611eab5f0",
-    "title": "Artificial intelligence for biomarker prediction in gastric cancer: from histopathology to multimodal integration.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42382396",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42382396",
+    "id": "7bfc78fb95e6b503",
+    "title": "An AI-Driven Multi-Omics Framework Identifies CASP8 as a Clinically Actionable Pyroptosis Biomarker in Bladder Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42387317",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42387317",
     "source": "pubmed",
-    "publicationName": "Frontiers in oncology",
-    "journalName": "Frontiers in oncology",
+    "publicationName": "BioFactors (Oxford, England)",
+    "journalName": "BioFactors (Oxford, England)",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-01T15:32:47.344Z",
-    "snippet": "Gastric cancer (GC) exhibits substantial molecular heterogeneity, necessitating precision oncology approaches. Conventional biomarker assessments, including immunohistochemistry,hybridization, polymerase chain reaction, and next-generation sequencing, are the diagnostic standard but resource-intensive and may be limited by tissue availability, cost, and tur...",
+    "fetchedAt": "2026-07-02T15:01:10.514Z",
+    "snippet": "Despite rapid advances in multi-omics technologies, translating candidate biomarkers into clinical practice for bladder cancer remains challenging due to the difficulty of linking complex genomic instability to interpretable biological processes. To address this, we developed an AI-driven multi-omics discovery framework integrating single-cell RNA sequencin...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
       "oncology",
-      "biomarker"
+      "biomarker",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
     ],
     "topicBuckets": [
       "computational biology",
       "oncology",
       "ai",
-      "translational medicine"
+      "single-cell",
+      "translational medicine",
+      "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 68,
     "importanceSignals": [
       "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
+    "importanceScore": 68,
     "isFeatured": true
   },
   {
-    "id": "f932b6be0592b6d6",
-    "title": "Metagenomic analysis of human feces reveals gut microbiome role in colorectal cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42376319",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42376319",
+    "id": "282f8014acdbfc6a",
+    "title": "A network pharmacology-based approach and molecular docking study to explore the therapeutic potential of a nutraceutical formula (Vernolac) in the treatment of cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42384725",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42384725",
     "source": "pubmed",
-    "publicationName": "Frontiers in cellular and infection microbiology",
-    "journalName": "Frontiers in cellular and infection microbiology",
+    "publicationName": "PloS one",
+    "journalName": "PloS one",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-01T15:32:47.344Z",
-    "snippet": "This study aimed to identify the microbiota and specific genes that are closely associated with colorectal cancer (CRC) through metagenomic sequencing and integrative multi-omics analysis. Fecal samples were collected from 11 healthy volunteers and 20 patients with CRC. Genomic DNA was extracted for metagenomic analysis and high-throughput sequencing. Compo...",
+    "fetchedAt": "2026-07-02T15:01:10.514Z",
+    "snippet": "Vernolac is a commercially available polyherbal nutraceutical capsule containing Vernonia zeylanica aerial parts, Nigella sativa seeds, Hemidesmus indicus roots, Leucas zeylanica aerial parts, and Smilax glabra rhizome. Herbal formulations, organic extracts, and isolated phytochemicals from these plants have demonstrated anticancer properties. However, the....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "gene therapy",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 68,
+    "isFeatured": true
+  },
+  {
+    "id": "61cedb6614037467",
+    "title": "Metabolic profiling of human melanoma cell lines with high and low metastatic capacity by 1H-NMR spectroscopy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42384665",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42384665",
+    "source": "pubmed",
+    "publicationName": "PloS one",
+    "journalName": "PloS one",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-02T15:01:10.514Z",
+    "snippet": "Melanoma is one of the most aggressive forms of skin cancer due to its high metastatic potential and mortality rate. Although understanding of metabolic reprogramming in melanoma has advanced, the connection between metabolic alterations and metastatic capacity remains incomplete. This study aimed to characterize the metabolic profiles of human melanoma cel...",
     "tags": [
       "research",
       "pubmed",
@@ -68,33 +112,144 @@
     "isFeatured": true
   },
   {
-    "id": "3036c1382e338498",
-    "title": "Integrated genomic and immunophenotypic profiling reveals monoclonal origin, smoking-driven evolution and heterogeneous microenvironment in pulmonary adenosquamous carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42375369",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42375369",
+    "id": "5d9fade99a1f036b",
+    "title": "Correction: MAPRE2 is associated with macrophage-enriched innate immune dysregulation and malignant phenotypes in hepatocellular carcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42389514",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42389514",
     "source": "pubmed",
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-01T15:32:47.344Z",
-    "snippet": "Pulmonary adenosquamous carcinoma (ASC) is a rare, aggressive subtype of non-small cell lung cancer (NSCLC), characterized by both adenocarcinoma (ACC) and squamous cell carcinoma (SCCC) components. Due to its rarity, the clonal origin, evolutionary drivers, and tumor microenvironment (TME) of ASC remain poorly understood. We conducted clinical and prognost...",
+    "fetchedAt": "2026-07-02T15:01:10.514Z",
+    "snippet": "[This corrects the article DOI: 10.3389/fimmu.2026.1849407.].",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 42,
+    "importanceSignals": [
+      "priority topic: oncology",
+      "high-signal source",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "1b235fb70f7f124a",
+    "title": "Multi-omics and spatial transcriptomics decode the ZDHHC9-driven hypoxia-immunosuppressive axis in hepatocellular carcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42388616",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42388616",
+    "source": "pubmed",
+    "publicationName": "Frontiers in oncology",
+    "journalName": "Frontiers in oncology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-02T15:01:10.514Z",
+    "snippet": "Hepatocellular carcinoma (HCC) is a major global health challenge with limited treatment options, highlighting the urgent need for new biomarkers and therapeutic targets. Protein palmitoylation, mediated by ZDHHC enzymes, plays a role in cancer, yet its comprehensive function in HCC development is not fully understood. We conducted a systematic analysis of....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "spatial",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
       "oncology"
     ],
     "topicBuckets": [
-      "computational biology",
+      "single-cell",
       "oncology",
+      "immunology",
+      "computational biology",
+      "spatial",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 68,
+    "isFeatured": true
+  },
+  {
+    "id": "0388dfb6394265d1",
+    "title": "Pachymic acid alleviates circadian rhythm disorders in high-fat diet-induced obesity mice via the sphingolipid pathway.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42384709",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42384709",
+    "source": "pubmed",
+    "publicationName": "PloS one",
+    "journalName": "PloS one",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-02T15:01:10.514Z",
+    "snippet": "Obesity caused by a high-fat diet (HFD) is known to disrupt metabolic homeostasis and circadian rhythms. Pachymic acid (PA), a bioactive triterpenoid, exhibits anti-inflammatory, antihyperglycemic, antihyperlipidemic, and sedative-hypnotic properties, though its role in circadian regulation remains unexplored. We assessed PA's impact on metabolic dysfunctio...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "2fddc5b34e888003",
+    "title": "Banxia xiexin decoction and its bioactive metabolites: multi-targeted mechanisms for suppressing gastric cancer progression, reversing chemoresistance, and remodeling the tumor microenvironment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42389264",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42389264",
+    "source": "pubmed",
+    "publicationName": "Frontiers in pharmacology",
+    "journalName": "Frontiers in pharmacology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-02T15:01:10.514Z",
+    "snippet": "Gastric cancer (GC) remains a leading cause of cancer-related mortality worldwide, primarily due to late diagnosis and limited benefit from surgery alone. Although chemotherapy, targeted agents, and immunotherapy have improved outcomes for selected patients, their clinical benefits are often limited by significant toxicity, acquired resistance, and the pron...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
       "ai",
       "translational medicine"
     ],
     "isNewToday": false,
     "importanceScore": 68,
     "importanceSignals": [
-      "priority topic: computational biology, oncology",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -110,34 +265,30 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-01T15:32:47.344Z",
+    "fetchedAt": "2026-07-02T15:01:10.514Z",
     "snippet": "Therapeutic resistance remains a major barrier to durable cancer control and cannot be fully explained by tumor-intrinsic genetic and epigenetic alterations alone. Increasing evidence indicates that resistance emerges within a dynamic tumor microenvironment in which immune cells actively instruct tumor cell behavior through ligand-receptor (LR) signaling. T...",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
       "Spatial oncology",
       "spatial transcriptomics",
       "cancer"
     ],
     "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
       "spatial",
-      "computational biology"
+      "oncology",
+      "computational biology",
+      "ai",
+      "immunology"
     ],
     "isNewToday": false,
+    "importanceScore": 68,
     "importanceSignals": [
-      "priority topic: oncology, ai",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 68,
     "isFeatured": false
   },
   {
@@ -149,40 +300,32 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-01T15:32:47.344Z",
+    "fetchedAt": "2026-07-02T15:01:10.514Z",
     "snippet": "Gastric cancer (GC) remains a leading cause of global cancer mortality, characterized by profound heterogeneity. While immune checkpoint blockade (ICB) has emerged as a promising strategy, pervasive resistance frequently limits its clinical efficacy. Elucidating the mechanisms driving this resistance and identifying predictive biomarkers remain critical cha...",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "immunotherapy",
       "Spatial oncology",
       "spatial transcriptomics",
       "cancer",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
+      "immunotherapy"
     ],
     "topicBuckets": [
-      "single-cell",
+      "spatial",
       "oncology",
-      "immunology",
+      "computational biology",
       "ai",
       "translational medicine",
-      "spatial",
-      "computational biology"
+      "immunology"
     ],
     "isNewToday": false,
+    "importanceScore": 68,
     "importanceSignals": [
-      "priority topic: oncology, ai",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 68,
     "isFeatured": true
   },
   {
@@ -194,7 +337,7 @@
     "publicationName": "Bioinformatics advances",
     "journalName": "Bioinformatics advances",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-01T15:32:47.344Z",
+    "fetchedAt": "2026-07-02T15:01:10.514Z",
     "snippet": "Spatial transcriptomics maps tissue architecture at high resolution, but spot-level maps are difficult to compare across sections, whereas whole-section averages obscure regional organization. We developed region-aware bridge modeling to aggregate interpretable biological program features into compact mesoscale summaries. Using public colorectal cancer and....",
     "tags": [
       "research",
@@ -220,82 +363,257 @@
     "isFeatured": true
   },
   {
-    "id": "40f716f2d888acec",
-    "title": "The effect of preoperative stellate ganglion block on postoperative delirium in elderly patients undergoing gastrointestinal oncologic surgery: protocol for a randomized, double-blind, sham-controlled trial.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42383021",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42383021",
-    "source": "pubmed",
-    "publicationName": "Frontiers in neurology",
-    "journalName": "Frontiers in neurology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-01T15:32:47.344Z",
-    "snippet": "Postoperative delirium (POD) is a common and severe complication in elderly patients following gastrointestinal oncologic surgery, associated with prolonged hospitalization, increased morbidity and mortality, and substantial healthcare costs. The stellate ganglion block (SGB), a sympathetic nerve block with anti-inflammatory and autonomic-modulating effects...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "0e816bfeeeb54645",
-    "title": "Defining rapid early progression in glioblastoma-A volumetric approach.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42382820",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42382820",
-    "source": "pubmed",
-    "publicationName": "Neuro-oncology advances",
-    "journalName": "Neuro-oncology advances",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-01T15:32:47.344Z",
-    "snippet": "The current treatment of glioblastoma involves resection followed by radiotherapy (RT) and temozolomide. Rapid early progression (REP) of tumor in the surgery-to-radiotherapy interval (SRI) has been described using categorical or semi-quantitative assessments and is associated with inferior clinical outcomes. This study seeks to establish and validate a qua...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "66d064a5f40951ca",
-    "title": "Exosomal microRNAs in colorectal cancer communication networks: implications for metastasis, therapy resistance, and precision medicine.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42382781",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42382781",
+    "id": "baf6b1bc56027b71",
+    "title": "Editorial: Immune-related biomarkers in skin and breast cancer: innovations in immunological diagnostics and therapies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42389541",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42389541",
     "source": "pubmed",
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-01T15:32:47.344Z",
-    "snippet": "Exosome-derived microRNAs (miRNAs) have recently been recognised as important players in the process of intercellular communication in CRC, thus allowing tumour cells to affect not only each other but also the whole milieu of interactions occurring in the tumour microenvironment and metastatic niches. The growing body of evidence points to selective packagi...",
+    "fetchedAt": "2026-07-02T15:01:10.514Z",
+    "snippet": "",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 52,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "fb2f0d230754123a",
+    "title": "A transcriptome-defined TAM-rich phenotype identifies a macrophage-enriched, hypoxia-linked immune contexture in glioblastoma: multi-cohort transcriptomic validation and local histopathological correlation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42389535",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42389535",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-02T15:01:10.514Z",
+    "snippet": "Tumor-associated macrophages (TAMs) are a major immune component of the glioblastoma microenvironment, but macrophage-oriented transcriptomic stratification remains difficult to reproduce across datasets and to validate at the tissue level. TCGA-GBM was used as the discovery cohort, and two independent CGGA cohorts (CGGA_693 and CGGA_325) were used for exte...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "1d258820d8199499",
+    "title": "Epstein-Barr virus-driven immunosuppression in nasopharyngeal carcinoma: a comprehensive review of viral mechanisms, spatial tumor ecosystems, and precision therapeutics.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42389513",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42389513",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-02T15:01:10.514Z",
+    "snippet": "EBV infection is the defining etiological factor in nasopharyngeal carcinoma (NPC), yet how viral factors systematically remodel the tumor immune microenvironment (TME) to sustain immunosuppression remains incompletely characterized. Existing reviews lack an integrated synthesis of viral mechanisms, TME spatial architecture, and therapeutic translation. We....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology",
+      "spatial"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai",
+      "biotech",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "ef2de6a510536e33",
+    "title": "Mapping the evolving landscape of artificial intelligence in pathology: A bibliometric analysis of research trends and emerging frontiers (2009-2025).",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42389387",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42389387",
+    "source": "pubmed",
+    "publicationName": "Digital health",
+    "journalName": "Digital health",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-02T15:01:10.514Z",
+    "snippet": "Artificial intelligence (AI) has become a major methodological driver in computational pathology, but the field's temporal growth, collaboration structure, intellectual foundations, and emerging translational priorities remain incompletely mapped. To characterize the development of AI-related computational pathology from 2009 to 2025 and identify literature...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "b355271b9d0d86a8",
+    "title": "Human iPSCs derived from cryopreserved testicular somatic cells enable germline regeneration in childhood cancer survivors.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42389191",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42389191",
+    "source": "pubmed",
+    "publicationName": "Human reproduction open",
+    "journalName": "Human reproduction open",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-02T15:01:10.514Z",
+    "snippet": "Can cryopreserved primary testicular somatic cells from childhood cancer survivors with severely decreased fertility potential be reprogrammed into human-induced pluripotent stem cells (hiPSCs) competent for efficient specification into early human germ cells? Primary testicular somatic cells from cryopreserved testicular samples with severely compromised s...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "funding"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "b60acc14957a50d7",
+    "title": "Case Report: Neoadjuvant chemoimmunotherapy achieving pathological complete response in two cases of stage III EGFR-mutant NSCLC with high PD-L1 expression.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42388639",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42388639",
+    "source": "pubmed",
+    "publicationName": "Frontiers in oncology",
+    "journalName": "Frontiers in oncology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-02T15:01:10.514Z",
+    "snippet": "Resectable locally advanced EGFR-mutant non-small cell lung cancer (NSCLC) represents a distinct therapeutic challenge. Owing to an inherently immunosuppressive tumor microenvironment-frequently characterized by absence of or low PD-L1 expression and sparse CD8+ tumor-infiltrating lymphocytes-patients with EGFR alterations have been routinely excluded from....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology",
+      "immunotherapy"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "c220f8d261bcc9d7",
+    "title": "Artificial intelligence-enabled liquid biopsy in cancer: a systematic review and meta- analysis of diagnostic performance and biological implications.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42388633",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42388633",
+    "source": "pubmed",
+    "publicationName": "Frontiers in oncology",
+    "journalName": "Frontiers in oncology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-02T15:01:10.514Z",
+    "snippet": "Liquid biopsy offers a minimally invasive approach for cancer detection and monitoring, but its diagnostic performance is often limited by low signal abundance and biological noise. Artificial intelligence (AI) has been proposed as a computational framework to integrate heterogeneous and biologically noisy circulating biomarker data; however, the biological...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "3ddcf3a0e23788ae",
+    "title": "Early detection of multiple cancers: the era of methylation-based liquid biopsy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42388617",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42388617",
+    "source": "pubmed",
+    "publicationName": "Frontiers in oncology",
+    "journalName": "Frontiers in oncology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-02T15:01:10.514Z",
+    "snippet": "Liquid biopsy based on circulating cell-free DNA (cfDNA) methylation has become a leading non-invasive strategy for multi-cancer early detection (MCED). Aberrant DNA methylation arises at the early stage of tumorigenesis and displays cancer-type-specific signatures, enabling early capture of tumor-derived epigenetic signals. High-throughput sequencing, digi...",
     "tags": [
       "research",
       "pubmed",
@@ -319,16 +637,16 @@
     "isFeatured": false
   },
   {
-    "id": "815f317c1308075e",
-    "title": "Liquid biopsy, multi-cancer early detection, and artificial intelligence: new frontiers in cancer screening from a technological and immunological perspective.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42382778",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42382778",
+    "id": "2353b5a1b3a9c753",
+    "title": "Editorial: Innovative strategies in overcoming glioblastoma: advancements in treatment and research.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42388615",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42388615",
     "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
+    "publicationName": "Frontiers in oncology",
+    "journalName": "Frontiers in oncology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-01T15:32:47.344Z",
-    "snippet": "Early cancer detection remains a central challenge in oncology because many lethal tumors are diagnosed after curative opportunities have narrowed, whereas current organ-specific screening methods cover only a limited number of cancer types and may be constrained by invasiveness, cost, accessibility or stage-dependent sensitivity. Liquid biopsy, multi-cance...",
+    "fetchedAt": "2026-07-02T15:01:10.514Z",
+    "snippet": "",
     "tags": [
       "research",
       "pubmed",
@@ -339,51 +657,15 @@
     ],
     "topicBuckets": [
       "translational medicine",
-      "oncology",
-      "ai"
+      "oncology"
     ],
     "isNewToday": false,
-    "importanceScore": 68,
+    "importanceScore": 52,
     "importanceSignals": [
       "priority topic: translational medicine, oncology",
       "high-signal source",
-      "rich summary",
       "rich metadata"
     ],
     "isFeatured": false
-  },
-  {
-    "id": "f59754f09377dd18",
-    "title": "Research Progress of HER2 in Cervical Carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42382464",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42382464",
-    "source": "pubmed",
-    "publicationName": "Cancer management and research",
-    "journalName": "Cancer management and research",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-01T15:32:47.344Z",
-    "snippet": "Cervical cancer (CC) remains a major gynecological malignancy worldwide, and patients with recurrent, metastatic, or treatment-resistant disease continue to have limited therapeutic options. Human epidermal growth factor receptor 2 (HER2) is a proto-oncogenic receptor tyrosine kinase involved in tumorigenesis and progression through gene amplification, acti...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
   }
 ]
