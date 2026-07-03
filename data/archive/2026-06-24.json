@@ -1,40 +1,74 @@
 [
   {
-    "id": "dc635d367da08320",
-    "title": "Integrative transcriptomic and CRISPR dependency analysis identifies hepatoblastoma-specific essential genes and actionable vulnerabilities.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42385356",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42385356",
+    "id": "c011e791da23e2ad",
+    "title": "Sex differences in a mouse model of radiation-induced cardiotoxicity.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42396529",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42396529",
     "source": "pubmed",
-    "publicationName": "Cancer genetics",
-    "journalName": "Cancer genetics",
+    "publicationName": "Research square",
+    "journalName": "Research square",
     "publishedAt": "2026-06-24T00:00:00.000Z",
-    "fetchedAt": "2026-07-02T15:01:10.514Z",
-    "snippet": "Hepatoblastoma (HB) is the most common primary liver malignancy in childhood, yet its molecular determinants, functional dependencies, and therapeutic vulnerabilities remain incompletely characterized. Integrative analyses combining transcriptomic profiling with functional genomic datasets provide a strategy to identify essential genes, biomarkers predictiv...",
+    "fetchedAt": "2026-07-03T14:59:01.059Z",
+    "snippet": "Background Radiation-induced heart disease (RIHD) may develop months to years following radiation therapy for cancers near the heart such as lung or breast cancer. Several mouse models of RIHD exist to study the pathogenesis of disease, but to our knowledge no studies have examined whether sex differences exist in RIHD in mice. Methods Female and male BALB/...",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "crispr"
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
     ],
     "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
       "gene therapy",
-      "translational medicine"
+      "immunology",
+      "oncology"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
+    "importanceScore": 65,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology, ai",
+      "priority topic: gene therapy, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
     "isFeatured": true
+  },
+  {
+    "id": "487c0c225b8183cf",
+    "title": "TIDEST: post-imputation differential expression testing for spatial transcriptomics data.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42395515",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42395515",
+    "source": "pubmed",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
+    "publishedAt": "2026-06-24T00:00:00.000Z",
+    "fetchedAt": "2026-07-03T14:59:01.059Z",
+    "snippet": "Spatial transcriptomics enables the study of tissue organization, but many high-resolution platforms measure only a limited gene panel, leaving much of the transcriptome unobserved. Although deep learning methods can reconstruct missing genes from matched single-cell references, downstream differential expression (DE) analysis remains unreliable because pre...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "spatial"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "ai",
+      "single-cell"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
   }
 ]

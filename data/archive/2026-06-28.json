@@ -1,246 +1,34 @@
 [
   {
-    "id": "c3f8720851c6472f",
-    "title": "Unveiling tumor heterogeneity by single cell RNA-sequencing: from basic considerations to clinical applications.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42365863",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42365863",
+    "id": "3f0e96ebe98fba16",
+    "title": "Spatial co-expression and cell-cell communication inference from spatially resolved transcriptomics with CONCISE.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42395397",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42395397",
     "source": "pubmed",
-    "publicationName": "Seminars in cancer biology",
-    "journalName": "Seminars in cancer biology",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
     "publishedAt": "2026-06-28T00:00:00.000Z",
-    "fetchedAt": "2026-06-29T16:29:38.938Z",
-    "snippet": "Tumor heterogeneity-encompassing diverse cellular phenotypes, genomic alterations, and micro-environmental contexts-is a principal barrier to effective cancer therapy. Single-cell RNA sequencing (scRNA-seq) has transformed our ability to resolve this complexity by capturing transcriptomes at single-cell resolution. Here, we review the technical foundations....",
+    "fetchedAt": "2026-07-03T14:59:01.059Z",
+    "snippet": "Cell-cell communication is fundamental to tissue organization, homeostasis, and disease progression. Recent advances in spatial transcriptomics provide unprecedented opportunities to systematically characterize ligand-receptor interactions directly within intact tissues. However, robust inference of spatial ligand-receptor interactions remains challenging b...",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "spatial"
     ],
     "topicBuckets": [
-      "single-cell",
+      "spatial",
       "oncology",
-      "immunology",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: oncology, translational medicine",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "importanceScore": 82,
-    "isFeatured": true
-  },
-  {
-    "id": "a341dbcb5fe6f012",
-    "title": "Deep learning of pretreatment ascites cytopathology for platinum-resistance risk stratification in advanced epithelial ovarian cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42365738",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42365738",
-    "source": "pubmed",
-    "publicationName": "Neoplasia (New York, N.Y.)",
-    "journalName": "Neoplasia (New York, N.Y.)",
-    "publishedAt": "2026-06-28T00:00:00.000Z",
-    "fetchedAt": "2026-06-29T16:29:38.938Z",
-    "snippet": "Platinum resistance is a major determinant of poor outcome in advanced epithelial ovarian cancer, yet reliable predictors available before treatment initiation remain scarce. Ascitic fluid is commonly obtained during diagnostic work-up and directly reflects the peritoneal tumour microenvironment, but its cytomorphological information has not been systematic...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
+      "computational biology",
       "ai"
     ],
     "isNewToday": false,
     "importanceScore": 82,
     "importanceSignals": [
-      "very recent",
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "78a54f2c2aa3063b",
-    "title": "Integrative exosomal RNA analysis reveals the hsa-miR-186-5p-CADM1 axis in plasma cell-mediated inflammation of allergic rhinitis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42366220",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42366220",
-    "source": "pubmed",
-    "publicationName": "Scientific reports",
-    "journalName": "Scientific reports",
-    "publishedAt": "2026-06-28T00:00:00.000Z",
-    "fetchedAt": "2026-06-29T16:29:38.938Z",
-    "snippet": "Allergic rhinitis (AR) is a common inflammatory disorder characterized by dysregulated immune responses. Exosomes, as extracellular vesicles carrying diverse functional RNAs, play essential roles in intercellular communication. However, the profiles and regulatory roles of circulating exosomal RNAs in AR remain largely unknown. This study aimed to character...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "013c040fef490a69",
-    "title": "Activation of the cGAS-STING pathway contributes to cancer-related fatigue in a murine model of head and neck cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42365905",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42365905",
-    "source": "pubmed",
-    "publicationName": "Brain, behavior, and immunity",
-    "journalName": "Brain, behavior, and immunity",
-    "publishedAt": "2026-06-28T00:00:00.000Z",
-    "fetchedAt": "2026-06-29T16:29:38.938Z",
-    "snippet": "Cancer-related inflammation and metabolic alterations extend beyond the tumor microenvironment, exerting systemic effects that disrupt energy homeostasis and contribute to reduced physical function and chronic fatigue. The cGAS-STING pathway has emerged as a key regulator of innate immunity and inflammation; however, its role in cancer-associated fatigue re...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: gene therapy, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "1d2bcf63100fbc31",
-    "title": "Postoperative dynamics of inflammatory markers in patients with uncomplicated recovery after colorectal cancer surgery: a preliminary inflammatory benchmarks study.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42366215",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42366215",
-    "source": "pubmed",
-    "publicationName": "Scientific reports",
-    "journalName": "Scientific reports",
-    "publishedAt": "2026-06-28T00:00:00.000Z",
-    "fetchedAt": "2026-06-29T16:29:38.938Z",
-    "snippet": "Colorectal cancer (CRC) remains a leading cause of cancer-related morbidity and mortality worldwide, with surgical resection as the cornerstone of curative therapy for localized disease. Surgery triggers a profound systemic inflammatory response that influences recovery, complications, and oncologic outcomes. While elevated NLR, PLR, and SII pre- or postope...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 92,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "6cee7ce61afe296b",
-    "title": "Radioligand Therapy for Prostate Cancer - A Clinical Consultation Guide.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42366147",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42366147",
-    "source": "pubmed",
-    "publicationName": "European urology focus",
-    "journalName": "European urology focus",
-    "publishedAt": "2026-06-28T00:00:00.000Z",
-    "fetchedAt": "2026-06-29T16:29:38.938Z",
-    "snippet": "Prostate-specific membrane antigen (PSMA)-targeted radioligand therapy (RLT) is now an established treatment for metastatic castration-resistant prostate cancer (mCRPC), demonstrating improved oncologic outcomes and incorporation into international guidelines. Landmark trials including VISION, TheraP, and PSMAfore have defined the efficacy, safety, and clin...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "112bd9f67a3d4dfc",
-    "title": "Immune checkpoint inhibitor-induced arrhythmias: Mechanistic insights from clinical and preclinical studies.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42366064",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42366064",
-    "source": "pubmed",
-    "publicationName": "British journal of pharmacology",
-    "journalName": "British journal of pharmacology",
-    "publishedAt": "2026-06-28T00:00:00.000Z",
-    "fetchedAt": "2026-06-29T16:29:38.938Z",
-    "snippet": "Immune checkpoint inhibitors (ICIs) have transformed cancer therapy, but their efficacy continues to be limited by immune-related adverse events. Among these, ICI-induced cardiac arrhythmias are increasingly recognised as a major adverse reaction, encompassing a broad spectrum of clinical phenotypes, including conduction blocks, atrial fibrillation and vent...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: translational medicine, oncology",
+      "recent",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
