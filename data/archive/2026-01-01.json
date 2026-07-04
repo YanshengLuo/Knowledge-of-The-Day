@@ -1,184 +1,53 @@
 [
   {
-    "id": "7bfc78fb95e6b503",
-    "title": "An AI-Driven Multi-Omics Framework Identifies CASP8 as a Clinically Actionable Pyroptosis Biomarker in Bladder Cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42387317",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42387317",
+    "id": "5691220649099283",
+    "title": "Integrative Multi-Omics Analysis Reveals the Tumor-Suppressive and Immunoregulatory Roles of SEMA5B in Prostate Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42399103",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42399103",
     "source": "pubmed",
     "publicationName": "BioFactors (Oxford, England)",
     "journalName": "BioFactors (Oxford, England)",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-03T14:59:01.059Z",
-    "snippet": "Despite rapid advances in multi-omics technologies, translating candidate biomarkers into clinical practice for bladder cancer remains challenging due to the difficulty of linking complex genomic instability to interpretable biological processes. To address this, we developed an AI-driven multi-omics discovery framework integrating single-cell RNA sequencin...",
+    "fetchedAt": "2026-07-04T14:20:36.164Z",
+    "snippet": "SEMA5B plays an important role in the maintenance of neural development and is highly environment dependent in tumorigenesis. The roles of SEMA5B in prostate cancer remain underexplored. This study investigates SEMA5B's functions in prostate cancer, revealing its role as a tumor suppressor transcriptionally regulated by androgen receptor and uncovering nove...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
       "oncology",
-      "biomarker"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
     ],
     "topicBuckets": [
       "computational biology",
       "oncology",
       "ai",
       "single-cell",
-      "translational medicine"
+      "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 68,
     "importanceSignals": [
       "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
+    "importanceScore": 68,
     "isFeatured": true
   },
   {
-    "id": "a8a55bb916c10aa3",
-    "title": "Macrophage spatiotemporal plasticity in pulmonary diseases: decoding the niche at single-cell resolution.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42396453",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42396453",
+    "id": "d60dec50a67ba4a4",
+    "title": "Evaluating antioxidant treatment approaches for eosinophilic chronic sinusitis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42396451",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42396451",
     "source": "pubmed",
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-03T14:59:01.059Z",
-    "snippet": "Pulmonary gas exchange and host defense depend on the dynamic coordination of resident and recruited macrophage populations. Historically, macrophage functions have often been interpreted through the classic M1/M2 dichotomy; however, this binary framework does not capture the heterogeneity and context-dependent plasticity of macrophage states within the lun...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 48,
-    "importanceSignals": [
-      "priority topic: oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "52f2c9858063549f",
-    "title": "Transcriptome-Inferred metabolic subtypes define prognostic and immune ecosystems in osteosarcoma at single-cell resolution.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42395613",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42395613",
-    "source": "pubmed",
-    "publicationName": "Frontiers in pediatrics",
-    "journalName": "Frontiers in pediatrics",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-03T14:59:01.059Z",
-    "snippet": "Osteosarcoma exhibits substantial metabolic heterogeneity, yet existing classification schemes typically rely on narrow pathway windows and lack cellular-source attribution. Here, we integrated bulk transcriptomes from 157 osteosarcoma tumors (PKUPH-OS,&#x2009;=&#x2009;70; TARGET-OS,&#x2009;=&#x2009;87), quantified pathway-level activity via single-sample g...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 48,
-    "importanceSignals": [
-      "priority topic: oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "61fcc690014807dc",
-    "title": "Targeting RAC1 in glioblastoma: prognostic value, immune landscape, and small molecule therapeutic potential.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42394691",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42394691",
-    "source": "pubmed",
-    "publicationName": "Frontiers in oncology",
-    "journalName": "Frontiers in oncology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-03T14:59:01.059Z",
-    "snippet": "RAC1, a Rho GTPase family member involved in cell motility, is irregularly expressed in solid tumors. However, the specific tumor cell states in which RAC1 operates and its influence on the immune microenvironment remain poorly understood. RAC1 expression and prognostic value were evaluated across cancers using TCGA, HPA, CPTAC, and GEO data. After identify...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "b688a841882c1342",
-    "title": "Mechanisms outpacing medicine in autoinflammatory diseases.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42389527",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42389527",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-03T14:59:01.059Z",
-    "snippet": "Autoinflammatory diseases are increasingly defined at the genetic and pathway levels, yet therapeutic predictability has not advanced in parallel. This disconnect is especially evident in monogenic disorders, in which molecular diagnosis can identify the initiating lesion but does not reliably predict the dominant effector process, organ-specific risk, or t...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 48,
-    "importanceSignals": [
-      "priority topic: gene therapy",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "f781399165644e78",
-    "title": "Microbiota metabolite butyrate alleviates intestinal inflammation associated with enhanced autophagy-related signaling in DSS-induced colitis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42389518",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42389518",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-03T14:59:01.059Z",
-    "snippet": "The incidence of inflammatory bowel disease (IBD) has been demonstrated to be increased over recent decades. Butyrate derived from the gut microbiota is known to be beneficial in alleviating inflammation, yet the underlying mechanisms remain undefined. Human and mice fecal samples were analyzed using gas chromatography-mass spectrometry and 16S rRNA gene se...",
+    "fetchedAt": "2026-07-04T14:20:36.164Z",
+    "snippet": "Chronic rhinosinusitis with eosinophilia (ECRS) is a refractory sinusitis characterized by eosinophilia in the nasal mucosa and peripheral blood. In ECRS, multiple nasal polyps are present in the ethmoid sinuses, and the disease is often accompanied by olfactory dysfunction and asthma. It is a disease that significantly impairs the quality of life of patien...",
     "tags": [
       "research",
       "pubmed",
@@ -196,210 +65,6 @@
     "importanceScore": 58,
     "importanceSignals": [
       "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "2fddc5b34e888003",
-    "title": "Banxia xiexin decoction and its bioactive metabolites: multi-targeted mechanisms for suppressing gastric cancer progression, reversing chemoresistance, and remodeling the tumor microenvironment.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42389264",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42389264",
-    "source": "pubmed",
-    "publicationName": "Frontiers in pharmacology",
-    "journalName": "Frontiers in pharmacology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-03T14:59:01.059Z",
-    "snippet": "Gastric cancer (GC) remains a leading cause of cancer-related mortality worldwide, primarily due to late diagnosis and limited benefit from surgery alone. Although chemotherapy, targeted agents, and immunotherapy have improved outcomes for selected patients, their clinical benefits are often limited by significant toxicity, acquired resistance, and the pron...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "ai",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "1b235fb70f7f124a",
-    "title": "Multi-omics and spatial transcriptomics decode the ZDHHC9-driven hypoxia-immunosuppressive axis in hepatocellular carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42388616",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42388616",
-    "source": "pubmed",
-    "publicationName": "Frontiers in oncology",
-    "journalName": "Frontiers in oncology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-03T14:59:01.059Z",
-    "snippet": "Hepatocellular carcinoma (HCC) is a major global health challenge with limited treatment options, highlighting the urgent need for new biomarkers and therapeutic targets. Protein palmitoylation, mediated by ZDHHC enzymes, plays a role in cancer, yet its comprehensive function in HCC development is not fully understood. We conducted a systematic analysis of....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "spatial"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "e630b4b5dc27cda1",
-    "title": "Beyond clinical criteria: emerging biomarkers and advanced imaging in the diagnosis, monitoring and treatment of vasculitides.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42396140",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42396140",
-    "source": "pubmed",
-    "publicationName": "Frontiers in medicine",
-    "journalName": "Frontiers in medicine",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-03T14:59:01.059Z",
-    "snippet": "Vasculitides represent a heterogeneous group of immune-mediated diseases characterized by inflammation of blood vessel walls, leading to variable degrees of ischemic injury across multiple organ systems. Despite significant advances in classification-notably the 2022 ACR/EULAR criteria-the clinical management of vasculitis remains challenging, particularly....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "0152654ded6f8967",
-    "title": "Metformin modifies hormone changes associated with androgen deprivation therapy for prostate cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42395839",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42395839",
-    "source": "pubmed",
-    "publicationName": "Endocrine oncology (Bristol, England)",
-    "journalName": "Endocrine oncology (Bristol, England)",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-03T14:59:01.059Z",
-    "snippet": "Androgen deprivation therapy (ADT) is regularly used to treat locally advanced and metastatic prostate cancer (PCa) with toxicities, including metabolic syndrome (MS) and associated adverse hormonal changes. This study evaluated whether metformin mitigates changes in laboratory biomarkers associated with MS and type II diabetes mellitus (T2DM) in PCa patien...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "888c8d95cc412222",
-    "title": "Which immunonutritional marker best predicts disease-free survival in non-metastatic colorectal Cancer? The CALLY index and CAR emerge as independent predictors from a seven-marker comparison.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42395627",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42395627",
-    "source": "pubmed",
-    "publicationName": "Frontiers in nutrition",
-    "journalName": "Frontiers in nutrition",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-03T14:59:01.059Z",
-    "snippet": "Many immunonutritional markers (INMs) have emerged as significant prognostic indicators in colorectal cancer (CRC); however, limited attention has been given to directly comparing these candidates to identify the most informative predictors. We retrospectively analyzed 414 patients with stage I-III CRC who underwent curative resection. Seven INMs, including...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "74c282285df20f4d",
-    "title": "Relationship between resilience, social support, and mental health in breast cancer patients based on the four-quadrant health model.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42395276",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42395276",
-    "source": "pubmed",
-    "publicationName": "Frontiers in public health",
-    "journalName": "Frontiers in public health",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-03T14:59:01.059Z",
-    "snippet": "Breast cancer is a major public health problem that exposes patients to persistent physical symptoms and psychological distress across diagnosis, treatment, and follow-up. Objective: This study explored the associations of resilience and social support with mental health indicators among individuals with breast cancer and examined whether a Four-Quadrant He...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
