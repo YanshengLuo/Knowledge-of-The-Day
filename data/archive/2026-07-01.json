@@ -1,15 +1,54 @@
 [
   {
-    "id": "b8cef3725e6aa192",
-    "title": "Integrated Proteomic and scRNA-Seq Analysis Reveals Pyroptosis-Related Subtypes in Lung Adenocarcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42402362",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42402362",
+    "id": "1a387e52f2b655de",
+    "title": "Riemannian metric learning for alignment of spatial multiomics.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42412825",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42412825",
     "source": "pubmed",
-    "publicationName": "The clinical respiratory journal",
-    "journalName": "The clinical respiratory journal",
+    "publicationName": "Bioinformatics (Oxford, England)",
+    "journalName": "Bioinformatics (Oxford, England)",
     "publishedAt": "2026-07-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-07T15:37:07.801Z",
-    "snippet": "Pyroptosis is a recently identified form of programmed cell death that plays an important role in cancer initiation and progression. However, the function of pyroptosis in lung adenocarcinoma (LUAD) remains unclear. The study integrated proteomic and single-cell RNA sequence (scRNA-seq) data to investigate the potential role of pyroptosis-related proteins (...",
+    "fetchedAt": "2026-07-08T15:03:42.176Z",
+    "snippet": "Recent spatial technologies measure the transcriptome, epigenome, proteome, metabolome, and other modalities from thousands of cells across a tissue. Most assays typically profile only one modality from a tissue slice, raising the question of how to align spatial data from heterogeneous feature spaces. While multiple approaches have been developed for multi...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "spatial",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "spatial"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 75,
+    "isFeatured": true
+  },
+  {
+    "id": "036ed5deeb3c3045",
+    "title": "MOCDT: multi-cancer detection and tissue-of-origin classification via cfDNA multi-modal integration.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42412782",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42412782",
+    "source": "pubmed",
+    "publicationName": "Bioinformatics (Oxford, England)",
+    "journalName": "Bioinformatics (Oxford, England)",
+    "publishedAt": "2026-07-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-08T15:03:42.176Z",
+    "snippet": "Tumor-derived circulating tumor DNA (ctDNA) fragments present in blood provide rich molecular signals for identifying cancer and mapping its tissue of origin. However, leveraging these heterogeneous signals requires robust computational integration methods. Existing multi-modal approaches often fail to capture both inter-modality structure and inter-patient...",
     "tags": [
       "research",
       "pubmed",
@@ -20,13 +59,12 @@
     "topicBuckets": [
       "computational biology",
       "oncology",
-      "ai",
-      "single-cell"
+      "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
+    "importanceScore": 75,
     "importanceSignals": [
-      "recent",
+      "published this month",
       "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
@@ -35,16 +73,16 @@
     "isFeatured": true
   },
   {
-    "id": "78b80f8cb77f893e",
-    "title": "Elevated Body Mass Index Associated With Uterine Fibroids: A Retrospective Cohort Study With Bioinformatic Validation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42397288",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42397288",
+    "id": "2bd0ee8728ce9595",
+    "title": "EPIC: Event Prototyping via Information Constrained graph learning for personalized cancer driver gene prediction.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42412838",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42412838",
     "source": "pubmed",
-    "publicationName": "The journal of obstetrics and gynaecology research",
-    "journalName": "The journal of obstetrics and gynaecology research",
+    "publicationName": "Bioinformatics (Oxford, England)",
+    "journalName": "Bioinformatics (Oxford, England)",
     "publishedAt": "2026-07-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-07T15:37:07.801Z",
-    "snippet": "Uterine fibroids are the most common benign pelvic tumors in women. Meanwhile, the prevalence of obesity has been increasing annually and affects various health conditions. However, the relationship between obesity and the development of uterine fibroids remains inconsistent and warrants further investigation. Clinical data from 1170 women undergoing routin...",
+    "fetchedAt": "2026-07-08T15:03:42.176Z",
+    "snippet": "Precision oncology relies on accurately distinguishing patient-specific driver mutations from the vast background of passenger alterations. While graph-based computational methods have emerged as powerful tools for this task, they often struggle to preserve the distinct genomic context of individual mutations within complex biological networks. Consequently...",
     "tags": [
       "research",
       "pubmed",
@@ -55,13 +93,79 @@
     "topicBuckets": [
       "computational biology",
       "oncology",
-      "ai",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "545ecd692e630dd4",
+    "title": "PIMO: pathway-based interpretable multiomics interactions for multiomics integration.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42412808",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42412808",
+    "source": "pubmed",
+    "publicationName": "Bioinformatics (Oxford, England)",
+    "journalName": "Bioinformatics (Oxford, England)",
+    "publishedAt": "2026-07-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-08T15:03:42.176Z",
+    "snippet": "Modeling interomics interactions across multiple molecular levels is critical for deciphering the mechanisms underlying complex diseases. Epigenomic and structural alterations, such as DNA methylation and copy number alterations (CNAs), modulate gene expression and collectively influence disease progression and patient survival outcomes. Despite advancement...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "ef99050b3b501e9a",
+    "title": "Interim analysis in sequential multiple assignment randomized trials for survival outcomes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42411401",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42411401",
+    "source": "pubmed",
+    "publicationName": "Biometrics",
+    "journalName": "Biometrics",
+    "publishedAt": "2026-07-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-08T15:03:42.176Z",
+    "snippet": "Sequential multiple assignment randomized trials (SMARTs) mimic the actual treatment processes experienced by physicians and patients in clinical settings and inform the comparative effectiveness of dynamic treatment regimes. In such trials, patients undergo multiple stages of treatment, and the treatment assignment is adjusted over time based on individual...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
       "translational medicine"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
+    "importanceScore": 75,
     "importanceSignals": [
-      "recent",
+      "published this month",
       "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
@@ -70,16 +174,16 @@
     "isFeatured": true
   },
   {
-    "id": "e905a0e14ae0ab8a",
-    "title": "Biochemistry at scale: Seeing both the forest and the trees.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42392038",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42392038",
+    "id": "99d5fd8d9628ac8b",
+    "title": "Radiomics in Gastric Cancer: Advancing Precision Medicine.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42411161",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42411161",
     "source": "pubmed",
-    "publicationName": "Trends in biochemical sciences",
-    "journalName": "Trends in biochemical sciences",
+    "publicationName": "Journal of gastric cancer",
+    "journalName": "Journal of gastric cancer",
     "publishedAt": "2026-07-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-07T15:37:07.801Z",
-    "snippet": "Today, therapeutic drug discovery lies at the crossroads of mechanistic biochemistry and the rapidly growing fields of multi-omics and AI. How will traditionally reductionist biochemistry adapt to the increasing complexity of biological processes? We address this question by first examining historical cases in which biochemistry uncovered new biology in pat...",
+    "fetchedAt": "2026-07-08T15:03:42.176Z",
+    "snippet": "Gastric cancer (GC) is a common malignancy characterized by insidious onset and aggressive invasiveness that poses a serious threat to human health. Although medical imaging plays a critical role in cancer diagnosis and treatment, its interpretation largely relies on the expertise and experience of observers, underscoring the need for more reliable diagnost...",
     "tags": [
       "research",
       "pubmed",
@@ -90,13 +194,12 @@
     "topicBuckets": [
       "computational biology",
       "oncology",
-      "ai",
-      "biotech"
+      "translational medicine"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
+    "importanceScore": 75,
     "importanceSignals": [
-      "recent",
+      "published this month",
       "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
@@ -105,16 +208,50 @@
     "isFeatured": true
   },
   {
-    "id": "e57a3f394ea33a01",
-    "title": "Cancer Heterogeneity and Cancer Cell Plasticity: Molecular Mechanisms and Precision Therapy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42404587",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42404587",
+    "id": "669261ed750aaa59",
+    "title": "Genomic Landscape of GNAQ and GNA11 Mutations in Metastatic Solid Tumors: A Real-World Data Analysis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42407004",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42407004",
     "source": "pubmed",
-    "publicationName": "MedComm",
-    "journalName": "MedComm",
+    "publicationName": "JCO precision oncology",
+    "journalName": "JCO precision oncology",
     "publishedAt": "2026-07-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-07T15:37:07.801Z",
-    "snippet": "Tumor heterogeneity creates selective pressures and ecological niches that enable cancer cell plasticity; conversely, plasticity continuously generates and reshapes heterogeneity. Together, these processes drive tumor progression, therapeutic resistance, recurrence, and divergent clinical outcomes, thereby limiting the durability of precision oncology. In t...",
+    "fetchedAt": "2026-07-08T15:03:42.176Z",
+    "snippet": "Activating mutations inandare recognized oncogenic drivers in uveal melanoma (UM); however, their prevalence across various cancers and their genomic context remain inadequately characterized. This study aimed to elucidate the genomic landscape of these mutations across a range of metastatic solid tumors. We conducted a pan-cancer analysis involving 5,416 p...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "4ddaf7517a210f63",
+    "title": "A succinylation-based classifier predicts chemotherapy response in prostate cancer and reveals KAT2A as a therapeutic target.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42415249",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42415249",
+    "source": "pubmed",
+    "publicationName": "Clinical and translational medicine",
+    "journalName": "Clinical and translational medicine",
+    "publishedAt": "2026-07-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-08T15:03:42.176Z",
+    "snippet": "Chemotherapy resistance remains a critical hurdle in advanced prostate cancer (PCa). Succinylation, an essential post-translational modification linking cellular metabolism with epigenetic regulation, has been implicated in tumour progression; however, its contribution to PCa chemoresistance remains poorly defined. This study aimed to evaluate the prognosti...",
     "tags": [
       "research",
       "pubmed",
@@ -126,13 +263,14 @@
       "single-cell",
       "oncology",
       "immunology",
+      "ai",
       "translational medicine"
     ],
     "isNewToday": false,
-    "importanceScore": 72,
+    "importanceScore": 75,
     "importanceSignals": [
-      "recent",
-      "priority topic: oncology, translational medicine",
+      "published this month",
+      "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -148,7 +286,7 @@
     "publicationName": "The journal of allergy and clinical immunology. In practice",
     "journalName": "The journal of allergy and clinical immunology. In practice",
     "publishedAt": "2026-07-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-07T15:37:07.801Z",
+    "fetchedAt": "2026-07-08T15:03:42.176Z",
     "snippet": "Genetic diagnosis in inborn errors of immunity has not only helped to shorten the diagnostic odyssey but has advanced targeted therapeutic interventions leading to improved clinical outcomes. Primary immune regulatory disorders are a group of inborn errors of immunity characterized by dysregulated cytokine signaling, impaired immune tolerance, and pathologi...",
     "tags": [
       "research",
@@ -165,9 +303,9 @@
       "translational medicine"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
+    "importanceScore": 75,
     "importanceSignals": [
-      "recent",
+      "published this month",
       "priority topic: gene therapy, ai",
       "high-signal source",
       "rich summary",
@@ -176,34 +314,71 @@
     "isFeatured": true
   },
   {
-    "id": "b1ad733d37f2bb5c",
-    "title": "AAV8-Mediated Retinal PD-L1 Gene Transfer Attenuates Experimental Autoimmune Uveitis by Restoring Local Immune Tolerance.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42405669",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42405669",
+    "id": "1f3c81ac49f266a0",
+    "title": "CPS: mapping physical coordinates to high-fidelity spatial transcriptomics via privileged multi-scale context distillation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42412832",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42412832",
     "source": "pubmed",
-    "publicationName": "Investigative ophthalmology & visual science",
-    "journalName": "Investigative ophthalmology & visual science",
+    "publicationName": "Bioinformatics (Oxford, England)",
+    "journalName": "Bioinformatics (Oxford, England)",
     "publishedAt": "2026-07-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-07T15:37:07.801Z",
-    "snippet": "To investigate the therapeutic potential of the programmed cell death protein 1 (PD-1)/programmed cell death ligand 1 (PD-L1) immune checkpoint pathway in experimental autoimmune uveitis (EAU) and to elucidate its role in regulating the retinal immune microenvironment. Seven days before EAU induction, Lewis rats received subretinal injections of adeno-assoc...",
+    "fetchedAt": "2026-07-08T15:03:42.176Z",
+    "snippet": "Spatial transcriptomics enables the dissection of tissue heterogeneity within native contexts, yet current platforms are inherently constrained by high sparsity and low signal-to-noise ratios that obscure fine-grained biological signals. Current efforts to recover these signals are limited by image registration dependencies or the inherent context-blindness...",
     "tags": [
       "research",
       "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "spatial"
     ],
     "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "oncology"
+      "spatial",
+      "oncology",
+      "computational biology",
+      "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 72,
+    "importanceScore": 75,
     "importanceSignals": [
-      "recent",
-      "priority topic: gene therapy, oncology",
+      "published this month",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "e8616e0c10f5689e",
+    "title": "Inflammatory signatures in the spectrum of myeloid diseases.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42416330",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42416330",
+    "source": "pubmed",
+    "publicationName": "HemaSphere",
+    "journalName": "HemaSphere",
+    "publishedAt": "2026-07-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-08T15:03:42.176Z",
+    "snippet": "Dysregulated innate immunity contributes to clonal cytopenias and myeloid neoplasms, but its extent across disease stages and clinical relevance remain incompletely defined. We analyzed plasma ASC/NLRP3 double-positive (DP) specks, ASC single-positive (SP) specks, and 45 cytokines in 223 patients with idiopathic cytopenias of undetermined significance (ICUS...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -211,36 +386,68 @@
     "isFeatured": true
   },
   {
-    "id": "6d987291e739b9be",
-    "title": "Methotrexate-induced hepatotoxicity-mechanism, clinical cases and treatment approaches.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42403686",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42403686",
+    "id": "a86b9ce9a64f9c0e",
+    "title": "Clinical Significance of Tumor Invasion Gene Profiling in Early-Stage Hormone Receptor-Positive Breast Cancer: A Cross-Sectional Study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42416217",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42416217",
     "source": "pubmed",
-    "publicationName": "Toxicological research",
-    "journalName": "Toxicological research",
+    "publicationName": "Health science reports",
+    "journalName": "Health science reports",
     "publishedAt": "2026-07-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-07T15:37:07.801Z",
-    "snippet": "Methotrexate (MTX) is a class of antifolate chemotherapeutics and immunosuppressants that are effectively used in the treatment regimen of cancer and autoimmune diseases. In the current MASLD era, methotrexate-induced hepatotoxicity must be understood in the context of host metabolic dysfunction, obesity, diabetes, and alcohol use that amplify oxidative and...",
+    "fetchedAt": "2026-07-08T15:03:42.176Z",
+    "snippet": "Advanced breast cancer is a leading cause of cancer-associated death in women. It is critical to find biomarkers to identify patients who are more prone to progress to advanced disease and would be better served with more aggressive treatments. Hormone receptor-positive breast cancers make up about 70% of all breast cancers. The analysis of gene amplificati...",
     "tags": [
       "research",
       "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
     ],
     "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "biotech",
-      "oncology",
-      "translational medicine"
+      "translational medicine",
+      "oncology"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
+    "importanceScore": 65,
     "importanceSignals": [
-      "recent",
-      "priority topic: gene therapy, oncology",
+      "published this month",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "2c83e425effceed2",
+    "title": "Integrated Genomic, Transcriptomic, and Circulating Biomarkers Predict Benefit to Immune Checkpoint Inhibitor Plus Chemotherapy in Advanced Non-Small Cell Lung Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42415854",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42415854",
+    "source": "pubmed",
+    "publicationName": "MedComm",
+    "journalName": "MedComm",
+    "publishedAt": "2026-07-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-08T15:03:42.176Z",
+    "snippet": "Combined immune checkpoint inhibitor (ICI) and chemotherapy is the standard first-line treatment for advanced non-small cell lung cancer (NSCLC) without targetable driver mutations. However, reliable biomarkers predictive of clinical benefit are lacking. We analyzed 54 patients with advanced NSCLC treated first-line with ICI plus chemotherapy. Pretreatment....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
