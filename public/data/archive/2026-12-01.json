@@ -1,30 +1,33 @@
 [
   {
-    "id": "8c25b5561f71fbea",
-    "title": "Multi-omics profiling identifies CDK1 as a key mediator of mitosis through the PTN pathway in bladder cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42401786",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42401786",
+    "id": "5e913f0eafdf5423",
+    "title": "POU2F2 as a dual oncogenic and immunomodulatory driver in kidney renal clear cell carcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42421306",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42421306",
     "source": "pubmed",
-    "publicationName": "Future science OA",
-    "journalName": "Future science OA",
+    "publicationName": "Cell adhesion & migration",
+    "journalName": "Cell adhesion & migration",
     "publishedAt": "2026-12-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-07T15:37:07.801Z",
-    "snippet": "This study aimed to characterize cyclin-dependent kinase 1 (CDK1) expression in bladder cancer (BC), elucidate its role in intercellular signaling and mitosis, and identify small-molecule inhibitors targeting CDK1. RNA sequencing data from multiple databases were integrated, with immunohistochemistry on tissue microarrays validating protein expression. Sing...",
+    "fetchedAt": "2026-07-09T15:49:33.685Z",
+    "snippet": "Kidney renal clear cell carcinoma (KIRC) features an immunosuppressive tumor microenvironment (TME). We investigated the role of transcription factor POU2F2 in KIRC oncogenesis and macrophage polarization. Single-cell and spatial transcriptomics showed that POU2F2 is upregulated in KIRC and associated with metastasis and poor prognosis. POU2F2 knockdown inh...",
     "tags": [
       "research",
       "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
       "Spatial oncology",
       "spatial transcriptomics",
       "cancer"
     ],
     "topicBuckets": [
-      "spatial",
+      "single-cell",
       "oncology",
+      "immunology",
       "computational biology",
-      "ai"
+      "spatial"
     ],
     "isNewToday": false,
-    "importanceScore": 92,
     "importanceSignals": [
       "very recent",
       "priority topic: oncology, computational biology",
@@ -32,6 +35,7 @@
       "rich summary",
       "rich metadata"
     ],
+    "importanceScore": 82,
     "isFeatured": true
   }
 ]
