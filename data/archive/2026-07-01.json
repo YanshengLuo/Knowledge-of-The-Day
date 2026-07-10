@@ -1,15 +1,15 @@
 [
   {
-    "id": "fbe2d9dc8d690fe7",
-    "title": "Computational and Experimental Development of a Novel Multi-Epitope Vaccine Candidate Against Bovine Leukaemia Virus.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42417153",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42417153",
+    "id": "1605576c5e99b8cd",
+    "title": "From static prediction to dynamic cancer trajectories: Virtual Human Twins for breast cancer decision support.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42424339",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42424339",
     "source": "pubmed",
-    "publicationName": "Veterinary medicine and science",
-    "journalName": "Veterinary medicine and science",
+    "publicationName": "PLOS digital health",
+    "journalName": "PLOS digital health",
     "publishedAt": "2026-07-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-09T15:49:33.685Z",
-    "snippet": "Bovine leukaemia virus (BLV) is the causative agent of enzootic bovine leukosis, a chronic infectious disease that causes significant economic losses in the dairy and beef industries worldwide. Despite extensive research, there is no licensed vaccine available for effective prevention and control of BLV infection. This study aimed to design and evaluate a n...",
+    "fetchedAt": "2026-07-10T15:24:23.280Z",
+    "snippet": "Digital oncology has become increasingly sophisticated at predicting cancer risk, treatment response, and prognosis. Yet many tools still operate as static snapshots, while cancer care unfolds as a trajectory shaped by tumor biology, genetics, treatment, residual disease, toxicity, and patient priorities. We argue that oncology needs dynamic, multiscale Vir...",
     "tags": [
       "research",
       "pubmed",
@@ -19,14 +19,121 @@
     ],
     "topicBuckets": [
       "computational biology",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "6189dd9b08153613",
+    "title": "Concurrent Chemoradiotherapy Plus Immunotherapy Versus Concurrent Chemoradiotherapy in Locally Advanced Cervical Cancer: A Randomized, Single-Center, Phase II Trial of Early Tumor Regression and Pro-Inflammatory Tumor Microenvironment Remodeling.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42428550",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42428550",
+    "source": "pubmed",
+    "publicationName": "MedComm",
+    "journalName": "MedComm",
+    "publishedAt": "2026-07-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-10T15:24:23.280Z",
+    "snippet": "Concurrent chemoradiotherapy (CCRT) followed by intrauterine brachytherapy is the standard treatment for locally advanced cervical cancer (LACC), yet its efficacy is frequently constrained by an immunosuppressive tumor microenvironment (TME). This randomized, single-center, Phase II trial (= 18; 2:1 allocation; high-risk Stages III-IVA LACC) investigated wh...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "immunotherapy"
+    ],
+    "topicBuckets": [
+      "single-cell",
       "oncology",
-      "ai"
+      "immunology",
+      "ai",
+      "computational biology"
     ],
     "isNewToday": false,
     "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: computational biology, oncology",
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "c21da0b1b0e1acf7",
+    "title": "Multi-compartment immune and tumor cell reprogramming by IFN&#x3b1;2 overcomes colon cancer immunotherapy resistance.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42427502",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42427502",
+    "source": "pubmed",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
+    "publishedAt": "2026-07-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-10T15:24:23.280Z",
+    "snippet": "Tumor cell PD-L1 represses IFN signaling to limit anti-tumor immunity, despite an IFN-responsive immunophenotype predicting colorectal cancer response to immune checkpoint inhibitor therapy. Lipid nanoparticle (LNP)-encapsulated IFN&#x3b1;2-encoding nanoplasmid (LNP-mIFN&#x3b1;2) gene therapy suppresses tumor progression, however, the underlying mechanism a...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "immunotherapy"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "gene therapy"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, gene therapy",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "e83f943228d5249e",
+    "title": "Comparative Transcriptomic Profiling Reveals Differences in Initiation of Antiviral Response in Low rAAV Producing HEK293 Suspension Cells.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42423187",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42423187",
+    "source": "pubmed",
+    "publicationName": "Biotechnology journal",
+    "journalName": "Biotechnology journal",
+    "publishedAt": "2026-07-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-10T15:24:23.280Z",
+    "snippet": "Recombinant adeno-associated virus (rAAV) vectors have become the leading platform for in vivo gene delivery, yet their industrial-scale production remains inefficient and costly. Current manufacturing, which primarily relies on transient triple-plasmid transfection in HEK293-derived cells, is limited by low vector yields, high empty-to-full capsid ratios,....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: gene therapy, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -42,7 +149,7 @@
     "publicationName": "Experimental dermatology",
     "journalName": "Experimental dermatology",
     "publishedAt": "2026-07-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-09T15:49:33.685Z",
+    "fetchedAt": "2026-07-10T15:24:23.280Z",
     "snippet": "Hidradenitis suppurativa (HS) is a prevalent, debilitating disease affecting ~1% of the population, with limited therapeutic options and poor long-term remission rates. HS arises from inflammation and destruction of apocrine-bearing hair follicles, suggesting a multifactorial pathology involving immune dysregulation and follicular dysfunction. Emerging trea...",
     "tags": [
       "research",
@@ -69,16 +176,16 @@
     "isFeatured": true
   },
   {
-    "id": "625b5d94c08f3df4",
-    "title": "Multi-omics analysis identifies altered EOMES-associated differentiation programs of precursor effector-memory CD8&#x207a; T cells in transplant-associated cutaneous squamous cell carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42419180",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42419180",
+    "id": "6f57392ec1069d5c",
+    "title": "Aging increases ovarian cancer growth, metastasis, and immunosuppression that can be alleviated by inhibiting hedgehog signaling.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42427638",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42427638",
     "source": "pubmed",
-    "publicationName": "Cancer genetics",
-    "journalName": "Cancer genetics",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
     "publishedAt": "2026-07-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-09T15:49:33.685Z",
-    "snippet": "Transplant-associated cutaneous squamous cell carcinoma (TSCC) is one of the most common malignancies in solid organ transplant recipients and is strongly associated with long-term immunosuppression. However, the transcriptional programs and molecular mechanisms through which chronic immunosuppression reshapes intratumoral CD8&#x207a; T-cell differentiation...",
+    "fetchedAt": "2026-07-10T15:24:23.280Z",
+    "snippet": "Ovarian cancer incidence and mortality increase with age, yet how aging shapes tumor progression and the immune microenvironment remains poorly defined. Using orthotopic syngeneic models of distinct cellular origins (ovarian surface epithelial and fallopian tube-derived) in young versus aged mice, we show that aged hosts exhibit higher tumor burden, metasta...",
     "tags": [
       "research",
       "pubmed",
@@ -90,42 +197,8 @@
       "spatial",
       "oncology",
       "computational biology",
+      "ai",
       "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 65,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "ebe9b3aad93557ac",
-    "title": "MET-amplified gastric cancers exhibit co-amplifications of BRAF, CDK6, and EGFR.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42417171",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42417171",
-    "source": "pubmed",
-    "publicationName": "The journal of pathology. Clinical research",
-    "journalName": "The journal of pathology. Clinical research",
-    "publishedAt": "2026-07-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-09T15:49:33.685Z",
-    "snippet": "MET-positive gastric cancer (GC) has a poor prognosis. In addition, targeting MET with monoclonal antibodies or tyrosine kinase inhibitors had limited success. We searched for additional genetic alterations that might explain the poor outcome of MET-positive GC and lack of response to MET-targeted therapies. Multiregional whole-exome sequencing was performe...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "ai"
     ],
     "isNewToday": false,
     "importanceScore": 75,
