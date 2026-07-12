@@ -7,7 +7,7 @@
     "source": "biospace",
     "publicationName": "BioSpace",
     "publishedAt": "2026-07-02T14:54:36.000Z",
-    "fetchedAt": "2026-07-11T14:14:34.757Z",
+    "fetchedAt": "2026-07-12T14:19:13.117Z",
     "snippet": "Congressional letters sent to the CEOs of Eli Lilly, Pfizer, Merck, BMS and AbbVie this week voicing concerns about the pharmas' clinical trials in China highlight an ongoing discrepancy in how government and industry think about the rise of the Asian country’s biotech industry.",
     "tags": [
       "biotech",
@@ -28,6 +28,39 @@
     "isFeatured": false
   },
   {
+    "id": "b1ccbe4e52a6f591",
+    "title": "Context-dependent selection sculpts mutational landscapes in the normal lung.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42427883",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42427883",
+    "source": "pubmed",
+    "publicationName": "Research square",
+    "journalName": "Research square",
+    "publishedAt": "2026-07-02T00:00:00.000Z",
+    "fetchedAt": "2026-07-12T14:19:13.672Z",
+    "snippet": "Just as organismal evolution is driven by environmental changes, somatic evolution is similarly driven by changes in tissue environments, whether caused by the normal process of aging, by lifestyle choices, or by extrinsic exposures. We present deep mutational profiling using duplex sequencing of over 390 samples of non-malignant lung tissue from 202 subjec...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
     "id": "a3e82a1b36b9f458",
     "title": "Multi-modality Graph Representation Learning for Malignant Cell Identification from scRNA-seq using DeepMalignant.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42427738",
@@ -36,7 +69,7 @@
     "publicationName": "bioRxiv : the preprint server for biology",
     "journalName": "bioRxiv : the preprint server for biology",
     "publishedAt": "2026-07-02T00:00:00.000Z",
-    "fetchedAt": "2026-07-11T14:14:35.413Z",
+    "fetchedAt": "2026-07-12T14:19:13.672Z",
     "snippet": "Distinguishing malignant from normal cells in single-cell RNA sequencing data remains a critical yet challenging task in cancer genomics. Existing methods often suffer from poor precision, limited generalizability across cancer types, and reduced robustness across different sequencing platforms. We developed DeepMalignant, an unsupervised multimodal graph a...",
     "tags": [
       "research",
