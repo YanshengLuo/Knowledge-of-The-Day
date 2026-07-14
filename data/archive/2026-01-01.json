@@ -1,5 +1,42 @@
 [
   {
+    "id": "08be6246182546cd",
+    "title": "Identifying Distinct Molecular Subtypes and Establishing a Prognostic Framework for DLBCL Patients via Multiomics Analysis and Machine Learning Approaches.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42440855",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42440855",
+    "source": "pubmed",
+    "publicationName": "Human mutation",
+    "journalName": "Human mutation",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-14T14:30:41.338Z",
+    "snippet": "Diffuse large B-cell lymphoma (DLBCL) is characterized by profound heterogeneity that underpins varied clinical outcomes. To decipher this complexity, we performed an integrated single-cell and genomic analysis. Using scRNA-seq data (GSE182434), we identified six distinct malignant B-cell subclusters (MB1-MB6) within the DLBCL ecosystem. Cell-cell communica...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "machine learning"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "single-cell",
+      "translational medicine",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
     "id": "7c324bc2edbc0c50",
     "title": "Shuyu Wan Potentiates PD-1 Inhibitor Efficacy in Non-Small Cell Lung Cancer: Integrated Bioinformatics and Experimental Evidence for Gut Microbiota-Tumor Immune Crosstalk.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42438795",
@@ -8,33 +45,29 @@
     "publicationName": "Drug design, development and therapy",
     "journalName": "Drug design, development and therapy",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-13T15:36:55.300Z",
+    "fetchedAt": "2026-07-14T14:30:41.338Z",
     "snippet": "Therapeutic heterogeneity limits the efficacy of immune checkpoint inhibitors (ICIs) in non-small cell lung cancer (NSCLC). Shuyu Wan (SYW), a classic TCM formula, has shown potential in modulating gut microbiota (GM) and enhancing immunotherapy, yet its synergistic mechanism with PD-1 inhibitors remains unclear. SYW components were identified by UPLC-MS. N...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
-      "oncology",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification"
+      "oncology"
     ],
     "topicBuckets": [
       "computational biology",
       "oncology",
       "ai",
-      "immunology",
-      "translational medicine"
+      "immunology"
     ],
     "isNewToday": false,
+    "importanceScore": 68,
     "importanceSignals": [
       "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 68,
     "isFeatured": true
   },
   {
@@ -46,7 +79,7 @@
     "publicationName": "PeerJ",
     "journalName": "PeerJ",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-13T15:36:55.300Z",
+    "fetchedAt": "2026-07-14T14:30:41.338Z",
     "snippet": "Non-small cell lung cancer (NSCLC) remains the leading cause of cancer mortality, largely due to the lack of reliable non-invasive tools for detection and risk stratification. Lipid metabolic reprogramming is a hallmark of cancer and may serve as a promising source of diagnostic biomarkers. Serum from 40 NSCLC patients and 30 controls was profiled by high-p...",
     "tags": [
       "research",
@@ -73,89 +106,16 @@
     "isFeatured": true
   },
   {
-    "id": "a71936c6005e355f",
-    "title": "From Exposure to Biomarker: Cumulative Tobacco Burden and Integrated Multiomics Signatures of High Tumor Mutational Burden in Lung Adenocarcinoma-A Secondary Analysis of the Cancer Genome Atlas.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42428246",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42428246",
+    "id": "dda72e7af93627aa",
+    "title": "Integration of tumor microenvironment and metabolic signatures reveals TMPI-defined prognostic and immunotherapy-relevant phenotypes in breast cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42440859",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42440859",
     "source": "pubmed",
-    "publicationName": "Human mutation",
-    "journalName": "Human mutation",
+    "publicationName": "Frontiers in pharmacology",
+    "journalName": "Frontiers in pharmacology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-13T15:36:55.300Z",
-    "snippet": "Environmental exposures are upstream determinants of molecular variation, yet exposure-to-biomarker gradients remain insufficiently quantified in harmonized multiomics cancer cohorts. Using TCGA lung adenocarcinoma as a model, we evaluated cumulative tobacco exposure and smoking history as determinants of variant-derived biomarkers and tested whether integr...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology",
-      "biomarker"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "6f6415fd55a3c2ab",
-    "title": "SPP1+ Macrophages Promote Immunosuppression in Post-TACE Hepatocellular Carcinoma Involving Lactate-Induced Lactylation and Potential SPP1-CD44 Signaling.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42438784",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42438784",
-    "source": "pubmed",
-    "publicationName": "Journal of hepatocellular carcinoma",
-    "journalName": "Journal of hepatocellular carcinoma",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-13T15:36:55.300Z",
-    "snippet": "Transarterial chemoembolization (TACE) treats inoperable liver cancer by inducing tumor ischemia, but subsequent hypoxia can promote an immunosuppressive microenvironment. This study explores how TACE-related hypoxia influences immune cells through lactate metabolism and lactylation. Single-cell RNA sequencing of TACE-treated and newly diagnosed liver cance...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "spatial",
-      "computational biology"
-    ],
-    "isNewToday": false,
-    "importanceSignals": [
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "importanceScore": 58,
-    "isFeatured": true
-  },
-  {
-    "id": "2cc2cbe860926467",
-    "title": "Identification of an Immunotherapy-Associated CD1cCLEC10ADendritic Cell Subset and Development of a Prognostic Model in Breast Cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42436936",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42436936",
-    "source": "pubmed",
-    "publicationName": "International journal of women's health",
-    "journalName": "International journal of women's health",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-13T15:36:55.300Z",
-    "snippet": "Understanding which immune cell populations are linked to immunotherapy efficacy is essential for improving treatment stratification in breast cancer. This study aimed to identify immune-relevant cellular subsets from single-cell RNA sequencing (scRNA-seq) data and to develop a prognostic model based on genes characteristic of the relevant population. scRNA...",
+    "fetchedAt": "2026-07-14T14:30:41.338Z",
+    "snippet": "Breast cancer heterogeneity presents a significant challenge for effective diagnosis and treatment. A deeper understanding of the tumor microenvironment (TME) and its metabolic dynamics is essential for addressing this complexity. This study explored the interplay between TME components and metabolic profiles in breast cancer using RNA sequencing data from....",
     "tags": [
       "research",
       "pubmed",
@@ -167,116 +127,12 @@
     "topicBuckets": [
       "single-cell",
       "oncology",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "327689a5a11f5c63",
-    "title": "Iron-quercetin nanocomplex preconditioning reprograms the mesenchymal stem cell secretome to drive angiogenic, fibroblast and immunoregulatory wound repair.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42437178",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42437178",
-    "source": "pubmed",
-    "publicationName": "Regenerative biomaterials",
-    "journalName": "Regenerative biomaterials",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-13T15:36:55.300Z",
-    "snippet": "Chronic wounds remain a major clinical challenge characterized by impaired angiogenesis, persistent inflammation and dysfunctional stromal responses. Increasing evidence indicates that the therapeutic effects of mesenchymal stem cells (MSCs) are largely mediated by paracrine signaling, making MSC-derived secretomes promising cell-free regenerative therapies...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "c4168ffe89bbce59",
-    "title": "Myeloid-derived suppressor cells in colorectal cancer: mechanisms of immunosuppression, therapy resistance and therapeutic targeting.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42434723",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42434723",
-    "source": "pubmed",
-    "publicationName": "Frontiers in cell and developmental biology",
-    "journalName": "Frontiers in cell and developmental biology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-13T15:36:55.300Z",
-    "snippet": "The overall response of colorectal cancer (CRC) to immune checkpoint blockade remains limited, particularly in patients with microsatellite-stable disease. One important underlying mechanism is the involvement of myeloid-derived suppressor cells (MDSCs) in shaping an immunosuppressive TME. Under the influence of tumor-associated genetic alterations, chronic...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "026242bb067a2704",
-    "title": "Shared inflammatory architecture and therapeutic tensions between psoriasis and Crohn's disease.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42433375",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42433375",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-13T15:36:55.300Z",
-    "snippet": "Psoriasis and Crohn's disease are chronic immune-mediated inflammatory diseases affecting distinct barrier organs, yet epidemiological, genetic, transcriptomic, and therapeutic evidence supports partial immune convergence between them. This review argues that the relationship between psoriasis and Crohn's disease reflects partial immune convergence shaped b...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
       "immunology"
     ],
     "isNewToday": false,
     "importanceScore": 48,
     "importanceSignals": [
-      "priority topic: gene therapy",
+      "priority topic: oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -284,16 +140,86 @@
     "isFeatured": true
   },
   {
-    "id": "e6a6555f9655bdc9",
-    "title": "Complement as a driver of immune-vascular heterogeneity across preeclampsia subtypes: toward a precision medicine framework.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42433350",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42433350",
+    "id": "210a9feff66f43d7",
+    "title": "Immune heterogeneity and therapeutic resistance in gynecological malignancies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42440783",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42440783",
     "source": "pubmed",
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-13T15:36:55.300Z",
-    "snippet": "Preeclampsia (PE) is a leading cause of maternal and perinatal morbidity worldwide, traditionally defined as a hypertensive disorder of pregnancy but increasingly recognized as a heterogeneous syndrome with diverse biological origins. Emerging evidence indicates that distinct pathogenic pathways-including placental insufficiency, maternal cardiometabolic dy...",
+    "fetchedAt": "2026-07-14T14:30:41.338Z",
+    "snippet": "Gynecological malignancies are characterized by profound cellular heterogeneity, dynamic immune remodeling, and frequent therapeutic resistance, which together limit durable clinical responses. Single-cell sequencing has emerged as a powerful approach for dissecting tumor ecosystems at unprecedented resolution, enabling the identification of malignant subcl...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "computational biology",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "36fc6bce87445066",
+    "title": "Oncolytic virotherapy counteracts the selection of IFN-unresponsive cancer cells post-immunotherapy but is limited by the emergence of dedifferentiated cancer cells.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42440549",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42440549",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-14T14:30:41.338Z",
+    "snippet": "Genetic mutations disrupting interferon (IFN) signaling have been described as an evolutionary route for tumor cells to evade immune checkpoint inhibitor (ICI) therapy. We hypothesized that loss of IFN signaling not only enables cancer cells to evade immune surveillance, but also renders them susceptible to oncolytic viruses. To experimentally address this....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation",
+      "immunotherapy"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: gene therapy, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "658cbb9b909c55d6",
+    "title": "Therapeutic progress in rosacea: targeting the neuro-vascular-immune triad.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42440475",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42440475",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-14T14:30:41.338Z",
+    "snippet": "Rosacea is a chronic inflammatory dermatological condition predominantly affecting the facial region. Clinically, rosacea is characterized by paroxysmal flushing, persistent erythema, telangiectasia, papules, pustules, and ocular symptoms. Severe rosacea cases are frequently complicated by anxiety, depression, and sleep disturbances, imposing a heavy psycho...",
     "tags": [
       "research",
       "pubmed",
@@ -315,69 +241,37 @@
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
+    "isFeatured": false
   },
   {
-    "id": "847bab51406c85b6",
-    "title": "Correction: Editorial: Unraveling GI cancer heterogeneity through single-cell multi-omics approaches.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42428939",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42428939",
+    "id": "327689a5a11f5c63",
+    "title": "Iron-quercetin nanocomplex preconditioning reprograms the mesenchymal stem cell secretome to drive angiogenic, fibroblast and immunoregulatory wound repair.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42437178",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42437178",
     "source": "pubmed",
-    "publicationName": "Frontiers in genetics",
-    "journalName": "Frontiers in genetics",
+    "publicationName": "Regenerative biomaterials",
+    "journalName": "Regenerative biomaterials",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-13T15:36:55.300Z",
-    "snippet": "[This corrects the article DOI: 10.3389/fgene.2026.1869790.].",
+    "fetchedAt": "2026-07-14T14:30:41.338Z",
+    "snippet": "Chronic wounds remain a major clinical challenge characterized by impaired angiogenesis, persistent inflammation and dysfunctional stromal responses. Increasing evidence indicates that the therapeutic effects of mesenchymal stem cells (MSCs) are largely mediated by paracrine signaling, making MSC-derived secretomes promising cell-free regenerative therapies...",
     "tags": [
       "research",
       "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "single-cell"
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
     ],
     "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "single-cell"
+      "gene therapy",
+      "immunology",
+      "ai",
+      "translational medicine"
     ],
     "isNewToday": false,
-    "importanceScore": 52,
+    "importanceScore": 68,
     "importanceSignals": [
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "1b104df443aa5bb0",
-    "title": "MRI Monitored Mn-THPPmPEG12-Guided Phototherapy Elicits Abscopal Immunity and Synergizes with PD-1 Blockade in Triple-Negative Breast Cancer in Mice Model.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42438592",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42438592",
-    "source": "pubmed",
-    "publicationName": "International journal of nanomedicine",
-    "journalName": "International journal of nanomedicine",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-13T15:36:55.300Z",
-    "snippet": "The study was to develop a clinical-translational theranostic photosensitizer, Mn-THPPmPEG12, for multiparametric MRI-monitored photodynamic therapy (PDT) of triple-negative breast cancer (TNBC), and to evaluate its potential to elicit abscopal immunity and synergize with PD-1 blockade. Mn-THPPmPEG12 was synthesized and characterized, and its MRI contrast c...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: translational medicine, oncology",
+      "priority topic: gene therapy, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"

@@ -1,35 +1,68 @@
 [
   {
-    "id": "b902ec8c5803f420",
-    "title": "A SUZ12-marked epithelial dedifferentiation state with immune co-expression in pancreatic ductal adenocarcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42361510",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42361510",
+    "id": "91865ae5cb24434d",
+    "title": "Integrative Transcriptome-Wide Association Study and Mendelian Randomization Identify LYNX1 and MS4A14 as Therapeutic Targets for Osteomyelitis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42441731",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42441731",
     "source": "pubmed",
-    "publicationName": "Computational biology and chemistry",
-    "journalName": "Computational biology and chemistry",
+    "publicationName": "Journal of visualized experiments : JoVE",
+    "journalName": "Journal of visualized experiments : JoVE",
     "publishedAt": "2026-06-23T00:00:00.000Z",
-    "fetchedAt": "2026-06-29T16:29:38.938Z",
-    "snippet": "Polycomb repressive complex 2 (PRC2) silences MHC class I antigen presentation across cancer types, yet the role of its core scaffolding subunit SUZ12 in pancreatic ductal adenocarcinoma (PDAC) immune phenotypes remains poorly characterized. We integrated bulk transcriptomics from three cohorts, scRNA-seq (137,976 cells), mouse spatial transcriptomics (5980...",
+    "fetchedAt": "2026-07-14T14:30:41.338Z",
+    "snippet": "Osteomyelitis is a severe infectious disease characterized by profound inflammation of the bone and bone marrow and is predominantly caused by bacterial pathogens such as Staphylococcus aureus (S. aureus). However, current treatment regimens are significantly hindered by the emergence of antibiotic resistance and recurrent infections, driven by robust biofi...",
     "tags": [
       "research",
       "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
     ],
     "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "ai",
-      "single-cell",
+      "gene therapy",
       "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
+    "importanceScore": 55,
     "importanceSignals": [
-      "recent",
-      "priority topic: oncology, computational biology",
+      "published this month",
+      "priority topic: gene therapy",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "d31d24581448ddce",
+    "title": "Inflammatory Signatures in MDS: The Missing Link Between Genetics, Microenvironment, and Therapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42439614",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42439614",
+    "source": "pubmed",
+    "publicationName": "Cells",
+    "journalName": "Cells",
+    "publishedAt": "2026-06-23T00:00:00.000Z",
+    "fetchedAt": "2026-07-14T14:30:41.338Z",
+    "snippet": "Myelodysplastic syndromes are clonal hematopoietic neoplasms in which ineffective hematopoiesis arises within the context of chronic inflammation and immune dysregulation. Growing evidence indicates that aging-associated inflammaging and inflammation-driven remodeling of the bone marrow microenvironment are not secondary phenomena, but active forces that sh...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "computational biology",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: gene therapy, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
