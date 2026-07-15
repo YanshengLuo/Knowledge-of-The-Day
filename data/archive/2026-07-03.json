@@ -1,15 +1,55 @@
 [
   {
-    "id": "16c008054f6b59dc",
-    "title": "Veratramine alleviates asthmatic airway remodelling via the PKM2/CREB1 lactylation/SMAD7 axis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42424674",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42424674",
+    "id": "9d0127ae7282b565",
+    "title": "Spatial Transcriptomics in Breast Cancer: Advances and Applications.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42450609",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42450609",
     "source": "pubmed",
-    "publicationName": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
-    "journalName": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+    "publicationName": "Biology",
+    "journalName": "Biology",
     "publishedAt": "2026-07-03T00:00:00.000Z",
-    "fetchedAt": "2026-07-11T14:14:35.413Z",
-    "snippet": "Veratramine is a natural steroidal alkaloid derived from plants of the genus Veratrum that exhibits anti-inflammatory potential. However, its pharmacological mechanisms and direct molecular targets in asthmatic airway remodelling remain unclear, particularly regarding its role in regulating metabolism-epigenetic crosstalk within the airway microenvironment....",
+    "fetchedAt": "2026-07-15T14:30:18.225Z",
+    "snippet": "While traditional transcriptomics and single-cell RNA sequencing can reveal differences in cell type and gene expression, they cannot provide spatial information within tissues. Spatial transcriptomics (ST), as an emerging technology in recent years, has achieved significant progress in resolving gene expression along the spatial dimension. This technology....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "spatial",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "computational biology",
+      "spatial"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 65,
+    "isFeatured": true
+  },
+  {
+    "id": "706f54fe5964a6e5",
+    "title": "Interleukin-1&#x3b2; (C-511T) Genetic Variant and Major Depressive Disorder: A Systematic Review.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42450240",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42450240",
+    "source": "pubmed",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
+    "publishedAt": "2026-07-03T00:00:00.000Z",
+    "fetchedAt": "2026-07-15T14:30:18.225Z",
+    "snippet": "Major Depressive Disorder (MDD) has a multifactorial etiology and pathogenesis that significantly impacts an individual's quality of life. One of the possible correlations for its onset is the activation of inflammatory responses resulting in neurodegeneration and, consequently, the emergence of depressive symptoms. Interleukin-1&#x3b2; is a regulatory cyto...",
     "tags": [
       "research",
       "pubmed",
@@ -20,14 +60,48 @@
     ],
     "topicBuckets": [
       "gene therapy",
-      "immunology",
-      "ai"
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 55,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: gene therapy",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "941323a137bc0134",
+    "title": "Variational sparse Gaussian-process method for detecting spatially variable genes and cellular interactions in spatial transcriptomics.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42447338",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42447338",
+    "source": "pubmed",
+    "publicationName": "Briefings in bioinformatics",
+    "journalName": "Briefings in bioinformatics",
+    "publishedAt": "2026-07-03T00:00:00.000Z",
+    "fetchedAt": "2026-07-15T14:30:18.225Z",
+    "snippet": "Advanced spatially resolved transcriptomic (SRT) technologies preserve the spatial context of gene expression within tissues, enabling the study of context-dependent transcriptional regulation. Here, we propose a variational inference-assisted sparse Gaussian-process (VISGP) framework for identifying spatially variable genes (SVGs) and inferring spatially d...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "spatial"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology"
     ],
     "isNewToday": false,
     "importanceScore": 65,
     "importanceSignals": [
       "published this month",
-      "priority topic: gene therapy, ai",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"

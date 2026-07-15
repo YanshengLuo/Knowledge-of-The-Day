@@ -1,32 +1,68 @@
 [
   {
-    "id": "487c0c225b8183cf",
-    "title": "TIDEST: post-imputation differential expression testing for spatial transcriptomics data.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42395515",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42395515",
+    "id": "eb70f529fb4efa96",
+    "title": "Integrating Lifestyle, Mechanistic Therapeutics, and Computational Approaches in Cancer: Highlights from the Irish Association for Cancer Research Annual Conference 2025.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42449590",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42449590",
     "source": "pubmed",
-    "publicationName": "bioRxiv : the preprint server for biology",
-    "journalName": "bioRxiv : the preprint server for biology",
+    "publicationName": "Cancers",
+    "journalName": "Cancers",
     "publishedAt": "2026-06-24T00:00:00.000Z",
-    "fetchedAt": "2026-07-06T16:11:10.427Z",
-    "snippet": "Spatial transcriptomics enables the study of tissue organization, but many high-resolution platforms measure only a limited gene panel, leaving much of the transcriptome unobserved. Although deep learning methods can reconstruct missing genes from matched single-cell references, downstream differential expression (DE) analysis remains unreliable because pre...",
+    "fetchedAt": "2026-07-15T14:30:18.225Z",
+    "snippet": "The Irish Association for Cancer Research (IACR) Annual Conference 2025, held in Belfast, showcased cutting-edge developments across the cancer research landscape. This report summarizes key presentations, highlighting innovations in drug delivery, exercise interventions, artificial intelligence and computational biology, cancer stem cell plasticity, and tr...",
     "tags": [
       "research",
       "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "spatial"
+      "Computational oncology",
+      "computational biology",
+      "oncology"
     ],
     "topicBuckets": [
-      "spatial",
-      "oncology",
       "computational biology",
+      "oncology",
       "ai",
-      "single-cell"
+      "biotech"
     ],
     "isNewToday": false,
     "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "502f6d8976eaf740",
+    "title": "Tumor Microenvironment Hijacks and Accelerates a Physiological Myeloid Senescence Signature Associated with Pan-Cancer Immunosuppression and Prognostic Stratification.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42449961",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42449961",
+    "source": "pubmed",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
+    "publishedAt": "2026-06-24T00:00:00.000Z",
+    "fetchedAt": "2026-07-15T14:30:18.225Z",
+    "snippet": "Immunosenescence is a critical driver of tumor initiation and progression. In this study, we systematically characterized immune cell senescence by integrating transcriptomic profiles from 17 physiologically aged tissues with pan-cancer single-cell datasets, encompassing 206 samples across nine cancer types. Cross-tissue comparison of senescence-associated....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "spatial",
+      "computational biology"
+    ],
+    "isNewToday": false,
     "importanceSignals": [
       "published this month",
       "priority topic: oncology, computational biology",
@@ -34,6 +70,48 @@
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
+    "importanceScore": 65,
+    "isFeatured": false
+  },
+  {
+    "id": "2e4ba5feeacf50ed",
+    "title": "Intra-Tumor Heterogeneity of Pancreatic Ductal Adenocarcinoma (PDAC)-Microenvironmental Interaction and Precision Immunotherapy Strategies: A Multi-Omics-Based Integrated Perspective.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42449956",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42449956",
+    "source": "pubmed",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
+    "publishedAt": "2026-06-24T00:00:00.000Z",
+    "fetchedAt": "2026-07-15T14:30:18.225Z",
+    "snippet": "Pancreatic ductal adenocarcinoma (PDAC) remains among the most therapeutically intractable malignancies, with a 5-year survival rate of approximately 10% and near-universal resistance to immune checkpoint inhibitor (ICI) therapy. This refractoriness arises from the convergence of pronounced intratumoral heterogeneity (ITH) and a profoundly immunosuppressive...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "immunotherapy",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai",
+      "computational biology",
+      "spatial"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 75,
+    "isFeatured": false
   }
 ]
