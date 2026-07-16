@@ -1,5 +1,76 @@
 [
   {
+    "id": "870626df98266b91",
+    "title": "Single-Cell RNA Sequencing Reveals Lactylation Modifications in Neuroblastoma and the Construction of a Prognostic Model.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42451648",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42451648",
+    "source": "pubmed",
+    "publicationName": "Molecules (Basel, Switzerland)",
+    "journalName": "Molecules (Basel, Switzerland)",
+    "publishedAt": "2026-06-29T00:00:00.000Z",
+    "fetchedAt": "2026-07-16T14:50:22.793Z",
+    "snippet": "Lactylation, a recently identified post-translational modification, has been associated with multiple cancer types, including neuroblastoma (NB). The present study aimed to investigate the prognostic significance of lactylation-related genes and to develop a prognostic model to enhance patient risk stratification and guide targeted therapy for NB. In the pr...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "single-cell"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "single-cell",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "17539f918309297a",
+    "title": "Modern Approaches to Diagnosis and Evaluation of Survival Prognosis in Patients with Pancreatic Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42450138",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42450138",
+    "source": "pubmed",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
+    "publishedAt": "2026-06-29T00:00:00.000Z",
+    "fetchedAt": "2026-07-16T14:50:22.793Z",
+    "snippet": "Pancreatic cancer is among the most aggressive malignancies, and late diagnosis remains a key challenge. For a systematic review of pancreatic cancer diagnosis and prognosis, Scopus and Web of Science databases were used for the period from 2016 to 2026. The search query included the following keywords and their combinations: pancreatic cancer, diagnosis, e...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
     "id": "0f0e2e76f97334cb",
     "title": "Integrating Single-Cell, Bulk, and Spatial Transcriptomics Unveils a Novel Ribosome Biogenesis-Related Prognostic Model and Definesas a Pro-Oncogenic Regulator in Lung Adenocarcinoma.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42450135",
@@ -8,36 +79,34 @@
     "publicationName": "International journal of molecular sciences",
     "journalName": "International journal of molecular sciences",
     "publishedAt": "2026-06-29T00:00:00.000Z",
-    "fetchedAt": "2026-07-15T14:30:18.225Z",
+    "fetchedAt": "2026-07-16T14:50:22.793Z",
     "snippet": "Dysregulation of ribosome biogenesis is increasingly recognized as a hallmark of tumor malignancy, yet its prognostic implications in lung adenocarcinoma (LUAD) remain incompletely characterized. This study aimed to construct a ribosome biogenesis-related prognostic model for LUAD and explore its potential relevance to the tumor immune microenvironment. Sin...",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "spatial",
       "Spatial oncology",
       "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
+      "cancer",
       "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "computational biology",
       "spatial"
     ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "ai",
+      "single-cell",
+      "immunology"
+    ],
     "isNewToday": false,
+    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology, ai",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 75,
-    "isFeatured": true
+    "isFeatured": false
   }
 ]
