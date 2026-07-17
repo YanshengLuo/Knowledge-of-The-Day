@@ -1,61 +1,25 @@
 [
   {
-    "id": "fe6f28c8b52cebbe",
-    "title": "Attenuating AAV-triggered innate immunity in the adult mouse nervous systemcGAS-STING pathway inhibition.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42453430",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42453430",
+    "id": "92b53c4e6fb12e2c",
+    "title": "Screening of core targets for Di(2-ethylhexyl) Phthalate-related gastric cancer based on machine learning, molecular docking, and SHAP analysis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42461936",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42461936",
     "source": "pubmed",
-    "publicationName": "Acta pharmaceutica Sinica. B",
-    "journalName": "Acta pharmaceutica Sinica. B",
+    "publicationName": "PLoS computational biology",
+    "journalName": "PLoS computational biology",
     "publishedAt": "2026-07-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-15T14:30:18.225Z",
-    "snippet": "While adeno-associated virus (AAV)-mediated gene delivery has emerged as a promising therapeutic modality for neurological disorders, dose-dependent immune responses remain a critical barrier to clinical translation. Here we reveal the cyclic GMP-AMP synthase-stimulator of interferon genes (cGAS-STING) pathway as a key mediator of innate immune activation f...",
+    "fetchedAt": "2026-07-17T14:21:27.760Z",
+    "snippet": "Given the existing uncertainties regarding the link between Di(2-ethylhexyl) phthalate (DEHP) exposure and gastric cancer (GC) progression, this study aimed to clarify their association, identify the toxic targets of DEHP, and elucidate the underlying molecular mechanisms. Multiple integrated approaches were employed, including Gene Expression Omnibus (GEO)...",
     "tags": [
       "research",
       "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "machine learning"
     ],
     "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "cbd1238310f4ae39",
-    "title": "Molecular-Based Risk Prediction Models for Recurrence After Curative Treatment of Early-Stage Lung Cancer: A Systematic Review and Meta-Analysis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42453006",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42453006",
-    "source": "pubmed",
-    "publicationName": "Thoracic cancer",
-    "journalName": "Thoracic cancer",
-    "publishedAt": "2026-07-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-15T14:30:18.225Z",
-    "snippet": "Recurrence after curative treatment remains a major challenge in early-stage non-small cell lung cancer (NSCLC). Molecular-based prediction models may improve risk stratification and support personalized surveillance strategies. To identify and evaluate molecular-based risk prediction models for recurrence and survival following curative treatment of early-...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
+      "computational biology",
       "oncology",
       "ai"
     ],
@@ -63,7 +27,145 @@
     "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: translational medicine, oncology",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "f8ae9f1ef0275065",
+    "title": "Integrative Genomic Mapping and Visualization From Curated Public Datasets Reveals Germline RB1 Variant Diversity in Retinoblastoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42461076",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42461076",
+    "source": "pubmed",
+    "publicationName": "Investigative ophthalmology & visual science",
+    "journalName": "Investigative ophthalmology & visual science",
+    "publishedAt": "2026-07-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-17T14:21:27.760Z",
+    "snippet": "To consolidate and refine RB1 disease-causing variants in retinoblastoma (RB) and to develop a visual, integrative tool for variant exploration at the gene and protein level. RB1 variants associated with RB were compiled from the Leiden Open Variation Database, 13 published cohort studies between 2014 and 2025, and the Catalogue of Somatic Mutations in Canc...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "598ce06d47071e2a",
+    "title": "Genomic Classification to Predict Survival in Metastatic Prostate Cancer: Development of Somatic Tumor Risk Assessment for Overall Survival-Prostate.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42456085",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42456085",
+    "source": "pubmed",
+    "publicationName": "JCO precision oncology",
+    "journalName": "JCO precision oncology",
+    "publishedAt": "2026-07-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-17T14:21:27.760Z",
+    "snippet": "Tumor comprehensive genomic profiling (CGP) has revolutionized cancer care and identifies patients for biomarker-specific therapy. In metastatic hormone-sensitive prostate cancer (mHSPC), although individual genes are prognostic, no comprehensive genomic classification exists using CGP that accounts for combinations of alterations to inform prognosis. We de...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "2015f24fc06f5976",
+    "title": "[To explore the immune landscape of lung adenocarcinoma patients with draining lymph nodes based on single cell sequencing].",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42463311",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42463311",
+    "source": "pubmed",
+    "publicationName": "Xi bao yu fen zi mian yi xue za zhi = Chinese journal of cellular and molecular immunology",
+    "journalName": "Xi bao yu fen zi mian yi xue za zhi = Chinese journal of cellular and molecular immunology",
+    "publishedAt": "2026-07-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-17T14:21:27.760Z",
+    "snippet": "Objective To explore the immune landscape of patients with lung adenocarcinoma with drainage lymph nodes by single-cell sequencing technology. Methods The lung cancer single cell dataset (GSE277742) was obtained from the Gene Expression Omnibus (GEO) database of the National Center for Biotechnology Information (NCBI). The dataset included intrathoracic DLN...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai",
+      "biotech"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "4e51af7011a5132d",
+    "title": "[Cinobufagin inhibits CD244macrophages to enhance T-cell activity and chemosensitivity in colorectal cancer].",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42463308",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42463308",
+    "source": "pubmed",
+    "publicationName": "Xi bao yu fen zi mian yi xue za zhi = Chinese journal of cellular and molecular immunology",
+    "journalName": "Xi bao yu fen zi mian yi xue za zhi = Chinese journal of cellular and molecular immunology",
+    "publishedAt": "2026-07-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-17T14:21:27.760Z",
+    "snippet": "Objective To investigate the effects of Cinobufotalin (Cino) on the tumor microenvironment (TME) of colorectal cancer (CRC) and the chemosensitivity to Oxaliplatin (OX). Methods We explored the clinical expression differences of CD244 in the TCGA-COAD cohort. Through UMAP dimensionality reduction analysis of single-cell sequencing data, we clarified the cel...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, translational medicine",
       "high-signal source",
       "rich summary",
       "rich metadata"
