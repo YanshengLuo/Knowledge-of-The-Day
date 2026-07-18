@@ -1,294 +1,152 @@
 [
   {
-    "id": "3878cfd9ed2b2cde",
-    "title": "Mucin expression in pancreatic ductal adenocarcinoma cell lines in 2D and 3D cultures: A proteomic and immunocytochemical analysis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42461956",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42461956",
+    "id": "296d20312f8473a5",
+    "title": "Gene expression profiling of recipient immune cells induced by 7 &#xd7; 19 CAR-T cell dosing in a syngeneic mouse model.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42467615",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42467615",
     "source": "pubmed",
     "publicationName": "PloS one",
     "journalName": "PloS one",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-17T14:21:27.760Z",
-    "snippet": "Pancreatic ductal adenocarcinoma (PDAC) exhibits diverse phenotypes, including epithelial and mesenchymal characteristics, yet these features have not been effectively translated into clinical applications. Mucins are implicated in tumor progression and therapeutic resistance and are considered potential diagnostic and therapeutic targets. In this study, fi...",
+    "fetchedAt": "2026-07-18T14:11:48.460Z",
+    "snippet": "Chimeric antigen receptor (CAR)-T cell therapy is effective for hematologic malignancies; however, the response of solid tumors is limited because of the immunosuppressive tumor microenvironment, antigen heterogeneity, and lack of persistence of transferred T cells. To overcome these challenges, CAR-T cells expressing interleukin-7 and CC chemokine ligand 1...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "eb0304923279aaea",
-    "title": "Integrating multi-omics and machine learning to uncover CCL20 as a potential regulator of the immunosuppressive microenvironment in lung adenocarcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42459691",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42459691",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-17T14:21:27.760Z",
-    "snippet": "The interplay between malignant cells and the immunosuppressive tumor microenvironment (TME) is pivotal for lung adenocarcinoma (LUAD) progression. This study employed single-cell RNA sequencing, spatial transcriptomics, multi-omics analysis, and ensemble machine learning, combined with in vitro and in vivo functional experiments, to investigate the role of...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology",
-      "machine learning",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai",
+      "Single-cell TME",
       "single-cell",
-      "spatial",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceSignals": [
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "importanceScore": 68,
-    "isFeatured": true
-  },
-  {
-    "id": "5ff047819ce2b91b",
-    "title": "A Multi-Omics and Single-Cell Framework Identifies ITGA1 as a Candidate Predictive Biomarker of Neoadjuvant Chemotherapy Response in Epithelial Ovarian Cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42457640",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42457640",
-    "source": "pubmed",
-    "publicationName": "BioFactors (Oxford, England)",
-    "journalName": "BioFactors (Oxford, England)",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-17T14:21:27.760Z",
-    "snippet": "Reliable biomarkers that predict therapeutic response remain a major unmet need in epithelial ovarian cancer (EOC), particularly for patients receiving neoadjuvant chemotherapy (NACT). Although high-throughput multi-omics technologies have accelerated biomarker discovery, the translation of candidate markers into clinically actionable predictors remains lim...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology",
-      "biomarker",
-      "single-cell"
+      "tumor microenvironment"
     ],
     "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai",
       "single-cell",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "3dd991cd20a15138",
-    "title": "Temporal gut microbiota dysbiosis links metabolic impairment, LDL desialylation, and accelerated atherosclerosis in LDLR/mice.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42460093",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42460093",
-    "source": "pubmed",
-    "publicationName": "Frontiers in medicine",
-    "journalName": "Frontiers in medicine",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-17T14:21:27.760Z",
-    "snippet": "This study used low-density lipoprotein receptor-deficient (LDLR-/-) mice fed a high-cholesterol diet (HCD) to establish an accelerated atherosclerosis model and to characterize the temporal dynamics of gut microbiota remodeling during disease progression. Male C57BL/6J wild-type and LDLR-/- mice were fed either a normal diet (ND) or HCD for 12 weeks, with....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
+      "oncology",
       "immunology",
-      "ai",
-      "computational biology",
-      "funding"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "e01fdf67ada48252",
-    "title": "Case Report: Pulmonary artery biopsy findings in a patient with a BMPR2 variant-associated pulmonary arterial hypertension.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42460063",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42460063",
-    "source": "pubmed",
-    "publicationName": "Frontiers in medicine",
-    "journalName": "Frontiers in medicine",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-17T14:21:27.760Z",
-    "snippet": "Mutations in BMPR2 are the most common genetic cause of heritable pulmonary arterial hypertension (PAH). We report a 47-years-old male with a BMPR2 variant (c.246A > G) who presented with dyspnea and recurrent hemoptysis. Right heart catheterization confirmed PAH with a mean PAP of 46 mmHg, PAWP of 3 mmHg, and PVR of 10.75 WU. A pulmonary artery biopsy was....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 48,
-    "importanceSignals": [
-      "priority topic: gene therapy",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "46ba7ac6858942ba",
-    "title": "Liver-specific gene therapy based on self-complementary adeno-associated virus for lysosomal acid lipase deficiency.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42460011",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42460011",
-    "source": "pubmed",
-    "publicationName": "Frontiers in pharmacology",
-    "journalName": "Frontiers in pharmacology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-17T14:21:27.760Z",
-    "snippet": "Lysosomal acid lipase deficiency is a rare, autosomal-recessive disorder caused by inactivating mutations of the lysosomal acid lipase gene and accumulation of cholesteryl esters and triglycerides in lysosomes. Treatment with recombinant lysosomal acid lipase is effective, but involves safety risks and the production of neutralizing antibodies. In the curre...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 48,
-    "importanceSignals": [
-      "priority topic: gene therapy",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "523bc5d942939785",
-    "title": "Research progress on targeted regulatory proteins in the prevention and treatment of atherosclerosis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42459705",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42459705",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-17T14:21:27.760Z",
-    "snippet": "Atherosclerosis (AS) is a chronic inflammatory disease characterized by lipid metabolic dysregulation and vascular cell phenotypic switching. Its progression is governed by intricate interactions between immune and vascular cells within multi-layered molecular networks. This review synthesizes recent evidence on the specific roles of key regulatory proteins...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 48,
-    "importanceSignals": [
-      "priority topic: gene therapy",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "19f56c8b38c8037f",
-    "title": "The role of the NLRP3 inflammasome in hypertension-related chronic heart failure and its potential therapeutic targets.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42459696",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42459696",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-17T14:21:27.760Z",
-    "snippet": "Hypertension-induced pressure overload is a major driver of chronic heart failure (CHF) and is accompanied by persistent sterile inflammation. However, the upstream mechanisms linking mechanical stress to inflammasome activation across disease stages remain insufficiently defined. To characterize the stage-specific role of the extracellular ATP-P2X7-NLRP3 i...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai"
+      "gene therapy"
     ],
     "isNewToday": false,
     "importanceScore": 58,
     "importanceSignals": [
-      "priority topic: gene therapy, ai",
+      "priority topic: oncology, gene therapy",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": false
+    "isFeatured": true
   },
   {
-    "id": "7cf5f2b8840e3119",
-    "title": "The glioblastoma ecosystem: clonal evolution, heterogeneity, and therapeutic resistance.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42459835",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42459835",
+    "id": "0565af968520409d",
+    "title": "Multi-cell-component cartilage organoids simulate intercellular microstress, hypoxic microenvironment, and chondrocyte-endothelial crosstalk.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42465663",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42465663",
     "source": "pubmed",
-    "publicationName": "Frontiers in cell and developmental biology",
-    "journalName": "Frontiers in cell and developmental biology",
+    "publicationName": "Frontiers in bioengineering and biotechnology",
+    "journalName": "Frontiers in bioengineering and biotechnology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-17T14:21:27.760Z",
-    "snippet": "Therapeutic resistance and recurrence represent major clinical challenges in glioblastoma (GBM), driven by profound tumor heterogeneity and continuous clonal evolution under therapeutic pressure. Conventional diagnostic and therapeutic strategies, which rely on static sampling, struggle to effectively address this dynamic ecosystem. This review synthesizes....",
+    "fetchedAt": "2026-07-18T14:11:48.460Z",
+    "snippet": "In cartilage-related studies, the existingcartilage models often fail to simulate the complex pathophysiology involving a hypoxic microenvironment, abnormal intercellular mechanical stress (microstress), and pathological crosstalk between chondrocytes and vascular endothelial cells. he aim of this study was to develop and validate a novel, simplified multi-...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai",
+      "gene therapy"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "49deaffd1a92965c",
+    "title": "Protracted Febrile Myalgia Syndrome as Initial Presentation of Familial Mediterranean Fever in a Patient of Northern European Extraction Thought to have Ulcerative Colitis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42466224",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42466224",
+    "source": "pubmed",
+    "publicationName": "European journal of case reports in internal medicine",
+    "journalName": "European journal of case reports in internal medicine",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-18T14:11:48.460Z",
+    "snippet": "Protracted febrile myalgia syndrome is a rare vasculitic manifestation of familial Mediterranean fever that presents as the initial familial Mediterranean fever manifestation in one-third of cases. While familial Mediterranean fever is classically autosomal recessive and associated with Mediterranean ancestry, the p.Met694del variant demonstrates autosomal....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 48,
+    "importanceSignals": [
+      "priority topic: gene therapy",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "6513d8c4796116fb",
+    "title": "Dynamic phenotype monitoring to prevent genotype-phenotype discrepancies in pharmacogenetic-guided drug therapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42465985",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42465985",
+    "source": "pubmed",
+    "publicationName": "Frontiers in pharmacology",
+    "journalName": "Frontiers in pharmacology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-18T14:11:48.460Z",
+    "snippet": "One of the limiting factors for the clinical application of pharmacogenomics (PGx) is phenoconversion, i.e., the dynamic discrepancy between genotype-predicted and actual drug-metabolizing phenotypes. Systemic inflammation, polypharmacy, transporter dysfunction, redox and mitochondrial stress, and epigenetic modification can rapidly alter cytochrome P450 (C...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "computational biology",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: gene therapy, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "eb0ae063257f32f8",
+    "title": "Beyond density: mapping the functional landscapes of macrophage-T lymphocyte niches in the tumor microenvironment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42465755",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42465755",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-18T14:11:48.460Z",
+    "snippet": "The spatial arrangement of tumor-associated macrophages (TAMs) and T cells within distinct microanatomical niches is emerging as a key regulator of clinical outcome in solid tumors. Here, we propose a comprehensive review that integrates spatial insights with functional studies of macrophage and T cell heterogeneity, to elucidate how the physical crosstalk....",
     "tags": [
       "research",
       "pubmed",
@@ -300,43 +158,7 @@
       "spatial",
       "oncology",
       "computational biology",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "d283c3a8bddd6b7c",
-    "title": "Spatially resolved immune niches in thyroid cancer: from hot-cold-excluded ecosystems to precision immunotherapy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42459642",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42459642",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-17T14:21:27.760Z",
-    "snippet": "Although the overall prognosis of most thyroid cancers is relatively good, the benefits of immunotherapy in advanced, dedifferentiated, and some special subtypes still show significant heterogeneity. The existing evaluation frameworks based on PD-L1, tumor mutational burden, or conventional transcriptomic signals are insufficient to explain the complex and....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "spatial",
-      "immunotherapy"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "ai",
+      "translational medicine",
       "immunology"
     ],
     "isNewToday": false,

@@ -1,68 +1,33 @@
 [
   {
-    "id": "7437c8239fb94d0e",
-    "title": "Network Pharmacology and Molecular Docking ofExtracts on Antiproliferative Effect in Prostate Cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42450244",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42450244",
+    "id": "a07ff2bfdce65c26",
+    "title": "RAG: a regularized adaptive graph-based method for rare-cell identification from single-cell expression data.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42467986",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42467986",
     "source": "pubmed",
-    "publicationName": "International journal of molecular sciences",
-    "journalName": "International journal of molecular sciences",
+    "publicationName": "Briefings in bioinformatics",
+    "journalName": "Briefings in bioinformatics",
     "publishedAt": "2026-07-03T00:00:00.000Z",
-    "fetchedAt": "2026-07-16T14:50:22.793Z",
-    "snippet": "Prostate cancer (PCa) is one of the most common causes of cancer-related mortality in men globally. Although current therapies can control early-stage disease, advanced PCa remains difficult to treat because of therapeutic resistance and adverse side effects, highlighting the need for new treatment strategies.(SN), a medicinal plant rich in bioactive compou...",
+    "fetchedAt": "2026-07-18T14:11:48.460Z",
+    "snippet": "Rare-cell identification is essential for dissecting disease mechanisms and developmental programs. Existing methods mostly rely on fixed-size neighbourhood graphs to separate rare-cell populations in single-cell expression data, which may embed rare cells into dominant clusters under varying sampling densities. This paper proposes the RAG method for identi...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
-      "oncology"
+      "oncology",
+      "single-cell"
     ],
     "topicBuckets": [
       "computational biology",
       "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "9d0127ae7282b565",
-    "title": "Spatial Transcriptomics in Breast Cancer: Advances and Applications.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42450609",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42450609",
-    "source": "pubmed",
-    "publicationName": "Biology",
-    "journalName": "Biology",
-    "publishedAt": "2026-07-03T00:00:00.000Z",
-    "fetchedAt": "2026-07-16T14:50:22.793Z",
-    "snippet": "While traditional transcriptomics and single-cell RNA sequencing can reveal differences in cell type and gene expression, they cannot provide spatial information within tissues. Spatial transcriptomics (ST), as an emerging technology in recent years, has achieved significant progress in resolving gene expression along the spatial dimension. This technology....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "spatial"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
       "single-cell"
     ],
     "isNewToday": false,
     "importanceScore": 65,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology, computational biology",
+      "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
