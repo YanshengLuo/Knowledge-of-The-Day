@@ -1,49 +1,62 @@
 [
   {
-    "id": "296d20312f8473a5",
-    "title": "Gene expression profiling of recipient immune cells induced by 7 &#xd7; 19 CAR-T cell dosing in a syngeneic mouse model.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42467615",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42467615",
+    "id": "ac8ab0e097ff8e19",
+    "title": "Multiomics Analysis Reveals CTHRC1+ CAFs Drive Immunosuppressive Niches and Predict Immunotherapy Resistance in Gastric Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42471842",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42471842",
     "source": "pubmed",
-    "publicationName": "PloS one",
-    "journalName": "PloS one",
+    "publicationName": "Human mutation",
+    "journalName": "Human mutation",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-18T14:11:48.460Z",
-    "snippet": "Chimeric antigen receptor (CAR)-T cell therapy is effective for hematologic malignancies; however, the response of solid tumors is limited because of the immunosuppressive tumor microenvironment, antigen heterogeneity, and lack of persistence of transferred T cells. To overcome these challenges, CAR-T cells expressing interleukin-7 and CC chemokine ligand 1...",
+    "fetchedAt": "2026-07-19T14:16:29.731Z",
+    "snippet": "Cancer-associated fibroblasts (CAFs) orchestrate immune-excluded tumor microenvironment (TME), but the CAF heterogeneity remains incompletely understood in gastric cancer (GC). In this study, we integrated multicohort single-cell RNA sequencing (scRNA-seq), spatial transcriptomics, and bulk transcriptomic data to construct a comprehensive atlas of the GC TM...",
     "tags": [
       "research",
       "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "immunotherapy",
       "Single-cell TME",
       "single-cell",
-      "tumor microenvironment"
+      "tumor microenvironment",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification"
     ],
     "topicBuckets": [
-      "single-cell",
+      "computational biology",
       "oncology",
+      "ai",
+      "single-cell",
+      "spatial",
       "immunology",
-      "gene therapy"
+      "translational medicine"
     ],
     "isNewToday": false,
-    "importanceScore": 58,
     "importanceSignals": [
-      "priority topic: oncology, gene therapy",
+      "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
+    "importanceScore": 68,
     "isFeatured": true
   },
   {
-    "id": "0565af968520409d",
-    "title": "Multi-cell-component cartilage organoids simulate intercellular microstress, hypoxic microenvironment, and chondrocyte-endothelial crosstalk.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42465663",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42465663",
+    "id": "2833bab7020d7a42",
+    "title": "Single-Cell Transcriptomic Profiling Reveals Cellular Heterogeneity and Identifies Novel Therapeutic Targets in Osteosarcoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42472256",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42472256",
     "source": "pubmed",
-    "publicationName": "Frontiers in bioengineering and biotechnology",
-    "journalName": "Frontiers in bioengineering and biotechnology",
+    "publicationName": "International journal of genomics",
+    "journalName": "International journal of genomics",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-18T14:11:48.460Z",
-    "snippet": "In cartilage-related studies, the existingcartilage models often fail to simulate the complex pathophysiology involving a hypoxic microenvironment, abnormal intercellular mechanical stress (microstress), and pathological crosstalk between chondrocytes and vascular endothelial cells. he aim of this study was to develop and validate a novel, simplified multi-...",
+    "fetchedAt": "2026-07-19T14:16:29.731Z",
+    "snippet": "Osteosarcoma is the most prevalent primary malignant bone tumor predominantly affecting children and adolescents, yet prognosis for metastatic disease remains dismal. Understanding the cellular complexity within the tumor microenvironment is essential for developing targeted therapeutic strategies. We performed comprehensive single-cell RNA sequencing analy...",
     "tags": [
       "research",
       "pubmed",
@@ -55,11 +68,10 @@
       "single-cell",
       "oncology",
       "immunology",
-      "ai",
-      "gene therapy"
+      "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 68,
+    "importanceScore": 58,
     "importanceSignals": [
       "priority topic: oncology, ai",
       "high-signal source",
@@ -77,7 +89,7 @@
     "publicationName": "European journal of case reports in internal medicine",
     "journalName": "European journal of case reports in internal medicine",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-18T14:11:48.460Z",
+    "fetchedAt": "2026-07-19T14:16:29.731Z",
     "snippet": "Protracted febrile myalgia syndrome is a rare vasculitic manifestation of familial Mediterranean fever that presents as the initial familial Mediterranean fever manifestation in one-third of cases. While familial Mediterranean fever is classically autosomal recessive and associated with Mediterranean ancestry, the p.Met694del variant demonstrates autosomal....",
     "tags": [
       "research",
@@ -110,7 +122,7 @@
     "publicationName": "Frontiers in pharmacology",
     "journalName": "Frontiers in pharmacology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-18T14:11:48.460Z",
+    "fetchedAt": "2026-07-19T14:16:29.731Z",
     "snippet": "One of the limiting factors for the clinical application of pharmacogenomics (PGx) is phenoconversion, i.e., the dynamic discrepancy between genotype-predicted and actual drug-metabolizing phenotypes. Systemic inflammation, polypharmacy, transporter dysfunction, redox and mitochondrial stress, and epigenetic modification can rapidly alter cytochrome P450 (C...",
     "tags": [
       "research",
@@ -145,7 +157,7 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-18T14:11:48.460Z",
+    "fetchedAt": "2026-07-19T14:16:29.731Z",
     "snippet": "The spatial arrangement of tumor-associated macrophages (TAMs) and T cells within distinct microanatomical niches is emerging as a key regulator of clinical outcome in solid tumors. Here, we propose a comprehensive review that integrates spatial insights with functional studies of macrophage and T cell heterogeneity, to elucidate how the physical crosstalk....",
     "tags": [
       "research",
@@ -165,6 +177,41 @@
     "importanceScore": 68,
     "importanceSignals": [
       "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "ffb0da68cfe8855e",
+    "title": "Pretreatment Prognostic Nutritional Index Predicts Progression-Free Survival in BCLC Stage C Hepatocellular Carcinoma Treated with Sorafenib.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42471988",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42471988",
+    "source": "pubmed",
+    "publicationName": "Cancer management and research",
+    "journalName": "Cancer management and research",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-19T14:16:29.731Z",
+    "snippet": "Systemic inflammation and nutritional status are key determinants of tumor progression in advanced hepatocellular carcinoma (HCC). This study aimed to evaluate the prognostic significance of inflammation and nutrition based indices in patients with BCLC stage C HCC treated with sorafenib. This retrospective cohort study included 109 patients with Barcelona....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
