@@ -1,5 +1,38 @@
 [
   {
+    "id": "2d4ca9f5a13eb006",
+    "title": "Diagnostic and prognostic values of differentially expressed genes in canine mammary carcinoma: An integrated bioinformatics analysis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42475371",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42475371",
+    "source": "pubmed",
+    "publicationName": "PloS one",
+    "journalName": "PloS one",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-21T14:51:12.283Z",
+    "snippet": "Canine mammary carcinoma (CMC) is a common tumor in unspayed dogs and poses a significant health concern for animals. This study aimed to identify differentially expressed genes (DEGs) between CMC and adjacent healthy mammary tissue through an integrated RNASeq bioinformatics analysis that combined an independently generated dataset from the present study,....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
     "id": "ac8ab0e097ff8e19",
     "title": "Multiomics Analysis Reveals CTHRC1+ CAFs Drive Immunosuppressive Niches and Predict Immunotherapy Resistance in Gastric Cancer.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42471842",
@@ -8,7 +41,7 @@
     "publicationName": "Human mutation",
     "journalName": "Human mutation",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-20T14:59:09.860Z",
+    "fetchedAt": "2026-07-21T14:51:12.283Z",
     "snippet": "Cancer-associated fibroblasts (CAFs) orchestrate immune-excluded tumor microenvironment (TME), but the CAF heterogeneity remains incompletely understood in gastric cancer (GC). In this study, we integrated multicohort single-cell RNA sequencing (scRNA-seq), spatial transcriptomics, and bulk transcriptomic data to construct a comprehensive atlas of the GC TM...",
     "tags": [
       "research",
@@ -17,9 +50,6 @@
       "computational biology",
       "oncology",
       "immunotherapy",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
       "Spatial oncology",
       "spatial transcriptomics",
       "cancer"
@@ -43,22 +73,23 @@
     "isFeatured": true
   },
   {
-    "id": "2833bab7020d7a42",
-    "title": "Single-Cell Transcriptomic Profiling Reveals Cellular Heterogeneity and Identifies Novel Therapeutic Targets in Osteosarcoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42472256",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42472256",
+    "id": "9a1d6c4bab5eb229",
+    "title": "Cancer-associated fibroblast subtype signature gene predicts survival and immunotherapy response in sarcoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42475329",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42475329",
     "source": "pubmed",
-    "publicationName": "International journal of genomics",
-    "journalName": "International journal of genomics",
+    "publicationName": "PloS one",
+    "journalName": "PloS one",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-20T14:59:09.860Z",
-    "snippet": "Osteosarcoma is the most prevalent primary malignant bone tumor predominantly affecting children and adolescents, yet prognosis for metastatic disease remains dismal. Understanding the cellular complexity within the tumor microenvironment is essential for developing targeted therapeutic strategies. We performed comprehensive single-cell RNA sequencing analy...",
+    "fetchedAt": "2026-07-21T14:51:12.283Z",
+    "snippet": "Sarcomas show heterogeneous responses to immune-checkpoint blockade (ICB), and cancer-associated fibroblasts (CAFs) are considered to shape the tumor immune microenvironment, yet CAF programs that predict ICB outcomes in sarcoma remain unclear. We investigated the interaction between different cell types in the sarcoma tumor microenvironment and their effec...",
     "tags": [
       "research",
       "pubmed",
       "Single-cell TME",
       "single-cell",
-      "tumor microenvironment"
+      "tumor microenvironment",
+      "immunotherapy"
     ],
     "topicBuckets": [
       "single-cell",
@@ -85,7 +116,7 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-20T14:59:09.860Z",
+    "fetchedAt": "2026-07-21T14:51:12.283Z",
     "snippet": "The spatial arrangement of tumor-associated macrophages (TAMs) and T cells within distinct microanatomical niches is emerging as a key regulator of clinical outcome in solid tumors. Here, we propose a comprehensive review that integrates spatial insights with functional studies of macrophage and T cell heterogeneity, to elucidate how the physical crosstalk....",
     "tags": [
       "research",
@@ -105,74 +136,6 @@
     "importanceScore": 68,
     "importanceSignals": [
       "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "0a5ed9ecf7dcc643",
-    "title": "Genomic innovations in cancer prevention, diagnosis, prognosis and precision therapeutics.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42473674",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42473674",
-    "source": "pubmed",
-    "publicationName": "Frontiers in genetics",
-    "journalName": "Frontiers in genetics",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-20T14:59:09.860Z",
-    "snippet": "Cancer research has undergone a transformative change with the advent of high-throughput genomic technologies. Advances in next-generation sequencing accelerated the identification of somatic and germline alterations that drive tumorigenesis enabling the transition from traditional histology-based cancer classification to molecularly informed precision onco...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "biotech"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "ff0c20657b5ae3fe",
-    "title": "Nanozyme-Driven Ferroptosis-Cuproptosis Interplay in Lung Cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42473554",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42473554",
-    "source": "pubmed",
-    "publicationName": "International journal of nanomedicine",
-    "journalName": "International journal of nanomedicine",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-20T14:59:09.860Z",
-    "snippet": "Lung cancer is uniquely amenable to local administration and is characterized by sustained exposure to an oxygen-rich exchange environment and marked metabolic heterogeneity. These features make it a distinctive therapeutic setting for nanozyme-mediated induction of ferroptosis and cuproptosis, while simultaneously imposing more stringent requirements on de...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"

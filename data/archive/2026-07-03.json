@@ -1,30 +1,32 @@
 [
   {
-    "id": "a07ff2bfdce65c26",
-    "title": "RAG: a regularized adaptive graph-based method for rare-cell identification from single-cell expression data.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42467986",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42467986",
+    "id": "7b4cffd42c77ff4e",
+    "title": "Pan-cancer Bioinformatics Analysis Combined with Colon Cancer Experimental Validation: A Study on TMED3 as a Diagnostic and Prognostic Biomarker.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42475268",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42475268",
     "source": "pubmed",
-    "publicationName": "Briefings in bioinformatics",
-    "journalName": "Briefings in bioinformatics",
+    "publicationName": "Journal of visualized experiments : JoVE",
+    "journalName": "Journal of visualized experiments : JoVE",
     "publishedAt": "2026-07-03T00:00:00.000Z",
-    "fetchedAt": "2026-07-20T14:59:09.860Z",
-    "snippet": "Rare-cell identification is essential for dissecting disease mechanisms and developmental programs. Existing methods mostly rely on fixed-size neighbourhood graphs to separate rare-cell populations in single-cell expression data, which may embed rare cells into dominant clusters under varying sampling densities. This paper proposes the RAG method for identi...",
+    "fetchedAt": "2026-07-21T14:51:12.283Z",
+    "snippet": "Transmembrane Emp24 Protein Transport Domain 3 (TMED3), a member of the p24 protein family, has been implicated in tumor proliferation, invasion, and migration. This study aimed to evaluate the expression patterns, prognostic significance, immune associations, and potential biological functions of TMED3 across multiple cancer types using pan-cancer bioinfor...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
       "oncology",
-      "single-cell"
+      "biomarker"
     ],
     "topicBuckets": [
       "computational biology",
       "oncology",
-      "single-cell"
+      "ai",
+      "translational medicine",
+      "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 65,
+    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
       "priority topic: computational biology, oncology",
@@ -33,5 +35,79 @@
       "rich metadata"
     ],
     "isFeatured": true
+  },
+  {
+    "id": "14161947cb7aa82f",
+    "title": "Bex-Plex Enables Simultaneous Visualization of Protein Markers and Ribonucleic Acid Transcripts for Deep Spatial Profiling of Intact Tissue.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42475411",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42475411",
+    "source": "pubmed",
+    "publicationName": "Journal of visualized experiments : JoVE",
+    "journalName": "Journal of visualized experiments : JoVE",
+    "publishedAt": "2026-07-03T00:00:00.000Z",
+    "fetchedAt": "2026-07-21T14:51:12.283Z",
+    "snippet": "Here, we present a protocol to enable simultaneous spatial profiling of protein and ribonucleic acid (RNA) markers at single-cell resolution in intact tissues. One of the core issues surrounding solid tumor cancers is the inability to predict patient responsiveness to therapeutic intervention. Deciphering these complexities requires quantitative measurement...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "spatial",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "spatial",
+      "computational biology"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 65,
+    "isFeatured": false
+  },
+  {
+    "id": "8975e502f86524cb",
+    "title": "A Network Pharmacology and Molecular Docking Study of TongBi Formula for Osteoarthritis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42475266",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42475266",
+    "source": "pubmed",
+    "publicationName": "Journal of visualized experiments : JoVE",
+    "journalName": "Journal of visualized experiments : JoVE",
+    "publishedAt": "2026-07-03T00:00:00.000Z",
+    "fetchedAt": "2026-07-21T14:51:12.283Z",
+    "snippet": "This study applied network pharmacology combined with molecular docking to predict the potential therapeutic targets and molecular mechanisms of TongBi Formula (TBF) in osteoarthritis (OA). Active components and corresponding targets of TBF were retrieved from the traditional Chinese medicine Systems Pharmacology Database and Analysis Platform, while OA-rel...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 55,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: gene therapy",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
   }
 ]
