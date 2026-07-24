@@ -1,5 +1,39 @@
 [
   {
+    "id": "f9ab709b9ee93234",
+    "title": "Revised Thyroid Differentiation Score for Risk Stratification in Papillary Thyroid Carcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42492028",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42492028",
+    "source": "pubmed",
+    "publicationName": "JCO precision oncology",
+    "journalName": "JCO precision oncology",
+    "publishedAt": "2026-07-01T00:00:00.000Z",
+    "fetchedAt": "2026-07-24T14:29:35.443Z",
+    "snippet": "Loss of thyroid differentiation underlies the aggressive behavior of a subset of papillary thyroid carcinomas (PTCs). The Thyroid Differentiation Score (TDS), introduced by The Cancer Genome Atlas (TCGA), quantifies tumor differentiation but has limited reproducibility and clinical applicability. We developed and validated a revised score (xTDS) that enable...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
     "id": "44eb0c6189629e00",
     "title": "Genomic Alterations and Their Clinical Implications in Pancreatic Ductal Adenocarcinoma in a Large-Scale Chinese Cohort.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42487270",
@@ -8,7 +42,7 @@
     "publicationName": "Cancer medicine",
     "journalName": "Cancer medicine",
     "publishedAt": "2026-07-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-23T14:56:14.693Z",
+    "fetchedAt": "2026-07-24T14:29:35.443Z",
     "snippet": "Genomic sequencing has made precision oncology of pancreatic ductal adenocarcinoma (PDAC) feasible and is recommended by numerous clinical guidelines. The clinical significance of genomic alterations in PDAC remains to be revealed. This study was designed to bridge this gap by elucidating the clinical relevance of genomic profiling in a diverse PDAC populat...",
     "tags": [
       "research",
@@ -35,34 +69,35 @@
     "isFeatured": true
   },
   {
-    "id": "40497c31f2a8035d",
-    "title": "High SIGLEC10-Expressing Tumor-Associated Macrophages Participate in Remodeling the Tumor Immune Microenvironment and Predict Poor Prognosis in Colorectal Cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42487207",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42487207",
+    "id": "c9620aa064335513",
+    "title": "Association of Serum hs-CRP and TNF-&#x3b1; With Therapeutic Response to Erenumab for Migraine Prevention: A Registry for Migraine (REFORM) Study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42494239",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42494239",
     "source": "pubmed",
-    "publicationName": "Cancer medicine",
-    "journalName": "Cancer medicine",
+    "publicationName": "European journal of neurology",
+    "journalName": "European journal of neurology",
     "publishedAt": "2026-07-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-23T14:56:14.693Z",
-    "snippet": "Sialic acid-binding immunoglobulin-like lectin 10 (SIGLEC10), a member of the SIGLEC family, is selectively expressed on multiple immune cell subsets and plays a key role in immune regulation through the recognition of sialylated ligands. Recent studies suggest that SIGLEC10 functions as an emerging immune checkpoint that contributes to the regulation of tu...",
+    "fetchedAt": "2026-07-24T14:29:35.443Z",
+    "snippet": "Experimental studies show inflammatory cytokines can modulate calcitonin gene-related peptide (CGRP) signaling, suggesting systemic inflammatory markers might reflect biological processes relevant to anti-CGRP therapies. We aimed to determine whether serum high-sensitivity C-reactive protein (hs-CRP) and tumor necrosis factor-alpha (TNF-&#x3b1;) are associa...",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
     ],
     "topicBuckets": [
-      "single-cell",
-      "oncology",
+      "gene therapy",
       "immunology",
-      "computational biology"
+      "ai",
+      "oncology"
     ],
     "isNewToday": false,
-    "importanceScore": 65,
+    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology, computational biology",
+      "priority topic: gene therapy, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -70,22 +105,23 @@
     "isFeatured": true
   },
   {
-    "id": "e1675c2cfaeb5ca4",
-    "title": "Pan-cancer atlas of cellular architecture reveals a nearest-neighbour distance-associated biomechanical-immune axis involving CD4+ memory T cells.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42482342",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42482342",
+    "id": "ea51694a9fda90fe",
+    "title": "An interpretable multi-task whole-slide histopathology AI model for non-small cell lung cancer: Cross-cohort generalisation, spatial attention-transcriptomic integration, and molecular-immune profiling.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42494157",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42494157",
     "source": "pubmed",
     "publicationName": "Clinical and translational medicine",
     "journalName": "Clinical and translational medicine",
     "publishedAt": "2026-07-01T00:00:00.000Z",
-    "fetchedAt": "2026-07-23T14:56:14.693Z",
-    "snippet": "The systematic link between cellular spatial organization and its biomechanical consequences remains a critical knowledge gap in human oncology. To quantitatively map the cellular architecture of solid tumours and elucidate its mechanistic impact on mechanical signalling, immune infiltration, and patient survival. We developed a scalable digital pathology f...",
+    "fetchedAt": "2026-07-24T14:29:35.443Z",
+    "snippet": "Tumour-node-metastasis staging does not fully explain prognostic heterogeneity in non-small cell lung cancer. We evaluated whether haematoxylin-and-eosin whole-slide images could estimate histological subtype, pathological stage probabilities, survival risk and spatially grounded biological associations. SparseAGE-MTL, a weakly supervised multi-task multipl...",
     "tags": [
       "research",
       "pubmed",
       "Spatial oncology",
       "spatial transcriptomics",
-      "cancer"
+      "cancer",
+      "spatial"
     ],
     "topicBuckets": [
       "spatial",
