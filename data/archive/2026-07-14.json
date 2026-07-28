@@ -1,37 +1,113 @@
 [
   {
-    "id": "794eaeb18d9d2ab1",
-    "title": "Lonicera trichosantha alleviates LPS-induced endometritis in mice by modulating the gut microbiota and host metabolism.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42470953",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42470953",
+    "id": "f94038d25210cbc3",
+    "title": "Spatial Architecture of B7-H3-Expressing Cell Subpopulations Predicts Patient Prognosis in Lung Cancer Brain Metastases: A Pilot Study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42512317",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42512317",
     "source": "pubmed",
-    "publicationName": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
-    "journalName": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+    "publicationName": "Cancers",
+    "journalName": "Cancers",
     "publishedAt": "2026-07-14T00:00:00.000Z",
-    "fetchedAt": "2026-07-20T14:59:09.860Z",
-    "snippet": "Endometritis is an inflammatory disorder of the endometrial lining. Conventional antibiotic therapy often fails to control the accompanying disruptive inflammation. The 95 % ethanol-eluted fraction of Lonicera trichosantha (95 %-LT), exhibits potent anti-inflammatory activity in vitro. Nevertheless, its efficacy in vivo and the mechanisms underlying its pot...",
+    "fetchedAt": "2026-07-28T15:07:38.918Z",
+    "snippet": "The clinical outcomes of lung cancer brain metastases (LCBMs) are highly variable. Traditional pathology relies on bulk cell densities. These static measures fail to capture the spatial architecture of the tumor immune microenvironment (TIME). B7-H3 (CD276) represents a key immune checkpoint in LCBMs. We investigated whether the spatial orchestration of B7-...",
     "tags": [
       "research",
       "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "spatial"
     ],
     "topicBuckets": [
-      "gene therapy",
+      "single-cell",
+      "oncology",
       "immunology",
-      "ai"
+      "ai",
+      "translational medicine"
     ],
     "isNewToday": false,
-    "importanceScore": 72,
+    "importanceScore": 75,
     "importanceSignals": [
-      "recent",
-      "priority topic: gene therapy, ai",
+      "published this month",
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "bfd9d577fe6bd5b0",
+    "title": "Integrative Single-Cell and Spatial Transcriptomic Analysis Identifies a Tertiary Lymphoid Structure-Associated LAMP3CCR7mregDC Antigen-Presentation Program in Ovarian Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42512324",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42512324",
+    "source": "pubmed",
+    "publicationName": "Cancers",
+    "journalName": "Cancers",
+    "publishedAt": "2026-07-14T00:00:00.000Z",
+    "fetchedAt": "2026-07-28T15:07:38.918Z",
+    "snippet": "Tertiary lymphoid structures (TLSs) are spatial immune niches in solid tumors, but their relationship to mature regulatory dendritic-cell (mregDC) states in ovarian cancer remains incompletely resolved.We integrated public gynecological-tumor single-cell RNA sequencing, representative CD11C/HLA-DRA/LAMP3/CCR7 multiplex immunofluorescence, public Xenium and....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "single-cell",
+      "spatial"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "ai",
+      "single-cell",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
     "isFeatured": true
+  },
+  {
+    "id": "e74b60052aefed66",
+    "title": "Integrative Multi-Transcriptomic Uncovers Actionable Signatures and Drug Repurposing Candidates for ccRCC-Hypertension Comorbidity.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42512315",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42512315",
+    "source": "pubmed",
+    "publicationName": "Cancers",
+    "journalName": "Cancers",
+    "publishedAt": "2026-07-14T00:00:00.000Z",
+    "fetchedAt": "2026-07-28T15:07:38.918Z",
+    "snippet": "Hypertension is a common comorbidity and risk factor for clear cell renal cell carcinoma (ccRCC), yet the molecular mechanisms linking these two diseases remain unclear. This study aimed to investigate hypertension-related molecular signatures in ccRCC using integrated multi-transcriptomic analyses. Hypertension-related differentially expressed genes (DEHRG...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
   }
 ]

@@ -1,32 +1,69 @@
 [
   {
-    "id": "40060c99dcfc0abd",
-    "title": "Lenvatinib enhances the response of biliary tract cancer to anti-HER2 therapy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42502083",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42502083",
+    "id": "b50462975e76f4d8",
+    "title": "STAT3 as a Candidate Shared Regulator of the CXCR4/CXCL12 and CXCR5/CXCL13 Homing Axes in Chronic Lymphocytic Leukemia.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42511446",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42511446",
     "source": "pubmed",
-    "publicationName": "Signal transduction and targeted therapy",
-    "journalName": "Signal transduction and targeted therapy",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
     "publishedAt": "2026-07-08T00:00:00.000Z",
-    "fetchedAt": "2026-07-26T14:19:57.641Z",
-    "snippet": "Human epidermal growth factor receptor 2 (HER2) is frequently overexpressed or amplified in biliary tract cancer (BTC). Although NCCN clinical practice guidelines recommend HER2-targeted agents as subsequent-line therapy, drug resistance often restricts the clinical benefits of existing regimens. Here, we demonstrate that HER2 inhibitors have heterogeneous....",
+    "fetchedAt": "2026-07-28T15:07:38.918Z",
+    "snippet": "Chronic lymphocytic leukemia (CLL) is characterised by the dependence of malignant cells on specialised tissue microenvironments within the bone marrow (BM) and secondary lymphoid organs (SLOs), which provide essential survival and proliferative signals. The CXCR4/CXCL12 and CXCR5/CXCL13 chemokine axes direct the trafficking of CLL cells into these anatomic...",
     "tags": [
       "research",
       "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
     ],
     "topicBuckets": [
-      "translational medicine",
-      "oncology"
+      "single-cell",
+      "oncology",
+      "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 65,
+    "importanceScore": 55,
     "importanceSignals": [
       "published this month",
-      "priority topic: translational medicine, oncology",
+      "priority topic: oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "dc70c4855bde3e64",
+    "title": "Counterfactual Diffusion Modeling Enables Spatially Targeted Reprogramming of Tissue Microenvironments.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42510645",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42510645",
+    "source": "pubmed",
+    "publicationName": "Biology",
+    "journalName": "Biology",
+    "publishedAt": "2026-07-08T00:00:00.000Z",
+    "fetchedAt": "2026-07-28T15:07:38.918Z",
+    "snippet": "Spatially resolved single-cell technologies can provide deep insights into cellular heterogeneity and tissue structural characteristics. However, the data obtained are purely observational and cannot reveal the specific mechanisms by which tissues respond to particular perturbations. Most computational models of single-cell perturbations either operate in a...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "spatial"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "ai",
+      "single-cell"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
