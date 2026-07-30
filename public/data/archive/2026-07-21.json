@@ -1,68 +1,36 @@
 [
   {
-    "id": "2c3926d1cf232d3a",
-    "title": "Dissecting Immune Determinants in Lesional Skin of Cutaneous T-Cell Lymphoma During Mogamulizumab Therapy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42512410",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42512410",
+    "id": "23c49dac2de54a0b",
+    "title": "A contextual activity score (CAS) for inferring ADAR-associated transcriptional activity across RNA-seq, single-cell, and spatial transcriptomics.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42526067",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42526067",
     "source": "pubmed",
-    "publicationName": "Cancers",
-    "journalName": "Cancers",
+    "publicationName": "Computer methods and programs in biomedicine",
+    "journalName": "Computer methods and programs in biomedicine",
     "publishedAt": "2026-07-21T00:00:00.000Z",
-    "fetchedAt": "2026-07-28T15:07:38.918Z",
-    "snippet": ": Mycosis fungoides (MF) and S&#xe9;zary syndrome (SS) are the predominant cutaneous T-cell lymphomas. Although malignant T cells in MF/SS overexpress CCR4 and respond to the anti-CCR4 antibody mogamulizumab, skin response rates vary. We hypothesized that immune components within the tumor microenvironment contribute to differential outcomes.: Imaging mass....",
+    "fetchedAt": "2026-07-30T14:56:58.077Z",
+    "snippet": "Adenosine-to-inosine RNA editing, catalyzed by Adenosine Deaminases Acting on RNA (ADARs), is a widespread modification involved in neural function, immune regulation, and cancer. The Alu Editing Index (AEI) is the standard metric to estimate ADAR activity but requires raw sequencing reads and is poorly suited for single-cell and spatial transcriptomic data...",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
       "single-cell",
-      "tumor microenvironment"
+      "spatial"
     ],
     "topicBuckets": [
-      "single-cell",
+      "spatial",
       "oncology",
+      "computational biology",
+      "single-cell",
       "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 55,
+    "importanceScore": 65,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "5981d94846ad3982",
-    "title": "A Three-Gene Prognostic Signature Driven by an ER Stress-Associated ceRNA Network: Integrating Single-Cell Transcriptomics and Cross-Platform Validation in Hepatocellular Carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42510982",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42510982",
-    "source": "pubmed",
-    "publicationName": "Current issues in molecular biology",
-    "journalName": "Current issues in molecular biology",
-    "publishedAt": "2026-07-21T00:00:00.000Z",
-    "fetchedAt": "2026-07-28T15:07:38.918Z",
-    "snippet": "The progression and immune escape of HCC are closely regulated by endoplasmic reticulum stress (ERS). However, the associated ceRNA regulatory networks and their prognostic value remain to be systematically elucidated. Here, we sought to establish a prognostic signature derived from an ERS-associated ceRNA network and to investigate its relationship with th...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "computational biology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: oncology, ai",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
