@@ -1,36 +1,72 @@
 [
   {
-    "id": "02acfcbc4556f5e4",
-    "title": "Specific PET Imaging for Precision Management of Lung Cancer: Advances, Clinical Translation and Future Directions.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42529427",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42529427",
+    "id": "43e4cf933a9830a5",
+    "title": "Integrative Bioinformatics and Experimental Validation Reveal that METTL9 Drives Lung Adenocarcinoma Progression via TGF-&#x3b2;/Smad-Mediated EMT Activation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42530242",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42530242",
     "source": "pubmed",
-    "publicationName": "Chemical & biomedical imaging",
-    "journalName": "Chemical & biomedical imaging",
+    "publicationName": "Frontiers in bioscience (Landmark edition)",
+    "journalName": "Frontiers in bioscience (Landmark edition)",
     "publishedAt": "2026-07-27T00:00:00.000Z",
-    "fetchedAt": "2026-07-30T14:56:58.077Z",
-    "snippet": "Lung cancer continues to be the leading cause of cancer-related deaths worldwide, primarily due to persistent challenges in early detection and the limited effectiveness of precision medicine. Although low-dose computed tomography (CT) has been widely implemented for lung cancer screening and has contributed to a measurable reduction in disease-specific mor...",
+    "fetchedAt": "2026-07-31T15:10:53.861Z",
+    "snippet": "Methyltransferase-like 9 (METTL9) has been implicated in tumor progression, yet its clinical significance, functional roles, and immunoregulatory functions in lung adenocarcinoma (LUAD) remain unclear. This study aimed to integrate multi-omics datasets and experimental evidence to systematically evaluate the expression profile, prognostic value, molecular m...",
     "tags": [
       "research",
       "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
+      "Computational oncology",
+      "computational biology",
       "oncology"
     ],
     "topicBuckets": [
-      "translational medicine",
-      "oncology"
+      "computational biology",
+      "oncology",
+      "ai",
+      "translational medicine"
     ],
     "isNewToday": false,
-    "importanceScore": 72,
+    "importanceScore": 82,
     "importanceSignals": [
       "recent",
-      "priority topic: translational medicine, oncology",
+      "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
     "isFeatured": true
+  },
+  {
+    "id": "6aa8a5fee3605b95",
+    "title": "Transcriptomic and Single-Cell Analyses Reveal a Prognostic Mitochondria- and Immunity-Related Risk Signature in Osteosarcoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42530245",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42530245",
+    "source": "pubmed",
+    "publicationName": "Frontiers in bioscience (Landmark edition)",
+    "journalName": "Frontiers in bioscience (Landmark edition)",
+    "publishedAt": "2026-07-27T00:00:00.000Z",
+    "fetchedAt": "2026-07-31T15:10:53.861Z",
+    "snippet": "While mitochondrial dysfunction and immune cell dysregulation have been established as important contributors to the pathogenesis of osteosarcoma (OS), the prognostic value of mitochondria-related genes (MRGs) and immune-related genes (IRGs) in OS remains poorly understood. Data were obtained from public databases. Differentially expressed genes (DEGs) and....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 72,
+    "importanceSignals": [
+      "recent",
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
   }
 ]

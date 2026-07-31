@@ -1,171 +1,33 @@
 [
   {
-    "id": "a623f3c1d98c433f",
-    "title": "Webinar: Building the Intelligence Engine for Drug Discovery R&D Teams",
-    "url": "https://www.biospace.com/events/webinar-building-the-intelligence-engine-for-drug-discovery-r-d-teams",
-    "canonicalUrl": "https://www.biospace.com/events/webinar-building-the-intelligence-engine-for-drug-discovery-r-d-teams",
-    "source": "biospace",
-    "publicationName": "BioSpace",
-    "publishedAt": "2026-07-28T21:15:04.000Z",
-    "fetchedAt": "2026-07-30T14:56:57.325Z",
-    "snippet": "Drug discovery teams have more data than ever, but turning that data into actionable insight remains a major challenge. In this candid conversation, Patsnap’s Ben Coverdale is joined by Mark Davies, Head of Product for Life Sciences, and James Longden, Senior Director, Life Sciences at Evolvus to explore how AI-powere...",
-    "tags": [
-      "biotech",
-      "industry"
-    ],
-    "topicBuckets": [
-      "ai",
-      "biotech"
-    ],
-    "isNewToday": false,
-    "importanceScore": 70,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: ai",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "6ab80e690df77852",
-    "title": "Single-cell RNA sequencing reveals immunological heterogeneity of the tumor microenvironment in acute myeloid leukemia.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42524819",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42524819",
+    "id": "caedd8d61bda5921",
+    "title": "Common cystic pancreatic neoplasms: A comprehensive magnetic resonance imaging-based review of typical and atypical imaging features.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42534151",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42534151",
     "source": "pubmed",
-    "publicationName": "Advances in clinical and experimental medicine : official organ Wroclaw Medical University",
-    "journalName": "Advances in clinical and experimental medicine : official organ Wroclaw Medical University",
+    "publicationName": "World journal of radiology",
+    "journalName": "World journal of radiology",
     "publishedAt": "2026-07-28T00:00:00.000Z",
-    "fetchedAt": "2026-07-30T14:56:58.077Z",
-    "snippet": "Acute myeloid leukemia (AML) is a malignancy characterized by abnormal myeloid proliferation. Despite therapeutic advances, relapse is frequent. Understanding the tumor microenvironment (TME), particularly the dysfunction and interactions of natural killer (NK) cells, is essential for improving immunotherapeutic strategies such as chimeric antigen receptor....",
+    "fetchedAt": "2026-07-31T15:10:53.861Z",
+    "snippet": "Pancreatic cystic neoplasms are being identified with increasing frequency, largely because high-resolution cross-sectional imaging is now routinely performed in a wide variety of clinical settings. Among available imaging techniques, magnetic resonance imaging (MRI), especially when combined with magnetic resonance cholangiopancreatography, plays a central...",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
     ],
     "topicBuckets": [
-      "single-cell",
+      "translational medicine",
       "oncology",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 62,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "3163fe0b80fb04ff",
-    "title": "Spatial transcriptomics differences of histopathological growth patterns in colorectal cancer liver metastases.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42521772",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42521772",
-    "source": "pubmed",
-    "publicationName": "British journal of cancer",
-    "journalName": "British journal of cancer",
-    "publishedAt": "2026-07-28T00:00:00.000Z",
-    "fetchedAt": "2026-07-30T14:56:58.077Z",
-    "snippet": "Histopathological growth patterns (HGPs) have emerged as prognostic and predictive biomarkers in colorectal liver metastases (CLM). The desmoplastic/encapsulating HGP (EHGP) is associated with improved survival after surgery, whereas the replacement HGP (RHGP) is associated with poorer outcomes. However, HGPs can only be reliably assessed postoperatively, l...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "spatial"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "3e1b90d09440b7f5",
-    "title": "Paired mutation calling and spatial transcriptomics identify cellular neighborhoods associated with the neoplastic outcome of mouse colitis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42521760",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42521760",
-    "source": "pubmed",
-    "publicationName": "Nature genetics",
-    "journalName": "Nature genetics",
-    "publishedAt": "2026-07-28T00:00:00.000Z",
-    "fetchedAt": "2026-07-30T14:56:58.077Z",
-    "snippet": "In the progression from inflammatory bowel disease to associated cancer, the clonal mutational landscape shifts from selection of mutations in inflammatory genes to selection for cancer-driver mutations. How prevalence and expansion of either type of mutant clones could be impacted by the cellular environments in which they arise and how this affects the ne...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "spatial"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
       "ai"
     ],
     "isNewToday": false,
     "importanceScore": 82,
     "importanceSignals": [
       "recent",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "514a6395de902c2e",
-    "title": "Deciphering CD8T cell exhaustion in human cancers through single-cell and spatial transcriptomics.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42521074",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42521074",
-    "source": "pubmed",
-    "publicationName": "Cancer letters",
-    "journalName": "Cancer letters",
-    "publishedAt": "2026-07-28T00:00:00.000Z",
-    "fetchedAt": "2026-07-30T14:56:58.077Z",
-    "snippet": "Exhausted CD8T cells (Tex) within the tumor microenvironment (TME) represents a critical barrier limiting anti-tumor immune responses. Tex cells are characterized by upregulated inhibitory immune checkpoint receptors, reduced cytotoxicity, and functional heterogeneity. Their genomic features and regulatory networks remain poorly defined, and only a minority...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "single-cell",
-      "spatial"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "ai",
-      "single-cell",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, computational biology",
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
