@@ -1,69 +1,33 @@
 [
   {
-    "id": "24081a709173ebe3",
-    "title": "Phenotype-Oriented Characterization of NSC828786 Identifies Convergent HPN-AMACR-Associated Transcriptomic Signatures in Prostate Adenocarcinoma and Broad-Spectrum Antiproliferative Activity.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42505421",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42505421",
+    "id": "d7f30a8fae05345c",
+    "title": "Systems-Level Mapping of the Tumor Microenvironment Reveals Immune-Mediated Mechanisms and Potential Targets in Platinum-Resistant Ovarian Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42539139",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42539139",
     "source": "pubmed",
-    "publicationName": "Cells",
-    "journalName": "Cells",
+    "publicationName": "Research square",
+    "journalName": "Research square",
     "publishedAt": "2026-07-22T00:00:00.000Z",
-    "fetchedAt": "2026-07-29T15:19:54.730Z",
-    "snippet": "Prostate cancer remains a major cause of cancer-related mortality, and new therapeutic strategies are needed for advanced disease. Niclosamide and related salicylanilide compounds have emerged as multitarget anticancer agents, but the molecular contexts associated with their activity remain incompletely understood. Here, we applied a phenotype-oriented inte...",
+    "fetchedAt": "2026-08-01T14:17:48.526Z",
+    "snippet": "Ovarian cancer remains the most lethal gynecologic cancer, with limited improvements in patient survival despite targeted therapies and a high recurrence rate (~80%). Current standard-of-care for frontline treatment involves platinum-based chemotherapy, but the emergence of resistant clones limits long-term efficacy. Existing models often overlook critical....",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
     ],
     "topicBuckets": [
-      "computational biology",
+      "single-cell",
       "oncology",
+      "immunology",
       "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
+    "importanceScore": 65,
     "importanceSignals": [
       "published this month",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "a8a745ab558e3816",
-    "title": "Cancer-Associated Fibroblast Heterogeneity and Extracellular Matrix Remodeling as Orchestrators of Drug Resistance in Upper Gastrointestinal Cancers: Insights from Spatial Multi-Omics and Therapeutic Implications.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42512419",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42512419",
-    "source": "pubmed",
-    "publicationName": "Cancers",
-    "journalName": "Cancers",
-    "publishedAt": "2026-07-22T00:00:00.000Z",
-    "fetchedAt": "2026-07-29T15:19:54.730Z",
-    "snippet": "Upper gastrointestinal (GI) cancers, including esophageal, gastric, and pancreatic cancers, remain among the most lethal malignancies worldwide, mainly because they resist nearly every therapeutic modality, from platinum-based chemotherapy, and anti-HER2 and anti-VEGF agents, to immune checkpoint inhibitors. Although tumor cell-intrinsic resistance is well....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "spatial"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "ai",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: oncology, computational biology",
+      "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
