@@ -1,33 +1,36 @@
 [
   {
-    "id": "02f95e3d119d617d",
-    "title": "The requirement of MALT1 activity for the growth of adult T cell leukemia/lymphoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42542590",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42542590",
+    "id": "30d9ff31d52c3c27",
+    "title": "Single-cell RNA-seq and spatial transcriptomics characterize CD8exhausted T cells in pancreatic ductal adenocarcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42548877",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42548877",
     "source": "pubmed",
     "publicationName": "iScience",
     "journalName": "iScience",
     "publishedAt": "2026-08-21T00:00:00.000Z",
-    "fetchedAt": "2026-08-02T14:18:57.574Z",
-    "snippet": "Adult T cell leukemia/lymphoma (ATL) is an aggressive T cell malignancy with poor prognosis. Recurrent genetic alterations in T cell receptor (TCR) signaling components, including,, and, highlight the biological relevance of this pathway in ATL. We focused on mucosa-associated lymphoid tissue lymphoma translocation protein 1 (MALT1), a key regulator of TCR....",
+    "fetchedAt": "2026-08-04T15:12:17.360Z",
+    "snippet": "Pancreatic cancer resists immunotherapy due to a suppressive immune microenvironment where CD8T cells play a key role. Using single-cell RNA sequencing and spatial transcriptomics, we characterized CD8exhausted T (Tex) cells in pancreatic ductal adenocarcinoma (PDAC). We generated single-cell profiles from PDAC tumors and matched peripheral blood mononuclea...",
     "tags": [
       "research",
       "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "single-cell",
+      "spatial"
     ],
     "topicBuckets": [
-      "translational medicine",
+      "spatial",
       "oncology",
+      "computational biology",
+      "single-cell",
       "immunology"
     ],
     "isNewToday": false,
     "importanceScore": 82,
     "importanceSignals": [
       "very recent",
-      "priority topic: translational medicine, oncology",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -35,28 +38,29 @@
     "isFeatured": true
   },
   {
-    "id": "1cf85b593d417704",
-    "title": "Dual roles of SBSN in renal cancer progression and tumor thrombus: Cell-autonomous NF-&#x3ba;B-CD44 axis and IFI6-driven paracrine angiogenesis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42542584",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42542584",
+    "id": "69eb47d950775f3a",
+    "title": "Genome-wide CRISPR screen identifies AMBRA1 as a potential biomarker of response to platinum-based therapies in oral squamous cell carcinomas.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42548798",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42548798",
     "source": "pubmed",
     "publicationName": "iScience",
     "journalName": "iScience",
     "publishedAt": "2026-08-21T00:00:00.000Z",
-    "fetchedAt": "2026-08-02T14:18:57.574Z",
-    "snippet": "Renal cell carcinoma (RCC) is highly vascular and prone to venous invasion and tumor thrombus (TT) formation, though its underlying molecular mechanisms remain unclear. In this study, we found suprabasin () was upregulated in RCC and enriched in TT, associated with poor prognosis. SBSN promoted RCC cell proliferation, migration, and invasion via the NF-&#x3...",
+    "fetchedAt": "2026-08-04T15:12:17.360Z",
+    "snippet": "Oral squamous cell carcinomas (OSCCs) are among the most frequent and lethal cancers worldwide. Advanced stage tumors are still treated with standard chemotherapy; however, most patients develop chemotherapy resistance. To uncover new functional biomarkers of cisplatin response, we performed a synthetic lethality genome-wide CRISPR-Cas9 screen in an OSCC ce...",
     "tags": [
       "research",
       "pubmed",
       "Biomarkers in oncology",
       "biomarker",
       "patient stratification",
-      "oncology"
+      "oncology",
+      "crispr"
     ],
     "topicBuckets": [
       "translational medicine",
       "oncology",
-      "ai"
+      "gene therapy"
     ],
     "isNewToday": false,
     "importanceScore": 92,
