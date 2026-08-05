@@ -1,5 +1,72 @@
 [
   {
+    "id": "aae5be5a39b04b30",
+    "title": "A fast numerical integration scheme for clonal expansion processes on graphs.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42550854",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42550854",
+    "source": "pubmed",
+    "publicationName": "PLoS computational biology",
+    "journalName": "PLoS computational biology",
+    "publishedAt": "2026-08-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-05T15:04:07.837Z",
+    "snippet": "Compound birth-death processes are widely used to model the age-incidence curves of many cancers. There are efficient schemes for directly computing the relevant probability distributions in the context of linear multi-stage clonal expansion (MSCE) models. However, these schemes have not been generalised to models on arbitrary graphs, forcing the use of eit...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 72,
+    "importanceSignals": [
+      "recent",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "846e6a5d423a8d2c",
+    "title": "Insights Into Genomic Drivers, Transcriptomic Heterogeneity, and Therapeutic Vulnerabilities From Novel Mesothelioma Cell Lines.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42549783",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42549783",
+    "source": "pubmed",
+    "publicationName": "Thoracic cancer",
+    "journalName": "Thoracic cancer",
+    "publishedAt": "2026-08-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-05T15:04:07.837Z",
+    "snippet": "Pleural mesothelioma (PM) is an aggressive cancer with limited therapeutic options and poor prognosis, necessitating comprehensive model systems for mechanistic studies and drug discovery. Tumor cells were isolated from malignant pleural effusion of PM patients and subjected to primary culture and continuous passaging. Cell lines were successfully establish...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "biotech"
+    ],
+    "isNewToday": false,
+    "importanceScore": 72,
+    "importanceSignals": [
+      "recent",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
     "id": "c5a1edbc6a53dd26",
     "title": "Multi-Omics Profiling Identifies Novel Therapeutic Targets and Pathobiological Mechanisms in Oral Cancer.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42548293",
@@ -8,7 +75,7 @@
     "publicationName": "Journal of cellular and molecular medicine",
     "journalName": "Journal of cellular and molecular medicine",
     "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-04T15:12:17.360Z",
+    "fetchedAt": "2026-08-05T15:04:07.837Z",
     "snippet": "Oral cancer (OC) remains a therapeutic challenge due to limited validated targets. Cis-pQTLs from the deCODE cohort (n&#x2009;=&#x2009;35,559) were harmonized with OC-GWAS (3547 cases and 691,466 controls) meta-data through a two-sample Mendelian randomization (MR) framework. Robust Validation included replication in the UKB-PPP dataset, colocalization anal...",
     "tags": [
       "research",
@@ -42,7 +109,7 @@
     "publicationName": "Journal of cellular biochemistry",
     "journalName": "Journal of cellular biochemistry",
     "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-04T15:12:17.360Z",
+    "fetchedAt": "2026-08-05T15:04:07.837Z",
     "snippet": "Lung cancer remains a major global health challenge, and the oncogenic function of KDM1B (Lysine-specific Demethylase 1B) is still poorly characterized. This study employed integrated bioinformatics and experimental approaches to investigate KDM1B's function in lung cancer. Pan-cancer analysis using databases such as TIMER revealed notably elevated KDM1B mR...",
     "tags": [
       "research",
@@ -68,101 +135,33 @@
     "isFeatured": true
   },
   {
-    "id": "fed6a80a55c42f3e",
-    "title": "A multidisciplinary experimental and methodological investigation of electron and proton minibeams in the framework of the INFN MIRO project.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42547911",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42547911",
+    "id": "00bcff08edc9eb5f",
+    "title": "A five-gene TAM and MYCN signature predicts prognosis and identifies MTHFD2 as a therapeutic target in neuroblastoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42550464",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42550464",
     "source": "pubmed",
-    "publicationName": "Medical physics",
-    "journalName": "Medical physics",
+    "publicationName": "Discover oncology",
+    "journalName": "Discover oncology",
     "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-04T15:12:17.360Z",
-    "snippet": "The clinical translation of Minibeam RT (MBRT) has recently started thanks to the first human treatments recently performed. However, despite experimental evidence, the impact of the dose distribution parameters involved on the magnitude of the effect itself and the underlying radiobiological mechanisms are still only partially understood. To address this i...",
+    "fetchedAt": "2026-08-05T15:04:07.837Z",
+    "snippet": "Tumor-associated macrophages (TAMs) are key components of the tumor immune-suppressive microenvironment. However, studies focusing on the modulation of TAM-specific gene signatures to improve neuroblastoma (NB) prognosis are limited. MYCN amplification (MNA) is known to influence the immune landscape in neuroblastoma. Single-cell sequencing of 19 NB samples...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
     ],
     "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "d58efb8244376338",
-    "title": "Safety and feasibility of oral zinc for patients with-related disorders (ZINCGNAO1): an open-label, single-arm, single-centre, pilot trial in Germany.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42542632",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42542632",
-    "source": "pubmed",
-    "publicationName": "EClinicalMedicine",
-    "journalName": "EClinicalMedicine",
-    "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-04T15:12:17.360Z",
-    "snippet": "-related disorders (-RD), caused by variants inencoding the G&#x3b1;o protein, comprise a broad phenotypic spectrum including movement disorders (MD) and/or epilepsy and are typically associated with developmental delay and intellectual disability. Currently, only symptomatic treatments are available. Zinc can restore guanosine triphosphate hydrolysis and c...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "eea3efbcc7487f7c",
-    "title": "Past achievements and future perspectives of personalized vaccines and the role of dendritic cells.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42541646",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42541646",
-    "source": "pubmed",
-    "publicationName": "Immunologic research",
-    "journalName": "Immunologic research",
-    "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-04T15:12:17.360Z",
-    "snippet": "Personalized vaccines provide the advantage of patient-specific antigen selection to optimize immune responses, a strategy extensively explored in oncology through neoantigen-targeted peptide, mRNA, and dendritic cell platforms. Peptide vaccines provide simplicity and stability though often elicit limited cytotoxic T-cell responses. What is more, mRNA vacci...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
+      "single-cell",
       "oncology",
       "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 72,
+    "importanceScore": 62,
     "importanceSignals": [
       "recent",
-      "priority topic: computational biology, oncology",
+      "priority topic: oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -178,7 +177,7 @@
     "publicationName": "MedComm",
     "journalName": "MedComm",
     "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-04T15:12:17.360Z",
+    "fetchedAt": "2026-08-05T15:04:07.837Z",
     "snippet": "-mutant lung adenocarcinoma (LUAD) is typically associated with an immunosuppressive tumor immune microenvironment (TIME) and poor responses to PD-1 blockade. However, the contribution of drug-tolerant persister cells (DTPs) to immunotherapy resistance remains unclear. We hypothesized that DTPs-derived chemokine (C-C motif) ligand 20 (CCL20) promotes immune...",
     "tags": [
       "research",
@@ -206,76 +205,6 @@
     "isFeatured": true
   },
   {
-    "id": "9d2d1cfa8dbc6fb8",
-    "title": "Citrus Peel Xanthophylls Orchestrate Lipid-Glucose-Inflammation Axis Reprogramming in Cardiometabolic Syndrome: Integrative In Silico and In Vivo Evidence.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42548187",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42548187",
-    "source": "pubmed",
-    "publicationName": "Molecular nutrition & food research",
-    "journalName": "Molecular nutrition & food research",
-    "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-04T15:12:17.360Z",
-    "snippet": "Cardiometabolic syndrome (CMS) involves interconnected dysregulation of lipid, glucose, and inflammatory pathways. Citrus peel, an agro-industrial byproduct, is rich in xanthophylls with potential multitarget effects, yet their integrated mechanisms remain unclear. This study aimed to investigate the mechanistic basis and therapeutic efficacy of a citrus pe...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 72,
-    "importanceSignals": [
-      "recent",
-      "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "1e988e286cf0e14e",
-    "title": "Mouse models of aortic aneurysm and dissection: pathophysiological insights and translational perspectives.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42542243",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42542243",
-    "source": "pubmed",
-    "publicationName": "Journal of advanced research",
-    "journalName": "Journal of advanced research",
-    "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-04T15:12:17.360Z",
-    "snippet": "Aortic aneurysm (AA) and aortic dissection (AD) are catastrophic aortic disorders characterized by progressive structural weakening or acute medial tearing, often resulting in rupture and high mortality. Their complex and heterogeneous pathogenesis-spanning extracellular matrix degradation, vascular smooth muscle cell dysfunction, inflammation, and dysregul...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 72,
-    "importanceSignals": [
-      "recent",
-      "priority topic: gene therapy, translational medicine",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
     "id": "a86eb10b5f5de947",
     "title": "TFE3-DualNet: An Interpretable Foundation Model-Based Deep Learning Ensemble for Diagnosing TFE3-Rearranged Renal Cell Carcinoma From Whole-Slide Images in a Two-Center Cohort.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42543505",
@@ -284,7 +213,7 @@
     "publicationName": "Cancer medicine",
     "journalName": "Cancer medicine",
     "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-04T15:12:17.360Z",
+    "fetchedAt": "2026-08-05T15:04:07.837Z",
     "snippet": "TFE3-rearranged renal cell carcinoma (TFE3-rRCC) is a rare, aggressive subtype that predominantly affects adolescents and young adults. Its marked morphologic heterogeneity can delay recognition and downstream confirmatory testing. We assembled a two-center retrospective cohort of patients <&#x2009;30&#x2009;years with renal cell carcinoma (n&#x2009;=&#x200...",
     "tags": [
       "research",
