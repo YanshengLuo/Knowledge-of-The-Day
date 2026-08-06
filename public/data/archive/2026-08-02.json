@@ -1,37 +1,69 @@
 [
   {
-    "id": "6e2862182ac2f871",
-    "title": "Integrating network toxicology, machine learning, and single-cell sequencing systems to analyze autophagy core genes in lung adenocarcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42542475",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42542475",
+    "id": "f7a8fe0a0623e706",
+    "title": "Targeting a novel metabolic vulnerability of non-small cell lung cancer to fatty acid oxidation surmounts chemoresistance.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42556029",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42556029",
     "source": "pubmed",
-    "publicationName": "Naunyn-Schmiedeberg's archives of pharmacology",
-    "journalName": "Naunyn-Schmiedeberg's archives of pharmacology",
+    "publicationName": "Drug resistance updates : reviews and commentaries in antimicrobial and anticancer chemotherapy",
+    "journalName": "Drug resistance updates : reviews and commentaries in antimicrobial and anticancer chemotherapy",
     "publishedAt": "2026-08-02T00:00:00.000Z",
-    "fetchedAt": "2026-08-04T15:12:17.360Z",
-    "snippet": "The heterogeneity and complex tumor microenvironment of lung adenocarcinoma lead to poor prognosis. Autophagy, as a key cellular process, interacts with tumor immune infiltration and jointly affects the progression of lung adenocarcinoma, but its core regulatory genes and mechanisms are still unclear.This study integrated three lung adenocarcinoma transcrip...",
+    "fetchedAt": "2026-08-06T15:02:17.658Z",
+    "snippet": "Non-small cell lung cancer (NSCLC) patients treated with platinum drugs develop chemoresistance. C/EBP&#x3b2; has alternative translational LAP and LIP isoforms which impact cancer chemoresistance by modulating ABC efflux transporter expression and activity. Differential alternative translation of LAP:LIP reprograms metabolism in murine embryonic fibroblast...",
     "tags": [
       "research",
       "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation",
+      "Single-cell TME",
       "single-cell",
-      "machine learning"
+      "tumor microenvironment"
     ],
     "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai",
+      "single-cell",
       "oncology",
-      "single-cell"
+      "immunology",
+      "translational medicine"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
+    "importanceScore": 72,
     "importanceSignals": [
       "recent",
-      "priority topic: gene therapy, ai",
+      "priority topic: oncology, translational medicine",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "e9224c5d3d98e370",
+    "title": "ITPKB suppresses ER calcium release to promote CXCL9 expression and enhance immunotherapy sensitivity in triple-negative breast cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42556028",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42556028",
+    "source": "pubmed",
+    "publicationName": "Drug resistance updates : reviews and commentaries in antimicrobial and anticancer chemotherapy",
+    "journalName": "Drug resistance updates : reviews and commentaries in antimicrobial and anticancer chemotherapy",
+    "publishedAt": "2026-08-02T00:00:00.000Z",
+    "fetchedAt": "2026-08-06T15:02:17.658Z",
+    "snippet": "Immunotherapeutic strategies for triple-negative breast cancer (TNBC) have yielded only modest response rates, severely limiting patients' clinical outcomes. Clarifying the underlying mechanisms to reverse immunotherapy resistance therefore represents a critical unmet need. In this study, we employed the single-cell RNA sequencing (scRNA-Seq) analysis of hu...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "immunotherapy"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 72,
+    "importanceSignals": [
+      "recent",
+      "priority topic: oncology, translational medicine",
       "high-signal source",
       "rich summary",
       "rich metadata"

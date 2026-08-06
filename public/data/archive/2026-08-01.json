@@ -1,5 +1,39 @@
 [
   {
+    "id": "b589a01034fd7486",
+    "title": "GeneInsight: Condensing gene set knowledge via language models.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42555566",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42555566",
+    "source": "pubmed",
+    "publicationName": "PLoS computational biology",
+    "journalName": "PLoS computational biology",
+    "publishedAt": "2026-08-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-06T15:02:17.658Z",
+    "snippet": "Gene set analysis often returns extensive annotations from multiple sources, requiring manual effort to identify coherent biological themes. We developed GeneInsight, an AI-powered tool that automates this by retrieving functional annotations from STRING-DB, clustering semantically related terms using sentence embeddings, and generating thematic summaries v...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 82,
+    "importanceSignals": [
+      "recent",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
     "id": "aae5be5a39b04b30",
     "title": "A fast numerical integration scheme for clonal expansion processes on graphs.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42550854",
@@ -8,7 +42,7 @@
     "publicationName": "PLoS computational biology",
     "journalName": "PLoS computational biology",
     "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-05T15:04:07.837Z",
+    "fetchedAt": "2026-08-06T15:02:17.658Z",
     "snippet": "Compound birth-death processes are widely used to model the age-incidence curves of many cancers. There are efficient schemes for directly computing the relevant probability distributions in the context of linear multi-stage clonal expansion (MSCE) models. However, these schemes have not been generalised to models on arbitrary graphs, forcing the use of eit...",
     "tags": [
       "research",
@@ -30,7 +64,7 @@
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
+    "isFeatured": false
   },
   {
     "id": "846e6a5d423a8d2c",
@@ -41,7 +75,7 @@
     "publicationName": "Thoracic cancer",
     "journalName": "Thoracic cancer",
     "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-05T15:04:07.837Z",
+    "fetchedAt": "2026-08-06T15:02:17.658Z",
     "snippet": "Pleural mesothelioma (PM) is an aggressive cancer with limited therapeutic options and poor prognosis, necessitating comprehensive model systems for mechanistic studies and drug discovery. Tumor cells were isolated from malignant pleural effusion of PM patients and subjected to primary culture and continuous passaging. Cell lines were successfully establish...",
     "tags": [
       "research",
@@ -67,144 +101,6 @@
     "isFeatured": true
   },
   {
-    "id": "c5a1edbc6a53dd26",
-    "title": "Multi-Omics Profiling Identifies Novel Therapeutic Targets and Pathobiological Mechanisms in Oral Cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42548293",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42548293",
-    "source": "pubmed",
-    "publicationName": "Journal of cellular and molecular medicine",
-    "journalName": "Journal of cellular and molecular medicine",
-    "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-05T15:04:07.837Z",
-    "snippet": "Oral cancer (OC) remains a therapeutic challenge due to limited validated targets. Cis-pQTLs from the deCODE cohort (n&#x2009;=&#x2009;35,559) were harmonized with OC-GWAS (3547 cases and 691,466 controls) meta-data through a two-sample Mendelian randomization (MR) framework. Robust Validation included replication in the UKB-PPP dataset, colocalization anal...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "7841eadad72ad0d1",
-    "title": "Integrated Bioinformatic and Experimental Analysis Reveals the Molecular Mechanisms Underlying KDM1B/LSD2 Inhibition as a Therapeutic Strategy in Human Lung Adenocarcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42548171",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42548171",
-    "source": "pubmed",
-    "publicationName": "Journal of cellular biochemistry",
-    "journalName": "Journal of cellular biochemistry",
-    "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-05T15:04:07.837Z",
-    "snippet": "Lung cancer remains a major global health challenge, and the oncogenic function of KDM1B (Lysine-specific Demethylase 1B) is still poorly characterized. This study employed integrated bioinformatics and experimental approaches to investigate KDM1B's function in lung cancer. Pan-cancer analysis using databases such as TIMER revealed notably elevated KDM1B mR...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "00bcff08edc9eb5f",
-    "title": "A five-gene TAM and MYCN signature predicts prognosis and identifies MTHFD2 as a therapeutic target in neuroblastoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42550464",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42550464",
-    "source": "pubmed",
-    "publicationName": "Discover oncology",
-    "journalName": "Discover oncology",
-    "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-05T15:04:07.837Z",
-    "snippet": "Tumor-associated macrophages (TAMs) are key components of the tumor immune-suppressive microenvironment. However, studies focusing on the modulation of TAM-specific gene signatures to improve neuroblastoma (NB) prognosis are limited. MYCN amplification (MNA) is known to influence the immune landscape in neuroblastoma. Single-cell sequencing of 19 NB samples...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 62,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "81b2b10f927a5d49",
-    "title": "CCL20 Released by Drug-Tolerant Persisters Impairs Immunotherapy inMutant Lung Adenocarcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42549034",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42549034",
-    "source": "pubmed",
-    "publicationName": "MedComm",
-    "journalName": "MedComm",
-    "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-05T15:04:07.837Z",
-    "snippet": "-mutant lung adenocarcinoma (LUAD) is typically associated with an immunosuppressive tumor immune microenvironment (TIME) and poor responses to PD-1 blockade. However, the contribution of drug-tolerant persister cells (DTPs) to immunotherapy resistance remains unclear. We hypothesized that DTPs-derived chemokine (C-C motif) ligand 20 (CCL20) promotes immune...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "immunotherapy"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 72,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
     "id": "a86eb10b5f5de947",
     "title": "TFE3-DualNet: An Interpretable Foundation Model-Based Deep Learning Ensemble for Diagnosing TFE3-Rearranged Renal Cell Carcinoma From Whole-Slide Images in a Two-Center Cohort.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42543505",
@@ -213,7 +109,7 @@
     "publicationName": "Cancer medicine",
     "journalName": "Cancer medicine",
     "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-05T15:04:07.837Z",
+    "fetchedAt": "2026-08-06T15:02:17.658Z",
     "snippet": "TFE3-rearranged renal cell carcinoma (TFE3-rRCC) is a rare, aggressive subtype that predominantly affects adolescents and young adults. Its marked morphologic heterogeneity can delay recognition and downstream confirmatory testing. We assembled a two-center retrospective cohort of patients <&#x2009;30&#x2009;years with renal cell carcinoma (n&#x2009;=&#x200...",
     "tags": [
       "research",
