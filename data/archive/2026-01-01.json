@@ -1,15 +1,57 @@
 [
   {
-    "id": "5cb9d6d21448dedb",
-    "title": "Monitoring radiation exposure through skin swab multi-omic profiling.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42555569",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42555569",
+    "id": "40986f0611fdf90c",
+    "title": "Artificial intelligence driven exposome and multi omics integration for biomarker discovery in liver cancer: a literature review.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42564290",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42564290",
     "source": "pubmed",
-    "publicationName": "PloS one",
-    "journalName": "PloS one",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-06T15:02:17.658Z",
-    "snippet": "Exposure to ionizing radiation poses major health risks across medical, occupational, and spaceflight settings, driving the need for rapid, non-invasive biodosimetry tools. As the body's most accessible organ and the most frequent site of radiation injury, the skin represents a promising interface for monitoring exposure. Using colonized human skin equivale...",
+    "fetchedAt": "2026-08-07T14:02:03.240Z",
+    "snippet": "Primary liver cancer is a major global cause of cancer death, and hepatocellular carcinoma (HCC) is the predominant histological subtype. This literature review synthesizes current evidence on the exposome, multi-omics landscape, and artificial intelligence (AI)-based integration strategies relevant to biomarker discovery in liver cancer, with a focus on bi...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "biomarker",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "Biomarkers in oncology",
+      "patient stratification"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "translational medicine",
+      "single-cell",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 68,
+    "isFeatured": true
+  },
+  {
+    "id": "d8b5bdfc3d14aba8",
+    "title": "Integrated cellular, proteomic and metabolomic profiling of immune-related adverse events in non-small cell lung cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42564206",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42564206",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-07T14:02:03.240Z",
+    "snippet": "Immune checkpoint inhibitor (ICI) therapy has become standard of care for late stage non-small cell lung cancer (NSCLC), producing durable responses in a subset of patients. However, inflammatory side eKects termed immune-related adverse events (irAEs) occur in up to 40% of ICI-treated NSCLC patients. Current approaches to alleviate irAEs include treatment....",
     "tags": [
       "research",
       "pubmed",
@@ -19,7 +61,8 @@
     ],
     "topicBuckets": [
       "computational biology",
-      "oncology"
+      "oncology",
+      "immunology"
     ],
     "isNewToday": false,
     "importanceScore": 58,
@@ -29,31 +72,64 @@
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
+    "isFeatured": false
   },
   {
-    "id": "f8d4218ed8d683a5",
-    "title": "Metabolomics Reveals Potential Biomarkers for Early Detection of irAEs in ICI-Treated Patients.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42553638",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42553638",
+    "id": "145f7b4e61f22d44",
+    "title": "Uncovering the molecular landscape of young-onset diffuse gastric cancer: A relieff-based feature selection analysis on RNA-Seq data.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42561036",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42561036",
     "source": "pubmed",
-    "publicationName": "Drug design, development and therapy",
-    "journalName": "Drug design, development and therapy",
+    "publicationName": "PloS one",
+    "journalName": "PloS one",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-06T15:02:17.658Z",
-    "snippet": "To identify predictive metabolic biomarkers for immune-related adverse events (irAEs) in cancer patients treated with immune checkpoint inhibitors (ICIs) using metabolomics, supporting early detection and intervention. Fifty-five ICI-treated cancer patients from Changxing People's Hospital were divided into irAEs-positive (34 cases) and irAEs-negative (21 c...",
+    "fetchedAt": "2026-08-07T14:02:03.240Z",
+    "snippet": "Diffuse Gastric Cancer (DGC) is an aggressive subtype with a poor prognosis and a lack of specific biomarkers, representing a critical unmet need in oncology. This study aimed to elucidate the key molecular drivers of DGC by integrating RNA-seq data with a multi-faceted bioinformatics approach. We analyzed RNA-seq data from young-onset DGC and normal tissue...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
-      "oncology",
-      "biomarker"
+      "oncology"
     ],
     "topicBuckets": [
       "computational biology",
       "oncology",
-      "translational medicine",
+      "ai",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "9e03ee06a3e451ad",
+    "title": "Structural Genomics Defines PBRM1 Bromodomain Variant Function in ccRCC.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42559237",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42559237",
+    "source": "pubmed",
+    "publicationName": "Human mutation",
+    "journalName": "Human mutation",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-07T14:02:03.240Z",
+    "snippet": "Polybromo-1 (PBRM1) modulates chromatin accessibility and transcription via six bromodomains that bind acetyl-lysine residues on nuclear proteins. PBRM1 variants exist in ~40% of clear cell renal cell carcinoma (ccRCC) cases. PBRM1 loss correlates with improved responses to antiangiogenics and immune checkpoint blockade, which are the standard of care for c...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
       "immunology"
     ],
     "isNewToday": false,
@@ -67,48 +143,89 @@
     "isFeatured": true
   },
   {
-    "id": "977dbb3a09bed238",
-    "title": "From stasis to systematics: deciphering the pathophysiology of secondary lymphedema through omics.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42548736",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42548736",
+    "id": "717a54bde03f6af5",
+    "title": "DUSP5 contributes to platinum resistance in ovarian cancer: single-cell discovery and functional validation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42564493",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42564493",
+    "source": "pubmed",
+    "publicationName": "Frontiers in pharmacology",
+    "journalName": "Frontiers in pharmacology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-07T14:02:03.240Z",
+    "snippet": "Platinum-based chemotherapy remains the cornerstone of ovarian cancer treatment, yet acquired resistance severely limits efficacy. Because platinum agents can also influence immunogenic cell death and tumor microenvironment (TME) remodeling, clarifying cellular pharmacological mechanisms of sensitivity and resistance within the ovarian cancer tumor ecosyste...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai",
+      "computational biology",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 68,
+    "isFeatured": true
+  },
+  {
+    "id": "ad2ad03c0e563678",
+    "title": "A single-cell sequencing-based prognostic model reveals HLA-DRA, NPC2, and PRPF38B as immune-regulatory tumor suppressors in non-small cell lung cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42564225",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42564225",
+    "source": "pubmed",
+    "publicationName": "Frontiers in cell and developmental biology",
+    "journalName": "Frontiers in cell and developmental biology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-07T14:02:03.240Z",
+    "snippet": "Non-small cell lung cancer (NSCLC) is the most common lung cancer subtype and a leading cause of cancer-related mortality due to asymptomatic early stages and poor 5-year survival, and tumor-infiltrating lymphocytes (TILs) play a pivotal but poorly defined role in NSCLC progression and prognosis within the tumor microenvironment (TME). We analyzed single-ce...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 48,
+    "importanceSignals": [
+      "priority topic: oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "9ede8ca35eb9f407",
+    "title": "TGFBI in tumors and the tumor immune microenvironment: functional roles, mechanisms, and therapeutic targeting.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42564173",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42564173",
     "source": "pubmed",
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-06T15:02:17.658Z",
-    "snippet": "Secondary lymphedema (LE) can ensue after disruption of lymphatic vasculature, which may be caused by infection, surgery, or cancer treatment. Omics technologies can move the field beyond an anatomic description of lymphatic stasis by defining inflammatory, fibrotic, metabolic, lymphatic vascular, and genetic susceptibility programs that shape disease onset...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "53c903b7a4ae86a5",
-    "title": "A Platform-Independent Binary Gene-Pair Signature Derived from CRPC-Enriched Single-Cell Transcriptomics for Predicting Recurrence-Free Survival in Prostate Cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42553741",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42553741",
-    "source": "pubmed",
-    "publicationName": "Cancer management and research",
-    "journalName": "Cancer management and research",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-06T15:02:17.658Z",
-    "snippet": "Recurrence-free survival (RFS) following radical prostatectomy is a pivotal measure of therapeutic success in prostate cancer (PCa), yet conventional clinicopathological tools offer limited discriminative accuracy. We sought to construct a platform-independent prognostic signature to predict RFS by capturing early molecular traces of advanced disease potent...",
+    "fetchedAt": "2026-08-07T14:02:03.240Z",
+    "snippet": "TGFBI in tumors, providing a comprehensive theoretical foundation for developing TGFBI-based precision diagnosis and treatment. Transforming growth factor-beta-induced protein (TGFBI) is a secreted extracellular matrix protein involved in various physiological and pathological processes. Its multiple roles in tumorigenesis and the remodeling of the tumor im...",
     "tags": [
       "research",
       "pubmed",
@@ -120,134 +237,64 @@
       "single-cell",
       "oncology",
       "immunology",
-      "ai",
       "computational biology"
     ],
     "isNewToday": false,
-    "importanceScore": 68,
+    "importanceScore": 58,
     "importanceSignals": [
-      "priority topic: oncology, ai",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
+    "isFeatured": false
   },
   {
-    "id": "cf94a84bae0467de",
-    "title": "Targeting the AHR-IDO1-kynurenine pathway in TREM2macrophages restores antitumor immunity in thyroid cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42553364",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42553364",
+    "id": "d1038751f9240060",
+    "title": "Combination antagonism of TNF superfamily signaling for T cell immunosuppression.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42564165",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42564165",
     "source": "pubmed",
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-06T15:02:17.658Z",
-    "snippet": "Advances in single-cell technologies have provided detailed insight into cellular heterogeneity within tumor microenvironments. However, the regulatory mechanisms driving macrophage-mediated immune suppression in thyroid cancer remain incompletely understood. We applied integrated single-cell multi-omics approaches to tumor samples from patients and murine....",
+    "fetchedAt": "2026-08-07T14:02:03.240Z",
+    "snippet": "The tumor necrosis factor (TNF) and TNF receptor (TNFR) superfamilies comprise 47 proteins that regulate immune signaling and T cell costimulation. While TNF inhibitors are established therapies for immune-mediated inflammatory diseases (IMIDs), their efficacy is limited by primary non-response and secondary loss of efficacy. Preclinical data suggest that t...",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
     ],
     "topicBuckets": [
-      "single-cell",
-      "oncology",
+      "gene therapy",
       "immunology",
-      "ai",
-      "computational biology"
+      "oncology",
+      "translational medicine"
     ],
     "isNewToday": false,
     "importanceScore": 68,
     "importanceSignals": [
-      "priority topic: oncology, ai",
+      "priority topic: gene therapy, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
+    "isFeatured": false
   },
   {
-    "id": "acab105039bf744a",
-    "title": "ORC6 marks a replication-active malignant epithelial state and is associated with immune-low features in oral squamous cell carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42553170",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42553170",
+    "id": "2f21d0df8108c5b2",
+    "title": "Guazuma ulmifolia butanol extract protects against cadmium-induced hepatotoxicity via HO-1/Sirt-1 activation, miRNA-lncRNA modulation, and metabolic reprogramming.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42560997",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42560997",
     "source": "pubmed",
-    "publicationName": "Frontiers in oncology",
-    "journalName": "Frontiers in oncology",
+    "publicationName": "PloS one",
+    "journalName": "PloS one",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-06T15:02:17.658Z",
-    "snippet": "Oral squamous cell carcinoma (OSCC) shows marked biological heterogeneity, but markers that connect malignant epithelial states with the tumor immune context remain limited. Origin recognition complex subunit 6 (ORC6) participates in DNA replication licensing, but its disease-specific role in OSCC is not well defined. We integrated anatomically filtered bul...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "14d9b72a3a3c1ad7",
-    "title": "Lipid metabolic plasticity in glioblastoma: mechanisms, tumor microenvironment remodeling, and therapeutic opportunities.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42553060",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42553060",
-    "source": "pubmed",
-    "publicationName": "Frontiers in oncology",
-    "journalName": "Frontiers in oncology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-06T15:02:17.658Z",
-    "snippet": "Glioblastoma (GBM) is the most aggressive primary brain tumor and remains associated with poor prognosis despite multimodal treatment. Increasing evidence indicates that lipid metabolic reprogramming is a critical hallmark of GBM progression and therapeutic resistance. Beyond supporting membrane biosynthesis and energy production, dysregulated lipid metabol...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "computational biology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "d70ec18299fe125a",
-    "title": "Hip Osteoarthritis and the Human Microbiome: Current Concepts, Biological Insights and Future Directions.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42553854",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42553854",
-    "source": "pubmed",
-    "publicationName": "Orthopedic reviews",
-    "journalName": "Orthopedic reviews",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-06T15:02:17.658Z",
-    "snippet": "Osteoarthritis (OA) is among the leading causes of disability worldwide, yet its pathogenesis remains incompletely understood. Once considered a \"non-inflammatory\" degenerative disorder, OA is now recognized as a condition driven by chronic low-grade inflammation. Emerging evidence implicates gut dysbiosis as a modifiable risk factor, promoting systemic inf...",
+    "fetchedAt": "2026-08-07T14:02:03.240Z",
+    "snippet": "Guazuma ulmifolia is traditionally used for liver disorders, but its protective mechanisms against heavy metal toxicity are poorly defined. This study evaluated the phytochemical profile and hepatoprotective mechanisms of G. ulmifolia butanol extract (Gul-BuOH) against cadmium-induced liver injury. Gul-BuOH was chemically profiled by UPLC-PDA-ESI-qTOF-MS/MS...",
     "tags": [
       "research",
       "pubmed",
@@ -272,23 +319,129 @@
     "isFeatured": true
   },
   {
-    "id": "b3bde9062f16a049",
-    "title": "Spatially localized immune metaprograms reveal micro-niche organization in the human Dorsal Root Ganglion.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42546053",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42546053",
+    "id": "1bf0fb24552ad07e",
+    "title": "Programmable transcriptional condensates for enhanced CRISPR-based gene regulation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42559426",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42559426",
     "source": "pubmed",
-    "publicationName": "PloS one",
-    "journalName": "PloS one",
+    "publicationName": "Theranostics",
+    "journalName": "Theranostics",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-06T15:02:17.658Z",
-    "snippet": "Dorsal root ganglion (DRG)-targeted local interventions are widely used in pain management; however, the cellular and spatial organization of immune transcriptional states within human DRG tissue remains poorly defined. In particular, it is unclear whether DRG immune activity reflects a single dominant inflammatory axis or a spatially heterogeneous microenv...",
+    "fetchedAt": "2026-08-07T14:02:03.240Z",
+    "snippet": "Efficient gene activation or repression through programmable CRISPR-Cas9 has revolutionized molecular biology and drug development. Nonetheless, the currently available CRISPRa/i approaches are modestly potent and require multi-component delivery, which hampers the wide use of the technology in both research and therapy. We developed a modular CRISPR-conden...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation",
+      "crispr"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "8c1bcfbe826a884d",
+    "title": "Profiling miRNA in salivary samples from subjects with endometriosis: a pilot study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42559046",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42559046",
+    "source": "pubmed",
+    "publicationName": "Frontiers in molecular biosciences",
+    "journalName": "Frontiers in molecular biosciences",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-07T14:02:03.240Z",
+    "snippet": "Endometriosis is a common, chronic, estrogen-dependent gynecological disorder characterized by the growth of endometrial-like tissue outside the uterus and frequently associated with pelvic pain and infertility. Despite its high prevalence, the molecular mechanisms underlying lesion persistence and inflammation remain poorly understood, limiting the develop...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "2866ce217f3c425b",
+    "title": "Integrated single-cell and spatial transcriptomic analyses identify TRIP6 as a prognostic and EMT-associated biomarker in colorectal cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42558886",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42558886",
+    "source": "pubmed",
+    "publicationName": "Frontiers in cell and developmental biology",
+    "journalName": "Frontiers in cell and developmental biology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-07T14:02:03.240Z",
+    "snippet": "Colorectal cancer (CRC) is characterized by profound molecular heterogeneity and complex tumor-microenvironment interactions, which contribute to invasion, metastasis, and variable clinical outcomes. More effective prognostic biomarkers and therapeutic targets are still needed. We integrated single-cell RNA sequencing, spatial transcriptomics, multi-cohort....",
     "tags": [
       "research",
       "pubmed",
       "Spatial oncology",
       "spatial transcriptomics",
       "cancer",
+      "biomarker",
+      "single-cell",
       "spatial"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "single-cell",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "5d1681b5ebe37a80",
+    "title": "Therapy-imprinted fibroblast memory in cholangiocarcinoma: rewiring CAF niches for immune evasion and treatment-resistant relapse.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42558642",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42558642",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-07T14:02:03.240Z",
+    "snippet": "Cholangiocarcinoma (CCA) is a highly desmoplastic biliary malignancy in which durable benefit from chemotherapy, immune checkpoint blockade, targeted therapy and local treatment remains limited for many patients. Cancer-associated fibroblasts (CAFs) are increasingly recognized as dynamic regulators of immune escape and therapeutic resistance rather than pas...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
     ],
     "topicBuckets": [
       "spatial",
@@ -301,6 +454,348 @@
     "importanceScore": 68,
     "importanceSignals": [
       "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "b6e7e6185eef7ffa",
+    "title": "From mechanistic models to artificial intelligence: exploring the potential of digital twins in geriatric oncology.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42564457",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42564457",
+    "source": "pubmed",
+    "publicationName": "Frontiers in artificial intelligence",
+    "journalName": "Frontiers in artificial intelligence",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-07T14:02:03.240Z",
+    "snippet": "This survey explores how machine learning and artificial intelligence (AI) can be integrated with mechanistic models to create more accurate, dynamic, predictive, and personalized representations of biological systems, commonly referred to as digital twins (DTs). Mechanistic models, such as pathway-based Boolean or differential equation frameworks, provide....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "dea7ffd11479ae56",
+    "title": "Immunosenescence in prostate cancer: from aging-related immune dysfunction to therapeutic opportunities.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42564315",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42564315",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-07T14:02:03.240Z",
+    "snippet": "Prostate cancer is a typical age-associated malignancy, and increasing evidence suggests that age-related immune alterations play an important role in its initiation, progression, and therapeutic response. Immunosenescence, characterized by impaired immune surveillance, reduced effector-cell function, contraction of the na&#xef;ve T-cell repertoire, and per...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "128234f43add1ed4",
+    "title": "Baseline systemic immune-inflammation index and a novel FLIPI-SII model predict POD24 and long-term survival in grade 1-3a follicular lymphoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42564252",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42564252",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-07T14:02:03.240Z",
+    "snippet": "Follicular lymphoma (FL) exhibits substantial clinical heterogeneity, and progression of disease within 24 months (POD24) represents a critical adverse clinical endpoint. Traditional prognostic models rely predominantly on tumor-related parameters and overlook systemic immune-inflammatory status. The newly established FLIPI24 index emphasizes peripheral blo...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "90c563816d1fa7bd",
+    "title": "Clinical characteristics and risk factors of acute cutaneous graft-vs.-host disease following allogeneic hematopoietic stem cell transplantation in pediatric acute myeloid leukemia: a single-center retrospective study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42564211",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42564211",
+    "source": "pubmed",
+    "publicationName": "Frontiers in pediatrics",
+    "journalName": "Frontiers in pediatrics",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-07T14:02:03.240Z",
+    "snippet": "To analyze clinical characteristics and risk factors of acute cutaneous graft-vs.-host disease (GVHD) in pediatric acute myeloid leukemia (AML) patients undergoing allogeneic hematopoietic stem cell transplantation (allo-HSCT), providing evidence for clinical risk stratification and individualized prophylaxis. A retrospective cohort study included pediatric...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "c39f6e24545e8a75",
+    "title": "Targeting the deubiquitinase USP28 in cancer: navigating context-dependent mechanisms and therapeutic resistance.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42564203",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42564203",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-07T14:02:03.240Z",
+    "snippet": "Ubiquitin-specific protease 28 (USP28) is a deubiquitinating enzyme initially identified as a regulator that stabilizes p53 and c-MYC in response to DNA damage stress. Beyond its role in maintaining genomic integrity and cell cycle checkpoints, USP28 is implicated in diverse pathological processes. In various solid tumors, including lung, pancreatic, ovaria...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "5219c2635d26ff94",
+    "title": "Microbiome as a prediction of immunotherapy response in lung cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42564172",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42564172",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-07T14:02:03.240Z",
+    "snippet": "Immune checkpoint inhibitors (ICIs) have revolutionized the treatment of lung cancer (LC), offering durable responses in non-small cell lung cancer (NSCLC) and, to a lesser extent, small cell lung cancer (SCLC). Nevertheless, clinical outcomes remain highly heterogeneous, with many patients experiencing primary or acquired resistance and/or immune-related a...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology",
+      "immunotherapy"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "91dbe48d68a54936",
+    "title": "Metabolic control of ferroptosis in cancer: lipid dependencies as therapeutic vulnerabilities.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42564157",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42564157",
+    "source": "pubmed",
+    "publicationName": "Frontiers in oncology",
+    "journalName": "Frontiers in oncology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-07T14:02:03.240Z",
+    "snippet": "Ferroptosis is an iron-dependent form of regulated cell death driven by the accumulation of peroxidized phospholipids in cellular membranes. In cancer, susceptibility to ferroptosis is not fixed but instead reflects a dynamic metabolic state shaped by lipid remodeling programs that determine membrane composition, oxidative liability, and the capacity to det...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "computational biology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "de038248492af9e2",
+    "title": "Tumoral immune microenvironment profiling in B-cell non-Hodgkin lymphoma stratifies patients in different prognostic groups.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42564153",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42564153",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-07T14:02:03.240Z",
+    "snippet": "Non-Hodgkin lymphomas (NHL) represent a heterogeneous group of B-cell-derived malignancies. Previous studies showed that tumor immune microenvironment (TIM) components are associated with tumor development and progression. Furthermore, recent transcriptomic analyses revealed that TIM status can stratify patients into distinct prognostic groups; however, the...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "bf62dd68f608bec0",
+    "title": "Development and validation of QuadraSynth ML: a novel classifier for sepsis prediction.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42564150",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42564150",
+    "source": "pubmed",
+    "publicationName": "Frontiers in cellular and infection microbiology",
+    "journalName": "Frontiers in cellular and infection microbiology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-07T14:02:03.240Z",
+    "snippet": "Sepsis, a common lethal complication of post-trauma, hinges on early detection and diagnosis for effective treatment. The involvement of RalA in regulating inflammatory diseases has been noted, yet its specific relationship with sepsis remains unclear. This study aimed to identify specific biomarkers for post-traumatic sepsis by developing a composite early...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "30323d5f501b2a1c",
+    "title": "Association between prognostic nutritional index and prognosis in non-small cell lung cancer patients receiving PD-1/PD-L1 inhibitors: a meta-analysis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42564097",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42564097",
+    "source": "pubmed",
+    "publicationName": "Frontiers in nutrition",
+    "journalName": "Frontiers in nutrition",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-07T14:02:03.240Z",
+    "snippet": "This study aimed to comprehensively evaluate the predictive value of prognostic nutritional index (PNI) for long-term survival in non-small cell lung cancer (NSCLC) patients treated with programmed death receptor-1 and its ligand (PD-1/PD-L1) inhibitors through systematic review and meta-analysis. A systematic search was conducted in PubMed, Embase, Web of....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"

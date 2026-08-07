@@ -1,49 +1,15 @@
 [
   {
-    "id": "b589a01034fd7486",
-    "title": "GeneInsight: Condensing gene set knowledge via language models.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42555566",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42555566",
+    "id": "153cdbfc44f567cd",
+    "title": "Stochastic modeling of long-legged ant A. gracilipes locomotion in laboratory experiments.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42560972",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42560972",
     "source": "pubmed",
     "publicationName": "PLoS computational biology",
     "journalName": "PLoS computational biology",
     "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-06T15:02:17.658Z",
-    "snippet": "Gene set analysis often returns extensive annotations from multiple sources, requiring manual effort to identify coherent biological themes. We developed GeneInsight, an AI-powered tool that automates this by retrieving functional annotations from STRING-DB, clustering semantically related terms using sentence embeddings, and generating thematic summaries v...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "aae5be5a39b04b30",
-    "title": "A fast numerical integration scheme for clonal expansion processes on graphs.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42550854",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42550854",
-    "source": "pubmed",
-    "publicationName": "PLoS computational biology",
-    "journalName": "PLoS computational biology",
-    "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-06T15:02:17.658Z",
-    "snippet": "Compound birth-death processes are widely used to model the age-incidence curves of many cancers. There are efficient schemes for directly computing the relevant probability distributions in the context of linear multi-stage clonal expansion (MSCE) models. However, these schemes have not been generalised to models on arbitrary graphs, forcing the use of eit...",
+    "fetchedAt": "2026-08-07T14:02:03.240Z",
+    "snippet": "Stochastic modeling of movement behavior provides a valuable way to understand how complex motion can be generated from relatively simple building blocks. Ants demonstrate sophisticated social behavior ranging from foraging to nest relocation; while emphasis is often placed on the communication methods used to synchronize individuals, the movement paradigms...",
     "tags": [
       "research",
       "pubmed",
@@ -64,30 +30,31 @@
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": false
+    "isFeatured": true
   },
   {
-    "id": "846e6a5d423a8d2c",
-    "title": "Insights Into Genomic Drivers, Transcriptomic Heterogeneity, and Therapeutic Vulnerabilities From Novel Mesothelioma Cell Lines.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42549783",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42549783",
+    "id": "39a6177beeec44b2",
+    "title": "ScanNet: Single-cell annotation informed by transcriptional regulation Network via iterative heterogeneous graph learning.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42560939",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42560939",
     "source": "pubmed",
-    "publicationName": "Thoracic cancer",
-    "journalName": "Thoracic cancer",
+    "publicationName": "PLoS computational biology",
+    "journalName": "PLoS computational biology",
     "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-06T15:02:17.658Z",
-    "snippet": "Pleural mesothelioma (PM) is an aggressive cancer with limited therapeutic options and poor prognosis, necessitating comprehensive model systems for mechanistic studies and drug discovery. Tumor cells were isolated from malignant pleural effusion of PM patients and subjected to primary culture and continuous passaging. Cell lines were successfully establish...",
+    "fetchedAt": "2026-08-07T14:02:03.240Z",
+    "snippet": "Accurate annotation of cell types in single-cell transcriptome sequencing (scRNA-seq) data is critical for understanding cellular identities. The transcriptional regulatory networks (TRNs), which map the regulatory relationships between transcription factors (TFs) and their target genes (TGs), capture the molecular dependencies underlying transcriptional pr...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
-      "oncology"
+      "oncology",
+      "single-cell"
     ],
     "topicBuckets": [
       "computational biology",
       "oncology",
-      "biotech"
+      "single-cell"
     ],
     "isNewToday": false,
     "importanceScore": 72,
@@ -101,34 +68,67 @@
     "isFeatured": true
   },
   {
-    "id": "a86eb10b5f5de947",
-    "title": "TFE3-DualNet: An Interpretable Foundation Model-Based Deep Learning Ensemble for Diagnosing TFE3-Rearranged Renal Cell Carcinoma From Whole-Slide Images in a Two-Center Cohort.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42543505",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42543505",
+    "id": "71367fd7b843fc71",
+    "title": "SLC7A5 promotes colorectal cancer liver metastasis by reprogramming tryptophan metabolism through the Kyn/XANA&#x2012;AhR axis and reshaping the immune microenvironment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42563490",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42563490",
     "source": "pubmed",
-    "publicationName": "Cancer medicine",
-    "journalName": "Cancer medicine",
+    "publicationName": "Clinical and translational medicine",
+    "journalName": "Clinical and translational medicine",
     "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-06T15:02:17.658Z",
-    "snippet": "TFE3-rearranged renal cell carcinoma (TFE3-rRCC) is a rare, aggressive subtype that predominantly affects adolescents and young adults. Its marked morphologic heterogeneity can delay recognition and downstream confirmatory testing. We assembled a two-center retrospective cohort of patients <&#x2009;30&#x2009;years with renal cell carcinoma (n&#x2009;=&#x200...",
+    "fetchedAt": "2026-08-07T14:02:03.240Z",
+    "snippet": "Colorectal cancer (CRC) is a leading cause of cancer-related death and is associated with high recurrence rates. Solute carrier family 7 member 5 (SLC7A5), a core transporter that facilitates the transmembrane movement of tryptophan, plays a role in various cancers. However, whether and how SLC7A5 promotes colorectal liver metastasis (CRLM) through tryptoph...",
     "tags": [
       "research",
       "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
     ],
     "topicBuckets": [
-      "spatial",
+      "single-cell",
       "oncology",
-      "computational biology",
-      "ai"
+      "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
+    "importanceScore": 62,
     "importanceSignals": [
       "recent",
-      "priority topic: oncology, computational biology",
+      "priority topic: oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "78227e22567d6f77",
+    "title": "Targeting of Pentraxin 3 Alleviated Cardiac Hypertrophy in Mice Induced by Angiotensin II.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42563396",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42563396",
+    "source": "pubmed",
+    "publicationName": "Clinical and experimental pharmacology & physiology",
+    "journalName": "Clinical and experimental pharmacology & physiology",
+    "publishedAt": "2026-08-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-07T14:02:03.240Z",
+    "snippet": "Pentraxin 3 (PTX3) responds rapidly to inflammatory signals. This study investigated the functional involvement of PTX3 in angiotensin II (Ang II)-mediated cardiac hypertrophy pathogenesis, with particular focus on its potential regulation through inflammatory pathways and oxidative stress mechanisms. In&#xa0;vivo, chronic Ang II infusion over 4&#x2009;week...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 62,
+    "importanceSignals": [
+      "recent",
+      "priority topic: gene therapy",
       "high-signal source",
       "rich summary",
       "rich metadata"
