@@ -1,5 +1,38 @@
 [
   {
+    "id": "c8d402f0d0bacea1",
+    "title": "Circular RNAs in cervical cancer: from ceRNA networks to epitranscriptomic regulation, immune modulation, and metastatic reprogramming.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42568545",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42568545",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-09T13:38:35.191Z",
+    "snippet": "Cervical cancer progression is driven not only by persistent high-risk human papillomavirus infection but also by multilayered post-transcriptional regulatory networks that reshape tumor cell behavior and the tumor microenvironment. Among these regulators, circular RNAs (circRNAs) have emerged as pivotal modulators of oncogenic signaling. Initially characte...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
     "id": "600287d0182f84e1",
     "title": "Automatic coarse-to-fine AC-PC localization on CT using registration-guided 3D-UNets.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42564896",
@@ -8,7 +41,7 @@
     "publicationName": "Frontiers in neuroinformatics",
     "journalName": "Frontiers in neuroinformatics",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-08T13:35:03.404Z",
+    "fetchedAt": "2026-08-09T13:38:35.191Z",
     "snippet": "Automatically localizing the Anterior Commissure (AC) and Posterior Commissure (PC) is foundational for CT-based algorithmic disease screening, yet robust computational methods for this on CT remain lacking. We developed a registration-guided 3D-UNet framework for CT-based AC-PC localization, demonstrating its utility in computing ventriculomegaly features....",
     "tags": [
       "research",
@@ -41,7 +74,7 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-08T13:35:03.404Z",
+    "fetchedAt": "2026-08-09T13:38:35.191Z",
     "snippet": "Primary liver cancer is a major global cause of cancer death, and hepatocellular carcinoma (HCC) is the predominant histological subtype. This literature review synthesizes current evidence on the exposome, multi-omics landscape, and artificial intelligence (AI)-based integration strategies relevant to biomarker discovery in liver cancer, with a focus on bi...",
     "tags": [
       "research",
@@ -49,27 +82,22 @@
       "Computational oncology",
       "computational biology",
       "oncology",
-      "biomarker",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
+      "biomarker"
     ],
     "topicBuckets": [
       "computational biology",
       "oncology",
       "ai",
-      "translational medicine",
-      "single-cell",
-      "immunology"
+      "translational medicine"
     ],
     "isNewToday": false,
+    "importanceScore": 68,
     "importanceSignals": [
       "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 68,
     "isFeatured": true
   },
   {
@@ -81,7 +109,7 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-08T13:35:03.404Z",
+    "fetchedAt": "2026-08-09T13:38:35.191Z",
     "snippet": "Immune checkpoint inhibitor (ICI) therapy has become standard of care for late stage non-small cell lung cancer (NSCLC), producing durable responses in a subset of patients. However, inflammatory side eKects termed immune-related adverse events (irAEs) occur in up to 40% of ICI-treated NSCLC patients. Current approaches to alleviate irAEs include treatment....",
     "tags": [
       "research",
@@ -106,105 +134,72 @@
     "isFeatured": false
   },
   {
-    "id": "60ec99a4c37fb61a",
-    "title": "CMA-associated cellular state remodeling defines prognostic heterogeneity and identifies ARRDC3 as a protective functional gene in small cell lung cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42564958",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42564958",
+    "id": "5e6dffa994cca2f4",
+    "title": "NTMT1 (METTL11A) promotes MYC-dependent proliferation and downstream HLA-A suppression in cervical cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42568485",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42568485",
     "source": "pubmed",
-    "publicationName": "Frontiers in cell and developmental biology",
-    "journalName": "Frontiers in cell and developmental biology",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-08T13:35:03.404Z",
-    "snippet": "Small cell lung cancer (SCLC) is a highly aggressive malignancy characterized by rapid progression, early metastasis, frequent relapse, and treatment resistance. Although chemoimmunotherapy has improved outcomes in a subset of patients, reliable molecular stratification tools reflecting tumor heterogeneity and survival risk remain limited. Chaperone-mediate...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "computational biology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "7e3868e480ac992e",
-    "title": "FAP as a Clinical Biomarker: FAP+ CAFs Orchestrate an Immunosuppressive Stem Cell Niche via the COL1A1/2-CD44 Axis in Colon Cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42564849",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42564849",
-    "source": "pubmed",
-    "publicationName": "Stem cells international",
-    "journalName": "Stem cells international",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-08T13:35:03.404Z",
-    "snippet": "Colon cancer (CC) remains a leading cause of cancer-related mortality worldwide, driven largely by the complex interactions within the tumor microenvironment (TME). Fibroblast activation protein (FAP) is highly expressed in cancer-associated fibroblasts (CAFs) and is associated with poor prognosis, yet its role in coordinating immune evasion and cancer stem...",
+    "fetchedAt": "2026-08-09T13:38:35.191Z",
+    "snippet": "Identifying upstream molecular regulators linking tumor proliferation with immune-related alterations remains an important challenge in cancer therapy. NTMT1 (METTL11A), a protein N-terminal methyltransferase, has been implicated in tumorigenesis; however, its role in coordinating tumor-immune interaction is poorly understood. We performed integrative singl...",
     "tags": [
       "research",
       "pubmed",
       "Single-cell TME",
       "single-cell",
       "tumor microenvironment",
-      "biomarker"
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
     ],
     "topicBuckets": [
       "single-cell",
       "oncology",
       "immunology",
       "ai",
-      "translational medicine"
+      "spatial",
+      "computational biology"
     ],
     "isNewToday": false,
-    "importanceScore": 68,
     "importanceSignals": [
       "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
+    "importanceScore": 68,
     "isFeatured": true
   },
   {
-    "id": "717a54bde03f6af5",
-    "title": "DUSP5 contributes to platinum resistance in ovarian cancer: single-cell discovery and functional validation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42564493",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42564493",
+    "id": "06e8dd6e3659dd18",
+    "title": "The biological memory buffer hypothesis: can programmable nanocarriers shape cellular memory to improve the durability of mRNA vaccines and gene therapies?",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42568620",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42568620",
     "source": "pubmed",
-    "publicationName": "Frontiers in pharmacology",
-    "journalName": "Frontiers in pharmacology",
+    "publicationName": "Frontiers in drug delivery",
+    "journalName": "Frontiers in drug delivery",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-08T13:35:03.404Z",
-    "snippet": "Platinum-based chemotherapy remains the cornerstone of ovarian cancer treatment, yet acquired resistance severely limits efficacy. Because platinum agents can also influence immunogenic cell death and tumor microenvironment (TME) remodeling, clarifying cellular pharmacological mechanisms of sensitivity and resistance within the ovarian cancer tumor ecosyste...",
+    "fetchedAt": "2026-08-09T13:38:35.191Z",
+    "snippet": "Messenger RNA vaccines and gene therapies enable rapid and programmable biological intervention, but their therapeutic durability remains variable. Existing nanomedicine research primarily evaluates delivery efficiency, targeting, RNA protection and early protein expression, which do not fully explain why some biological effects persist while others rapidly...",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
     ],
     "topicBuckets": [
-      "single-cell",
-      "oncology",
+      "gene therapy",
       "immunology",
-      "ai",
-      "computational biology"
+      "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 68,
+    "importanceScore": 58,
     "importanceSignals": [
-      "priority topic: oncology, ai",
+      "priority topic: gene therapy, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -220,7 +215,7 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-08T13:35:03.404Z",
+    "fetchedAt": "2026-08-09T13:38:35.191Z",
     "snippet": "The tumor necrosis factor (TNF) and TNF receptor (TNFR) superfamilies comprise 47 proteins that regulate immune signaling and T cell costimulation. While TNF inhibitors are established therapies for immune-mediated inflammatory diseases (IMIDs), their efficacy is limited by primary non-response and secondary loss of efficacy. Preclinical data suggest that t...",
     "tags": [
       "research",
@@ -247,6 +242,42 @@
     "isFeatured": false
   },
   {
+    "id": "d465650413cbf356",
+    "title": "Spatial immune programs associated with nodal status differ between lymphoid follicular regions and peritumoral tonsillar tissue in HPV-positive oropharyngeal cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42568560",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42568560",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-09T13:38:35.191Z",
+    "snippet": "In human papillomavirus (HPV)-positive oropharyngeal cancer (OPC), lymph node metastasis is common, yet its biological and prognostic implications remain incompletely understood. Less is known about the spatial organization of immune programs within tumor-associated secondary lymphoid structures. Immune programs were analyzed by spatially distinguishing lym...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "spatial"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "ai",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
     "id": "d9468837f6993f45",
     "title": "Performance of deep learning methods for spatial gene expression prediction from histology images: a comprehensive assessment.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42564865",
@@ -255,7 +286,7 @@
     "publicationName": "Bioinformatics advances",
     "journalName": "Bioinformatics advances",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-08T13:35:03.404Z",
+    "fetchedAt": "2026-08-09T13:38:35.191Z",
     "snippet": "Spatial transcriptomics enables spatially-resolved measurement of gene expression in tissues, but its widespread adoption has been limited by high cost. Predicting gene expression profiles from histology images using deep learning has recently attracted broad interest as a promising and cost-effective spatial transcriptomics solution, yet the strengths and....",
     "tags": [
       "research",
@@ -282,37 +313,33 @@
     "isFeatured": true
   },
   {
-    "id": "2866ce217f3c425b",
-    "title": "Integrated single-cell and spatial transcriptomic analyses identify TRIP6 as a prognostic and EMT-associated biomarker in colorectal cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42558886",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42558886",
+    "id": "a4cf94a94dcbf69e",
+    "title": "Predictive and mechanistic insights ofon survival in patients with head and neck squamous cell carcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42571522",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42571522",
     "source": "pubmed",
-    "publicationName": "Frontiers in cell and developmental biology",
-    "journalName": "Frontiers in cell and developmental biology",
+    "publicationName": "PeerJ",
+    "journalName": "PeerJ",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-08T13:35:03.404Z",
-    "snippet": "Colorectal cancer (CRC) is characterized by profound molecular heterogeneity and complex tumor-microenvironment interactions, which contribute to invasion, metastasis, and variable clinical outcomes. More effective prognostic biomarkers and therapeutic targets are still needed. We integrated single-cell RNA sequencing, spatial transcriptomics, multi-cohort....",
+    "fetchedAt": "2026-08-09T13:38:35.191Z",
+    "snippet": "Glycolipid transfer protein (GLTP) is a key regulator of glycosphingolipid distribution between intracellular membranes. Although aberrant GLTP expression has been implicated in various cancers, its role in head and neck squamous cell carcinoma (HNSCC) remains unclear. HNSCC samples from The Cancer Genome Atlas (TCGA) were stratified based onexpression leve...",
     "tags": [
       "research",
       "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
+      "Biomarkers in oncology",
       "biomarker",
-      "single-cell",
-      "spatial"
+      "patient stratification",
+      "oncology"
     ],
     "topicBuckets": [
-      "spatial",
+      "translational medicine",
       "oncology",
-      "computational biology",
-      "single-cell",
-      "translational medicine"
+      "ai"
     ],
     "isNewToday": false,
     "importanceScore": 68,
     "importanceSignals": [
-      "priority topic: oncology, computational biology",
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -320,34 +347,137 @@
     "isFeatured": true
   },
   {
-    "id": "5d1681b5ebe37a80",
-    "title": "Therapy-imprinted fibroblast memory in cholangiocarcinoma: rewiring CAF niches for immune evasion and treatment-resistant relapse.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42558642",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42558642",
+    "id": "9967d2dc2b901708",
+    "title": "Trifluridine/tipiracil with or without bevacizumab in microsatellite instability-high/mismatch repair-deficient metastatic colorectal cancer: A retrospective observational study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42571189",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42571189",
     "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
+    "publicationName": "Therapeutic advances in medical oncology",
+    "journalName": "Therapeutic advances in medical oncology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-08T13:35:03.404Z",
-    "snippet": "Cholangiocarcinoma (CCA) is a highly desmoplastic biliary malignancy in which durable benefit from chemotherapy, immune checkpoint blockade, targeted therapy and local treatment remains limited for many patients. Cancer-associated fibroblasts (CAFs) are increasingly recognized as dynamic regulators of immune escape and therapeutic resistance rather than pas...",
+    "fetchedAt": "2026-08-09T13:38:35.191Z",
+    "snippet": "Patients with microsatellite instability-high/mismatch repair-deficient (MSI-H/dMMR) metastatic colorectal cancer (mCRC) have been reported to exhibit resistance to various cytotoxic agents, including fluorouracil. A preclinical study showed that trifluridine, a key active component of FTD/TPI, retained antitumor activity in 5-FU-refractory dMMR CRC cell li...",
     "tags": [
       "research",
       "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
     ],
     "topicBuckets": [
-      "spatial",
+      "translational medicine",
       "oncology",
-      "computational biology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "c86c4b22b63e7454",
+    "title": "High-titer antinuclear antibodies are associated with severe immune-related toxicity and exploratory survival outcomes in advanced gastric cancer immunotherapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42571170",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42571170",
+    "source": "pubmed",
+    "publicationName": "Therapeutic advances in medical oncology",
+    "journalName": "Therapeutic advances in medical oncology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-09T13:38:35.191Z",
+    "snippet": "Clinicians often screen for autoantibodies before initiating immune checkpoint inhibitors (ICIs) in advanced gastric cancer (GC), yet the utility of organ-specific panels remains unclear. To evaluate the association of baseline antinuclear antibody (ANA) titers and organ-specific autoantibodies with severe immune-related adverse events (irAEs) and clinical....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology",
+      "immunotherapy"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
       "ai",
       "immunology"
     ],
     "isNewToday": false,
     "importanceScore": 68,
     "importanceSignals": [
-      "priority topic: oncology, computational biology",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "8a040b7f6488519e",
+    "title": "Guideline recommendations versus real-world management in early-stage testicular cancer: a multicenter survey of contemporary practice.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42571160",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42571160",
+    "source": "pubmed",
+    "publicationName": "Therapeutic advances in medical oncology",
+    "journalName": "Therapeutic advances in medical oncology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-09T13:38:35.191Z",
+    "snippet": "Early-stage testicular cancer is highly curable; however, overtreatment may result in substantial long-term toxicity. Current guidelines aim to balance relapse risk and treatment-related morbidity, yet real-world adherence remains unclear. To assess real-world management of clinical stage (cS) I and cSIIA testicular cancer in specialized centers and to eval...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "833dc3b3f2dbfcba",
+    "title": "Immunohistochemical Expression Patterns of p16 and Ki-67 in Oral Condyloma Acuminatum: A Case Report.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42571127",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42571127",
+    "source": "pubmed",
+    "publicationName": "Case reports in dentistry",
+    "journalName": "Case reports in dentistry",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-09T13:38:35.191Z",
+    "snippet": "Condyloma acuminatum (CA) is a type of benign tumor that is associated with the human papillomavirus (HPV). Although histopathology remains the gold standard for diagnosing CA, immunohistochemical (IHC) biomarkers may be able to provide additional characterization of these lesions. In this case report, we present a 45-year-old female who presented with an e...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
