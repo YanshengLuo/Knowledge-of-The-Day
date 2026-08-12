@@ -7,7 +7,7 @@
     "source": "biospace",
     "publicationName": "BioSpace",
     "publishedAt": "2026-08-05T13:36:28.000Z",
-    "fetchedAt": "2026-08-11T14:08:05.544Z",
+    "fetchedAt": "2026-08-12T14:09:24.235Z",
     "snippet": "The FDA has been trying to mend fences with rare disease drug developers and patient groups since the departure of former Commissioner Marty Makary three months ago. But advisory committee meetings last week for Replimune and Capricor Therapeutics only created more confusion and frustration.",
     "tags": [
       "biotech",
@@ -18,9 +18,9 @@
       "biotech"
     ],
     "isNewToday": false,
-    "importanceScore": 60,
+    "importanceScore": 53,
     "importanceSignals": [
-      "recent",
+      "published this month",
       "priority topic: ai",
       "rich summary",
       "rich metadata"
@@ -36,7 +36,7 @@
     "publicationName": "Genome medicine",
     "journalName": "Genome medicine",
     "publishedAt": "2026-08-05T00:00:00.000Z",
-    "fetchedAt": "2026-08-11T14:08:06.199Z",
+    "fetchedAt": "2026-08-12T14:09:25.235Z",
     "snippet": "Bevacizumab is widely used as an anti-angiogenic maintenance therapy in ovarian cancer; however, there are currently no validated clinical criteria to guide patient selection for its use. To satisfy the urgent need for bevacizumab response biomarkers, we created a novel RNA-seq dataset (n&#x2009;=&#x2009;244) and applied unsupervised and supervised machine....",
     "tags": [
       "research",
@@ -52,10 +52,45 @@
       "translational medicine"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
+    "importanceScore": 75,
     "importanceSignals": [
-      "recent",
+      "published this month",
       "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "c3c60f633bd3dc79",
+    "title": "Aortic valve stenosis in 2026: from emerging mechanisms to clinical drug development.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42580147",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42580147",
+    "source": "pubmed",
+    "publicationName": "Atherosclerosis",
+    "journalName": "Atherosclerosis",
+    "publishedAt": "2026-08-05T00:00:00.000Z",
+    "fetchedAt": "2026-08-12T14:09:25.235Z",
+    "snippet": "Calcific aortic valve stenosis (AS) is the most prevalent valvular heart disease in high-income countries, affecting 9.4 million persons globally. While surgical and transcatheter aortic valve replacement have transformed outcomes, they address end-stage disease rather than the underlying pathobiology. The development of pharmacological therapies to slow or...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: gene therapy, translational medicine",
       "high-signal source",
       "rich summary",
       "rich metadata"
