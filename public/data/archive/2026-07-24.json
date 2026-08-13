@@ -1,37 +1,117 @@
 [
   {
-    "id": "6a3d52bb7f1ce8fb",
-    "title": "An automated platform for spatial functional modeling and fingerprint analysis of tissue molecular landscapes.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42539008",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42539008",
+    "id": "3a8346da5037eec0",
+    "title": "Immune Phenotype in Urothelial Carcinoma: From Tumor Biology to Therapeutic Stratification.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42588611",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42588611",
     "source": "pubmed",
-    "publicationName": "bioRxiv : the preprint server for biology",
-    "journalName": "bioRxiv : the preprint server for biology",
+    "publicationName": "Cancers",
+    "journalName": "Cancers",
     "publishedAt": "2026-07-24T00:00:00.000Z",
-    "fetchedAt": "2026-08-04T15:12:17.360Z",
-    "snippet": "Spatial transcriptomics (ST) enables high-resolution molecular profiling while preserving tissue architecture, creating new opportunities to investigate how disease-associated pathways are organized within tissues. However, existing analytical approaches largely focus on individual pathways or cell types and do not provide a unified framework for modeling s...",
+    "fetchedAt": "2026-08-13T14:10:59.995Z",
+    "snippet": "Urothelial carcinoma (UC) is a biologically and clinically heterogeneous disease arising from the bladder and upper urinary tract. Immune checkpoint inhibitors (ICIs) have transformed treatment of advanced UC, yet durable responses remain limited to a minority of patients, underscoring the need to better understand the tumor immune microenvironment (TME). T...",
     "tags": [
       "research",
       "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
       "Spatial oncology",
       "spatial transcriptomics",
-      "cancer",
-      "spatial"
+      "cancer"
     ],
     "topicBuckets": [
-      "spatial",
+      "single-cell",
       "oncology",
+      "immunology",
+      "ai",
+      "translational medicine",
+      "spatial",
       "computational biology"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 75,
+    "isFeatured": false
+  },
+  {
+    "id": "638290d39448228a",
+    "title": "The Gut-Brain Axis in Metabolic Syndrome: Emerging Mechanisms and Perspectives in Personalized Medicine.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42589280",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42589280",
+    "source": "pubmed",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
+    "publishedAt": "2026-07-24T00:00:00.000Z",
+    "fetchedAt": "2026-08-13T14:10:59.995Z",
+    "snippet": "Metabolic syndrome (MetS) is a multifactorial disorder characterized by central obesity, insulin resistance, dyslipidemia, hypertension, and impaired glucose metabolism, significantly increasing the risk of type 2 diabetes and cardiovascular disease. Recent evidence highlights the important role of the gut-brain axis in the pathogenesis of MetS through comp...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai"
     ],
     "isNewToday": false,
     "importanceScore": 65,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology, computational biology",
+      "priority topic: gene therapy, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
+    "isFeatured": false
+  },
+  {
+    "id": "7a82d72d832899d4",
+    "title": "Targeting ADAR1 Restores Interferon Signaling and Enhances Immunotherapy Response in Multiple Myeloma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42589260",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42589260",
+    "source": "pubmed",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
+    "publishedAt": "2026-07-24T00:00:00.000Z",
+    "fetchedAt": "2026-08-13T14:10:59.995Z",
+    "snippet": "Multiple myeloma (MM) remains an incurable hematological malignancy in which tumor-intrinsic immune evasion limits the efficacy of immunotherapy. Here, we identify the RNA editing enzyme ADAR1 as a key regulator of innate immune suppression in MM. Integrative analyses of bulk and single-cell transcriptomic datasets, together with clinical validation, demons...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation",
+      "immunotherapy"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai",
+      "oncology",
+      "single-cell",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
   }
 ]
