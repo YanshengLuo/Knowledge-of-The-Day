@@ -1,15 +1,15 @@
 [
   {
-    "id": "14d2732cbc4deb0c",
-    "title": "Bioinformatics in: expanding open, diverse, and collaborative science through SEH2Bioinfo.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42577783",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42577783",
+    "id": "bfc1d17523a39299",
+    "title": "Integrating dynamic modeling of signaling pathways with subject-specific transcriptomic data to assess breast cancer risk.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42594127",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42594127",
     "source": "pubmed",
-    "publicationName": "Bioinformatics advances",
-    "journalName": "Bioinformatics advances",
+    "publicationName": "PloS one",
+    "journalName": "PloS one",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-12T14:09:25.235Z",
-    "snippet": "Linguistic inequality remains a silent barrier in contemporary science, particularly in rapidly evolving and interdisciplinary fields such as bioinformatics. This article examines how the Spanish-speaking community has responded to this gap through the creation of the Simposio de Estudiantes Hispanohablantes de Bioinform&#xe1;tica y Biolog&#xed;a Computacio...",
+    "fetchedAt": "2026-08-14T14:04:40.300Z",
+    "snippet": "Breast cancer is the most common cancer in women and a leading cause of death. Traditional risk assessment models, such as the Gail model, lack molecular insight, limiting their usefulness for personalized prevention strategies. We developed a computational framework that integrates individual transcriptomic data with dynamic modeling of cell signaling to c...",
     "tags": [
       "research",
       "pubmed",
@@ -33,29 +33,66 @@
     "isFeatured": true
   },
   {
-    "id": "ce875a69555f5725",
-    "title": "Exploratory genomic stratification of benefit from first-line immunotherapy-based combination in advanced biliary tract cancer: a biomarker analysis of a randomized phase 2 trial.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42577326",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42577326",
+    "id": "36e59f70a16cc5f4",
+    "title": "Deciphering immunosuppressive niches by spatial single-cell proteomics: spatial interaction networks and translational opportunities.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42592214",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42592214",
     "source": "pubmed",
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-12T14:09:25.235Z",
-    "snippet": "Benefit from first-line immunotherapy-based treatment in advanced biliary tract cancer (BTC) is heterogeneous, and selection biomarkers are lacking. We investigated whether genomic features could stratify benefit from intensified immunotherapy-based treatment versus chemotherapy. This exploratory biomarker analysis included 58 patients from a randomized pha...",
+    "fetchedAt": "2026-08-14T14:04:40.300Z",
+    "snippet": "Although immunocheckpoint blocking therapy has been successful in a variety of cancers, its long-term response is still rare. The difference between initial clinical benefits and persistent disease control reflects the complexity of intratumor immunomodulation. People's attention is increasingly shifting from a single group of cells to the spatial environme...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
       "oncology",
-      "biomarker",
-      "immunotherapy"
+      "single-cell",
+      "spatial",
+      "Single-cell TME",
+      "tumor microenvironment"
     ],
     "topicBuckets": [
       "computational biology",
       "oncology",
-      "translational medicine"
+      "single-cell",
+      "translational medicine",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 68,
+    "isFeatured": true
+  },
+  {
+    "id": "052d08d18b5798df",
+    "title": "Integrated Mutation Profiling and Prognostic Genomic Signature in Pediatric Testicular and Ovarian Germ Cell Tumors.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42592012",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42592012",
+    "source": "pubmed",
+    "publicationName": "Human mutation",
+    "journalName": "Human mutation",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-14T14:04:40.300Z",
+    "snippet": "Pediatric testicular and ovarian germ cell tumors generally have favorable outcomes, but a subset of patients experience relapse, progression, or persistent disease. Conventional risk assessment is based primarily on stage, histology, primary site, serum tumor markers, and treatment response; the incremental prognostic value of genomic profiling remains unc...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai"
     ],
     "isNewToday": false,
     "importanceScore": 68,
@@ -68,39 +105,248 @@
     "isFeatured": true
   },
   {
-    "id": "d465650413cbf356",
-    "title": "Spatial immune programs associated with nodal status differ between lymphoid follicular regions and peritumoral tonsillar tissue in HPV-positive oropharyngeal cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42568560",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42568560",
+    "id": "5fa3737cb615b082",
+    "title": "Differential protein abundance in colostrum-derived extracellular vesicles from bovine leukemia virus-infected cattle are implicated in immune regulation and inflammation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42591436",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42591436",
     "source": "pubmed",
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-12T14:09:25.235Z",
-    "snippet": "In human papillomavirus (HPV)-positive oropharyngeal cancer (OPC), lymph node metastasis is common, yet its biological and prognostic implications remain incompletely understood. Less is known about the spatial organization of immune programs within tumor-associated secondary lymphoid structures. Immune programs were analyzed by spatially distinguishing lym...",
+    "fetchedAt": "2026-08-14T14:04:40.300Z",
+    "snippet": "Bovine leukemia virus (BLV) is an oncogenic retrovirus that naturally infects cattle. Once infected, the virus persists indefinitely throughout life at a transcriptionally silent stage. Soon after infection, humoral and cytotoxic activities efficiently abolish the viral replicative cycle, allowing only mitotic expansion of provirus-carrying cells. These ant...",
     "tags": [
       "research",
       "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "spatial"
+      "Computational oncology",
+      "computational biology",
+      "oncology"
     ],
     "topicBuckets": [
-      "spatial",
-      "oncology",
       "computational biology",
-      "ai",
+      "oncology",
       "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "f7660e4e8ba67ff5",
+    "title": "Genomic epidemiology and phylogenomics of: a comparative analysis of novel italian and publicly available genomes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42591269",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42591269",
+    "source": "pubmed",
+    "publicationName": "Frontiers in cellular and infection microbiology",
+    "journalName": "Frontiers in cellular and infection microbiology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-14T14:04:40.300Z",
+    "snippet": "is an emerging fungal pathogen primarily infecting immunocompromised patients hospitalized in hematological wards. Its remarkable genetic homogeneity makes high-resolution phylogenetic analysis challenging, hindering efforts to accurately discriminate strains and complicating epidemiological surveillance, particularly in the context of hospital outbreaks. I...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai"
     ],
     "isNewToday": false,
     "importanceScore": 68,
     "importanceSignals": [
-      "priority topic: oncology, computational biology",
+      "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
     "isFeatured": true
+  },
+  {
+    "id": "48a29ef00ce31165",
+    "title": "Regulatory effects of smoking cessation on the cellular microenvironment and differentially expressed genes in precancerous lesions of pulmonary nodules in mice based on single-cell RNA sequencing and immune repertoire-sequencing.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42594102",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42594102",
+    "source": "pubmed",
+    "publicationName": "PloS one",
+    "journalName": "PloS one",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-14T14:04:40.300Z",
+    "snippet": "Smoking cessation decreases lung cancer progression; however, its effects on precancerous lesions and the underlying mechanisms remain unclear. This study established a mouse model of precancerous pulmonary nodules and employed single-cell RNA sequencing (scRNA-seq) and immune repertoire sequencing (IR-seq) to elucidate the regulatory mechanisms by which sm...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "3f1b6b6e414c1093",
+    "title": "A TMED3-governed disulfidptosis-related diagnostic signature reveals tumor microenvironment remodeling in intrahepatic cholangiocarcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42591673",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42591673",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-14T14:04:40.300Z",
+    "snippet": "Intrahepatic cholangiocarcinoma (ICC) is an aggressive malignancy with poor prognosis and limited treatment options. Disulfidptosis, a novel cell death pathway driven by disulfide bond accumulation, has emerged as a potential mechanism in cancer biology; however, its role in ICC remains unclear. We integrated single-cell RNA sequencing (GSE138709) with bulk...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai",
+      "computational biology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "0a44b756578fbe9b",
+    "title": "Molecular Mechanisms and Biomarkers Driving the Transition From Chronic Atrophic Gastritis to Gastric Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42591669",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42591669",
+    "source": "pubmed",
+    "publicationName": "Clinical Medicine Insights. Oncology",
+    "journalName": "Clinical Medicine Insights. Oncology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-14T14:04:40.300Z",
+    "snippet": "Gastric cancer continues to be a major contributor to global cancer morbidity and mortality. Although theis widely used as a model for gastric carcinogenesis, the molecular mechanisms driving the transition from chronic atrophic gastritis to invasive cancer have not been comprehensively integrated into a unified molecular framework. This review aims to synt...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "biomarker",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai",
+      "translational medicine",
+      "spatial",
+      "computational biology"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 68,
+    "isFeatured": true
+  },
+  {
+    "id": "b295340976bc968f",
+    "title": "Expression and Clinicopathological Features at the Invasive Front of Pancreatic Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42591649",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42591649",
+    "source": "pubmed",
+    "publicationName": "Clinical Medicine Insights. Oncology",
+    "journalName": "Clinical Medicine Insights. Oncology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-14T14:04:40.300Z",
+    "snippet": "The clinical significance of CXC ligand 12 (CXCL12) expression at the invasive front of pancreatic ductal adenocarcinoma (PDAC) remains unclear. This study examined the expression of stromalusing RNAscope for direct visualization of RNA localization and compared expression profiles with clinicopathological findings. This retrospective investigation analyzed...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "adfc2a21e4921de9",
+    "title": "Network pharmacology and molecular simulation study on the multi-target gene regulatory mechanism of Isatis indigotica against hepatic inflammation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42594138",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42594138",
+    "source": "pubmed",
+    "publicationName": "PloS one",
+    "journalName": "PloS one",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-14T14:04:40.300Z",
+    "snippet": "Isatis indigotica (Banlangen) is a classic Traditional Chinese Medicine herbal remedy with well-documented antiviral and anti-inflammatory properties. However, the molecular mechanisms underlying its therapeutic effects against hepatitis B virus (HBV)-associated hepatic inflammation remain incompletely understood. This study aimed to systematically elucidat...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
   }
 ]
