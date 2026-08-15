@@ -1,87 +1,15 @@
 [
   {
-    "id": "bfc1d17523a39299",
-    "title": "Integrating dynamic modeling of signaling pathways with subject-specific transcriptomic data to assess breast cancer risk.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42594127",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42594127",
-    "source": "pubmed",
-    "publicationName": "PloS one",
-    "journalName": "PloS one",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-14T14:04:40.300Z",
-    "snippet": "Breast cancer is the most common cancer in women and a leading cause of death. Traditional risk assessment models, such as the Gail model, lack molecular insight, limiting their usefulness for personalized prevention strategies. We developed a computational framework that integrates individual transcriptomic data with dynamic modeling of cell signaling to c...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "36e59f70a16cc5f4",
-    "title": "Deciphering immunosuppressive niches by spatial single-cell proteomics: spatial interaction networks and translational opportunities.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42592214",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42592214",
+    "id": "d8cd162475b77b8c",
+    "title": "LM-QASAS: reference-free identification of antigen-specific sequences from the BCR repertoire using antibody language models.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42597581",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42597581",
     "source": "pubmed",
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-14T14:04:40.300Z",
-    "snippet": "Although immunocheckpoint blocking therapy has been successful in a variety of cancers, its long-term response is still rare. The difference between initial clinical benefits and persistent disease control reflects the complexity of intratumor immunomodulation. People's attention is increasingly shifting from a single group of cells to the spatial environme...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology",
-      "single-cell",
-      "spatial",
-      "Single-cell TME",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "single-cell",
-      "translational medicine",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceSignals": [
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "importanceScore": 68,
-    "isFeatured": true
-  },
-  {
-    "id": "052d08d18b5798df",
-    "title": "Integrated Mutation Profiling and Prognostic Genomic Signature in Pediatric Testicular and Ovarian Germ Cell Tumors.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42592012",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42592012",
-    "source": "pubmed",
-    "publicationName": "Human mutation",
-    "journalName": "Human mutation",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-14T14:04:40.300Z",
-    "snippet": "Pediatric testicular and ovarian germ cell tumors generally have favorable outcomes, but a subset of patients experience relapse, progression, or persistent disease. Conventional risk assessment is based primarily on stage, histology, primary site, serum tumor markers, and treatment response; the incremental prognostic value of genomic profiling remains unc...",
+    "fetchedAt": "2026-08-15T13:20:11.486Z",
+    "snippet": "The B-cell receptor (BCR) repertoire serves as a historical record of immunological events. However, deciphering antigen-specific sequences from this vast dataset remains a challenge, particularly for novel pathogens where prior knowledge is absent. While time-course analysis methods such as QASAS have proven effective for tracking immune responses, they re...",
     "tags": [
       "research",
       "pubmed",
@@ -92,43 +20,11 @@
     "topicBuckets": [
       "computational biology",
       "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "5fa3737cb615b082",
-    "title": "Differential protein abundance in colostrum-derived extracellular vesicles from bovine leukemia virus-infected cattle are implicated in immune regulation and inflammation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42591436",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42591436",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-14T14:04:40.300Z",
-    "snippet": "Bovine leukemia virus (BLV) is an oncogenic retrovirus that naturally infects cattle. Once infected, the virus persists indefinitely throughout life at a transcriptionally silent stage. Soon after infection, humoral and cytotoxic activities efficiently abolish the viral replicative cycle, allowing only mitotic expansion of provirus-carrying cells. These ant...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
+      "ai",
       "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 58,
+    "importanceScore": 68,
     "importanceSignals": [
       "priority topic: computational biology, oncology",
       "high-signal source",
@@ -138,36 +34,114 @@
     "isFeatured": false
   },
   {
-    "id": "f7660e4e8ba67ff5",
-    "title": "Genomic epidemiology and phylogenomics of: a comparative analysis of novel italian and publicly available genomes.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42591269",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42591269",
+    "id": "39e2709ddd312858",
+    "title": "The role of mitochondrial energy metabolism in drug resistance and prognosis of lung adenocarcinoma: a multi-omics and machine learning strategy for predictive and personalized therapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42601962",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42601962",
     "source": "pubmed",
-    "publicationName": "Frontiers in cellular and infection microbiology",
-    "journalName": "Frontiers in cellular and infection microbiology",
+    "publicationName": "Frontiers in medicine",
+    "journalName": "Frontiers in medicine",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-14T14:04:40.300Z",
-    "snippet": "is an emerging fungal pathogen primarily infecting immunocompromised patients hospitalized in hematological wards. Its remarkable genetic homogeneity makes high-resolution phylogenetic analysis challenging, hindering efforts to accurately discriminate strains and complicating epidemiological surveillance, particularly in the context of hospital outbreaks. I...",
+    "fetchedAt": "2026-08-15T13:20:11.486Z",
+    "snippet": "As the leading histological form of lung cancer, lung adenocarcinoma (LUAD) displays considerable intratumoral heterogeneity, frequent therapeutic resistance, and an unfavorable clinical outcome. Although rewiring of mitochondrial energy metabolism is known to drive tumor progression and treatment failure, a comprehensive understanding of its dual role in L...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "machine learning"
     ],
     "topicBuckets": [
-      "computational biology",
+      "single-cell",
       "oncology",
-      "ai"
+      "immunology",
+      "ai",
+      "computational biology",
+      "translational medicine"
     ],
     "isNewToday": false,
     "importanceScore": 68,
     "importanceSignals": [
-      "priority topic: computational biology, oncology",
+      "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
+    "isFeatured": true
+  },
+  {
+    "id": "8f3d3ef406b45f8c",
+    "title": "-associated lipid-handling macrophages in hepatocellular carcinoma: ligand-receptor communication and host-linked myeloid remodeling.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42598100",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42598100",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-15T13:20:11.486Z",
+    "snippet": "Hepatocellular carcinoma (HCC) arises in the liver, an organ with active lipid metabolism, and is accompanied by marked myeloid-cell remodeling. Whether lipid-handling macrophage states are enriched in HCC and how they relate to candidate ligand-receptor communication and tumor microenvironmental remodeling remain unclear. We analyzed paired tumor and adjac...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai",
+      "computational biology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "119718dbb386175b",
+    "title": "Single cell transcriptomics analyses reveal functional heterogeneity and anti-tumor role of mast cells in esophageal squamous cell carcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42597485",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42597485",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-15T13:20:11.486Z",
+    "snippet": "Mast cells (MCs) play important roles in allergic reactions and tissue homeostasis; however, their functions in esophageal squamous cell carcinoma (ESCC) remain controversial. Understanding the heterogeneity and functional states of MCs in ESCC is essential for elucidating their roles in tumor progression and immune regulation. single-cell RNA sequencing (s...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai",
+      "computational biology",
+      "spatial"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 68,
     "isFeatured": true
   },
   {
@@ -179,7 +153,7 @@
     "publicationName": "PloS one",
     "journalName": "PloS one",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-14T14:04:40.300Z",
+    "fetchedAt": "2026-08-15T13:20:11.486Z",
     "snippet": "Smoking cessation decreases lung cancer progression; however, its effects on precancerous lesions and the underlying mechanisms remain unclear. This study established a mouse model of precancerous pulmonary nodules and employed single-cell RNA sequencing (scRNA-seq) and immune repertoire sequencing (IR-seq) to elucidate the regulatory mechanisms by which sm...",
     "tags": [
       "research",
@@ -205,148 +179,108 @@
     "isFeatured": true
   },
   {
-    "id": "3f1b6b6e414c1093",
-    "title": "A TMED3-governed disulfidptosis-related diagnostic signature reveals tumor microenvironment remodeling in intrahepatic cholangiocarcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42591673",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42591673",
+    "id": "bd5f1ff154e7cb64",
+    "title": "Tumor-infiltrating immune cell types predicting recurrence-free survival in melanoma patients receiving adjuvant PD-1 inhibitor therapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42602009",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42602009",
     "source": "pubmed",
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-14T14:04:40.300Z",
-    "snippet": "Intrahepatic cholangiocarcinoma (ICC) is an aggressive malignancy with poor prognosis and limited treatment options. Disulfidptosis, a novel cell death pathway driven by disulfide bond accumulation, has emerged as a potential mechanism in cancer biology; however, its role in ICC remains unclear. We integrated single-cell RNA sequencing (GSE138709) with bulk...",
+    "fetchedAt": "2026-08-15T13:20:11.486Z",
+    "snippet": "Adjuvant treatment of melanoma patients with PD-1-based immunotherapy has improved recurrence rate, and became a standard treatment. However, a considerable proportion of patients recur within 1-2 years, necessitating the identification of predictive markers. Our study aimed to examine the association of intratumoral infiltration by specific immune cell sub...",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "computational biology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "0a44b756578fbe9b",
-    "title": "Molecular Mechanisms and Biomarkers Driving the Transition From Chronic Atrophic Gastritis to Gastric Cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42591669",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42591669",
-    "source": "pubmed",
-    "publicationName": "Clinical Medicine Insights. Oncology",
-    "journalName": "Clinical Medicine Insights. Oncology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-14T14:04:40.300Z",
-    "snippet": "Gastric cancer continues to be a major contributor to global cancer morbidity and mortality. Although theis widely used as a model for gastric carcinogenesis, the molecular mechanisms driving the transition from chronic atrophic gastritis to invasive cancer have not been comprehensively integrated into a unified molecular framework. This review aims to synt...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
+      "Biomarkers in oncology",
       "biomarker",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
+      "patient stratification",
+      "oncology"
     ],
     "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
       "translational medicine",
-      "spatial",
-      "computational biology"
-    ],
-    "isNewToday": false,
-    "importanceSignals": [
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "importanceScore": 68,
-    "isFeatured": true
-  },
-  {
-    "id": "b295340976bc968f",
-    "title": "Expression and Clinicopathological Features at the Invasive Front of Pancreatic Cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42591649",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42591649",
-    "source": "pubmed",
-    "publicationName": "Clinical Medicine Insights. Oncology",
-    "journalName": "Clinical Medicine Insights. Oncology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-14T14:04:40.300Z",
-    "snippet": "The clinical significance of CXC ligand 12 (CXCL12) expression at the invasive front of pancreatic ductal adenocarcinoma (PDAC) remains unclear. This study examined the expression of stromalusing RNAscope for direct visualization of RNA localization and compared expression profiles with clinicopathological findings. This retrospective investigation analyzed...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
       "oncology",
-      "immunology",
       "ai",
-      "translational medicine"
+      "immunology"
     ],
     "isNewToday": false,
     "importanceScore": 68,
     "importanceSignals": [
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "adfc2a21e4921de9",
-    "title": "Network pharmacology and molecular simulation study on the multi-target gene regulatory mechanism of Isatis indigotica against hepatic inflammation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42594138",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42594138",
-    "source": "pubmed",
-    "publicationName": "PloS one",
-    "journalName": "PloS one",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-14T14:04:40.300Z",
-    "snippet": "Isatis indigotica (Banlangen) is a classic Traditional Chinese Medicine herbal remedy with well-documented antiviral and anti-inflammatory properties. However, the molecular mechanisms underlying its therapeutic effects against hepatitis B virus (HBV)-associated hepatic inflammation remain incompletely understood. This study aimed to systematically elucidat...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: gene therapy, ai",
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
     "isFeatured": false
+  },
+  {
+    "id": "3d642b824aeb4f5a",
+    "title": "Early prediction of pathological complete response in rectal cancer: a dynamic immune remodeling hypothesis during neoadjuvant treatment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42601975",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42601975",
+    "source": "pubmed",
+    "publicationName": "Frontiers in oncology",
+    "journalName": "Frontiers in oncology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-15T13:20:11.486Z",
+    "snippet": "Achieving pathological complete response (pCR) after neoadjuvant treatment has become one of the most influential outcomes shaping organ preservation strategies, treatment intensification protocols, and long-term oncological decision-making in locally advanced rectal cancer (LARC). Current response assessment, however, remains dependent on delayed structura...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai",
+      "computational biology",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "f4a1536755da8041",
+    "title": "Thyroid hormone sensitivity, insulin resistance and visceral fat area as determinants of prevalent coronary heart disease in euthyroid patients with type 2 diabetes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42601881",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42601881",
+    "source": "pubmed",
+    "publicationName": "Frontiers in endocrinology",
+    "journalName": "Frontiers in endocrinology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-15T13:20:11.486Z",
+    "snippet": "Coronary heart disease (CHD) remains a leading cause of morbidity and mortality in patients with type 2 diabetes mellitus (T2DM). Whether thyroid hormone sensitivity indices add value for CHD risk stratification among euthyroid T2DM patients is unclear. In this retrospective study, we included 412 euthyroid adults with T2DM hospitalized at a tertiary hospit...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
   }
 ]

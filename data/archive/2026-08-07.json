@@ -1,51 +1,15 @@
 [
   {
-    "id": "29eb33204149338d",
-    "title": "A topology-based framework for robust cancer-associated gene signature identification from scRNA-seq data.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42574980",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42574980",
-    "source": "pubmed",
-    "publicationName": "Computational biology and chemistry",
-    "journalName": "Computational biology and chemistry",
-    "publishedAt": "2026-08-07T00:00:00.000Z",
-    "fetchedAt": "2026-08-11T14:08:06.199Z",
-    "snippet": "Cancer transcriptomics faces a fundamental challenge: conventional gene selection methods capture statistical variance but fail to decode the intrinsic geometric architecture of high-dimensional single-cell RNA sequencing data, leaving critical cancer-specific signals obscured by noise and biological heterogeneity. We present a topology-guided framework tha...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "computational biology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "3d99a207aa79aebe",
-    "title": "Chemical induction enhances patient-derived organoid fidelity to primary colorectal cancer at the single-cell level: A re-analysis of public scRNA-seq dataset GSE261012.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42570487",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42570487",
+    "id": "d5a4475a2867875e",
+    "title": "Identification of molecular subtypes in clear cell renal cell carcinoma based on chromatin regulators and tumor immune microenvironment profiling.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42600326",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42600326",
     "source": "pubmed",
     "publicationName": "Biochemical and biophysical research communications",
     "journalName": "Biochemical and biophysical research communications",
     "publishedAt": "2026-08-07T00:00:00.000Z",
-    "fetchedAt": "2026-08-11T14:08:06.199Z",
-    "snippet": "Patient-derived organoids (PDOs) are widely used preclinical models for colorectal cancer (CRC). However, conventional PDO cultures frequently lose tumor microenvironment (TME) components and undergo culture-induced transcriptional drift. A chemically defined induction system (CiPDO) has been proposed to preserve fetal-like plasticity states, yet a direct s...",
+    "fetchedAt": "2026-08-15T13:20:11.486Z",
+    "snippet": "In the histological classification of renal cell carcinoma, clear cell renal cell carcinoma (ccRCC) accounts for the highest proportion and is the most common subtype. Despite advances in management, it continues to be associated with considerable incidence and mortality. Although surgery and systemic therapies are available, their efficacy is constrained b...",
     "tags": [
       "research",
       "pubmed",
@@ -57,85 +21,13 @@
       "single-cell",
       "oncology",
       "immunology",
-      "translational medicine"
+      "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 72,
+    "importanceScore": 65,
     "importanceSignals": [
-      "recent",
-      "priority topic: oncology, translational medicine",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "f147482edc1b0a64",
-    "title": "Primary pulmonary presentation extranodal NK/T-cell lymphoma, small cell variant, illustrating the value of flow EBER in situ hybridisation assay.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42567998",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42567998",
-    "source": "pubmed",
-    "publicationName": "Journal of hematopathology",
-    "journalName": "Journal of hematopathology",
-    "publishedAt": "2026-08-07T00:00:00.000Z",
-    "fetchedAt": "2026-08-11T14:08:06.199Z",
-    "snippet": "A 57-year-old male from Guinea presented with 6 months of progressive shortness of breath, productive cough, and occasional night sweats. A lung biopsy revealed an angiocentric pulmonary infiltrate of small bland lymphocytes and lymphoepithelial lesions mimicking a MALT lymphoma. The infiltrate expressed CD3, CD56, and Epstein-Barr virus-encoded RNA with li...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 72,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "feb6163735a0c904",
-    "title": "APOEmacrophages and POSTNCAFs form immune-exclusion niche driving immunotherapy resistance in clear-cell renal carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42566529",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42566529",
-    "source": "pubmed",
-    "publicationName": "Science advances",
-    "journalName": "Science advances",
-    "publishedAt": "2026-08-07T00:00:00.000Z",
-    "fetchedAt": "2026-08-11T14:08:06.199Z",
-    "snippet": "Tumor immune barriers (TIBs) are spatially organized stromal-immune niches that restrict lymphocyte entry. To explain persistent immune-checkpoint blockade (ICB) resistance in clear cell renal cell carcinoma (ccRCC), we mapped TIBs and defined a peritumoral variant built from POSTNcancer-associated fibroblasts (CAFs) interlaced with APOEtumor-associated mac...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "immunotherapy"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "ai",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, computational biology",
+      "published this month",
+      "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
