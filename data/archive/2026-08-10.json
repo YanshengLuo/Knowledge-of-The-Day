@@ -1,32 +1,35 @@
 [
   {
-    "id": "a757828eba923668",
-    "title": "Seedless 3' pairing enables miR-17 family miRNAs to seize let-7 target sites.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42598859",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42598859",
+    "id": "1e507a303cc6cdec",
+    "title": "Binary-SPA: a reference-free method for cell annotation in high-resolution spatial transcriptomics.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42605801",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42605801",
     "source": "pubmed",
     "publicationName": "Nucleic acids research",
     "journalName": "Nucleic acids research",
     "publishedAt": "2026-08-10T00:00:00.000Z",
-    "fetchedAt": "2026-08-16T13:21:28.547Z",
-    "snippet": "MicroRNAs (miRNAs) are short noncoding RNAs that post-transcriptionally regulate gene expression. Their canonical function depends on a \"seed\" sequence at the miRNA 5' end that pairs with conserved sites in the 3' untranslated regions of target messenger RNAs to suppress gene expression. Although seed-mediated targeting is well characterized, the role of th...",
+    "fetchedAt": "2026-08-18T13:32:42.231Z",
+    "snippet": "Accurate cell annotation is a primary challenge in spatial transcriptomics (ST). Current approaches primarily rely on label transfer from single-cell RNA sequencing (scRNA-seq) reference or marker-based clustering. While these methods are widely used, they have critical limitations. Label transfer approaches depend on the availability of a well-matched scRN...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "spatial"
     ],
     "topicBuckets": [
-      "computational biology",
+      "spatial",
       "oncology",
-      "ai"
+      "computational biology",
+      "ai",
+      "single-cell"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
+    "importanceScore": 75,
     "importanceSignals": [
-      "recent",
-      "priority topic: computational biology, oncology",
+      "published this month",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
