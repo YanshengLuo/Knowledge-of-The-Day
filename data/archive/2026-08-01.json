@@ -1,5 +1,39 @@
 [
   {
+    "id": "cdcb78feb52ef5a3",
+    "title": "Artefacts in single-cell mtDNA analyses misinform phylogenies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42618761",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42618761",
+    "source": "pubmed",
+    "publicationName": "Nature",
+    "journalName": "Nature",
+    "publishedAt": "2026-08-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-20T13:35:53.594Z",
+    "snippet": "",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "single-cell"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "single-cell"
+    ],
+    "isNewToday": false,
+    "importanceScore": 59,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
     "id": "0c67b5c9ffcc4bee",
     "title": "ERFMTDA: Predicting tsRNA-disease associations using an enhanced rotative factorization machine.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42611903",
@@ -8,7 +42,7 @@
     "publicationName": "PLoS computational biology",
     "journalName": "PLoS computational biology",
     "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-19T13:33:48.404Z",
+    "fetchedAt": "2026-08-20T13:35:53.594Z",
     "snippet": "tRNA-derived small RNAs (tsRNAs) have emerged as a novel class of regulatory molecules implicated in the pathogenesis of numerous human diseases, positioning them as promising biomarkers and therapeutic targets. Existing computational methods provide a cost-effective alternative to experimental method, but they tend to ignore biological attributes and compl...",
     "tags": [
       "research",
@@ -34,35 +68,33 @@
     "isFeatured": true
   },
   {
-    "id": "05889e4e2fe7839d",
-    "title": "Closing the Translational Gap: Closed-Loop AI Discovery Frameworks for Experimental Validation and Clinical Implementation in Cancer Therapeutics.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42608811",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42608811",
+    "id": "9b01ac48abb826ab",
+    "title": "Survival of Colon Cancer in a Population-Based Cohort Study: A Comprehensive Analysis of Location of the Primary Tumor.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42618325",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42618325",
     "source": "pubmed",
     "publicationName": "Cancer medicine",
     "journalName": "Cancer medicine",
     "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-19T13:33:48.404Z",
-    "snippet": "The development of novel cancer therapeutics is a protracted, costly endeavor with high attrition rates, largely attributed to tumor heterogeneity and acquired resistance. Artificial intelligence (AI) is emerging as a powerful technology to enhance the drug discovery pipeline, employing multimodal datasets to identify therapeutic targets, design de novo can...",
+    "fetchedAt": "2026-08-20T13:35:53.594Z",
+    "snippet": "Disparities in survival between left- versus right-sided colon cancer have been reported. We studied the role of sidedness on survival of colon cancer across tumor biomarkers subgroups in a population-based cohort established using the Geneva Cancer Registry database. Our study included 3503 colon cancer cases diagnosed between 1985 and 2013. Right-sided co...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
       "oncology"
     ],
     "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai",
-      "biotech",
-      "translational medicine"
+      "translational medicine",
+      "oncology"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
+    "importanceScore": 65,
     "importanceSignals": [
       "published this month",
-      "priority topic: computational biology, oncology",
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"

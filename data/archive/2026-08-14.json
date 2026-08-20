@@ -8,7 +8,7 @@
     "publicationName": "Journal of visualized experiments : JoVE",
     "journalName": "Journal of visualized experiments : JoVE",
     "publishedAt": "2026-08-14T00:00:00.000Z",
-    "fetchedAt": "2026-08-19T13:33:48.404Z",
+    "fetchedAt": "2026-08-20T13:35:53.594Z",
     "snippet": "Breast cancer remains a major cause of cancer-related mortality, and exploratory computational workflows can help prioritize immune-associated markers for further investigation. Here, we used the cancer genome atlas breast invasive carcinoma (TCGA-BRCA) bulk transcriptomic data and the public single-cell dataset GSE161529 to examine associations between mye...",
     "tags": [
       "research",
@@ -16,9 +16,7 @@
       "Computational oncology",
       "computational biology",
       "oncology",
-      "single-cell",
-      "Single-cell TME",
-      "tumor microenvironment"
+      "single-cell"
     ],
     "topicBuckets": [
       "computational biology",
@@ -28,6 +26,7 @@
       "immunology"
     ],
     "isNewToday": false,
+    "importanceScore": 82,
     "importanceSignals": [
       "recent",
       "priority topic: computational biology, oncology",
@@ -35,7 +34,6 @@
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 82,
     "isFeatured": true
   },
   {
@@ -47,26 +45,22 @@
     "publicationName": "Journal of visualized experiments : JoVE",
     "journalName": "Journal of visualized experiments : JoVE",
     "publishedAt": "2026-08-14T00:00:00.000Z",
-    "fetchedAt": "2026-08-19T13:33:48.404Z",
+    "fetchedAt": "2026-08-20T13:35:53.594Z",
     "snippet": "The heterogeneity of ovarian cancer (OV) poses significant challenges to disease subtype classification, risk stratification, and precision clinical management. Therefore, this study developed a prognostic model based on perioperative anesthesia-related drug target genes (PARDTGs) to find the clinical significance of PARDTGs in OV patients. This study compr...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
-      "oncology",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
+      "oncology"
     ],
     "topicBuckets": [
       "computational biology",
       "oncology",
-      "translational medicine",
-      "single-cell",
-      "immunology"
+      "translational medicine"
     ],
     "isNewToday": false,
+    "importanceScore": 82,
     "importanceSignals": [
       "recent",
       "priority topic: computational biology, oncology",
@@ -74,7 +68,77 @@
       "rich summary",
       "rich metadata"
     ],
+    "isFeatured": true
+  },
+  {
+    "id": "a9626ad3ef729eb4",
+    "title": "Lung-Targeted Delivery of Nebulized &#x3b1;&#x2011;Asaronol Attenuates Airway Inflammation and Hyperresponsiveness in Murine Asthma Models.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42614835",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42614835",
+    "source": "pubmed",
+    "publicationName": "ACS pharmacology & translational science",
+    "journalName": "ACS pharmacology & translational science",
+    "publishedAt": "2026-08-14T00:00:00.000Z",
+    "fetchedAt": "2026-08-20T13:35:53.594Z",
+    "snippet": ", a traditional Chinese medicinal herb, is used clinically to treat neurological and respiratory disorders. Our previous work showed that &#x3b1;-asaronol (&#x3b1;-AOL), a low-toxicity natural constituent of, exerts robust antiepileptic effects through &#x3b3;-aminobutyric acid (GABA)-ergic modulation. Given the critical role of the peripheral GABAergic sys...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai",
+      "translational medicine"
+    ],
+    "isNewToday": false,
     "importanceScore": 82,
+    "importanceSignals": [
+      "recent",
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "df7cf684b587e65c",
+    "title": "Tumor-derived Parathyroid Hormone-Related Protein Is Associated with Suppression of Cytochrome P450 Expression: Evidence From Multimodal Transcriptomics.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42614630",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42614630",
+    "source": "pubmed",
+    "publicationName": "ACS pharmacology & translational science",
+    "journalName": "ACS pharmacology & translational science",
+    "publishedAt": "2026-08-14T00:00:00.000Z",
+    "fetchedAt": "2026-08-20T13:35:53.594Z",
+    "snippet": "Cancer cachexia is frequently associated with altered pharmacokinetics and increased chemotherapy toxicity due to the downregulation of cytochrome P450 (CYP) enzymes. However, the molecular mechanisms driving this broad metabolic suppression remain poorly understood. This study investigated whether tumor-derived parathyroid hormone-related protein (PTHrP) i...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 82,
+    "importanceSignals": [
+      "recent",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
     "isFeatured": true
   }
 ]
