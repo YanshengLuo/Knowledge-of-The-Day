@@ -1,39 +1,113 @@
 [
   {
-    "id": "70e99cafefca93e5",
-    "title": "[Serum expression and combined diagnostic value of LBP, ITIH3, and CXCL7 in colorectal cancer].",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42595547",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42595547",
+    "id": "54d7fb827d8a2b18",
+    "title": "Developmental reversion underlies resistance to immune checkpoint blockade in kidney cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42620297",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42620297",
     "source": "pubmed",
-    "publicationName": "Zhonghua yu fang yi xue za zhi [Chinese journal of preventive medicine]",
-    "journalName": "Zhonghua yu fang yi xue za zhi [Chinese journal of preventive medicine]",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
     "publishedAt": "2026-08-06T00:00:00.000Z",
-    "fetchedAt": "2026-08-14T14:04:40.300Z",
-    "snippet": "To screen for novel candidate serum biomarkers of colorectal cancer (CRC) using serum proteomics, and to evaluate the value of combining them with conventional tumor markers to construct a multivariable diagnostic model for the non-invasive auxiliary diagnosis of CRC.This study adopted a retrospective case-control design and consecutively enrolled patients....",
+    "fetchedAt": "2026-08-21T13:34:53.193Z",
+    "snippet": "Despite the clinical success of immune checkpoint inhibitors (ICIs) in the management of advanced clear cell renal cell carcinoma (ccRCC), many tumors develop acquired resistance, presumed to arise from a refractory subpopulation of persister cancer cells. Previous studies have provided insights into tumor microenvironment-specific drivers of ICI resistance...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
     ],
     "topicBuckets": [
-      "computational biology",
+      "single-cell",
       "oncology",
-      "translational medicine"
+      "immunology",
+      "translational medicine",
+      "spatial",
+      "computational biology"
     ],
     "isNewToday": false,
     "importanceSignals": [
       "published this month",
-      "priority topic: computational biology, oncology",
+      "priority topic: oncology, translational medicine",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
     "importanceScore": 75,
-    "isFeatured": true
+    "isFeatured": false
+  },
+  {
+    "id": "836f567e8f23951f",
+    "title": "Invasion status stratifies the composition of the human pancreatic cancer perineural niche.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42620106",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42620106",
+    "source": "pubmed",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
+    "publishedAt": "2026-08-06T00:00:00.000Z",
+    "fetchedAt": "2026-08-21T13:34:53.193Z",
+    "snippet": "The peripheral nervous system innervates the pancreatic ductal adenocarcinoma (PDAC) microenvironment, and perineural invasion (PNI), the invasion of cancer cells in and around nerves, correlates with metastatic burden and poor outcomes. Though PDAC innervation is near universal and the majority of PDAC patients harbor PNI, the cellular and molecular compos...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "c608f710df8b655a",
+    "title": "Multi-Modal Foundation Model with Whole-Slide Attention Enables Transferrable Digital Pathology at Single-Cell Resolution.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42620094",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42620094",
+    "source": "pubmed",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
+    "publishedAt": "2026-08-06T00:00:00.000Z",
+    "fetchedAt": "2026-08-21T13:34:53.193Z",
+    "snippet": "Paired histopathology and spatial transcriptomics data are advancing our understanding of tissue biology and disease, but modeling both modalities at single-cell resolution while mapping local and distal cell-cell interdependencies remains computationally prohibitive. Here we introduce TissueFormer, a framework for pretraining foundation models with linear....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "single-cell"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "ai",
+      "single-cell"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
   }
 ]

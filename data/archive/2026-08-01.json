@@ -8,7 +8,7 @@
     "publicationName": "Nature",
     "journalName": "Nature",
     "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-20T13:35:53.594Z",
+    "fetchedAt": "2026-08-21T13:34:53.193Z",
     "snippet": "",
     "tags": [
       "research",
@@ -34,71 +34,43 @@
     "isFeatured": true
   },
   {
-    "id": "0c67b5c9ffcc4bee",
-    "title": "ERFMTDA: Predicting tsRNA-disease associations using an enhanced rotative factorization machine.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42611903",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42611903",
+    "id": "3ac9c24db890556d",
+    "title": "Chronic stress-induced brain-derived small extracellular vesicles promote colorectal cancer through Treg differentiation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42625444",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42625444",
     "source": "pubmed",
-    "publicationName": "PLoS computational biology",
-    "journalName": "PLoS computational biology",
+    "publicationName": "Clinical and translational medicine",
+    "journalName": "Clinical and translational medicine",
     "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-20T13:35:53.594Z",
-    "snippet": "tRNA-derived small RNAs (tsRNAs) have emerged as a novel class of regulatory molecules implicated in the pathogenesis of numerous human diseases, positioning them as promising biomarkers and therapeutic targets. Existing computational methods provide a cost-effective alternative to experimental method, but they tend to ignore biological attributes and compl...",
+    "fetchedAt": "2026-08-21T13:34:53.193Z",
+    "snippet": "Chronic stress is increasingly recognised as a risk factor for poor prognosis in colorectal cancer (CRC) through sustained activation of the hypothalamic-pituitary-adrenal (HPA) axis and sympathetic nervous system, yet the mechanisms by which psychological stress signals are transmitted from the central nervous system to the peripheral tumour immune microen...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "9b01ac48abb826ab",
-    "title": "Survival of Colon Cancer in a Population-Based Cohort Study: A Comprehensive Analysis of Location of the Primary Tumor.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42618325",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42618325",
-    "source": "pubmed",
-    "publicationName": "Cancer medicine",
-    "journalName": "Cancer medicine",
-    "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-20T13:35:53.594Z",
-    "snippet": "Disparities in survival between left- versus right-sided colon cancer have been reported. We studied the role of sidedness on survival of colon cancer across tumor biomarkers subgroups in a population-based cohort established using the Geneva Cancer Registry database. Our study included 3503 colon cancer cases diagnosed between 1985 and 2013. Right-sided co...",
-    "tags": [
-      "research",
-      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
       "Biomarkers in oncology",
       "biomarker",
       "patient stratification",
       "oncology"
     ],
     "topicBuckets": [
-      "translational medicine",
-      "oncology"
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai",
+      "translational medicine"
     ],
     "isNewToday": false,
-    "importanceScore": 65,
     "importanceSignals": [
       "published this month",
-      "priority topic: translational medicine, oncology",
+      "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
+    "importanceScore": 75,
     "isFeatured": true
   }
 ]
