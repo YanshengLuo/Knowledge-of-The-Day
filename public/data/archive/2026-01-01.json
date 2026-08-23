@@ -1,5 +1,81 @@
 [
   {
+    "id": "dd6b423dd8e8ef73",
+    "title": "Multi-Omics Identification of UBE2C as a Prognostic Biomarker and Therapeutic Target Linked to Topotecan Sensitivity in Cervical Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42630722",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42630722",
+    "source": "pubmed",
+    "publicationName": "Oncology research",
+    "journalName": "Oncology research",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-23T13:22:15.438Z",
+    "snippet": ": Cervical squamous cell carcinoma and endocervical adenocarcinoma (CESC) necessitate the discovery of novel biomarkers for prognostic and therapeutic advancement. This study aims to evaluate the clinical significance of ubiquitin-conjugating enzyme E2C (UBE2C) and its association with the tumor microenvironment (TME) in CESC.: We meticulously sourced CESC....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "biomarker",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "translational medicine",
+      "spatial"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 68,
+    "isFeatured": true
+  },
+  {
+    "id": "f9147763b201b211",
+    "title": "SHAP-interpretable machine learning integrating exposures and multi-omics reveals immune alterations and biomarkers in COPD-lung cancer comorbidity.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42630541",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42630541",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-23T13:22:15.438Z",
+    "snippet": "Chronic obstructive pulmonary disease (COPD) and lung cancer (LC) frequently co-occur and share environmental and biological determinants, yet their cross-scale associations remain incompletely understood. Artificial intelligence and machine learning-based integration of exposome and multi-omics data provide new opportunities for dissecting this complex com...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "biomarker",
+      "machine learning"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "translational medicine",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
     "id": "c398901cac150104",
     "title": "From Germline Variants to Tumor Outcome: GWAS-Based Functional Genomics Prioritizes Colorectal Cancer Susceptibility Genes and Linksto Prognosis.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42626603",
@@ -8,7 +84,7 @@
     "publicationName": "Human mutation",
     "journalName": "Human mutation",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-22T13:21:51.791Z",
+    "fetchedAt": "2026-08-23T13:22:15.438Z",
     "snippet": "Genome-wide association studies (GWAS) have identified over 200 germline risk loci for colorectal cancer (CRC), yet the causal variants and genes behind most GWAS signals remain unknown and the link between inherited risk and tumor outcome is largely unexplored. Connecting germline single nucleotide polymorphisms (SNPs) to gene expression through expression...",
     "tags": [
       "research",
@@ -33,194 +109,16 @@
     "isFeatured": true
   },
   {
-    "id": "4166aee8d1f83571",
-    "title": "Assessment of gut microbiota dynamics and probiotic impact on HPV-associated head and neck cancer using 16S rRNA sequencing and cytokine profiling.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42626072",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42626072",
+    "id": "24b9dd8be726364b",
+    "title": "Tumor immunosenescence drives breast cancer progression and therapeutic resistance: mechanisms and emerging interventions.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42630932",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42630932",
     "source": "pubmed",
-    "publicationName": "Frontiers in cellular and infection microbiology",
-    "journalName": "Frontiers in cellular and infection microbiology",
+    "publicationName": "Frontiers in oncology",
+    "journalName": "Frontiers in oncology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-22T13:21:51.791Z",
-    "snippet": "Human papillomavirus (HPV) is a major etiological factor in head and neck cancers, primarily through the oncogenic activities of viral proteins E6 and E7, which disrupt the p53 and retinoblastoma (Rb) tumor suppressor pathways. This disruption promotes uncontrolled cell proliferation, immune dysregulation, chronic inflammation, and malignant transformation....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "e32a3681e8ec5d1d",
-    "title": "Unravelling the nexus of non-coding RNAs in cancer stemness and therapeutic drug resistance.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42625954",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42625954",
-    "source": "pubmed",
-    "publicationName": "Frontiers in cell and developmental biology",
-    "journalName": "Frontiers in cell and developmental biology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-22T13:21:51.791Z",
-    "snippet": "Cancer stem cells (CSCs) play a pivotal role in tumor initiation, progression, and therapy resistance. Emerging evidence suggests that non-coding RNAs (ncRNAs), including microRNAs (miRNAs) and long non-coding RNAs (lncRNAs), intricately regulate CSC properties. This article reviews current knowledge on the intricate interplay between ncRNAs, genetic and ep...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "3e782e9ec3017040",
-    "title": "CD161 serves as a prognostic biomarker and predicts immunotherapy response in head and neck squamous cell carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42630167",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42630167",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-22T13:21:51.791Z",
-    "snippet": "Despite advances in immune checkpoint inhibitors (ICIs), the prognosis of patients with head and neck squamous cell carcinoma (HNSCC) remains poor, and reliable biomarkers for predicting clinical outcomes are still lacking. CD161, a lectin-like receptor expressed on multiple T-cell subsets, has been reported to inhibit T-cell cytotoxicity; however, its prog...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "biomarker",
-      "immunotherapy",
-      "Biomarkers in oncology",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceSignals": [
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "importanceScore": 68,
-    "isFeatured": true
-  },
-  {
-    "id": "df22fcf85663fa2f",
-    "title": "Single-cell and spatial omics of metabolic-immune ecosystems in prostate cancer: from androgen signaling to therapy resistance.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42626336",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42626336",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-22T13:21:51.791Z",
-    "snippet": "Prostate cancer is a hormone-driven malignancy, but its clinical behavior cannot be explained by androgen receptor (AR) signaling alone. Single-cell and spatial omics are redefining prostate cancer as an evolving metabolic-immune ecosystem in which malignant epithelial states, stromal niches, myeloid programs, T-cell exclusion, vascular remodeling, and trea...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "spatial",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "computational biology",
-      "spatial",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceSignals": [
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "importanceScore": 68,
-    "isFeatured": true
-  },
-  {
-    "id": "4575c3cf9f0b4ef0",
-    "title": "Correction: Single-cell profiling uncovers extracellular vesicle-associated malignant plasma cell subpopulations driving multiple myeloma progression.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42626103",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42626103",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-22T13:21:51.791Z",
-    "snippet": "[This corrects the article DOI: 10.3389/fimmu.2026.1848792.].",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 42,
-    "importanceSignals": [
-      "priority topic: oncology",
-      "high-signal source",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "3578e919c82c3f78",
-    "title": "Mutation-Immune Crosstalk Contextualizes CAF-Associated ARPC1A Programs and Cisplatin Response in Gastric Cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42626030",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42626030",
-    "source": "pubmed",
-    "publicationName": "Human mutation",
-    "journalName": "Human mutation",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-22T13:21:51.791Z",
-    "snippet": "Cisplatin response in gastric cancer is shaped by malignant cell programs, stromal states, and mutation-immune crosstalk, but the CAF subtypes linked to platinum tolerance and their epithelial effectors remain incompletely defined. We integrated single-cell RNA sequencing, epithelial CNV-like inference, fibroblast reclustering, CellChat analysis, signature....",
+    "fetchedAt": "2026-08-23T13:22:15.438Z",
+    "snippet": "Breast cancer remains the most frequently diagnosed malignancy and a leading cause of cancer-related mortality among women worldwide. While immune checkpoint inhibitors have transformed treatment for a subset of patients, durable responses remain limited, in part because the tumor immune microenvironment is profoundly shaped by age-associated immune decline...",
     "tags": [
       "research",
       "pubmed",
@@ -245,16 +143,16 @@
     "isFeatured": true
   },
   {
-    "id": "e542789f966d6a53",
-    "title": "UNC93B1 drives IL-6/STAT3-dependent tumor-macrophage crosstalk and epithelial-mesenchymal transition in breast cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42625743",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42625743",
+    "id": "c111db9a0f3a7cc9",
+    "title": "Long non-coding RNAs in glioblastoma: from molecular drivers to therapeutic targets.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42630738",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42630738",
     "source": "pubmed",
-    "publicationName": "Frontiers in pharmacology",
-    "journalName": "Frontiers in pharmacology",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-22T13:21:51.791Z",
-    "snippet": "Lipid metabolic reprogramming is increasingly recognized as a driver of breast cancer progression; however, how lipid metabolism-associated risk states are translated into immune remodeling and epithelial-mesenchymal transition (EMT) remains unclear. This study aimed to identify a lipid metabolism-related regulator that mediates tumor-macrophage crosstalk a...",
+    "fetchedAt": "2026-08-23T13:22:15.438Z",
+    "snippet": "Glioblastoma (GBM) is the most aggressive primary malignant brain tumor in adults and remains associated with poor clinical outcomes despite advances in surgical resection, radiotherapy, and temozolomide-based chemotherapy. Its remarkable molecular heterogeneity, highly immunosuppressive tumor microenvironment, and intrinsic therapeutic resistance continue....",
     "tags": [
       "research",
       "pubmed",
@@ -267,7 +165,7 @@
       "oncology",
       "immunology",
       "ai",
-      "computational biology"
+      "translational medicine"
     ],
     "isNewToday": false,
     "importanceScore": 68,
@@ -280,6 +178,184 @@
     "isFeatured": true
   },
   {
+    "id": "1bdba3bb9a7902be",
+    "title": "The impact of SGLT2 inhibitors on uric acid levels in patients with heart failure with preserved ejection fraction: integration of mechanisms and clinical evidence.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42630837",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42630837",
+    "source": "pubmed",
+    "publicationName": "Frontiers in cardiovascular medicine",
+    "journalName": "Frontiers in cardiovascular medicine",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-23T13:22:15.438Z",
+    "snippet": "Hyperuricemia (HUA) is a prevalent comorbidity in patients with heart failure with preserved ejection fraction (HFpEF) and is closely associated with disease progression and adverse outcomes. Sodium-glucose cotransporter 2 (SGLT2) inhibitors can rapidly and sustainably reduce serum uric acid (SUA) levels and lower the incidence of HUA-related clinical event...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "f542cc733010b573",
+    "title": "The Double-Edged Sword of Genomic DNA Methylation: Orchestrating Gastric Carcinogenesis and Shaping Precision Oncology.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42630696",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42630696",
+    "source": "pubmed",
+    "publicationName": "Oncology research",
+    "journalName": "Oncology research",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-23T13:22:15.438Z",
+    "snippet": "This article systematically elaborates on the dual role of DNA methylation in the initiation and progression of gastric cancer and its potential clinical applications in precision oncology. As a core epigenetic mechanism, DNA methylation drives the multistage development of gastric cancer through the coordinated dysregulation of genome-wide hypomethylation....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "oncology",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: gene therapy, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "197a6d50733cb4cd",
+    "title": "Pediatric leukemia: origins, pathogenesis, the role of microenvironment and immunological modulation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42630543",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42630543",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-23T13:22:15.438Z",
+    "snippet": "Leukemia remains the most commonly diagnosed pediatric cancer worldwide. Over the last decade, advances in therapy have significantly improved survival rates; however, treatment outcomes are still unsatisfactory for many patients. Further progress requires a comprehensive understanding of disease biology, including the hematopoietic process, mechanisms of l...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "8e7789ab14fec8a9",
+    "title": "Pediatric dilated cardiomyopathy and the progression to heart failure: mechanisms and interventions focusing on the \"gene-inflammation-metabolism\" axis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42630442",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42630442",
+    "source": "pubmed",
+    "publicationName": "Frontiers in cardiovascular medicine",
+    "journalName": "Frontiers in cardiovascular medicine",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-23T13:22:15.438Z",
+    "snippet": "Dilated cardiomyopathy (DCM) is the most common cardiomyopathy in children and a leading indication for heart transplantation. Despite considerable progress in understanding its genetic architecture, translating these insights into improved outcomes for children remains challenging. The pathophysiology of pediatric dilated cardiomyopathy is highly complex,....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "df22fcf85663fa2f",
+    "title": "Single-cell and spatial omics of metabolic-immune ecosystems in prostate cancer: from androgen signaling to therapy resistance.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42626336",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42626336",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-23T13:22:15.438Z",
+    "snippet": "Prostate cancer is a hormone-driven malignancy, but its clinical behavior cannot be explained by androgen receptor (AR) signaling alone. Single-cell and spatial omics are redefining prostate cancer as an evolving metabolic-immune ecosystem in which malignant epithelial states, stromal niches, myeloid programs, T-cell exclusion, vascular remodeling, and trea...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "single-cell",
+      "spatial"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "ai",
+      "single-cell",
+      "translational medicine",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
     "id": "44a81170e3676cb9",
     "title": "Integrative single-cell eQTL and multi-omics analyses reveal AIM1 and ANXA1 as immune-related hub genes and potential therapeutic targets in head and neck cancer.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42625604",
@@ -288,7 +364,7 @@
     "publicationName": "Frontiers in oncology",
     "journalName": "Frontiers in oncology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-22T13:21:51.791Z",
+    "fetchedAt": "2026-08-23T13:22:15.438Z",
     "snippet": "Head and neck cancer (HNC) is characterized by substantial immune heterogeneity and limited availability of clinically actionable molecular targets. Here, we developed an integrative single-cell eQTL-driven multi-omics framework to identify immune cell-specific causal genes and prioritize drug-repurposing candidates for HNC. Single-cell eQTL data from the O...",
     "tags": [
       "research",
@@ -311,6 +387,40 @@
     "importanceScore": 68,
     "importanceSignals": [
       "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "8cb7f161f2d5dc66",
+    "title": "MCV-Neutropenia Risk Score and Overall Survival in HR+/HER2- Advanced Breast Cancer: A Multicenter Retrospective Landmark Analysis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42633419",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42633419",
+    "source": "pubmed",
+    "publicationName": "Breast cancer (Dove Medical Press)",
+    "journalName": "Breast cancer (Dove Medical Press)",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-23T13:22:15.438Z",
+    "snippet": "Predicting long-term benefit from CDK4/6 inhibitors in HR+/HER2- advanced breast cancer remains challenging in routine clinical practice. We evaluated whether a simple composite index integrating early neutropenia and mean corpuscular volume change, termed the MCV-Neutropenia Risk Score (MNRS), could improve early prognostic stratification. In this multicen...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
