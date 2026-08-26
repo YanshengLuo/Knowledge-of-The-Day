@@ -1,32 +1,33 @@
 [
   {
-    "id": "8b186d90253f8ed5",
-    "title": "Hashimoto's thyroiditis influences tumor cell states and intratumoral microbiota in papillary thyroid carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42633169",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42633169",
+    "id": "53d4134ebc571c20",
+    "title": "ReliST: A model-agnostic risk layer for spatial transcriptomics deconvolution.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42643167",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42643167",
     "source": "pubmed",
     "publicationName": "iScience",
     "journalName": "iScience",
     "publishedAt": "2026-09-18T00:00:00.000Z",
-    "fetchedAt": "2026-08-24T13:39:32.118Z",
-    "snippet": "Hashimoto's thyroiditis is associated with reduced lymph node metastasis in papillary thyroid carcinoma, suggesting that the autoimmune microenvironment may influence tumor progression. We utilized single-cell RNA sequencing and intratumoral 16S ribosomal RNA gene sequencing to investigate malignant epithelial cell states and microbial features in PTC with....",
+    "fetchedAt": "2026-08-26T13:42:17.223Z",
+    "snippet": "Spatial transcriptomics deconvolution maps cell-type abundance across tissue, but most outputs do not indicate which local predictions can be trusted. We developed ReliST, a model-agnostic risk layer that preserves base predictions while assigning spot-level risk from output ambiguity, local inconsistency, and reference-related evidence. We evaluated ReliST...",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "spatial"
     ],
     "topicBuckets": [
-      "single-cell",
+      "spatial",
       "oncology",
-      "immunology"
+      "computational biology"
     ],
     "isNewToday": false,
-    "importanceScore": 72,
+    "importanceScore": 82,
     "importanceSignals": [
       "very recent",
-      "priority topic: oncology",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"

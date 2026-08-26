@@ -1,30 +1,32 @@
 [
   {
-    "id": "6cdb6d909e9fcd9b",
-    "title": "Discovering reference-missing cell types in bulk transcriptomics.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42635234",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42635234",
+    "id": "d50d969f426b7be1",
+    "title": "Single-Cell Glycomics of the Pancreatic Tumor Microenvironment: Technologies, Glyco-Immune Checkpoints, and Tumor-Immune Communication.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42640583",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42640583",
     "source": "pubmed",
-    "publicationName": "Bioinformatics (Oxford, England)",
-    "journalName": "Bioinformatics (Oxford, England)",
+    "publicationName": "Advanced biology",
+    "journalName": "Advanced biology",
     "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-25T13:37:49.904Z",
-    "snippet": "Bulk RNA-seq deconvolution methods rely on single-cell reference data to estimate cell-type proportions in heterogeneous tissues, but certain cell types may be systematically absent from single-cell references due to technical limitations such as poor dissociation efficiency, low capture rates, or cell fragility. While recent studies have shown that signatu...",
+    "fetchedAt": "2026-08-26T13:42:17.223Z",
+    "snippet": "In this Review, we summarize recent conceptual and technological advances in single-cell glycomics, with a particular focus on emerging strategies that enable glycan-resolved analysis of tumor-immune interactions. We highlight single-cell glycan and RNA sequencing (scGR-seq), a methodology that converts glycan information into amplifiable nucleic acid signa...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
-      "oncology"
+      "oncology",
+      "single-cell",
+      "Single-cell TME",
+      "tumor microenvironment"
     ],
     "topicBuckets": [
       "computational biology",
       "oncology",
-      "ai",
-      "single-cell"
+      "single-cell",
+      "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
       "priority topic: computational biology, oncology",
@@ -32,106 +34,72 @@
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
-  },
-  {
-    "id": "351a55b506db2e00",
-    "title": "Structure-conditioned self-supervised learning of residue interaction constraints in protein kinases for variant interpretation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42635230",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42635230",
-    "source": "pubmed",
-    "publicationName": "Bioinformatics (Oxford, England)",
-    "journalName": "Bioinformatics (Oxford, England)",
-    "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-25T13:37:49.904Z",
-    "snippet": "Protein kinases are key regulators of cellular signaling and are frequently implicated in human diseases. Although kinase domains are structurally conserved, predicting the effects of amino acid substitutions remains challenging as mutations often introduce subtle structural perturbations that are not captured by sequence-based or evolutionary methods. Exis...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "285052c50f1037b8",
-    "title": "Informing agent-based models with spatial data using convolutional autoencoders.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42635223",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42635223",
-    "source": "pubmed",
-    "publicationName": "Bioinformatics (Oxford, England)",
-    "journalName": "Bioinformatics (Oxford, England)",
-    "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-25T13:37:49.904Z",
-    "snippet": "Spatial computational models such as agent-based models (ABMs) offer powerful in silico tools to study tumor dynamics, yet imaging data are still rarely used to inform these models directly. We present an ABM optimization framework that leverages convolutional encoders to compare spatial patterns between experimental imaging data and ABM-generated outputs w...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology",
-      "spatial"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology"
-    ],
-    "isNewToday": false,
     "importanceScore": 65,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
+    "isFeatured": true
   },
   {
-    "id": "c2c3f2073a0facaa",
-    "title": "Knowledge-guided learning with curated prior genetic biomarkers for robust model interpretation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42635212",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42635212",
+    "id": "d4d3a29c21657874",
+    "title": "Unraveling Neurodegeneration: Common Molecular Mechanisms and Novel Therapeutic Concepts in Major Neurodegenerative Disorders.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42642835",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42642835",
     "source": "pubmed",
-    "publicationName": "Bioinformatics (Oxford, England)",
-    "journalName": "Bioinformatics (Oxford, England)",
+    "publicationName": "Brain and behavior",
+    "journalName": "Brain and behavior",
     "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-25T13:37:49.904Z",
-    "snippet": "Knowledge-guided learning offers effective and robust model training strategies in data-scarce settings by incorporating established domain knowledge, thereby enhancing generalization, robustness, and interpretability. By contrast, conventional deep learning approaches rely purely on data-driven learning, which can limit robust model interpretability, parti...",
+    "fetchedAt": "2026-08-26T13:42:17.223Z",
+    "snippet": "Although Alzheimer's disease (AD), Parkinson's disease (PD), amyotrophic lateral sclerosis (ALS), multiple sclerosis (MS), and Huntington's disease (HD) present with markedly different clinical phenotypes, these neurodegenerative diseases (NDDs) appear to converge on a shared set of underlying molecular disturbances. This review sought to integrate disease-...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology",
-      "biomarker"
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
     ],
     "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai",
+      "gene therapy",
+      "immunology",
       "translational medicine"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
+    "importanceScore": 65,
     "importanceSignals": [
       "published this month",
-      "priority topic: computational biology, oncology",
+      "priority topic: gene therapy, translational medicine",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "85522f5830ad68ae",
+    "title": "Antihypertensive effect of acupuncture involve reshaping gut microbiota and alleviating gut inflammation in spontaneously hypertensive rats.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42639775",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42639775",
+    "source": "pubmed",
+    "publicationName": "Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan",
+    "journalName": "Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan",
+    "publishedAt": "2026-08-01T00:00:00.000Z",
+    "fetchedAt": "2026-08-26T13:42:17.223Z",
+    "snippet": "To investigate the antihypertensive effect and mechanism of acupuncture at Renying (ST9) and Zusanli (ST36) from the perspective of gut microbiota. Eighteen male spontaneously hypertensive rats (SHRs) were randomly divided into the SHR group, the acupuncture group (SHR + A), the sham acupuncture group (SHR + SA), and six Wistar-Kyoto rats were set up as the...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 55,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: gene therapy",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -139,146 +107,34 @@
     "isFeatured": false
   },
   {
-    "id": "2cd1bce3fa97bb93",
-    "title": "SPP1-driven spatial niche remodelling defines aggressive progression in the basal subtype of upper tract urothelial carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42634597",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42634597",
+    "id": "83f55895600c0cf1",
+    "title": "Electroacupuncture alleviates intestinal inflammation in rats with ulcerative colitis by regulating colonic cell autophagy and gut microbiota.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42639774",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42639774",
     "source": "pubmed",
-    "publicationName": "Clinical and translational medicine",
-    "journalName": "Clinical and translational medicine",
+    "publicationName": "Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan",
+    "journalName": "Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan",
     "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-25T13:37:49.904Z",
-    "snippet": "Upper tract urothelial carcinoma (UTUC) is a rare, aggressive malignancy representing 5%&#x2012;10% of urothelial carcinomas. Its basal subtype remains understudied but is preferentially associated with muscle invasion and poorer disease-specific survival (DSS). Although the genomic landscape of UTUC has been extensively profiled, current bulk transcriptomi...",
+    "fetchedAt": "2026-08-26T13:42:17.223Z",
+    "snippet": "To investigate the effects of electroacupuncture (EA) on autophagy and gut microbiota homeostasis in a dextran sulfate sodium (DSS)-induced rat model of ulcerative colitis (UC). UC rats received EA treatment, and efficacy was evaluated by disease activity index (DAI), colon length, serum cytokines, and histopathology. Autophagy was assessed by transmission....",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "spatial",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
     ],
     "topicBuckets": [
-      "single-cell",
-      "oncology",
+      "gene therapy",
       "immunology",
-      "ai",
-      "spatial",
-      "computational biology"
-    ],
-    "isNewToday": false,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "importanceScore": 75,
-    "isFeatured": true
-  },
-  {
-    "id": "e4679b902cda50d7",
-    "title": "SPIDER: spatially integrated denoising via embedding regularization with single cell supervision.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42635216",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42635216",
-    "source": "pubmed",
-    "publicationName": "Bioinformatics (Oxford, England)",
-    "journalName": "Bioinformatics (Oxford, England)",
-    "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-25T13:37:49.904Z",
-    "snippet": "Spatial transcriptomics (ST) technologies profile gene expression while preserving tissue architecture, enabling the study of spatial cellular organization and microenvironmental interactions. However, raw ST data are heavily affected by technical noise, sparsity, and dropout events, which obscure true biological signals and hinder downstream analyses. Whil...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "spatial"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "single-cell"
-    ],
-    "isNewToday": false,
-    "importanceScore": 65,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "81b987ef7e88b212",
-    "title": "SlotDeconv: spatial transcriptomics deconvolution via diversity-constrained prototype learning and spatial refinement.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42635200",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42635200",
-    "source": "pubmed",
-    "publicationName": "Bioinformatics (Oxford, England)",
-    "journalName": "Bioinformatics (Oxford, England)",
-    "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-25T13:37:49.904Z",
-    "snippet": "Spatial transcriptomics (ST) measures gene expression in intact tissues. In spot-based ST assays, each spot can contain mixtures of multiple cell types. Deconvolution is particularly challenging when closely related cell subtypes share highly similar expression profiles and when spatial context is underutilized during proportion estimation. We present SlotD...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "spatial"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
       "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "e9363ed5ba09e577",
-    "title": "MEIS1::NCOA2 Rearranged Spindle Cell Neoplasm of Vulva With Unusual Low-Grade Morphology.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42629629",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42629629",
-    "source": "pubmed",
-    "publicationName": "Genes, chromosomes & cancer",
-    "journalName": "Genes, chromosomes & cancer",
-    "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-25T13:37:49.904Z",
-    "snippet": "MEIS1::NCOA2 is a recurrent gene fusion that has been predominantly identified in primitive sarcomas arising within the genitourinary and gynecological tracts. Since its initial description in 2018, an increasing number of cases have been reported, further defining the clinicopathological spectrum of this entity. We report a case of an MEIS1::NCOA2-rearrang...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology"
-    ],
-    "isNewToday": false,
     "importanceScore": 65,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology, computational biology",
+      "priority topic: gene therapy, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -286,34 +142,34 @@
     "isFeatured": true
   },
   {
-    "id": "3ca2bd83f466b0e7",
-    "title": "Pitfalls and Challenges in the Detection of ZNF384 Rearrangements by Fluorescence in Situ Hybridization.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42629621",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42629621",
+    "id": "9f8e00f213b462c2",
+    "title": "Jianchang No. 1 (1) formula alleviates irritable bowel syndrome with diarrhea improving gut microbiota and regulating toll-like receptors/nuclear factor-kappa B signaling pathway in bowel syndrome with diarrhea rats.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42639773",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42639773",
     "source": "pubmed",
-    "publicationName": "Genes, chromosomes & cancer",
-    "journalName": "Genes, chromosomes & cancer",
+    "publicationName": "Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan",
+    "journalName": "Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan",
     "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-25T13:37:49.904Z",
-    "snippet": "Fusion genes involving ZNF384 define a rare subtype of B-cell acute lymphoblastic leukemia with favorable to intermediate outcomes. ZNF384 rearrangements (ZNF384-r) with diverse partner genes are often cryptic, making whole-transcriptome sequencing (RNA-seq) the most sensitive technique for their detection. For patient screening and routine diagnostics, flu...",
+    "fetchedAt": "2026-08-26T13:42:17.223Z",
+    "snippet": "To evaluate the therapeutic efficacy of Jianchang No. 1 (1) in treating irritable bowel syndrome with diarrhea (IBS-D) and to explore its underlying mechanisms of action. IBS-D rat models were established through a combination of chronic restraint stress, water avoidance stress, and the administration of senna decoction. Body weight, fecal water content (FW...",
     "tags": [
       "research",
       "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
     ],
     "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "immunology"
+      "gene therapy",
+      "immunology",
+      "ai"
     ],
     "isNewToday": false,
     "importanceScore": 65,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology, computational biology",
+      "priority topic: gene therapy, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -321,16 +177,16 @@
     "isFeatured": true
   },
   {
-    "id": "23c40898b301a688",
-    "title": "Association of Combined MET/HGF Expression With the Colorectal Cancer Immune Microenvironment: An Integrated Immunohistochemical and Multi-Database Analysis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42638340",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42638340",
+    "id": "0f7940a1f44d6ae2",
+    "title": "Loss-of-Function Mutations in SWI/SNF Complexes Associated With Active Tumour Immune Microenvironment Clinical Response to Immune Checkpoint Blockade.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42642869",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42642869",
     "source": "pubmed",
-    "publicationName": "Cancer medicine",
-    "journalName": "Cancer medicine",
+    "publicationName": "Journal of cellular and molecular medicine",
+    "journalName": "Journal of cellular and molecular medicine",
     "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-25T13:37:49.904Z",
-    "snippet": "To validate c-MET protein expression in colorectal cancer (CRC) and assess whether joint MET and hepatocyte growth factor (HGF) transcript expression provides descriptive information on tumor microenvironment features beyond MET alone. c-MET protein expression was evaluated by immunohistochemistry in 51 paired CRC and adjacent tissues. The Cancer Genome Atl...",
+    "fetchedAt": "2026-08-26T13:42:17.223Z",
+    "snippet": "Chromatin remodelling SWI/SNF complexes are recurrently altered in malignancies, and some members were found to be associated with immune checkpoint blockade (ICB) response. However, it is unclear whether SWI/SNF complex genes as a collective factor have clinical relevance. Through pan-cancer analysis of 8507 tumours across 26 types from The Cancer Genome A...",
     "tags": [
       "research",
       "pubmed",
@@ -342,46 +198,10 @@
     "topicBuckets": [
       "translational medicine",
       "oncology",
-      "ai",
       "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "0a6fe5dc57354345",
-    "title": "Early death and early relapse in advanced ovarian cancer: distinct clinical phenotypes in the International SUROVA cohort.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42637597",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42637597",
-    "source": "pubmed",
-    "publicationName": "International journal of gynecological cancer : official journal of the International Gynecological Cancer Society",
-    "journalName": "International journal of gynecological cancer : official journal of the International Gynecological Cancer Society",
-    "publishedAt": "2026-08-01T00:00:00.000Z",
-    "fetchedAt": "2026-08-25T13:37:49.904Z",
-    "snippet": "Early adverse outcomes after treatment for advanced ovarian cancer are often grouped as early relapse or death, although these events may reflect distinct mechanisms. We aimed to characterize early failure phenotypes and develop pragmatic clinical tools to stratify the risk of early death and early relapse. This international multi-center real-world study i...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
+    "importanceScore": 65,
     "importanceSignals": [
       "published this month",
       "priority topic: translational medicine, oncology",
