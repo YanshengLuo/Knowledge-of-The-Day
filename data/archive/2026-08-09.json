@@ -1,73 +1,37 @@
 [
   {
-    "id": "27290991002aaa47",
-    "title": "AKAP12 as a signal-compartmentalizing Hub across diseases: Context-dependent functions and translational potential.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42571827",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42571827",
+    "id": "cff338eafb84cd57",
+    "title": "Integrative Analysis of Gene and Protein Expression Data Reveals Novel Clusters for Ovarian Cancer Prognosis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42653150",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42653150",
     "source": "pubmed",
-    "publicationName": "Cellular signalling",
-    "journalName": "Cellular signalling",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
     "publishedAt": "2026-08-09T00:00:00.000Z",
-    "fetchedAt": "2026-08-11T14:08:06.199Z",
-    "snippet": "A-kinase anchoring protein 12 (AKAP12; Gravin/SSeCKS) is a multidomain scaffold that coordinates spatially restricted signaling rather than acting as a single linear effector. By organizing protein kinase A (PKA), protein kinase C (PKC), phosphodiesterases (PDEs), proto-oncogenic non-receptor tyrosine kinase (Src)-related modules, and cytoskeleton- or adhes...",
+    "fetchedAt": "2026-08-27T22:39:20.064Z",
+    "snippet": "Ovarian cancer exhibits clinical heterogeneity; reliable prognostic stratification remains challenging despite extensive biomarker research. We performed an integrative analysis of transcriptomic and proteomic data to identify prognostically distinct molecular clusters in ovarian cancer. Using The Cancer Genome Atlas dataset, RNA sequencing and reverse-phas...",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
+      "Computational oncology",
+      "computational biology",
+      "oncology"
     ],
     "topicBuckets": [
-      "single-cell",
+      "computational biology",
       "oncology",
-      "immunology",
       "ai",
       "translational medicine"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
+    "importanceScore": 75,
     "importanceSignals": [
-      "recent",
-      "priority topic: oncology, ai",
+      "published this month",
+      "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
-  },
-  {
-    "id": "3c30406057fe031a",
-    "title": "Polymeric nanoparticle-mediated siRNA delivery into primary human bronchial airway cells.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42572107",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42572107",
-    "source": "pubmed",
-    "publicationName": "American journal of physiology. Cell physiology",
-    "journalName": "American journal of physiology. Cell physiology",
-    "publishedAt": "2026-08-09T00:00:00.000Z",
-    "fetchedAt": "2026-08-11T14:08:06.199Z",
-    "snippet": "Small interfering RNAs (siRNA) are powerful tools to target cellular protein expression, making them promising candidates for therapeutic applications. siRNA-based approaches to target detrimental mechanisms in airway diseases such as asthma and COPD are highly appealing. However, such delivery systems must be non-toxic, protect siRNAs from degradation and....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 72,
-    "importanceSignals": [
-      "recent",
-      "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
+    "isFeatured": false
   }
 ]
