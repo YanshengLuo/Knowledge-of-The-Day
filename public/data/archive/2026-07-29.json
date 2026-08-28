@@ -1,50 +1,56 @@
 [
   {
-    "id": "2a63049875919ed1",
-    "title": "Identifying Epithelial-Cell Progression Signatures (ECPSs) from Multi-Resolution Multi-Omics Data for Translational Clinical Applications in Lung Adenocarcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42589474",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42589474",
+    "id": "205a0d9cb5c7c3d3",
+    "title": "Single-cell profiling of natural killer/T-cell lymphoma reveals stratified immune features and potential therapeutic implications.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42660902",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42660902",
     "source": "pubmed",
-    "publicationName": "International journal of molecular sciences",
-    "journalName": "International journal of molecular sciences",
+    "publicationName": "Nature communications",
+    "journalName": "Nature communications",
     "publishedAt": "2026-07-29T00:00:00.000Z",
-    "fetchedAt": "2026-08-14T14:04:40.300Z",
-    "snippet": "Dynamic transcriptomic remodeling of epithelial cells represents a critical hallmark of lung adenocarcinoma (LUAD) progression, yet epithelial-cell progression signatures (ECPSs) linked to this process remain incompletely characterized, impeding our understanding of malignant LUAD transformation. Here, we performed a multi-resolution multi-omics study and i...",
+    "fetchedAt": "2026-08-28T22:44:46.655Z",
+    "snippet": "Tumor cell heterogeneity and interactions with the immune microenvironment play a key role in the progression and therapeutic efficacy of natural killer/T-cell lymphoma (NKTCL). We perform single-cell RNA sequencing analysis of 63 samples, integrating spatial transcriptomics, bulk transcriptomics, proteomics, and metabolomics to dissect inter- and intra-tum...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
-      "oncology"
+      "oncology",
+      "single-cell",
+      "Single-cell TME",
+      "tumor microenvironment",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
     ],
     "topicBuckets": [
       "computational biology",
       "oncology",
-      "ai",
-      "translational medicine"
+      "single-cell",
+      "spatial",
+      "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
     "importanceSignals": [
-      "published this month",
       "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": false
+    "importanceScore": 58,
+    "isFeatured": true
   },
   {
-    "id": "b0ca4a2b35259ce5",
-    "title": "Phylogeography of Bone Metastasis: Clonal Evolution, Skeletal Niche Adaptation, and Clinical Implications.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42589460",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42589460",
+    "id": "ef84eaf758ee7583",
+    "title": "Multi-omic analysis of androgen-deprived human testes reveals Sertoli cell regulation and niche reprogramming.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42660954",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42660954",
     "source": "pubmed",
-    "publicationName": "International journal of molecular sciences",
-    "journalName": "International journal of molecular sciences",
+    "publicationName": "Nature communications",
+    "journalName": "Nature communications",
     "publishedAt": "2026-07-29T00:00:00.000Z",
-    "fetchedAt": "2026-08-14T14:04:40.300Z",
-    "snippet": "Bone metastasis is often treated clinically as a late complication of advanced cancer, yet accumulating evidence indicates that it is also a spatial evolutionary process shaped by clonal selection, niche adaptation, dormancy, and reseeding. This review examines BoM through a phylogeographic framework that links tumor ancestry with anatomical location and ti...",
+    "fetchedAt": "2026-08-28T22:44:46.655Z",
+    "snippet": "Testis development and male fertility depend on androgens, yet the mechanisms underlying their regulation of adult human testicular function remain poorly defined due to ethical and technical constraints. To address this, we leverage androgen-deprived adult human testes as a spontaneous model and construct a comprehensive multi-omics atlas integrating singl...",
     "tags": [
       "research",
       "pubmed",
@@ -56,17 +62,16 @@
       "spatial",
       "oncology",
       "computational biology",
-      "translational medicine"
+      "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
+    "importanceScore": 68,
     "importanceSignals": [
-      "published this month",
       "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": false
+    "isFeatured": true
   }
 ]

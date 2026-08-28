@@ -8,35 +8,31 @@
     "publicationName": "International journal of molecular sciences",
     "journalName": "International journal of molecular sciences",
     "publishedAt": "2026-08-13T00:00:00.000Z",
-    "fetchedAt": "2026-08-27T22:39:20.064Z",
+    "fetchedAt": "2026-08-28T22:44:46.655Z",
     "snippet": "Colorectal cancer progression and therapeutic response are determined not only by tumor-intrinsic programs but also by neural, stromal, and immune components of the tumor microenvironment. However, biologically interpretable transcriptomic scores that jointly capture neural/stromal remodeling and immune activation remain limited. We developed a neuro-immune...",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
       "Spatial oncology",
       "spatial transcriptomics",
       "cancer"
     ],
     "topicBuckets": [
-      "single-cell",
+      "spatial",
       "oncology",
-      "immunology",
-      "ai",
       "computational biology",
-      "spatial"
+      "ai",
+      "immunology"
     ],
     "isNewToday": false,
+    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology, ai",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 75,
     "isFeatured": false
   },
   {
@@ -48,7 +44,7 @@
     "publicationName": "Current issues in molecular biology",
     "journalName": "Current issues in molecular biology",
     "publishedAt": "2026-08-13T00:00:00.000Z",
-    "fetchedAt": "2026-08-27T22:39:20.064Z",
+    "fetchedAt": "2026-08-28T22:44:46.655Z",
     "snippet": "Antibody-drug conjugates (ADCs) targeting HER2 (encoded by), Trop2 (), and Nectin-4 () have demonstrated clinical activity in bladder cancer. However, the co-expression relationships among these three targets at both the transcriptomic and protein levels, and their spatial organization within the tumor microenvironment, remain incompletely characterized. To...",
     "tags": [
       "research",
@@ -63,42 +59,6 @@
       "computational biology",
       "ai",
       "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "4a6b075d37a1ea59",
-    "title": "DSG2 Expression Marks a Stromal-Immune Organizational State in Head and Neck Squamous Cell Carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42649925",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42649925",
-    "source": "pubmed",
-    "publicationName": "Cancers",
-    "journalName": "Cancers",
-    "publishedAt": "2026-08-13T00:00:00.000Z",
-    "fetchedAt": "2026-08-27T22:39:20.064Z",
-    "snippet": "Immune exclusion in head and neck squamous cell carcinoma (HNSCC) limits immunotherapy efficacy, yet the molecular determinants of stromal-immune organization remain incompletely characterized. The desmosomal cadherin DSG2 is highly expressed in squamous epithelium; its role in shaping the tumor microenvironment (TME) is unknown. We integrated bulk RNA-seq....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "ai",
-      "immunology"
     ],
     "isNewToday": false,
     "importanceScore": 75,
