@@ -1,73 +1,5 @@
 [
   {
-    "id": "af27fb6032042aa2",
-    "title": "Charting host structural variations in cervical cancer by long-read sequencing pinpoints a functional deletion in PIAS1.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42669360",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42669360",
-    "source": "pubmed",
-    "publicationName": "Genomics",
-    "journalName": "Genomics",
-    "publishedAt": "2026-08-30T00:00:00.000Z",
-    "fetchedAt": "2026-08-31T19:15:37.489Z",
-    "snippet": "Host structural variations (SVs) are critical in cancer development but their landscape and interaction with HPV integration in cervical carcinogenesis remain unclear. In this study, we performed Nanopore long-read sequencing on five HPV-positive cervical cancer tissues and two cell lines to profile host SVs. We identified thousands of SVs and statistically...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 92,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "aaede664d0635ed1",
-    "title": "Research Progress in Metabolomics for Thyroid Cancer Diagnosis and Treatment.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42660840",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42660840",
-    "source": "pubmed",
-    "publicationName": "Zhongguo yi xue ke xue yuan xue bao. Acta Academiae Medicinae Sinicae",
-    "journalName": "Zhongguo yi xue ke xue yuan xue bao. Acta Academiae Medicinae Sinicae",
-    "publishedAt": "2026-08-30T00:00:00.000Z",
-    "fetchedAt": "2026-08-31T19:15:37.489Z",
-    "snippet": "Thyroid cancer &#xff08;TC&#xff09; is one of the most common endocrine malignancies with high incidence and heterogeneity.Its diagnosis mainly relies on ultrasound-guided fine-needle aspiration biopsy&#xff0c;while it still fails to give a definitive diagnosis in 15%-30% of lesions&#xff0c;leading to a large number of unnecessary repeat biopsies and surgical p...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 92,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
     "id": "d64fa59cd2ac3daf",
     "title": "Single-cell and spatial transcriptomic profiling identifies a fibroblast-like endothelial state and the MDK-NCL signaling axis in prostate cancer microenvironment remodeling.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42669284",
@@ -76,70 +8,30 @@
     "publicationName": "Translational oncology",
     "journalName": "Translational oncology",
     "publishedAt": "2026-08-30T00:00:00.000Z",
-    "fetchedAt": "2026-08-31T19:15:37.489Z",
+    "fetchedAt": "2026-09-01T16:59:49.204Z",
     "snippet": "Prostate cancer exhibits substantial microenvironmental heterogeneity, but endothelial plasticity and its clinical relevance remain insufficiently characterized. In this study, we integrated single-cell RNA sequencing, spatial transcriptomic data, and bulk transcriptomic cohorts to investigate endothelial heterogeneity in prostate cancer. Single-cell analys...",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "spatial",
       "Spatial oncology",
       "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
+      "cancer",
       "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "computational biology",
-      "translational medicine",
       "spatial"
     ],
-    "isNewToday": false,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "importanceScore": 92,
-    "isFeatured": true
-  },
-  {
-    "id": "7f06727892918cc0",
-    "title": "Multi-omics, machine learning, and molecular simulation identify CD44 as a candidate target in endocrine-disrupting chemical-associated thyroid cancer progression.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42669107",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42669107",
-    "source": "pubmed",
-    "publicationName": "Molecular diversity",
-    "journalName": "Molecular diversity",
-    "publishedAt": "2026-08-30T00:00:00.000Z",
-    "fetchedAt": "2026-08-31T19:15:37.489Z",
-    "snippet": "Endocrine-disrupting chemicals (EDCs) are widely present in the environment and consumer products and may disturb thyroid hormone homeostasis. However, the molecular mechanisms linking EDC exposure to thyroid cancer progression remain unclear. This study integrated toxicity prediction, toxicogenomics, transcriptomic analysis, machine learning, molecular sim...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "machine learning"
-    ],
     "topicBuckets": [
-      "single-cell",
+      "spatial",
       "oncology",
-      "immunology",
+      "computational biology",
       "ai",
-      "computational biology"
+      "single-cell",
+      "translational medicine"
     ],
     "isNewToday": false,
-    "importanceScore": 92,
+    "importanceScore": 82,
     "importanceSignals": [
-      "very recent",
-      "priority topic: oncology, ai",
+      "recent",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -155,7 +47,7 @@
     "publicationName": "Molecular carcinogenesis",
     "journalName": "Molecular carcinogenesis",
     "publishedAt": "2026-08-30T00:00:00.000Z",
-    "fetchedAt": "2026-08-31T19:15:37.489Z",
+    "fetchedAt": "2026-09-01T16:59:49.204Z",
     "snippet": "Previous genome-wide association studies have identified more than 400 prostate cancer (PCa) susceptibility loci. However, the tissue and spatial epithelial contexts through which inherited PCa risk may operate in the normal prostate remain incompletely understood. We analyzed normal human prostate spatial transcriptomic data using a gsMap-based framework t...",
     "tags": [
       "research",
@@ -172,149 +64,10 @@
       "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 92,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "48d11e300d2a4b2a",
-    "title": "Ivonescimab in combination with chemotherapy in advanced or metastatic gastric cancer (GC) or esophagogastric junction cancer (EGJC): The UCGI 52 - GRACIE trial.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42669571",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42669571",
-    "source": "pubmed",
-    "publicationName": "Digestive and liver disease : official journal of the Italian Society of Gastroenterology and the Italian Association for the Study of the Liver",
-    "journalName": "Digestive and liver disease : official journal of the Italian Society of Gastroenterology and the Italian Association for the Study of the Liver",
-    "publishedAt": "2026-08-30T00:00:00.000Z",
-    "fetchedAt": "2026-08-31T19:15:37.489Z",
-    "snippet": "While the addition of Ivonescimab to chemotherapy has demonstrated promising results in non-small cell lung cancer compared with chemotherapy alone, its efficacy as a first- or second-line treatment in advanced/metastatic gastric cancer remains to be established. GRACIE aims to evaluate the efficacy and safety of Ivonescimab combined with FOLFOX chemotherap...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 92,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "2fc41a1cf8b176f8",
-    "title": "CX3CL1/CX3CR1 signaling in spinal metastasis: mechanisms and translational opportunities.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42669113",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42669113",
-    "source": "pubmed",
-    "publicationName": "Clinical & experimental metastasis",
-    "journalName": "Clinical & experimental metastasis",
-    "publishedAt": "2026-08-30T00:00:00.000Z",
-    "fetchedAt": "2026-08-31T19:15:37.489Z",
-    "snippet": "Spinal metastases are a common and morbid complication of advanced malignancies. While vertebral involvement is often attributed to anatomical factors, emerging evidence implicates the chemokine CX3CL1 and its receptor in guiding tumor cells to the spine and reshaping the bone microenvironment. To systematically review the role of the CX3CL1/CX3CR1 axis in....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology"
-    ],
-    "isNewToday": false,
     "importanceScore": 82,
     "importanceSignals": [
-      "very recent",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "c96197959c1513ad",
-    "title": "Malignant potential of intraductal papillary mucinous neoplasm (IPMN) of the pancreas: imaging assessment of IPMN-derived cancer and concomitant pancreatic ductal adenocarcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42669110",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42669110",
-    "source": "pubmed",
-    "publicationName": "Japanese journal of radiology",
-    "journalName": "Japanese journal of radiology",
-    "publishedAt": "2026-08-30T00:00:00.000Z",
-    "fetchedAt": "2026-08-31T19:15:37.489Z",
-    "snippet": "The detection of pancreatic cystic lesions (PCLs) has increased markedly with the widespread use of cross-sectional imaging. Although the true proportion of intraductal papillary mucinous neoplasms (IPMNs) among PCLs remains uncertain, IPMN is considered to account for most PCLs and is a representative precursor lesion of pancreatic ductal adenocarcinoma (P...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 92,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "a7d6663005a1964a",
-    "title": "Safety of withdrawal of pharmacological treatment after recovery from HER2 therapy-related cardiac dysfunction: the HER-SAFE trial.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42669033",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42669033",
-    "source": "pubmed",
-    "publicationName": "European heart journal",
-    "journalName": "European heart journal",
-    "publishedAt": "2026-08-30T00:00:00.000Z",
-    "fetchedAt": "2026-08-31T19:15:37.489Z",
-    "snippet": "Heart failure therapy (HFT) is routinely continued in breast cancer survivors after recovery from anti-HER2 cancer therapy-related cardiac dysfunction (CTRCD), despite limited evidence. HER-SAFE is the first randomised trial to assess HFT withdrawal in this population. In this open-label, multicentre, randomised controlled trial, breast cancer survivors wit...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 92,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: translational medicine, oncology",
+      "recent",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
