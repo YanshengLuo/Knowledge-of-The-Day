@@ -1,5 +1,75 @@
 [
   {
+    "id": "19ee9c85f9d81fd2",
+    "title": "Mitochondrial DNA mutations are associated with impaired oxidative phosphorylation and enhanced imatinib response in chronic myeloid leukemia.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42707694",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42707694",
+    "source": "pubmed",
+    "publicationName": "HemaSphere",
+    "journalName": "HemaSphere",
+    "publishedAt": "2026-09-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-08T16:52:04.110Z",
+    "snippet": "Mitochondrial DNA (mtDNA) mutations are frequently observed in cancer, but their clinical and functional significance in chronic myeloid leukemia (CML) remains incompletely defined. Here, we show that a distinct mtDNA mutational landscape is associated with mitochondrial metabolic programs and response to imatinib therapy in CML. We performed comprehensive....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "8f06f0fd28c26fe4",
+    "title": "Quantile Tensor Regression for Integrative Genomic Analysis of Oesophageal Carcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42707043",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42707043",
+    "source": "pubmed",
+    "publicationName": "Statistics in medicine",
+    "journalName": "Statistics in medicine",
+    "publishedAt": "2026-09-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-08T16:52:04.110Z",
+    "snippet": "Recent integrative genomic studies have increasingly exploited the tensor structure of multi-omics data to develop statistical methods that jointly model the relationship between clinical outcomes and multiple genomes. However, genomic measurements and clinical outcomes are frequently contaminated by outliers or heavy-tailed noise, necessitating robust tens...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
     "id": "4c57333905ce648e",
     "title": "Dynamic multimodal survival prediction in multiple myeloma integrating gene expression, longitudinal laboratory measurements, and treatment history.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42704271",
@@ -8,7 +78,7 @@
     "publicationName": "Briefings in bioinformatics",
     "journalName": "Briefings in bioinformatics",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-07T17:57:27.453Z",
+    "fetchedAt": "2026-09-08T16:52:04.110Z",
     "snippet": "Prognostic stratification in multiple myeloma (MM) relies on staging systems fixed at diagnosis, discarding temporal information accumulated during treatment. We developed a dynamic multimodal framework that predicts residual overall survival from observation windows of 1-18&#xa0;months post-diagnosis. The model integrates DeepInsight-transformed gene expre...",
     "tags": [
       "research",
@@ -22,15 +92,15 @@
       "oncology"
     ],
     "isNewToday": false,
-    "importanceScore": 72,
+    "importanceScore": 65,
     "importanceSignals": [
-      "recent",
+      "published this month",
       "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": false
+    "isFeatured": true
   },
   {
     "id": "f38c73b1d4739a3a",
@@ -41,7 +111,7 @@
     "publicationName": "Briefings in bioinformatics",
     "journalName": "Briefings in bioinformatics",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-07T17:57:27.453Z",
+    "fetchedAt": "2026-09-08T16:52:04.110Z",
     "snippet": "Identifying essential biomarkers remains a core challenge in elucidating the pathogenic mechanisms and achieving precise diagnosis of complex diseases. Deep neural networks offer immense predictive power, yet their lack of interpretability severely limits downstream biological insight. Here, we introduce DeepVaris, an explainable deep learning framework tha...",
     "tags": [
       "research",
@@ -49,9 +119,7 @@
       "Computational oncology",
       "computational biology",
       "oncology",
-      "biomarker",
-      "Biomarkers in oncology",
-      "patient stratification"
+      "biomarker"
     ],
     "topicBuckets": [
       "computational biology",
@@ -60,14 +128,14 @@
       "translational medicine"
     ],
     "isNewToday": false,
+    "importanceScore": 75,
     "importanceSignals": [
-      "recent",
+      "published this month",
       "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 82,
     "isFeatured": true
   },
   {
@@ -79,33 +147,29 @@
     "publicationName": "European journal of immunology",
     "journalName": "European journal of immunology",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-07T17:57:27.453Z",
+    "fetchedAt": "2026-09-08T16:52:04.110Z",
     "snippet": "Small extracellular vesicles (sEV) released by T cells play a key role in immune regulation. Immune capture with anti-CD3 antibodies was used to isolate and study T cell-derived CD3(+)sEV from the plasma of patients with melanoma (MPs) or healthy donors (HDs). Functional responses induced in recipient target cells by CD3(+)sEV of MPs differed from responses...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
-      "oncology",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification"
+      "oncology"
     ],
     "topicBuckets": [
       "computational biology",
       "oncology",
-      "immunology",
-      "translational medicine"
+      "immunology"
     ],
     "isNewToday": false,
+    "importanceScore": 65,
     "importanceSignals": [
-      "recent",
+      "published this month",
       "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 82,
     "isFeatured": true
   },
   {
@@ -117,7 +181,7 @@
     "publicationName": "Cancer reports (Hoboken, N.J.)",
     "journalName": "Cancer reports (Hoboken, N.J.)",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-07T17:57:27.453Z",
+    "fetchedAt": "2026-09-08T16:52:04.110Z",
     "snippet": "Clear cell renal cell carcinoma (ccRCC) is hallmarked by profound metabolic reprogramming; however, its intricate crosstalk with the tumor immune microenvironment (TIME) and its clinical ramifications remain inadequately elucidated. This study aims to systematically decipher the metabolic-immune interplay in ccRCC through multi-omics integration, with the g...",
     "tags": [
       "research",
@@ -134,9 +198,9 @@
       "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
+    "importanceScore": 75,
     "importanceSignals": [
-      "recent",
+      "published this month",
       "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
@@ -145,122 +209,16 @@
     "isFeatured": true
   },
   {
-    "id": "29607f73b5f8e7ed",
-    "title": "Machine learning approaches for cancer prognosis and diagnosis via non-coding RNA: a comprehensive review.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42702370",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42702370",
+    "id": "5d6ac461ad9e2a0b",
+    "title": "HIV-1 integrase inhibitor resistance in viraemic-treated individuals and baseline capsid diversity relevant to future lenacapavir therapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42708709",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42708709",
     "source": "pubmed",
-    "publicationName": "Briefings in bioinformatics",
-    "journalName": "Briefings in bioinformatics",
+    "publicationName": "The Journal of antimicrobial chemotherapy",
+    "journalName": "The Journal of antimicrobial chemotherapy",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-07T17:57:27.453Z",
-    "snippet": "Non-coding RNAs (ncRNAs), once considered genomic dark matter, are now established as key regulators of gene expression with widespread roles in cellular homeostasis and disease. In cancer, ncRNA expression is frequently and systematically dysregulated, and many of these molecules circulate in stable, protected form within biofluids, offering a compelling b...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology",
-      "machine learning"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "04fd2c0afa799f87",
-    "title": "Oncogenic Mutations and Tumor Microenvironment Alterations in Diffuse Large B-Cell Lymphoma With Bulky Disease.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42702822",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42702822",
-    "source": "pubmed",
-    "publicationName": "Cancer medicine",
-    "journalName": "Cancer medicine",
-    "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-07T17:57:27.453Z",
-    "snippet": "Bulky disease represents a clinically aggressive subset of diffuse large B-cell lymphoma (DLBCL) associated with adverse clinical outcomes. The aim of this study was to investigate the influence of oncogenic mutations and tumor microenvironment alterations on bulky disease in DLBCL. We analyzed a cohort of 939 patients with newly diagnosed DLBCL. Using DNA....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "ba822ac48bbdb003",
-    "title": "Single-Cell Transcriptome of Anaplastic Thyroid Cancer Reveals Immunosuppressive Tumor Microenvironment Remodeling.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42702761",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42702761",
-    "source": "pubmed",
-    "publicationName": "Cancer medicine",
-    "journalName": "Cancer medicine",
-    "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-07T17:57:27.453Z",
-    "snippet": "Anaplastic thyroid cancer (ATC) is a rare but extremely aggressive malignancy responsible for most thyroid cancer-related deaths. To elucidate molecular and immunological characteristics distinguishing ATC from aggressive papillary thyroid cancer (PTC), we performed single-cell RNA sequencing on three ATC and three lethal PTC samples. ATC tumor cells exhibi...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "computational biology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 72,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "b6ac7f5232c4435e",
-    "title": "Development and evaluation of lecithin-based andrographolide liposomal nanoparticles: pharmacokinetics and anti-inflammatory activity in a mouse model of house dust mite-induced allergic lung inflammation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42704253",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42704253",
-    "source": "pubmed",
-    "publicationName": "The Journal of pharmacy and pharmacology",
-    "journalName": "The Journal of pharmacy and pharmacology",
-    "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-07T17:57:27.453Z",
-    "snippet": "This study aimed to develop, characterize, and evaluate the efficacy of a soy lecithin-based formulation of AGP (Lipo-AGP) in Balb/c. Lipo-AGP was formulated using thin-film hydration. The formulation was characterized, followed by pharmacokinetic evaluation. A 14-day house dust mite (HDM)-induced lung inflammation model in BALB/c mice was used, comprising....",
+    "fetchedAt": "2026-09-08T16:52:04.110Z",
+    "snippet": "Dolutegravir (DTG)-based antiretroviral therapy has been widely adopted across sub-Saharan Africa, yet resistance pathways in non-B HIV-1 subtypes remain poorly defined. As lenacapavir (LEN), a long-acting capsid inhibitor, is introduced for prevention and treatment, characterizing baseline capsid variation alongside emerging integrase resistance is increas...",
     "tags": [
       "research",
       "pubmed",
@@ -272,13 +230,12 @@
     "topicBuckets": [
       "gene therapy",
       "immunology",
-      "ai",
-      "funding"
+      "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 72,
+    "importanceScore": 65,
     "importanceSignals": [
-      "recent",
+      "published this month",
       "priority topic: gene therapy, ai",
       "high-signal source",
       "rich summary",
@@ -287,16 +244,16 @@
     "isFeatured": true
   },
   {
-    "id": "636167d49234f977",
-    "title": "F-FDG PET/CT-based recurrence patterns and survival outcomes in esophageal carcinoma: a single center experience.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42704040",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42704040",
+    "id": "8172864e8e8554f3",
+    "title": "Immune Checkpoint Inhibitor Myocarditis and Myotoxicity.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42709038",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42709038",
     "source": "pubmed",
-    "publicationName": "Radiology and oncology",
-    "journalName": "Radiology and oncology",
+    "publicationName": "Circulation",
+    "journalName": "Circulation",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-07T17:57:27.453Z",
-    "snippet": "This study aimed to evaluate differences among three patient groups with suspected recurrent esophageal carcinoma, defined byF-fluorodeoxyglucose positron emission tomography/computed tomography (F-FDG PET/CT) findings, in quantitative and semiquantitative PET/CT parameters and serum tumor markers, and to assess their impact on progression-free survival (PF...",
+    "fetchedAt": "2026-09-08T16:52:04.110Z",
+    "snippet": "Immune checkpoint inhibitor (ICI)-associated myocarditis is uncommon but has been described as an important and potentially fatal complication of cancer treatment. Increasing evidence from a variety of data sources have reframed this complication as part of ICI-associated myotoxicity (ICI-M), a systemic cardiomuscular syndrome in which myocarditis, myositis...",
     "tags": [
       "research",
       "pubmed",
@@ -308,12 +265,12 @@
     "topicBuckets": [
       "translational medicine",
       "oncology",
-      "ai"
+      "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
+    "importanceScore": 65,
     "importanceSignals": [
-      "recent",
+      "published this month",
       "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
@@ -322,16 +279,16 @@
     "isFeatured": true
   },
   {
-    "id": "261081435f1e3654",
-    "title": "EPHA3, upregulated in high-risk histological subtypes of gastrointestinal stromal tumor, promotes GIST progression.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42704035",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42704035",
+    "id": "c329e89252b33d37",
+    "title": "Identification of Causal Plasma Proteins and Immune Mediators for Lung Cancer in Never-Smokers: A Large-Scale Integrative Analysis Combining Mendelian Randomization, Colocalization, and Mediation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42708309",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42708309",
     "source": "pubmed",
-    "publicationName": "Radiology and oncology",
-    "journalName": "Radiology and oncology",
+    "publicationName": "Current medicinal chemistry",
+    "journalName": "Current medicinal chemistry",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-07T17:57:27.453Z",
-    "snippet": "To explore the expression pattern and functional role of EPH receptor A3 (EPHA3) in high-risk gastrointestinal stromal tumors (GISTs) and its potential relevance to tumor progression. Immunohistochemical (IHC) analysis was performed to evaluate EPHA3 expression across a pilot cohort of clinical GIST specimens with different risk stratifications. The biologi...",
+    "fetchedAt": "2026-09-08T16:52:04.110Z",
+    "snippet": "As global smoking rates decline, Lung Cancer in Never-Smokers (LCINS) has emerged as a distinct and increasingly important clinical entity. However, its underlying pathogenesis remains poorly understood, highlighting the need to identify circulating molecular determinants and candidate biomarkers. Genetic instruments for plasma proteins were obtained from p...",
     "tags": [
       "research",
       "pubmed",
@@ -342,12 +299,14 @@
     ],
     "topicBuckets": [
       "translational medicine",
-      "oncology"
+      "oncology",
+      "ai",
+      "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 72,
+    "importanceScore": 75,
     "importanceSignals": [
-      "recent",
+      "published this month",
       "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",

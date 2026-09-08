@@ -1,37 +1,87 @@
 [
   {
-    "id": "c5d63ca58016ed64",
-    "title": "Targeting breast cancer stem cells by restoring RBM38 function: mechanism and protein delivery therapy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42681676",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42681676",
+    "id": "3f171f0a177ba9ae",
+    "title": "Enhancing pan-cancer spatial transcriptomics at single-cell resolution with stPainter.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42706255",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706255",
     "source": "pubmed",
-    "publicationName": "Biomarker research",
-    "journalName": "Biomarker research",
+    "publicationName": "Nature communications",
+    "journalName": "Nature communications",
     "publishedAt": "2026-08-10T00:00:00.000Z",
-    "fetchedAt": "2026-09-03T16:42:49.922Z",
-    "snippet": "Breast cancer stemness drives tumor progression and therapy resistance, yet the underlying mechanisms remain poorly understood. In this study, we observed that RBM38 expression gradually decreases during breast cancer progression in MMTV-PyMT transgenic mice. Using a model with targeted RBM38 expression in breast tissue, we found it suppressed tumor initiat...",
+    "fetchedAt": "2026-09-08T16:52:04.110Z",
+    "snippet": "Subcellular spatial transcriptomics can resolve tissue architecture at cellular scale, but sparse gene panels and limited detection sensitivity constrain downstream analysis. Existing enhancement methods often require tissue-matched single-cell RNA sequencing (scRNA-seq) references and dataset-specific retraining. Here we show that stPainter, a conditional....",
     "tags": [
       "research",
       "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "single-cell",
+      "spatial",
+      "Single-cell TME",
+      "tumor microenvironment",
       "Spatial oncology",
       "spatial transcriptomics",
       "cancer"
     ],
     "topicBuckets": [
-      "spatial",
-      "oncology",
       "computational biology",
-      "ai"
+      "oncology",
+      "ai",
+      "single-cell",
+      "spatial",
+      "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology, computational biology",
+      "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
+    "importanceScore": 75,
+    "isFeatured": true
+  },
+  {
+    "id": "c3a88b1532efedc6",
+    "title": "Immune niche composed of C1Qmacrophages/SFRP2CAFs/CD8T cells drives immunotherapy response in HER2-positive gastric cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42706281",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706281",
+    "source": "pubmed",
+    "publicationName": "Nature communications",
+    "journalName": "Nature communications",
+    "publishedAt": "2026-08-10T00:00:00.000Z",
+    "fetchedAt": "2026-09-08T16:52:04.110Z",
+    "snippet": "Human epidermal growth factor receptor 2 (HER2) expression is a distinctive feature of a subgroup of gastric cancer (GC) but the underpinning characteristics of the immune microenvironment and mechanisms remain unclear. In the study, spatial transcriptomics and single-cell RNA sequencing are used on treatment-na&#xef;ve HER2-positive and HER2-negative GC sp...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "immunotherapy",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai",
+      "computational biology",
+      "spatial"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 75,
     "isFeatured": true
   }
 ]
