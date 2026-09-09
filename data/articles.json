@@ -1,32 +1,35 @@
 [
   {
-    "id": "f974e95455b24ce7",
-    "title": "Synchronizing immunity and angiogenesis in lung adenocarcinoma: bridging biological synergy and clinical translation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42708433",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42708433",
+    "id": "51e9e4f87f906e2a",
+    "title": "In vivo genome-wide CRISPR screens identify FOXR1 as a suppressor of CD8T cell antitumor immunity.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42709802",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42709802",
     "source": "pubmed",
-    "publicationName": "Cancer biology & therapy",
-    "journalName": "Cancer biology & therapy",
-    "publishedAt": "2026-12-31T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "The recent study by Liu et al. provided compelling preclinical evidence that lenvatinib enhances the efficacy of combined radiotherapy and PD-L1 blockade by modulating both angiogenesis and antitumor immunity in lung adenocarcinoma. In this correspondence, I discuss the translational implications of these findings and highlight several challenges that shoul...",
+    "publicationName": "Proceedings of the National Academy of Sciences of the United States of America",
+    "journalName": "Proceedings of the National Academy of Sciences of the United States of America",
+    "publishedAt": "2026-09-15T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "T cell dysfunction critically limits the efficacy of T cell-based immunotherapies in solid tumors, yet the intrinsic regulators of T cell dysfunction remain incompletely understood. Through an in vivo genome-wide CRISPR screen in tumor-infiltrating CD8T cells, we identified Forkhead Box R1 (FOXR1) as a potent transcriptional suppressor of CD8T cell effector...",
     "tags": [
       "research",
       "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation",
+      "crispr"
     ],
     "topicBuckets": [
-      "translational medicine",
+      "gene therapy",
+      "immunology",
+      "ai",
       "oncology"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
+    "importanceScore": 92,
     "importanceSignals": [
       "very recent",
-      "priority topic: translational medicine, oncology",
+      "priority topic: gene therapy, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -34,37 +37,58 @@
     "isFeatured": true
   },
   {
-    "id": "c104b15220e30c79",
-    "title": "A dual-modality workflow for quantifying microvascular structure in human temporal lobe epilepsy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42707133",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42707133",
-    "source": "pubmed",
-    "publicationName": "IBRO neuroscience reports",
-    "journalName": "IBRO neuroscience reports",
-    "publishedAt": "2026-12-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "Microvascular remodeling is implicated in the pathophysiology of drug-resistant temporal lobe epilepsy (TLE). However, characterizing these changes in adult human surgical tissue is methodologically limited by the accumulation of lipofuscin, an autofluorescent pigment that obscures microvascular structures and confounds standard automated quantification. To...",
+    "id": "794d5b6c9bc323c8",
+    "title": "Merck adds 53 to New Jersey chopping block",
+    "url": "https://www.biospace.com/biospace-layoff-tracker",
+    "canonicalUrl": "https://www.biospace.com/biospace-layoff-tracker",
+    "source": "biospace",
+    "publicationName": "BioSpace",
+    "publishedAt": "2026-09-09T23:22:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:48.469Z",
+    "snippet": "Follow along as BioSpace tracks job cuts and restructuring initiatives.",
     "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
+      "biotech",
+      "industry"
     ],
     "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "funding"
+      "biotech",
+      "hiring"
     ],
-    "isNewToday": false,
-    "importanceScore": 82,
+    "isNewToday": true,
+    "importanceScore": 54,
     "importanceSignals": [
       "very recent",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
       "rich metadata"
     ],
+    "isFeatured": false
+  },
+  {
+    "id": "2558ba929382c0d7",
+    "title": "The Week’s 10 Biggest Funding Rounds: Crusoe And Fluidstack Lead Multibillion-Dollar AI Infrastructure Haul",
+    "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-crusoe-fluidstack-multibillion-dollar-ai-infrastructure",
+    "canonicalUrl": "https://news.crunchbase.com/venture/biggest-funding-rounds-crusoe-fluidstack-multibillion-dollar-ai-infrastructure",
+    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/concentrated-capital.jpg",
+    "imageSource": "twitter",
+    "source": "crunchbase",
+    "publicationName": "Crunchbase News",
+    "publishedAt": "2026-09-09T16:58:59.694Z",
+    "fetchedAt": "2026-09-09T16:58:59.694Z",
+    "snippet": "",
+    "tags": [
+      "funding",
+      "startups"
+    ],
+    "topicBuckets": [
+      "ai",
+      "funding"
+    ],
+    "isNewToday": true,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: ai",
+      "rich metadata"
+    ],
+    "importanceScore": 62,
     "isFeatured": true
   },
   {
@@ -72,12 +96,12 @@
     "title": "The Week’s 10 Biggest Funding Rounds: AI Tools And Assistants Lead Sparser Lineup Of Megadeals",
     "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-tools-assistants-instinct",
     "canonicalUrl": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-tools-assistants-instinct",
-    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
+    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/concentrated-capital.jpg",
     "imageSource": "twitter",
     "source": "crunchbase",
     "publicationName": "Crunchbase News",
-    "publishedAt": "2026-09-08T16:56:13.638Z",
-    "fetchedAt": "2026-09-08T16:56:13.638Z",
+    "publishedAt": "2026-09-09T16:58:59.694Z",
+    "fetchedAt": "2026-09-09T16:58:59.694Z",
     "snippet": "",
     "tags": [
       "funding",
@@ -101,12 +125,12 @@
     "title": "Startups Are Still Acquiring Startups, Led By Ultra-High-Valuation Unicorns",
     "url": "https://news.crunchbase.com/ma/startup-unicorns-acquisitions-ai-fintech-biotech",
     "canonicalUrl": "https://news.crunchbase.com/ma/startup-unicorns-acquisitions-ai-fintech-biotech",
-    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
+    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/concentrated-capital.jpg",
     "imageSource": "twitter",
     "source": "crunchbase",
     "publicationName": "Crunchbase News",
-    "publishedAt": "2026-09-08T16:56:13.638Z",
-    "fetchedAt": "2026-09-08T16:56:13.638Z",
+    "publishedAt": "2026-09-09T16:58:59.694Z",
+    "fetchedAt": "2026-09-09T16:58:59.694Z",
     "snippet": "",
     "tags": [
       "funding",
@@ -128,12 +152,12 @@
     "title": "5 Interesting Startup Deals You May Have Missed: AI For Everything From Recycling To Breathing To Winning Construction Bids",
     "url": "https://news.crunchbase.com/ai/interesting-startup-deals-ai-recycling-robotics-healthcare-data",
     "canonicalUrl": "https://news.crunchbase.com/ai/interesting-startup-deals-ai-recycling-robotics-healthcare-data",
-    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
+    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/concentrated-capital.jpg",
     "imageSource": "twitter",
     "source": "crunchbase",
     "publicationName": "Crunchbase News",
-    "publishedAt": "2026-09-08T16:56:13.638Z",
-    "fetchedAt": "2026-09-08T16:56:13.638Z",
+    "publishedAt": "2026-09-09T16:58:59.694Z",
+    "fetchedAt": "2026-09-09T16:58:59.694Z",
     "snippet": "",
     "tags": [
       "funding",
@@ -157,12 +181,12 @@
     "title": "Which Investors Have Backed The Most 2026 Unicorns?",
     "url": "https://news.crunchbase.com/venture/unicorn-investors-ai-robotics-2026-sequoia-khosla",
     "canonicalUrl": "https://news.crunchbase.com/venture/unicorn-investors-ai-robotics-2026-sequoia-khosla",
-    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
+    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/concentrated-capital.jpg",
     "imageSource": "twitter",
     "source": "crunchbase",
     "publicationName": "Crunchbase News",
-    "publishedAt": "2026-09-08T16:56:13.638Z",
-    "fetchedAt": "2026-09-08T16:56:13.638Z",
+    "publishedAt": "2026-09-09T16:58:59.694Z",
+    "fetchedAt": "2026-09-09T16:58:59.694Z",
     "snippet": "",
     "tags": [
       "funding",
@@ -184,12 +208,12 @@
     "title": "The Week’s 10 Biggest Funding Rounds: Data, Neolab, AI Infrastructure, Defense And AI Coding Lead",
     "url": "https://news.crunchbase.com/ai/biggest-funding-rounds-databricks-river-ai-data-energy",
     "canonicalUrl": "https://news.crunchbase.com/ai/biggest-funding-rounds-databricks-river-ai-data-energy",
-    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
+    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/concentrated-capital.jpg",
     "imageSource": "twitter",
     "source": "crunchbase",
     "publicationName": "Crunchbase News",
-    "publishedAt": "2026-09-08T16:56:13.638Z",
-    "fetchedAt": "2026-09-08T16:56:13.638Z",
+    "publishedAt": "2026-09-09T16:58:59.694Z",
+    "fetchedAt": "2026-09-09T16:58:59.694Z",
     "snippet": "",
     "tags": [
       "funding",
@@ -213,39 +237,12 @@
     "title": "40 Companies Joined The Unicorn Board In July, The Highest Count In 4 Years",
     "url": "https://news.crunchbase.com/venture/unicorn-board-grows-40-companies-fintech-robotics-ai-july-2026",
     "canonicalUrl": "https://news.crunchbase.com/venture/unicorn-board-grows-40-companies-fintech-robotics-ai-july-2026",
-    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
+    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/concentrated-capital.jpg",
     "imageSource": "twitter",
     "source": "crunchbase",
     "publicationName": "Crunchbase News",
-    "publishedAt": "2026-09-08T16:56:13.638Z",
-    "fetchedAt": "2026-09-08T16:56:13.638Z",
-    "snippet": "",
-    "tags": [
-      "funding",
-      "startups"
-    ],
-    "topicBuckets": [
-      "funding"
-    ],
-    "isNewToday": true,
-    "importanceScore": 52,
-    "importanceSignals": [
-      "very recent",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "1156be9eee3c81e7",
-    "title": "The Week’s 10 Biggest Funding Rounds: A Big Week For Big Checks",
-    "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-billion-dollar-raises-manufacturing-energy-ai",
-    "canonicalUrl": "https://news.crunchbase.com/venture/biggest-funding-rounds-billion-dollar-raises-manufacturing-energy-ai",
-    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
-    "imageSource": "twitter",
-    "source": "crunchbase",
-    "publicationName": "Crunchbase News",
-    "publishedAt": "2026-09-08T16:56:13.638Z",
-    "fetchedAt": "2026-09-08T16:56:13.638Z",
+    "publishedAt": "2026-09-09T16:58:59.694Z",
+    "fetchedAt": "2026-09-09T16:58:59.694Z",
     "snippet": "",
     "tags": [
       "funding",
@@ -267,12 +264,12 @@
     "title": "Q1 Global Startup Funding Posts Strongest Quarter Since Q2 2022 With A Third Going To Massive OpenAI Deal",
     "url": "https://news.crunchbase.com/venture/global-funding-strong-q1-2025-ai-data",
     "canonicalUrl": "https://news.crunchbase.com/venture/global-funding-strong-q1-2025-ai-data",
-    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
+    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/concentrated-capital.jpg",
     "imageSource": "twitter",
     "source": "crunchbase",
     "publicationName": "Crunchbase News",
-    "publishedAt": "2026-09-08T16:56:13.638Z",
-    "fetchedAt": "2026-09-08T16:56:13.638Z",
+    "publishedAt": "2026-09-09T16:58:59.694Z",
+    "fetchedAt": "2026-09-09T16:58:59.694Z",
     "snippet": "",
     "tags": [
       "funding",
@@ -289,19 +286,48 @@
       "rich metadata"
     ],
     "importanceScore": 62,
-    "isFeatured": true
+    "isFeatured": false
+  },
+  {
+    "id": "aea5efbb7fc95ea7",
+    "title": "Mistral AI Raises $3.5B At $24B Valuation In Another Record European AI Round",
+    "url": "https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise",
+    "canonicalUrl": "https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise",
+    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/concentrated-capital.jpg",
+    "imageSource": "twitter",
+    "source": "crunchbase",
+    "publicationName": "Crunchbase News",
+    "publishedAt": "2026-09-09T16:58:59.694Z",
+    "fetchedAt": "2026-09-09T16:58:59.694Z",
+    "snippet": "",
+    "tags": [
+      "funding",
+      "startups"
+    ],
+    "topicBuckets": [
+      "ai",
+      "funding"
+    ],
+    "isNewToday": true,
+    "importanceScore": 62,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: ai",
+      "rich metadata"
+    ],
+    "isFeatured": false
   },
   {
     "id": "4f2c239da50a1e15",
     "title": "A Startup General Counsel Knew What Corporate Lawyers Needed From AI. So She Built It.",
     "url": "https://news.crunchbase.com/venture/nontech-startup-general-counsel-built-legal-tech-gc-ai-ziniti",
     "canonicalUrl": "https://news.crunchbase.com/venture/nontech-startup-general-counsel-built-legal-tech-gc-ai-ziniti",
-    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
+    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/concentrated-capital.jpg",
     "imageSource": "twitter",
     "source": "crunchbase",
     "publicationName": "Crunchbase News",
-    "publishedAt": "2026-09-08T16:56:13.638Z",
-    "fetchedAt": "2026-09-08T16:56:13.638Z",
+    "publishedAt": "2026-09-09T16:58:59.694Z",
+    "fetchedAt": "2026-09-09T16:58:59.694Z",
     "snippet": "",
     "tags": [
       "funding",
@@ -325,12 +351,12 @@
     "title": "Global Venture Funding Jumps 122% In August As Streak Of Billion-Dollar Deals Continues",
     "url": "https://news.crunchbase.com/venture/global-funding-billion-dollar-deals-august-2026",
     "canonicalUrl": "https://news.crunchbase.com/venture/global-funding-billion-dollar-deals-august-2026",
-    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
+    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/concentrated-capital.jpg",
     "imageSource": "twitter",
     "source": "crunchbase",
     "publicationName": "Crunchbase News",
-    "publishedAt": "2026-09-08T16:56:13.638Z",
-    "fetchedAt": "2026-09-08T16:56:13.638Z",
+    "publishedAt": "2026-09-09T16:58:59.694Z",
+    "fetchedAt": "2026-09-09T16:58:59.694Z",
     "snippet": "",
     "tags": [
       "funding",
@@ -352,12 +378,12 @@
     "title": "Former Apple Engineers’ Physical AI Startup Lyte Raises $165M At $1.6B Valuation",
     "url": "https://news.crunchbase.com/venture/robotics-ai-startup-lyte-seriesc-raise-maverick",
     "canonicalUrl": "https://news.crunchbase.com/venture/robotics-ai-startup-lyte-seriesc-raise-maverick",
-    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
+    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/concentrated-capital.jpg",
     "imageSource": "twitter",
     "source": "crunchbase",
     "publicationName": "Crunchbase News",
-    "publishedAt": "2026-09-08T16:56:13.638Z",
-    "fetchedAt": "2026-09-08T16:56:13.638Z",
+    "publishedAt": "2026-09-09T16:58:59.694Z",
+    "fetchedAt": "2026-09-09T16:58:59.694Z",
     "snippet": "",
     "tags": [
       "funding",
@@ -381,12 +407,12 @@
     "title": "WhatsApp Remittance Startup Félix Secures $200M Series C Led By A16z, General Catalyst",
     "url": "https://news.crunchbase.com/venture/fintech-whatsapp-remittance-startup-felix-raises-200m-a16z-general-catalyst",
     "canonicalUrl": "https://news.crunchbase.com/venture/fintech-whatsapp-remittance-startup-felix-raises-200m-a16z-general-catalyst",
-    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
+    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/concentrated-capital.jpg",
     "imageSource": "twitter",
     "source": "crunchbase",
     "publicationName": "Crunchbase News",
-    "publishedAt": "2026-09-08T16:56:13.638Z",
-    "fetchedAt": "2026-09-08T16:56:13.638Z",
+    "publishedAt": "2026-09-09T16:58:59.694Z",
+    "fetchedAt": "2026-09-09T16:58:59.694Z",
     "snippet": "",
     "tags": [
       "funding",
@@ -408,12 +434,12 @@
     "title": "Sector Snapshot: Proptech Funding Holds Up, But Investors Are Placing Different Bets",
     "url": "https://news.crunchbase.com/venture/proptech-funding-holds-exits-ipo-ai-green-steel-2026",
     "canonicalUrl": "https://news.crunchbase.com/venture/proptech-funding-holds-exits-ipo-ai-green-steel-2026",
-    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
+    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/concentrated-capital.jpg",
     "imageSource": "twitter",
     "source": "crunchbase",
     "publicationName": "Crunchbase News",
-    "publishedAt": "2026-09-08T16:56:13.638Z",
-    "fetchedAt": "2026-09-08T16:56:13.638Z",
+    "publishedAt": "2026-09-09T16:58:59.694Z",
+    "fetchedAt": "2026-09-09T16:58:59.694Z",
     "snippet": "",
     "tags": [
       "funding",
@@ -435,68 +461,12 @@
     "title": "Sector Snapshot: Space Tech Startup Funding Orbits New Highs",
     "url": "https://news.crunchbase.com/venture/record-breaking-space-tech-startup-funding-spcx",
     "canonicalUrl": "https://news.crunchbase.com/venture/record-breaking-space-tech-startup-funding-spcx",
-    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
+    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/concentrated-capital.jpg",
     "imageSource": "twitter",
     "source": "crunchbase",
     "publicationName": "Crunchbase News",
-    "publishedAt": "2026-09-08T16:56:13.638Z",
-    "fetchedAt": "2026-09-08T16:56:13.638Z",
-    "snippet": "",
-    "tags": [
-      "funding",
-      "startups"
-    ],
-    "topicBuckets": [
-      "funding"
-    ],
-    "isNewToday": true,
-    "importanceScore": 52,
-    "importanceSignals": [
-      "very recent",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "4dc8a461369b22bc",
-    "title": "Socure Secures $156M at $5.2B Valuation, Acquires AI Fraud Investigation Startup Fravity",
-    "url": "https://news.crunchbase.com/venture/socure-raises-acquires-agentic-ai-startup-fravity",
-    "canonicalUrl": "https://news.crunchbase.com/venture/socure-raises-acquires-agentic-ai-startup-fravity",
-    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
-    "imageSource": "twitter",
-    "source": "crunchbase",
-    "publicationName": "Crunchbase News",
-    "publishedAt": "2026-09-08T16:56:13.638Z",
-    "fetchedAt": "2026-09-08T16:56:13.638Z",
-    "snippet": "",
-    "tags": [
-      "funding",
-      "startups"
-    ],
-    "topicBuckets": [
-      "ai",
-      "funding"
-    ],
-    "isNewToday": true,
-    "importanceScore": 62,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: ai",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "df058c0a9ccd9eb5",
-    "title": "Craft’s Ilya Levtov Never Learned To Code. He Built A Software Company Anyway.",
-    "url": "https://news.crunchbase.com/venture/supply-chain-nontech-founder-ilya-levtov-craft",
-    "canonicalUrl": "https://news.crunchbase.com/venture/supply-chain-nontech-founder-ilya-levtov-craft",
-    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
-    "imageSource": "twitter",
-    "source": "crunchbase",
-    "publicationName": "Crunchbase News",
-    "publishedAt": "2026-09-08T16:56:13.638Z",
-    "fetchedAt": "2026-09-08T16:56:13.638Z",
+    "publishedAt": "2026-09-09T16:58:59.694Z",
+    "fetchedAt": "2026-09-09T16:58:59.694Z",
     "snippet": "",
     "tags": [
       "funding",
@@ -522,8 +492,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -549,8 +519,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -578,8 +548,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -605,8 +575,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -634,8 +604,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -663,8 +633,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -690,8 +660,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -717,8 +687,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -746,8 +716,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -775,8 +745,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -802,8 +772,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -829,8 +799,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -858,8 +828,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -887,8 +857,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -914,8 +884,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -943,8 +913,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -973,8 +943,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -1002,8 +972,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -1029,8 +999,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -1056,8 +1026,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -1083,8 +1053,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -1110,8 +1080,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -1139,8 +1109,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -1168,8 +1138,8 @@
     "imageSource": "publisher",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -1197,8 +1167,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -1226,8 +1196,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -1253,8 +1223,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -1282,8 +1252,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -1311,8 +1281,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -1340,8 +1310,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -1367,8 +1337,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -1396,8 +1366,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -1425,8 +1395,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -1452,8 +1422,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -1481,8 +1451,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -1510,8 +1480,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -1539,8 +1509,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -1568,8 +1538,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -1597,8 +1567,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -1626,8 +1596,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -1656,8 +1626,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -1685,8 +1655,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -1714,8 +1684,8 @@
     "imageSource": "og",
     "source": "a16z",
     "publicationName": "a16z",
-    "publishedAt": "2026-09-08T16:55:28.090Z",
-    "fetchedAt": "2026-09-08T16:55:28.090Z",
+    "publishedAt": "2026-09-09T16:58:14.257Z",
+    "fetchedAt": "2026-09-09T16:58:14.257Z",
     "snippet": "",
     "tags": [
       "venture",
@@ -1735,15 +1705,179 @@
     "isFeatured": false
   },
   {
-    "id": "729aeb3c5ca08d75",
-    "title": "Inhibrx’s OX40 agonist add-on beats Keytruda alone in head and neck cancer",
-    "url": "https://www.biospace.com/drug-development/inhibrxs-ox40-agonist-add-on-beats-keytruda-alone-in-head-and-neck-cancer",
-    "canonicalUrl": "https://www.biospace.com/drug-development/inhibrxs-ox40-agonist-add-on-beats-keytruda-alone-in-head-and-neck-cancer",
+    "id": "97ef0d5b61a2d5d3",
+    "title": "Webinar: The Massive Scale of GLP-1s: Evolving Health, Healthcare and Markets",
+    "url": "https://www.biospace.com/events/webinar-the-massive-scale-of-glp-1s-evolving-health-healthcare-and-markets",
+    "canonicalUrl": "https://www.biospace.com/events/webinar-the-massive-scale-of-glp-1s-evolving-health-healthcare-and-markets",
     "source": "biospace",
     "publicationName": "BioSpace",
-    "publishedAt": "2026-09-08T14:50:38.000Z",
-    "fetchedAt": "2026-09-08T16:52:03.457Z",
-    "snippet": "Inhibrx CEO Mark Lappe was particularly keen on INBRX-106’s performance in patients with HPV-positive disease and sees a nearly $4 billion near-term opportunity thanks to the Phase 2 results.",
+    "publishedAt": "2026-09-09T13:56:42.000Z",
+    "fetchedAt": "2026-09-09T16:54:48.469Z",
+    "snippet": "Watch this discussion on how GLP-1 drugs for obesity are changing the shape of U.S. healthcare. From direct-to-consumer portals to pharmacy deals, how these drugs reach patients is changing—and leading to debates over pricing and coverage. Learn how your company can be both patient-forward while also maximizing revenu...",
+    "tags": [
+      "biotech",
+      "industry"
+    ],
+    "topicBuckets": [
+      "biotech"
+    ],
+    "isNewToday": true,
+    "importanceScore": 60,
+    "importanceSignals": [
+      "very recent",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "9dd8b47b30466d12",
+    "title": "Sandoz plans ‘vast and vertically integrated’ supply chain to support 100-biosimilar vision",
+    "url": "https://www.biospace.com/drug-delivery/sandoz-plans-vast-and-vertically-integrated-supply-chain-to-support-100-biosimilar-vision",
+    "canonicalUrl": "https://www.biospace.com/drug-delivery/sandoz-plans-vast-and-vertically-integrated-supply-chain-to-support-100-biosimilar-vision",
+    "source": "biospace",
+    "publicationName": "BioSpace",
+    "publishedAt": "2026-09-09T13:00:53.000Z",
+    "fetchedAt": "2026-09-09T16:54:48.469Z",
+    "snippet": "The company is investing billions of dollars to construct a European biosimilar hub capable of supporting the rapid expansion of its portfolio.",
+    "tags": [
+      "biotech",
+      "industry"
+    ],
+    "topicBuckets": [
+      "ai",
+      "biotech"
+    ],
+    "isNewToday": true,
+    "importanceScore": 64,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: ai",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "59108243174ef704",
+    "title": "Novo’s canned heart disease trials, Novartis’ clinical fails, first approval for Alexander disease",
+    "url": "https://www.biospace.com/fda/novos-canned-heart-disease-trials-novartis-clinical-fails-first-approval-for-alexander-disease",
+    "canonicalUrl": "https://www.biospace.com/fda/novos-canned-heart-disease-trials-novartis-clinical-fails-first-approval-for-alexander-disease",
+    "source": "biospace",
+    "publicationName": "BioSpace",
+    "publishedAt": "2026-09-09T12:05:41.000Z",
+    "fetchedAt": "2026-09-09T16:54:48.469Z",
+    "snippet": "September has been a rough month already for Novo Nordisk, which canned two more late-stage trials of its embattled IL-6 inhibitor, and Novartis, which took Phase 3 hits in both cardiovascular and muscular dystrophy indications; Ultragenyx’s big bet in Angelman syndrome failed to yield benefit in Phase 3 but Ionis’ Ph...",
+    "tags": [
+      "biotech",
+      "industry"
+    ],
+    "topicBuckets": [
+      "ai",
+      "biotech",
+      "translational medicine"
+    ],
+    "isNewToday": true,
+    "importanceScore": 80,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: ai, translational medicine",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "a4fbe9ce1a1915d3",
+    "title": "Acting CBER, CDER heads become permanent as FDA works to restore stability",
+    "url": "https://www.biospace.com/fda/acting-cber-cder-heads-become-permanent-as-fda-works-to-restore-stability",
+    "canonicalUrl": "https://www.biospace.com/fda/acting-cber-cder-heads-become-permanent-as-fda-works-to-restore-stability",
+    "source": "biospace",
+    "publicationName": "BioSpace",
+    "publishedAt": "2026-09-09T12:00:42.000Z",
+    "fetchedAt": "2026-09-09T16:54:48.469Z",
+    "snippet": "The decision to promote Michael Davis and Karim Mikhail from acting to permanent division heads comes as the FDA awaits the potential confirmation of Heidi Overton, President Donald Trump’s nominee for commissioner.",
+    "tags": [
+      "biotech",
+      "industry"
+    ],
+    "topicBuckets": [
+      "ai",
+      "biotech"
+    ],
+    "isNewToday": true,
+    "importanceScore": 70,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: ai",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "ac28ded78d39028f",
+    "title": "BMS clinches pivotal win for myeloma CAR T in ‘key derisking event’",
+    "url": "https://www.biospace.com/drug-development/bms-clinches-pivotal-win-for-myeloma-car-t-in-key-derisking-event",
+    "canonicalUrl": "https://www.biospace.com/drug-development/bms-clinches-pivotal-win-for-myeloma-car-t-in-key-derisking-event",
+    "source": "biospace",
+    "publicationName": "BioSpace",
+    "publishedAt": "2026-09-09T11:56:16.000Z",
+    "fetchedAt": "2026-09-09T16:54:48.469Z",
+    "snippet": "Bristol Myers Squibb is positioning arlo-cel for quadruple-class exposed patients, which could help reduce competition with an upcoming multiple myeloma CAR T therapy from Gilead Sciences, according to BMO Capital Markets.",
+    "tags": [
+      "biotech",
+      "industry"
+    ],
+    "topicBuckets": [
+      "biotech",
+      "gene therapy"
+    ],
+    "isNewToday": true,
+    "importanceScore": 70,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: gene therapy",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "d07845963e7edc6d",
+    "title": "2026 IPO stock tracker: How newly public biotechs are performing",
+    "url": "https://www.biospace.com/business/2026-ipo-stock-tracker-how-biotechs-new-to-public-markets-are-performing",
+    "canonicalUrl": "https://www.biospace.com/business/2026-ipo-stock-tracker-how-biotechs-new-to-public-markets-are-performing",
+    "source": "biospace",
+    "publicationName": "BioSpace",
+    "publishedAt": "2026-09-09T11:38:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:48.469Z",
+    "snippet": "BioSpace is launching an IPO dashboard to help the industry keep tabs on U.S. biotechs that have taken the public plunge in 2026.",
+    "tags": [
+      "biotech",
+      "industry"
+    ],
+    "topicBuckets": [
+      "biotech",
+      "funding"
+    ],
+    "isNewToday": true,
+    "importanceScore": 54,
+    "importanceSignals": [
+      "very recent",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "70ad945c442b6a93",
+    "title": "Solstice rises with $225M to develop next-gen CTLA-4 drug from China",
+    "url": "https://www.biospace.com/business/solstice-rises-with-225m-to-develop-next-gen-ctla-4-drug-from-china",
+    "canonicalUrl": "https://www.biospace.com/business/solstice-rises-with-225m-to-develop-next-gen-ctla-4-drug-from-china",
+    "source": "biospace",
+    "publicationName": "BioSpace",
+    "publishedAt": "2026-09-09T11:01:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:48.469Z",
+    "snippet": "Solstice Oncology, founded in February, is emerging from stealth having already secured an investigational new drug application from the FDA for a Phase 2 trial of a CTLA-4 antibody purchased from China’s Harbour BioMed.",
     "tags": [
       "biotech",
       "industry"
@@ -1753,6 +1887,452 @@
       "oncology"
     ],
     "isNewToday": true,
+    "importanceScore": 70,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: oncology",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "55aba88a8ee06929",
+    "title": "Caspian launches with $50M, Lilly support to advance disease-modifying diabetes bet",
+    "url": "https://www.biospace.com/business/caspian-launches-with-50m-lilly-support-to-advance-disease-modifying-diabetes-bet",
+    "canonicalUrl": "https://www.biospace.com/business/caspian-launches-with-50m-lilly-support-to-advance-disease-modifying-diabetes-bet",
+    "source": "biospace",
+    "publicationName": "BioSpace",
+    "publishedAt": "2026-09-09T11:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:48.469Z",
+    "snippet": "Kura Oncology has spun out Caspian around KO-7246, which seeks to increase the number and activity of beta cells in the pancreas, in turn boosting insulin production in patients with diabetes.",
+    "tags": [
+      "biotech",
+      "industry"
+    ],
+    "topicBuckets": [
+      "biotech",
+      "oncology"
+    ],
+    "isNewToday": true,
+    "importanceScore": 70,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: oncology",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "5a2e2ffe9196bf32",
+    "title": "A career setback is a data point, not a verdict",
+    "url": "https://www.biospace.com/career-advice/a-career-setback-is-a-data-point-not-a-verdict",
+    "canonicalUrl": "https://www.biospace.com/career-advice/a-career-setback-is-a-data-point-not-a-verdict",
+    "source": "biospace",
+    "publicationName": "BioSpace",
+    "publishedAt": "2026-09-09T07:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:48.469Z",
+    "snippet": "A career setback can teach you something useful—or teach you the wrong lesson. Executive coach Angela Justice explains how one difficult experience can quietly shape the choices that follow.",
+    "tags": [
+      "biotech",
+      "industry"
+    ],
+    "topicBuckets": [
+      "ai",
+      "biotech"
+    ],
+    "isNewToday": true,
+    "importanceScore": 70,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: ai",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "9037e516148fd71c",
+    "title": "Beyond China: Five other overseas destinations for biopharma dollars",
+    "url": "https://www.biospace.com/business/beyond-china-five-other-overseas-destinations-for-biopharma-dollars",
+    "canonicalUrl": "https://www.biospace.com/business/beyond-china-five-other-overseas-destinations-for-biopharma-dollars",
+    "source": "biospace",
+    "publicationName": "BioSpace",
+    "publishedAt": "2026-09-09T04:20:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:48.469Z",
+    "snippet": "As geopolitical tensions between the U.S. and China grow increasingly complicated, here are five alternative territories for biotech investments.",
+    "tags": [
+      "biotech",
+      "industry"
+    ],
+    "topicBuckets": [
+      "biotech",
+      "funding"
+    ],
+    "isNewToday": true,
+    "importanceScore": 54,
+    "importanceSignals": [
+      "very recent",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "2d9093c9646ee639",
+    "title": "Steady stream of crossover rounds stock biotech's IPO pipeline",
+    "url": "https://www.biospace.com/business/steady-stream-of-crossover-rounds-stock-biotechs-ipo-pipeline",
+    "canonicalUrl": "https://www.biospace.com/business/steady-stream-of-crossover-rounds-stock-biotechs-ipo-pipeline",
+    "source": "biospace",
+    "publicationName": "BioSpace",
+    "publishedAt": "2026-09-09T04:10:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:48.469Z",
+    "snippet": "Biotech crossover rounds could top $4.22 billion across about 28 rounds this year, PitchBook forecasts.",
+    "tags": [
+      "biotech",
+      "industry"
+    ],
+    "topicBuckets": [
+      "biotech",
+      "funding"
+    ],
+    "isNewToday": true,
+    "importanceScore": 54,
+    "importanceSignals": [
+      "very recent",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "f4f51d65b56e3c09",
+    "title": "The Sales Test This Norwest Partner Gives Founders Before He’ll Invest",
+    "url": "https://news.crunchbase.com/venture/startup-investment-qa-ai-hr-fintech-jacobsohn-norwest",
+    "canonicalUrl": "https://news.crunchbase.com/venture/startup-investment-qa-ai-hr-fintech-jacobsohn-norwest",
+    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/concentrated-capital.jpg",
+    "imageSource": "publisher",
+    "source": "crunchbase",
+    "publicationName": "Crunchbase News",
+    "publishedAt": "2026-09-09T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:58:59.694Z",
+    "snippet": "",
+    "tags": [
+      "funding",
+      "startups"
+    ],
+    "topicBuckets": [
+      "funding"
+    ],
+    "isNewToday": true,
+    "importanceSignals": [
+      "very recent",
+      "rich metadata"
+    ],
+    "importanceScore": 52,
+    "isFeatured": false
+  },
+  {
+    "id": "ed8b43ef0ccb8674",
+    "title": "Integrating genetic predictors into subsequent breast cancer risk prediction in survivors of childhood cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42714245",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42714245",
+    "source": "pubmed",
+    "publicationName": "Journal of the National Cancer Institute",
+    "journalName": "Journal of the National Cancer Institute",
+    "publishedAt": "2026-09-09T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "Female survivors of childhood cancer are at high risk for developing breast cancer. The contributions of most general population primary breast cancer genetic predictors to this risk have not been explored. Analyses included females who survived &#x2265;5 years after their childhood cancer diagnosis with available array (N&#x2009;=&#x2009;2096, subsequent b...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": true,
+    "importanceScore": 92,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "c36ddf505bd4b945",
+    "title": "Integrative multi-omics profiling of insomnia-related molecular features reveals microbiome, immune, and therapy-relevant heterogeneity in colorectal cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42714160",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42714160",
+    "source": "pubmed",
+    "publicationName": "Microbiology spectrum",
+    "journalName": "Microbiology spectrum",
+    "publishedAt": "2026-09-09T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "Emerging evidence implicates insomnia as a potential risk factor in carcinogenesis, potentially involving systemic inflammation, circadian disruption, and microbiome alterations. However, the molecular associations linking insomnia-related features to colorectal cancer (CRC), particularly with respect to tumor biology, immune microenvironmental states, and....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "computational biology"
+    ],
+    "isNewToday": true,
+    "importanceScore": 82,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "4d75ed2e90346fff",
+    "title": "Dual pKa Lipid Nanoparticles for Lung-tropic mRNA Delivery and pH-Programmed Endosomal Escape.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42714328",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42714328",
+    "source": "pubmed",
+    "publicationName": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "journalName": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "publishedAt": "2026-09-09T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "Lipid nanoparticles (LNPs) have enabled the clinical application of RNA therapeutics, including approved mRNA vaccines and siRNA medicines. However, their predominant accumulation in liver after systemic administration and inefficient endosomal escape remain key bottlenecks for productive cytosolic delivery and gene expression. Here, we introduce a syntheti...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai",
+      "biotech",
+      "translational medicine"
+    ],
+    "isNewToday": true,
+    "importanceScore": 92,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "f99e5e5f561422ae",
+    "title": "Connecting Skin and Gut in Dermatitis Herpetiformis: Insights from Gluten Challenge Transcriptomics.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42713962",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42713962",
+    "source": "pubmed",
+    "publicationName": "Acta dermato-venereologica",
+    "journalName": "Acta dermato-venereologica",
+    "publishedAt": "2026-09-09T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "Dermatitis herpetiformis (DH) is a dietary gluten -induced autoimmune blistering skin disease. It is hypothesized to be initiated by a small intestinal mucosal immune response. Gluten-free diet (GFD) is the primary treatment for DHdermatitis herpetiformis and effectively resolves skin lesions. Previous studies show that after gluten reintroduction, peripher...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "computational biology"
+    ],
+    "isNewToday": true,
+    "importanceScore": 82,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: gene therapy, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "076547d012ff8661",
+    "title": "Sickle cell disease and hematopoietic stem cell transplantation: donor expansion, gene-modified grafts and prenatal horizons.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42710047",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42710047",
+    "source": "pubmed",
+    "publicationName": "Current opinion in hematology",
+    "journalName": "Current opinion in hematology",
+    "publishedAt": "2026-09-09T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "To review advances from the past 18&#x200a;months in allogeneic hematopoietic stem cell transplantation (HSCT) and autologous gene-modified stem cell transplantation for sickle cell disease (SCD), and to relate these developments to stem cell biology, conditioning and emerging prenatal strategies. Matched sibling HSCT remains the clinical benchmark, but rec...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai",
+      "translational medicine"
+    ],
+    "isNewToday": true,
+    "importanceScore": 92,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "16e05b4dd6550015",
+    "title": "Pre-operative circulating tumour DNA in high-risk primary cutaneous melanoma: prospective feasibility in molecular pathology.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42714248",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42714248",
+    "source": "pubmed",
+    "publicationName": "Acta oncologica (Stockholm, Sweden)",
+    "journalName": "Acta oncologica (Stockholm, Sweden)",
+    "publishedAt": "2026-09-09T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "Circulating tumour DNA (ctDNA) has emerged as a prognostic biomarker in melanoma, but its detectability in pre-operative blood from patients presenting with primary cutaneous melanoma remains incompletely evaluated. We assessed the feasibility of pre-operative ctDNA detection in high-risk primary melanoma using routinely available methods in molecular patho...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": true,
+    "importanceScore": 92,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "72a298471c7bf082",
+    "title": "Real-world treatment landscape and clinical outcomes in first-line advanced or metastatic gastroesophageal adenocarcinoma in the United States.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42714224",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42714224",
+    "source": "pubmed",
+    "publicationName": "The oncologist",
+    "journalName": "The oncologist",
+    "publishedAt": "2026-09-09T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "Contemporary real-world evidence in advanced gastric, gastroesophageal junction, or esophageal adenocarcinoma (GC/GEJC/EAC) remains limited. This study evaluated real-world treatment patterns and clinical outcomes in patients with advanced GC/GEJC/EAC treated with first-line therapy in the US. Treatment patterns were assessed in adults from the Flatiron dat...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": true,
+    "importanceScore": 92,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "c90df1eec39633ec",
+    "title": "Heterozygous germline deletion in Hif3a exacerbates esophageal squamous cell carcinoma development.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42713745",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42713745",
+    "source": "pubmed",
+    "publicationName": "The Journal of pathology",
+    "journalName": "The Journal of pathology",
+    "publishedAt": "2026-09-09T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "Germline variations contribute to esophageal squamous cell carcinoma (ESCC) susceptibility. We identified a germline deletion (exons 7-8) in HIF3A in an ESCC family and investigated its functional impact using CRISPR/Cas9-engineered cells and Hif3a-eKO1 mice (heterozygous for exons 7-8 deletion). Multi-omics analysis of Hif3a-eKO1 and WT mice revealed dysre...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "computational biology",
+      "gene therapy"
+    ],
+    "isNewToday": true,
+    "importanceScore": 92,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "729aeb3c5ca08d75",
+    "title": "Inhibrx’s OX40 agonist add-on beats Keytruda alone in head and neck cancer",
+    "url": "https://www.biospace.com/drug-development/inhibrxs-ox40-agonist-add-on-beats-keytruda-alone-in-head-and-neck-cancer",
+    "canonicalUrl": "https://www.biospace.com/drug-development/inhibrxs-ox40-agonist-add-on-beats-keytruda-alone-in-head-and-neck-cancer",
+    "source": "biospace",
+    "publicationName": "BioSpace",
+    "publishedAt": "2026-09-08T14:50:38.000Z",
+    "fetchedAt": "2026-09-09T16:54:48.469Z",
+    "snippet": "Inhibrx CEO Mark Lappe was particularly keen on INBRX-106’s performance in patients with HPV-positive disease and sees a nearly $4 billion near-term opportunity thanks to the Phase 2 results.",
+    "tags": [
+      "biotech",
+      "industry"
+    ],
+    "topicBuckets": [
+      "biotech",
+      "oncology"
+    ],
+    "isNewToday": false,
     "importanceScore": 70,
     "importanceSignals": [
       "very recent",
@@ -1770,7 +2350,7 @@
     "source": "biospace",
     "publicationName": "BioSpace",
     "publishedAt": "2026-09-08T14:31:40.000Z",
-    "fetchedAt": "2026-09-08T16:52:03.457Z",
+    "fetchedAt": "2026-09-09T16:54:48.469Z",
     "snippet": "Structure Therapeutics’ oral GLP-1 candidate aleniglipron showed 72-week efficacy “in line” with Novo Nordisk’s oral Wegovy, BMO Capital Markets wrote in a note to investors. Meanwhile, Structure’s amylin and calcitonin receptor agonist ACCG-2671 showed “impressive” target engagement in a Phase 1 trial of healthy volu...",
     "tags": [
       "biotech",
@@ -1779,7 +2359,7 @@
     "topicBuckets": [
       "biotech"
     ],
-    "isNewToday": true,
+    "isNewToday": false,
     "importanceScore": 60,
     "importanceSignals": [
       "very recent",
@@ -1796,7 +2376,7 @@
     "source": "biospace",
     "publicationName": "BioSpace",
     "publishedAt": "2026-09-08T14:31:38.000Z",
-    "fetchedAt": "2026-09-08T16:52:03.457Z",
+    "fetchedAt": "2026-09-09T16:54:48.469Z",
     "snippet": "After the failure of Novo Nordisk’s IL-6 inhibitor ziltivekimab sent waves through the industry, the company has terminated two other studies of the asset, bringing the total number of high-profile cardiovascular flops to six over nine weeks.",
     "tags": [
       "biotech",
@@ -1806,7 +2386,7 @@
       "ai",
       "biotech"
     ],
-    "isNewToday": true,
+    "isNewToday": false,
     "importanceScore": 70,
     "importanceSignals": [
       "very recent",
@@ -1824,7 +2404,7 @@
     "source": "biospace",
     "publicationName": "BioSpace",
     "publishedAt": "2026-09-08T14:21:30.000Z",
-    "fetchedAt": "2026-09-08T16:52:03.457Z",
+    "fetchedAt": "2026-09-09T16:54:48.469Z",
     "snippet": "Mosliciguat, being developed by the Roivant Sciences subsidiary Pulmovant, 'significantly exceeded expectations' in reducing pulmonary vascular resistance, according to analysts, and is progressing to a late-stage study.",
     "tags": [
       "biotech",
@@ -1833,7 +2413,7 @@
     "topicBuckets": [
       "biotech"
     ],
-    "isNewToday": true,
+    "isNewToday": false,
     "importanceScore": 60,
     "importanceSignals": [
       "very recent",
@@ -1850,7 +2430,7 @@
     "source": "biospace",
     "publicationName": "BioSpace",
     "publishedAt": "2026-09-08T12:27:28.000Z",
-    "fetchedAt": "2026-09-08T16:52:03.457Z",
+    "fetchedAt": "2026-09-09T16:54:48.469Z",
     "snippet": "The approval opens up a “modest” market for AstraZeneca’s Etcamah, according to Leerink analysts, who nevertheless looked forward to an upcoming late-stage readout that could lead to a “significantly larger opportunity” for the drug.",
     "tags": [
       "biotech",
@@ -1860,7 +2440,7 @@
       "biotech",
       "oncology"
     ],
-    "isNewToday": true,
+    "isNewToday": false,
     "importanceScore": 70,
     "importanceSignals": [
       "very recent",
@@ -1878,7 +2458,7 @@
     "source": "biospace",
     "publicationName": "BioSpace",
     "publishedAt": "2026-09-08T12:05:40.000Z",
-    "fetchedAt": "2026-09-08T16:52:03.457Z",
+    "fetchedAt": "2026-09-09T16:54:48.469Z",
     "snippet": "While Novartis’ antibody-oligonucleotide conjugate failed to significantly improve hand function in patients with myotonic dystrophy type 1, the asset nevertheless showed signs of clinical activity in secondary and exploratory measures.",
     "tags": [
       "biotech",
@@ -1890,7 +2470,7 @@
       "funding",
       "translational medicine"
     ],
-    "isNewToday": true,
+    "isNewToday": false,
     "importanceScore": 80,
     "importanceSignals": [
       "very recent",
@@ -1908,7 +2488,7 @@
     "source": "biospace",
     "publicationName": "BioSpace",
     "publishedAt": "2026-09-08T12:01:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:03.457Z",
+    "fetchedAt": "2026-09-09T16:54:48.469Z",
     "snippet": "Moonwalk Biosciences plans to shepherd its lead obesity asset into first-in-human trials in late 2027. In preclinical studies, MW101 has demonstrated weight loss and fat reduction while maintaining muscle mass.",
     "tags": [
       "biotech",
@@ -1919,7 +2499,7 @@
       "biotech",
       "translational medicine"
     ],
-    "isNewToday": true,
+    "isNewToday": false,
     "importanceScore": 80,
     "importanceSignals": [
       "very recent",
@@ -1927,7 +2507,7 @@
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
+    "isFeatured": false
   },
   {
     "id": "e244c82289a5709f",
@@ -1937,7 +2517,7 @@
     "source": "biospace",
     "publicationName": "BioSpace",
     "publishedAt": "2026-09-08T11:56:16.000Z",
-    "fetchedAt": "2026-09-08T16:52:03.457Z",
+    "fetchedAt": "2026-09-09T16:54:48.469Z",
     "snippet": "The failure of Novartis’ pelacarsen to translate its Lp(a)-lowering effects to clinical benefits “marks a meaningful setback” for other companies taking a similar approach to cardiovascular risk, analysts say—including Eli Lilly and Amgen.",
     "tags": [
       "biotech",
@@ -1948,7 +2528,7 @@
       "biotech",
       "translational medicine"
     ],
-    "isNewToday": true,
+    "isNewToday": false,
     "importanceScore": 80,
     "importanceSignals": [
       "very recent",
@@ -1959,173 +2539,205 @@
     "isFeatured": false
   },
   {
-    "id": "e3c47ccee92c3d31",
-    "title": "BrainChild Bio targets deadly pediatric brain cancer with $116M series A",
-    "url": "https://www.biospace.com/business/brainchild-bio-targets-deadly-brain-cancer-in-children-with-116m-series-a",
-    "canonicalUrl": "https://www.biospace.com/business/brainchild-bio-targets-deadly-brain-cancer-in-children-with-116m-series-a",
-    "source": "biospace",
-    "publicationName": "BioSpace",
-    "publishedAt": "2026-09-08T11:01:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:03.457Z",
-    "snippet": "BrainChild Bio’s lead asset BCB-276 is in pivotal development for diffuse intrinsic pontine glioma, a rare and fatal brain tumor that affects around 300 children in the U.S. every year.",
+    "id": "86e54b182b2fb318",
+    "title": "Author Correction: Contrasting roles of histone 3 lysine 27 demethylases in acute lymphoblastic leukaemia.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42711487",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42711487",
+    "source": "pubmed",
+    "publicationName": "Nature",
+    "journalName": "Nature",
+    "publishedAt": "2026-09-08T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "",
     "tags": [
-      "biotech",
-      "industry"
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
     ],
     "topicBuckets": [
-      "ai",
-      "biotech",
+      "computational biology",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 76,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "b3cc3c8e3e244ed8",
+    "title": "Integrative multi-omics analysis reveals lipid/metabolite dysregulation and temporal decoupling in disease progression.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42711443",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42711443",
+    "source": "pubmed",
+    "publicationName": "Scientific reports",
+    "journalName": "Scientific reports",
+    "publishedAt": "2026-09-08T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "Our study presents and applies a metabolomics-driven multi-omics integration strategy to elucidate dynamic pathway interactions during disease progression. We analyzed longitudinal metabolomics datasets from a Duchenne muscular dystrophy (DMD) mouse model (6-30 weeks) and an acute Bothrops asper envenomation model (1-24&#xa0;h) to contrast chronic versus ac...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 82,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "9ae45290c1691ae1",
+    "title": "Opportunities for advancing paediatric medical device access: regulatory frameworks in the EU and USA.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42710526",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42710526",
+    "source": "pubmed",
+    "publicationName": "The Lancet. Child & adolescent health",
+    "journalName": "The Lancet. Child & adolescent health",
+    "publishedAt": "2026-09-08T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "Paediatric medical device development lags substantially behind that for adults, creating inequities in access to age-appropriate care. Current regulatory frameworks ensure patient safety but impose structural barriers to device availability. In this Health Policy, we analyse decentralised EU and centralised US regulatory approaches to identify opportunitie...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
       "oncology",
-      "funding"
+      "ai"
     ],
-    "isNewToday": true,
-    "importanceScore": 80,
+    "isNewToday": false,
+    "importanceScore": 92,
     "importanceSignals": [
       "very recent",
-      "priority topic: ai, oncology",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": false
+    "isFeatured": true
   },
   {
-    "id": "57617a03f667758c",
-    "title": "Can Benelux turn scientific strength into larger biotech scale?",
-    "url": "https://www.biospace.com/drug-development/can-benelux-turn-scientific-strength-into-larger-biotech-scale",
-    "canonicalUrl": "https://www.biospace.com/drug-development/can-benelux-turn-scientific-strength-into-larger-biotech-scale",
-    "source": "biospace",
-    "publicationName": "BioSpace",
-    "publishedAt": "2026-09-08T07:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:03.457Z",
-    "snippet": "Belgium and the Netherlands have built some of Europe's strongest life sciences ecosystems, powered by leading research institutions and a growing pool of experienced biotech talent. While early-stage funding remains scarce and investment is often fragmented across regions, investors see national biotech initiatives a...",
+    "id": "de0884f482f24a7f",
+    "title": "Multimodal alignment improves generalizability of genomic biomarker prediction in computational pathology.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42710490",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42710490",
+    "source": "pubmed",
+    "publicationName": "Cell reports methods",
+    "journalName": "Cell reports methods",
+    "publishedAt": "2026-09-08T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "Computational pathology models that use digitized histopathology whole-slide images have the potential to become a cost-effective and scalable alternative to molecular assays for the prediction of genomic biomarkers, a key task in precision oncology. However, as new genomic biomarkers are discovered or quantified, large, labeled datasets must be prospective...",
     "tags": [
-      "biotech",
-      "industry"
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "biomarker"
     ],
     "topicBuckets": [
-      "ai",
-      "biotech",
-      "funding",
-      "hiring"
-    ],
-    "isNewToday": true,
-    "importanceScore": 70,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: ai",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "4248969bccbc6849",
-    "title": "AI will only revolutionize drug discovery and development if we play to its strengths",
-    "url": "https://www.biospace.com/drug-development/opinion-ai-will-only-revolutionize-drug-discovery-and-development-if-we-play-to-its-strengths",
-    "canonicalUrl": "https://www.biospace.com/drug-development/opinion-ai-will-only-revolutionize-drug-discovery-and-development-if-we-play-to-its-strengths",
-    "source": "biospace",
-    "publicationName": "BioSpace",
-    "publishedAt": "2026-09-08T04:58:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:03.457Z",
-    "snippet": "Foundation models will change the way we study the natural, applied and clinical sciences, but only under certain conditions, and not in the way that some AI leaders claim.",
-    "tags": [
-      "biotech",
-      "industry"
-    ],
-    "topicBuckets": [
-      "ai",
-      "biotech",
+      "computational biology",
+      "oncology",
       "translational medicine"
     ],
-    "isNewToday": true,
-    "importanceScore": 74,
+    "isNewToday": false,
+    "importanceScore": 92,
     "importanceSignals": [
       "very recent",
-      "priority topic: ai, translational medicine",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
       "rich metadata"
     ],
-    "isFeatured": false
+    "isFeatured": true
   },
   {
-    "id": "895dde371db3fb1e",
-    "title": "4 CDMOs to consider when outsourcing manufacturing",
-    "url": "https://www.biospace.com/business/4-cdmos-to-consider-when-outsourcing-manufacturing",
-    "canonicalUrl": "https://www.biospace.com/business/4-cdmos-to-consider-when-outsourcing-manufacturing",
-    "source": "biospace",
-    "publicationName": "BioSpace",
-    "publishedAt": "2026-09-08T04:20:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:03.457Z",
-    "snippet": "Contract development and manufacturing organizations looking to do business with biopharmas include Lonza, which has more than 30 sites, and Samsung Biologics, which recently announced a planned acquisition of another CDMO.",
+    "id": "d84bf3e2f680d458",
+    "title": "Clusters, fingers, and singles: A mechanical landscape of tumor invasion.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42709923",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42709923",
+    "source": "pubmed",
+    "publicationName": "PLoS computational biology",
+    "journalName": "PLoS computational biology",
+    "publishedAt": "2026-09-08T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "Collective invasion is a key mechanism by which tumors disseminate and metastasize, involving coordinated migration of heterogeneous cell populations. Experimental studies in spheroid-based assays have identified specialized leader and follower cells that work together during this process, but the biophysical rules governing their interaction remain unclear...",
     "tags": [
-      "biotech",
-      "industry"
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
     ],
     "topicBuckets": [
-      "biotech",
-      "funding"
+      "computational biology",
+      "oncology",
+      "ai"
     ],
-    "isNewToday": true,
-    "importanceScore": 60,
+    "isNewToday": false,
+    "importanceScore": 92,
     "importanceSignals": [
       "very recent",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
       "rich summary",
       "rich metadata"
     ],
     "isFeatured": false
   },
   {
-    "id": "6298f522ce576ac2",
-    "title": "Moderna and Merck’s mRNA success fuels focus on ‘scaling out and scaling down’",
-    "url": "https://www.biospace.com/drug-delivery/moderna-and-mercks-mrna-success-fuels-focus-on-scaling-out-and-scaling-down",
-    "canonicalUrl": "https://www.biospace.com/drug-delivery/moderna-and-mercks-mrna-success-fuels-focus-on-scaling-out-and-scaling-down",
-    "source": "biospace",
-    "publicationName": "BioSpace",
-    "publishedAt": "2026-09-08T04:09:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:03.457Z",
-    "snippet": "After mastering mass-market mRNA production during the pandemic, the industry now needs to achieve the timely delivery of individualized vaccines to thousands of patients.",
+    "id": "74dda345c8e415ae",
+    "title": "Modeling meningioma in vitro in the omics era.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42709359",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42709359",
+    "source": "pubmed",
+    "publicationName": "Human cell",
+    "journalName": "Human cell",
+    "publishedAt": "2026-09-08T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "Meningioma biology has been substantially clarified by recent omics-based studies, which have identified recurrent mutations, copy-number alterations, and distinct molecular subgroups. However, although these approaches have provided a valuable framework, they are inherently limited in their ability to establish direct causal relationships. The mechanistic....",
     "tags": [
-      "biotech",
-      "industry"
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
     ],
     "topicBuckets": [
-      "biotech"
+      "computational biology",
+      "oncology"
     ],
-    "isNewToday": true,
-    "importanceScore": 54,
+    "isNewToday": false,
+    "importanceScore": 82,
     "importanceSignals": [
       "very recent",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "225f9741333c68dd",
-    "title": "Reeling from past failures, Parkinson's pipeline enters 'era of diversification'",
-    "url": "https://www.biospace.com/drug-development/reeling-from-past-failures-parkinsons-pipeline-enters-era-of-diversification",
-    "canonicalUrl": "https://www.biospace.com/drug-development/reeling-from-past-failures-parkinsons-pipeline-enters-era-of-diversification",
-    "source": "biospace",
-    "publicationName": "BioSpace",
-    "publishedAt": "2026-09-08T04:03:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:03.457Z",
-    "snippet": "While some drugmakers continue to walk the alpha-synuclein antibody path, others like AC Immune opt for new approaches that could bring the first-ever disease-modifying therapy for Parkinson's disease.",
-    "tags": [
-      "biotech",
-      "industry"
-    ],
-    "topicBuckets": [
-      "ai",
-      "biotech",
-      "immunology"
-    ],
-    "isNewToday": true,
-    "importanceScore": 70,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: ai",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": false
+    "isFeatured": true
   },
   {
     "id": "17cf493e5641f5b1",
@@ -2136,25 +2748,22 @@
     "publicationName": "Analytical chemistry",
     "journalName": "Analytical chemistry",
     "publishedAt": "2026-09-08T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
     "snippet": "Raman spectroscopy and mass spectrometry-based proteomics offer deeply complementary yet largely disconnected views of cancer biology: the former provides a label-free, real-time biochemical phenotype, while the latter delivers a quantitative inventory of specific protein effectors. Bridging this gap remains a fundamental challenge in analytical biomedicine...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
-      "oncology",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification"
+      "oncology"
     ],
     "topicBuckets": [
       "computational biology",
       "oncology",
-      "ai",
-      "translational medicine"
+      "ai"
     ],
-    "isNewToday": true,
+    "isNewToday": false,
+    "importanceScore": 92,
     "importanceSignals": [
       "very recent",
       "priority topic: computational biology, oncology",
@@ -2162,7 +2771,6 @@
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 92,
     "isFeatured": true
   },
   {
@@ -2174,7 +2782,7 @@
     "publicationName": "JCI insight",
     "journalName": "JCI insight",
     "publishedAt": "2026-09-08T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
     "snippet": "Idiopathic pulmonary fibrosis (IPF) is a fatal interstitial lung disease characterized by progressive scarring and respiratory failure. While T cells are elevated in IPF lungs, their contributions to fibrosis beyond inflammation remain poorly understood. Here, we performed multiplex imaging and single-cell RNA and protein profiling on about 90,000 CD3+ T ce...",
     "tags": [
       "research",
@@ -2191,7 +2799,7 @@
       "spatial",
       "immunology"
     ],
-    "isNewToday": true,
+    "isNewToday": false,
     "importanceScore": 92,
     "importanceSignals": [
       "very recent",
@@ -2203,6 +2811,151 @@
     "isFeatured": true
   },
   {
+    "id": "aed90aa8800e9ad6",
+    "title": "Ultrasound-Activated Nanoinhibitors Blocking the Chemo-Immune Checkpoint to Overcome Chemotherapy-Induced Immune Resistance.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42711959",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42711959",
+    "source": "pubmed",
+    "publicationName": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "journalName": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "publishedAt": "2026-09-08T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "Breast cancer features an immunosuppressive tumor microenvironment following chemotherapy and develops resistance to conventional immune checkpoint inhibitors. Through single-cell database mining and in vitro analysis, we demonstrate that chemotherapy upregulates Xkr8 expression and promotes phosphatidylserine (PS) externalization, which mediates macrophage...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 72,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "50d73a3964021224",
+    "title": "HIF1ACSF3Rneutrophils-dominated hypoxic niche induced metabolic reprogramming for neoadjuvant therapy resistance in NSCLC.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42711068",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42711068",
+    "source": "pubmed",
+    "publicationName": "Journal for immunotherapy of cancer",
+    "journalName": "Journal for immunotherapy of cancer",
+    "publishedAt": "2026-09-08T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "Non-small cell lung cancer (NSCLC) is one of the frequently occurring cancers characterized by molecular heterogeneity and multiple immune cell infiltration patterns, which are associated with treatment sensitivity and resistance. However, the specific microenvironmental cells and their mechanisms that lead to treatment resistance in patients need to be exp...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 72,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "8747bb09fb3b356d",
+    "title": "Non-coding RNA 7SK drives tumor resistance by coupling local oncogenic activation with global transcriptional repression.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42709882",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42709882",
+    "source": "pubmed",
+    "publicationName": "PLoS computational biology",
+    "journalName": "PLoS computational biology",
+    "publishedAt": "2026-09-08T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "The conserved non-coding RNA 7SK is a well-established global transcriptional repressor, yet its context-specific functions in cancer and therapy resistance remain paradoxical. Here, we resolve this paradox by uncovering a dual-axis mechanism through which 7SK drives colorectal cancer (CRC) resistance. By integrating single-cell multi-omics with functional....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai",
+      "computational biology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 92,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "9eaa1658b128a1d3",
+    "title": "Spatially resolved lactate-glycolysis transcriptional programs are associated with neutrophil-enriched immune remodeling in lung adenocarcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42709341",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42709341",
+    "source": "pubmed",
+    "publicationName": "Medical oncology (Northwood, London, England)",
+    "journalName": "Medical oncology (Northwood, London, England)",
+    "publishedAt": "2026-09-08T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "Metabolic reprogramming characterized by enhanced glycolysis and lactate production plays a critical role in tumor progression and immune regulation. However, the cellular distribution and spatial organization of lactate-glycolysis activity within the lung adenocarcinoma (LUAD) microenvironment remain incompletely understood. We integrated single-cell RNA s...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "spatial",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai",
+      "computational biology",
+      "spatial"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 92,
+    "isFeatured": true
+  },
+  {
     "id": "e083e1e91ec84a9b",
     "title": "Follicular lymphoma and the microenvironment: potential targets and biomarkers.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42708889",
@@ -2211,7 +2964,7 @@
     "publicationName": "Expert review of clinical immunology",
     "journalName": "Expert review of clinical immunology",
     "publishedAt": "2026-09-08T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
     "snippet": "Follicular lymphoma (FL) is an indolent B cell malignancy characterized by recurrent genetic alterations, yet its clinical course is highly variable and not fully explained by tumor-intrinsic features alone. Increasing evidence highlights the tumor microenvironment (TME) as a critical regulator of disease progression, therapeutic response, and immune escape...",
     "tags": [
       "research",
@@ -2228,7 +2981,7 @@
       "ai",
       "translational medicine"
     ],
-    "isNewToday": true,
+    "isNewToday": false,
     "importanceScore": 92,
     "importanceSignals": [
       "very recent",
@@ -2240,58 +2993,24 @@
     "isFeatured": true
   },
   {
-    "id": "e6fe0317b839816f",
-    "title": "Noncoding RNA TY1 reverses fibrosis in systemic sclerosis by attenuating the cGAS/STING pathway.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42708359",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42708359",
+    "id": "43632616560d33c2",
+    "title": "Biologic Therapy for Severe Asthma: Biomarker-Guided Precision Treatment and Immunopathological Mechanisms.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42714006",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42714006",
     "source": "pubmed",
-    "publicationName": "JCI insight",
-    "journalName": "JCI insight",
+    "publicationName": "Journal of visualized experiments : JoVE",
+    "journalName": "Journal of visualized experiments : JoVE",
     "publishedAt": "2026-09-08T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "DNA damage and the cGAS/STING innate immunity pathway have been associated with fibrosis in systemic sclerosis (SSc), but a cause-and-effect role has not been established. Here we report the effects of TY1, a noncoding RNA drug of the exomer class that suppresses DNA damage and thereby inhibits cGAS/STING, in human SSc cells and in 2 preclinical models of S...",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "Severe asthma is a difficult-to-control airway disease with pronounced heterogeneity in both clinical manifestations and underlying inflammatory mechanisms. This review examines the mechanisms, biomarkers, and biologic therapies of severe asthma, with a focus on biomarker-guided treatment selection and emerging precision strategies for type 2-high (T2-high)...",
     "tags": [
       "research",
       "pubmed",
       "Gene therapy inflammation",
       "gene therapy",
       "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "translational medicine"
-    ],
-    "isNewToday": true,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: gene therapy, translational medicine",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "6536adf2dd5528b4",
-    "title": "Immune-Epidermal Dual Targeting in Psoriasis: Emerging Technologies and Translational Therapeutic Strategies.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42706986",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706986",
-    "source": "pubmed",
-    "publicationName": "The British journal of dermatology",
-    "journalName": "The British journal of dermatology",
-    "publishedAt": "2026-09-08T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "Although immune-targeted therapies, particularly agents targeting the IL-23/IL-17 axis, have markedly improved short-term disease control in psoriasis, inadequate responses in a subset of patients and relapse after treatment discontinuation remain unresolved challenges. One possible reason is that immune-centered therapies may not fully address the active c...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
+      "inflammation",
+      "biomarker"
     ],
     "topicBuckets": [
       "gene therapy",
@@ -2299,7 +3018,7 @@
       "ai",
       "translational medicine"
     ],
-    "isNewToday": true,
+    "isNewToday": false,
     "importanceScore": 92,
     "importanceSignals": [
       "very recent",
@@ -2311,16 +3030,16 @@
     "isFeatured": true
   },
   {
-    "id": "c6e68b9abf117685",
-    "title": "Recent research progress on the mechanisms of clopidogrel resistance.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42706349",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706349",
+    "id": "b97bf8c2d8a3fea1",
+    "title": "Developmental myelination deficits and impaired fine motor function in a mouse model of pediatric obstructive sleep apnea.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42710774",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42710774",
     "source": "pubmed",
-    "publicationName": "European journal of clinical pharmacology",
-    "journalName": "European journal of clinical pharmacology",
+    "publicationName": "Experimental neurology",
+    "journalName": "Experimental neurology",
     "publishedAt": "2026-09-08T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "To narratively review recent advances in clopidogrel resistance, including genetic determinants, epigenetic regulation, clinical modifiers, and methods of assessment. Particular attention is given to distinguishing laboratory-defined high on-treatment platelet reactivity (HTPR) from clinical treatment failure, with the aim of supporting risk assessment and....",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "Our primary objective was to characterize the mechanism that underlies fine motor deficits in Pediatric obstructive sleep apnea (POSA) using a preclinical mouse model of the disease. Our goal was to use a systematic approach to characterize neuroanatomical lesions in POSA mice and identify potential molecular drivers of the fine motor changes in this precli...",
     "tags": [
       "research",
       "pubmed",
@@ -2335,11 +3054,118 @@
       "ai",
       "translational medicine"
     ],
-    "isNewToday": true,
+    "isNewToday": false,
     "importanceScore": 92,
     "importanceSignals": [
       "very recent",
       "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "b489054fbc1b7ea7",
+    "title": "Dexpanthenol Attenuates High Fructose Corn Syrup-Induced Brain Injury by Modulating Oxidative Stress, Neuroinflammation, Apoptotic Signaling and Amyloidogenic Gene Expression.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42709289",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42709289",
+    "source": "pubmed",
+    "publicationName": "Molecular neurobiology",
+    "journalName": "Molecular neurobiology",
+    "publishedAt": "2026-09-08T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "High fructose corn syrup (HFCS) consumption may lead to oxidative stress-related neurodegeneration. Dexpanthenol (DEX), with antioxidant and cytoprotective properties, may exert neuroprotective effects; however, its efficacy against HFCS-induced neurotoxicity remains unclear. This study examined DEX's effects against HFCS-induced neurotoxicity across multip...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 82,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "238e948bb5259e21",
+    "title": "\"The CX3CL1- CX3CR1 axis in HIV-associated inflammation and cardiometabolic disease\".",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42709058",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42709058",
+    "source": "pubmed",
+    "publicationName": "American journal of physiology. Regulatory, integrative and comparative physiology",
+    "journalName": "American journal of physiology. Regulatory, integrative and comparative physiology",
+    "publishedAt": "2026-09-08T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "The CX3CL1-CX3CR1 axis, comprising the chemokine fractalkine (CX3CL1) and its immune cell receptor CX3CR1, links immune activation to vascular pathology in people with HIV (PWH). Chronic inflammation persists in PWH despite viral suppression with antiretroviral therapy and contributes to high rates of cardiometabolic comorbidities. This is partly due to dys...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 72,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: gene therapy",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "2c9f7c2990376f3b",
+    "title": "Spatially guided translation from histology images to transcriptomic profiles using foundation model-driven contrastive learning.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42709893",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42709893",
+    "source": "pubmed",
+    "publicationName": "PLoS computational biology",
+    "journalName": "PLoS computational biology",
+    "publishedAt": "2026-09-08T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "Spatial transcriptomics (ST) enhances single-cell RNA sequencing by revealing transcript distribution, offering critical insights into heterogeneous diseases such as breast cancer. However, the high cost and lengthy processes of generating high-quality ST data limit clinical application. Recent deep learning methods predict ST from histology images, but oft...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "spatial"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "ai",
+      "single-cell",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 92,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -2355,7 +3181,7 @@
     "publicationName": "International journal of cancer",
     "journalName": "International journal of cancer",
     "publishedAt": "2026-09-08T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
     "snippet": "Spot-based spatial transcriptomics (ST) allows for unbiased gene expression analysis within tissue architecture, overcoming the limitations of single-cell RNA sequencing (scRNA-seq) by preserving spatial context. However, the high spatial resolution in ST leads to cellular heterogeneity within spots, requiring computational deconvolution to infer cellular c...",
     "tags": [
       "research",
@@ -2372,7 +3198,7 @@
       "computational biology",
       "single-cell"
     ],
-    "isNewToday": true,
+    "isNewToday": false,
     "importanceScore": 82,
     "importanceSignals": [
       "very recent",
@@ -2392,48 +3218,8 @@
     "publicationName": "JCI insight",
     "journalName": "JCI insight",
     "publishedAt": "2026-09-08T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
     "snippet": "Loss of the Y chromosome (LOY) is a frequent event in male tumors and has been linked to cancer progression. However, the degree of mosaic LOY (mLOY) within normal tissues from men with or without cancer remains uncharacterized. Here we used a FISH-based assay targeting X- and Y-chromosome centromeres to perform a pan-organ analysis of mLOY in 1,000 male ti...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "ai",
-      "translational medicine"
-    ],
-    "isNewToday": true,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "importanceScore": 92,
-    "isFeatured": true
-  },
-  {
-    "id": "ea827c94eb9601fd",
-    "title": "[Fibrolamellar hepatocellular carcinoma: a clinicopathological and molecular genetic analysis of nine cases].",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42706111",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706111",
-    "source": "pubmed",
-    "publicationName": "Zhonghua bing li xue za zhi = Chinese journal of pathology",
-    "journalName": "Zhonghua bing li xue za zhi = Chinese journal of pathology",
-    "publishedAt": "2026-09-08T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "To investigate the clinicopathological and molecular features of fibrolamellar hepatocellular carcinoma (FL-HCC).The clinicopathological and prognostic information of 9 FL-HCC cases diagnosed at the Fudan University Shanghai Cancer Center, Shanghai, China from January 2018 to December 2024 were collected and analyzed. The FL-HCC samples were examined with i...",
     "tags": [
       "research",
       "pubmed",
@@ -2447,7 +3233,7 @@
       "computational biology",
       "ai"
     ],
-    "isNewToday": true,
+    "isNewToday": false,
     "importanceScore": 92,
     "importanceSignals": [
       "very recent",
@@ -2459,51 +3245,16 @@
     "isFeatured": true
   },
   {
-    "id": "231175df920f4b1c",
-    "title": "[Not Available].",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42708992",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42708992",
+    "id": "17022fd3d5d3341f",
+    "title": "Outcomes of acute lymphoblastic leukemia in children and young adults treated with a Berlin-Frankfurt-M&#xfc;nste-based protocol in a tertiary care multispecialty government hospital.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42714196",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42714196",
     "source": "pubmed",
-    "publicationName": "Tidsskrift for den Norske laegeforening : tidsskrift for praktisk medicin, ny raekke",
-    "journalName": "Tidsskrift for den Norske laegeforening : tidsskrift for praktisk medicin, ny raekke",
+    "publicationName": "Indian journal of cancer",
+    "journalName": "Indian journal of cancer",
     "publishedAt": "2026-09-08T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "A major change has taken place in the treatment of human epidermal growth factor receptor 2 (HER2) positive breast cancer in recent decades, largely as a result of the development of targeted anti-HER2 treatment. This type of breast cancer accounts for approximately 13&#xa0;% of all breast cancer cases diagnosed annually. Treatment options have evolved from...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": true,
-    "importanceScore": 92,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "5913a666384c5d71",
-    "title": "Single-Exosome EpCAM Heterogeneity Profiling for Breast Cancer Diagnosis and Progression Monitoring.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42708763",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42708763",
-    "source": "pubmed",
-    "publicationName": "Analytical chemistry",
-    "journalName": "Analytical chemistry",
-    "publishedAt": "2026-09-08T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "Exosomes are nanoscale vesicles that are attractive for liquid biopsy, but most methods deliver ensemble averages and obscure how surface biomarkers vary across individual vesicles. We develop a single-particle impact electrochemistry (SPIE) assay to profile epithelial cell adhesion molecule (EpCAM) on single exosomes. EpCAM-positive vesicles are labeled wi...",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "While the survival of childhood acute lymphoblastic leukemia (ALL) approaches 90% in developed nations, outcomes in developing countries are much lower. We conducted a retrospective analysis of the first 50 patients aged <25 years with newly diagnosed ALL who were treated with a modified Berlin-Frankfurt-M&#xfc;nster (BFM)-2009 protocol at our tertiary care...",
     "tags": [
       "research",
       "pubmed",
@@ -2516,7 +3267,7 @@
       "translational medicine",
       "oncology"
     ],
-    "isNewToday": true,
+    "isNewToday": false,
     "importanceScore": 82,
     "importanceSignals": [
       "very recent",
@@ -2525,55 +3276,19 @@
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": false
-  },
-  {
-    "id": "2fbb0bf84d9a30df",
-    "title": "Machine Learning-Assisted Nanoplasmonic Barcode Array-Coupled Microfluidic Platforms for Exosome Profiling and Organotropic Metastasis Analysis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42708715",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42708715",
-    "source": "pubmed",
-    "publicationName": "Analytical chemistry",
-    "journalName": "Analytical chemistry",
-    "publishedAt": "2026-09-08T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "Elucidating the mechanisms of organotropic metastasis requires the in situ profiling of exosomes within the tumor microenvironment. However, conventional assays are normally based on the isolation of exosomes from biological fluids, which disrupts their native spatial context. Moreover, these assays frequently exhibit limited analytical sensitivity, and the...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology",
-      "machine learning"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": true,
-    "importanceScore": 92,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
     "isFeatured": true
   },
   {
-    "id": "7003965da4853095",
-    "title": "Clinical Outcomes of Younger Adults With Philadelphia-Negative Acute Lymphoblastic Leukemia, Treated With A Pediatric-Like Regimen Based on the GIMEMA LAL1308 Protocol. A Campus ALL Study.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42708703",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42708703",
+    "id": "c8b150debd75593d",
+    "title": "A Combined Serum Biomarker Panel for Diagnostic and Prognostic Assessment in Esophageal Squamous Cell Carcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42714055",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42714055",
     "source": "pubmed",
-    "publicationName": "European journal of haematology",
-    "journalName": "European journal of haematology",
+    "publicationName": "Journal of visualized experiments : JoVE",
+    "journalName": "Journal of visualized experiments : JoVE",
     "publishedAt": "2026-09-08T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "While pediatric-based protocols have significantly improved survival rates in adolescents and young adult (AYA) patients with Philadelphia-negative acute lymphoblastic leukemia (Ph- ALL), limited information is available on the applicability of pediatric-like chemotherapy in real life outside of clinical trials. We retrospectively collected clinical data fr...",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "&#x200b;Esophageal squamous cell carcinoma remains difficult to diagnose early and to stratify accurately before treatment. Conventional tumor-node-metastasis staging provides essential anatomical information but does not fully reflect circulating biological heterogeneity. This two-center ambispective observational study developed and externally validated a...",
     "tags": [
       "research",
       "pubmed",
@@ -2585,10 +3300,44 @@
     "topicBuckets": [
       "translational medicine",
       "oncology",
-      "ai",
-      "biotech"
+      "ai"
     ],
-    "isNewToday": true,
+    "isNewToday": false,
+    "importanceScore": 92,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "5f1160003a16ba2c",
+    "title": "LINC01871-Mediated Sensitivity to Cyclin-Dependent Kinase 4/6 Inhibitors in Human Breast Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42714000",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42714000",
+    "source": "pubmed",
+    "publicationName": "Journal of visualized experiments : JoVE",
+    "journalName": "Journal of visualized experiments : JoVE",
+    "publishedAt": "2026-09-08T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "Breast cancer remains the most frequently diagnosed malignancy in women, and resistance to cyclin-dependent kinase 4 and 6 (CDK4/6) inhibitors limits long-term treatment efficacy. This study aimed to identify long non-coding RNAs (lncRNAs) associated with predicted sensitivity to CDK4/6 inhibitors and to investigate their biological functions in breast canc...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
     "importanceScore": 92,
     "importanceSignals": [
       "very recent",
@@ -2600,545 +3349,34 @@
     "isFeatured": true
   },
   {
-    "id": "794d5b6c9bc323c8",
-    "title": "TScan axes 75% of workforce, prioritizes solid tumor program",
-    "url": "https://www.biospace.com/biospace-layoff-tracker",
-    "canonicalUrl": "https://www.biospace.com/biospace-layoff-tracker",
-    "source": "biospace",
-    "publicationName": "BioSpace",
-    "publishedAt": "2026-09-07T23:04:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:03.457Z",
-    "snippet": "Follow along as BioSpace tracks job cuts and restructuring initiatives.",
-    "tags": [
-      "biotech",
-      "industry"
-    ],
-    "topicBuckets": [
-      "biotech",
-      "oncology",
-      "hiring"
-    ],
-    "isNewToday": false,
-    "importanceScore": 64,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: oncology",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "b7815ace6b8d92d6",
-    "title": "Molecular Glue Degraders in Early Development for Cancer Therapy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42703937",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42703937",
+    "id": "757c98ccd9c58481",
+    "title": "High-Content CRISPR Screening: Methods and Applications.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42712921",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42712921",
     "source": "pubmed",
-    "publicationName": "Medicinal research reviews",
-    "journalName": "Medicinal research reviews",
-    "publishedAt": "2026-09-07T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "Molecular glue degraders are an emerging class of small molecule allosteric modulators that induce or stabilize protein-protein interactions, enabling targeted degradation of previously intractable proteins. By redirecting E3 ligases to recognize neosubstrates, proteins that are not typically recognized by a specific E3 ubiquitin ligase, they expand the sco...",
+    "publicationName": "MedComm",
+    "journalName": "MedComm",
+    "publishedAt": "2026-09-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "Clustered regularly interspaced short palindromic repeats (CRISPR)-Cas9 screening has become a central technology in functional genomics, enabling genome-scale interrogation via pooled perturbations. Early CRISPR screens employed survival or simple phenotypic readouts to identify essential genes and drug resistance mechanisms. However, as biological questio...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
-      "oncology"
+      "oncology",
+      "crispr"
     ],
     "topicBuckets": [
       "computational biology",
-      "oncology"
+      "oncology",
+      "gene therapy"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
+    "importanceScore": 75,
     "importanceSignals": [
-      "very recent",
+      "published this month",
       "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "746fa0f3e81c19cf",
-    "title": "Spatiotemporal CD8T-Cell Dynamics: Clonal Replacement and Expansion as Determinants of Sustainable Antitumor Response.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42706837",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706837",
-    "source": "pubmed",
-    "publicationName": "Cancer science",
-    "journalName": "Cancer science",
-    "publishedAt": "2026-09-07T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "The clinical success of immune checkpoint inhibitors (ICI) has shifted the paradigm of cancer treatment, yet the fundamental mechanisms governing the long-term sustainability of antitumor T-cell responses remain elusive. Emerging evidence suggests that the efficacy of ICI depends not only on the reinvigoration of pre-existing tumor-infiltrating lymphocytes....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 92,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "f90afb2f350c7d4d",
-    "title": "Tumor-intrinsic NSUN2 orchestrates immunosuppression in lung adenocarcinoma via the mC-HDAC8-CCL5 axis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42706582",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706582",
-    "source": "pubmed",
-    "publicationName": "Experimental hematology & oncology",
-    "journalName": "Experimental hematology & oncology",
-    "publishedAt": "2026-09-07T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "Insufficient T-cell infiltration is a major barrier to the efficacy of immune checkpoint inhibitors (ICIs) in lung adenocarcinoma (LUAD). We aimed to investigate how the tumor-intrinsic mC methyltransferase NSUN2 shapes the immune landscape of LUAD. Nsun2 conditional knockout mice and syngeneic mice models were employed. Single-cell RNA sequencing (scRNA-se...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "100a784536fd4f14",
-    "title": "Aurora A exacerbates antibiotic-resistant Staphylococcus aureus infection through ASC phosphorylation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42706431",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706431",
-    "source": "pubmed",
-    "publicationName": "EMBO reports",
-    "journalName": "EMBO reports",
-    "publishedAt": "2026-09-07T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "Excessive inflammasome activation is increasingly recognized as a critical driver of pathology during bacterial infections, yet the pathogen-derived mechanisms that trigger dysregulated inflammasome responses remain poorly defined. Here, we identify a previously unrecognized role for the serine/threonine kinase Aurora A in promoting inflammasome activation....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "66aa5ab929b93171",
-    "title": "Unveiling the Role of Extracellular Vesicles in HIV Infection: Molecular Mechanisms, Viral Persistence and Therapeutic Opportunities.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42704642",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42704642",
-    "source": "pubmed",
-    "publicationName": "FEMS microbiology reviews",
-    "journalName": "FEMS microbiology reviews",
-    "publishedAt": "2026-09-07T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "Human immunodeficiency virus (HIV) infection remains a major global health challenge despite the success of antiretroviral therapy, largely due to the persistence of viral reservoirs and chronic immune dysregulation. Extracellular vesicles (EVs) have emerged as important mediators of intercellular communication during viral infection, operating at the inter...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "1ca650c48975c94a",
-    "title": "Targeting diabetes-induced brain damage by photobiomodulation: evidence of multiorgan protection.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42704582",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42704582",
-    "source": "pubmed",
-    "publicationName": "Photochemical & photobiological sciences : Official journal of the European Photochemistry Association and the European Society for Photobiology",
-    "journalName": "Photochemical & photobiological sciences : Official journal of the European Photochemistry Association and the European Society for Photobiology",
-    "publishedAt": "2026-09-07T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "Diabetes-associated neuropathy and cognitive impairment result from sustained hyperglycemia, oxidative stress, mitochondrial dysfunction, and inflammation. Photobiomodulation (PBM) counteracts these by improving mitochondrial function and reducing oxidative and inflammatory stress. This study investigated the comparative therapeutic potential of PBM alone a...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "3dd42fa93fb2d1ed",
-    "title": "FABP4 characterizes metabolic-immune interactions and serves as a prognostic biomarker across gynecologic malignancies: a multi-omics integrative analysis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42705210",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42705210",
-    "source": "pubmed",
-    "publicationName": "Translational oncology",
-    "journalName": "Translational oncology",
-    "publishedAt": "2026-09-07T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "Gynecological malignancies-including breast, cervical, ovarian, endometrial cancers and uterine sarcoma-pose a serious threat to women's health owing to their high incidence, aggressiveness and frequent recurrence. Fatty acid-binding protein 4 (FABP4) is a key regulator of lipid metabolism and tumor metabolic reprogramming, yet systematic investigations of....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "biomarker"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "translational medicine",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 92,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "db4f47794698a702",
-    "title": "Unraveling lung cancer complexity: Spatial omics in tumor microenvironment characterization and precision medicine.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42705130",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42705130",
-    "source": "pubmed",
-    "publicationName": "Current problems in cancer",
-    "journalName": "Current problems in cancer",
-    "publishedAt": "2026-09-07T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "Heterogeneous tumor microenvironment (TME) in lung cancer plays a crucial role in disease progression and resistance to therapy. Despite advances in single-cell and bulk omics profiling, these methods often overlook spatial context, which is vital for understanding cell-cell interactions and regional heterogeneity. In recent years, spatial omics technologie...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "spatial"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "single-cell",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 92,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "37da2a5f183bd3aa",
-    "title": "10 life sciences startups selected for accelerator program",
-    "url": "https://www.biospace.com/business/10-life-sciences-startups-selected-for-accelerator-program",
-    "canonicalUrl": "https://www.biospace.com/business/10-life-sciences-startups-selected-for-accelerator-program",
-    "source": "biospace",
-    "publicationName": "BioSpace",
-    "publishedAt": "2026-09-04T13:49:20.000Z",
-    "fetchedAt": "2026-09-08T16:52:03.457Z",
-    "snippet": "Seven of the 10 companies participating in the fall cohorts of MassBio and SCbio’s Drive program are based in the United States, including four in Massachusetts.",
-    "tags": [
-      "biotech",
-      "industry"
-    ],
-    "topicBuckets": [
-      "biotech"
-    ],
-    "isNewToday": false,
-    "importanceScore": 44,
-    "importanceSignals": [
-      "recent",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "341440023f63c43c",
-    "title": "Biotech is back, with H1 progress smoothing glide path through end of year: Truist",
-    "url": "https://www.biospace.com/business/biotech-is-back-with-h1-progress-smoothing-glide-path-through-end-of-year-truist",
-    "canonicalUrl": "https://www.biospace.com/business/biotech-is-back-with-h1-progress-smoothing-glide-path-through-end-of-year-truist",
-    "source": "biospace",
-    "publicationName": "BioSpace",
-    "publishedAt": "2026-09-04T13:33:12.000Z",
-    "fetchedAt": "2026-09-08T16:52:03.457Z",
-    "snippet": "With M&A rising, venture capital returning and policy risks easing, biotech is on a positive trajectory following a prolonged post-pandemic slump, Truist Securities declared after a survey of sector leaders.",
-    "tags": [
-      "biotech",
-      "industry"
-    ],
-    "topicBuckets": [
-      "biotech",
-      "funding"
-    ],
-    "isNewToday": false,
-    "importanceScore": 50,
-    "importanceSignals": [
-      "recent",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "c945357269018d51",
-    "title": "Pfizer punts Seagen ADC, further muddying value of the $43B buyout",
-    "url": "https://www.biospace.com/deals/pfizer-punts-seagen-adc-further-muddying-value-of-the-43b-buyout",
-    "canonicalUrl": "https://www.biospace.com/deals/pfizer-punts-seagen-adc-further-muddying-value-of-the-43b-buyout",
-    "source": "biospace",
-    "publicationName": "BioSpace",
-    "publishedAt": "2026-09-04T12:55:43.000Z",
-    "fetchedAt": "2026-09-08T16:52:03.457Z",
-    "snippet": "The co-development deal comes after Pfizer reported a late-stage failure for a Seagen asset and the discontinuation of another investigational therapy developed by the company as a subsidiary of the pharma.",
-    "tags": [
-      "biotech",
-      "industry"
-    ],
-    "topicBuckets": [
-      "ai",
-      "biotech"
-    ],
-    "isNewToday": false,
-    "importanceScore": 60,
-    "importanceSignals": [
-      "recent",
-      "priority topic: ai",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "c2ae818263fb4e08",
-    "title": "AbbVie’s T cell engager delivers survival benefit in Phase 3 multiple myeloma study",
-    "url": "https://www.biospace.com/drug-development/abbvies-t-cell-engager-delivers-survival-benefit-in-phase-3-multiple-myeloma-study",
-    "canonicalUrl": "https://www.biospace.com/drug-development/abbvies-t-cell-engager-delivers-survival-benefit-in-phase-3-multiple-myeloma-study",
-    "source": "biospace",
-    "publicationName": "BioSpace",
-    "publishedAt": "2026-09-04T11:31:09.000Z",
-    "fetchedAt": "2026-09-08T16:52:03.457Z",
-    "snippet": "AbbVie’s etentamig has a relatively cleaner safety profile and an administration schedule that could give it an edge over other BCMA-targeting multiple myeloma therapies on the market, according to BMO Capital Markets.",
-    "tags": [
-      "biotech",
-      "industry"
-    ],
-    "topicBuckets": [
-      "biotech",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 50,
-    "importanceSignals": [
-      "recent",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "2558ba929382c0d7",
-    "title": "The Week’s 10 Biggest Funding Rounds: Crusoe And Fluidstack Lead Multibillion-Dollar AI Infrastructure Haul",
-    "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-crusoe-fluidstack-multibillion-dollar-ai-infrastructure",
-    "canonicalUrl": "https://news.crunchbase.com/venture/biggest-funding-rounds-crusoe-fluidstack-multibillion-dollar-ai-infrastructure",
-    "imageUrl": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
-    "imageSource": "publisher",
-    "source": "crunchbase",
-    "publicationName": "Crunchbase News",
-    "publishedAt": "2026-09-04T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:56:13.638Z",
-    "snippet": "",
-    "tags": [
-      "funding",
-      "startups"
-    ],
-    "topicBuckets": [
-      "ai",
-      "funding"
-    ],
-    "isNewToday": false,
-    "importanceSignals": [
-      "recent",
-      "priority topic: ai",
-      "rich metadata"
-    ],
-    "importanceScore": 52,
-    "isFeatured": false
-  },
-  {
-    "id": "63ff1376f2bb5077",
-    "title": "Icariin-loaded liposomal nanoparticles alleviate streptozotocin-induced diabetic hepatopathy associated with modulation of ferroptosis-related and inflammatory signaling.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42706585",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706585",
-    "source": "pubmed",
-    "publicationName": "BMC pharmacology & toxicology",
-    "journalName": "BMC pharmacology & toxicology",
-    "publishedAt": "2026-09-04T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "Diabetic hepatopathy is a major complication of type 2 diabetes mellitus characterized by metabolic dysregulation, oxidative stress, inflammation, and emerging evidence of ferroptosis-mediated liver injury. Icariin (IC), a bioactive flavonoid, exhibits hepatoprotective potential; however, its clinical applicability is limited by poor bioavailability. Liposo...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai",
-      "funding",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "4100f49e94f86a4d",
-    "title": "FDA approves Ionis’ antisense drug as first targeted therapy for Alexander disease",
-    "url": "https://www.biospace.com/fda/fda-approves-ionis-antisense-drug-as-first-targeted-therapy-for-alexander-disease",
-    "canonicalUrl": "https://www.biospace.com/fda/fda-approves-ionis-antisense-drug-as-first-targeted-therapy-for-alexander-disease",
-    "source": "biospace",
-    "publicationName": "BioSpace",
-    "publishedAt": "2026-09-03T22:21:29.000Z",
-    "fetchedAt": "2026-09-08T16:52:03.457Z",
-    "snippet": "Zanvastro, an antisense oligonucleotide therapy, represents the first independent neurology launch for Ionis Pharmaceuticals, which intends to leverage the foothold for more approvals in rare neurodegenerative diseases, including Angelman syndrome.",
-    "tags": [
-      "biotech",
-      "industry"
-    ],
-    "topicBuckets": [
-      "biotech"
-    ],
-    "isNewToday": false,
-    "importanceScore": 50,
-    "importanceSignals": [
-      "recent",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "b72335dea9fd4e74",
-    "title": "Phage therapy for mastitis in dairy cows: Multipathogen targeting strategies, clinical translation challenges, and future directions.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42704951",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42704951",
-    "source": "pubmed",
-    "publicationName": "Veterinary microbiology",
-    "journalName": "Veterinary microbiology",
-    "publishedAt": "2026-09-02T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "Bovine mastitis is one of the most economically burdensome diseases in the global livestock industry. With the growing threat of antimicrobial resistance and the implementation of policies aimed at reducing or prohibiting antibiotic use, the development of novel antimicrobial strategies is urgently needed. Phage therapy, as a biological approach capable of....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: gene therapy, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -3154,7 +3392,7 @@
     "publicationName": "HemaSphere",
     "journalName": "HemaSphere",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
     "snippet": "Mitochondrial DNA (mtDNA) mutations are frequently observed in cancer, but their clinical and functional significance in chronic myeloid leukemia (CML) remains incompletely defined. Here, we show that a distinct mtDNA mutational landscape is associated with mitochondrial metabolic programs and response to imatinib therapy in CML. We performed comprehensive....",
     "tags": [
       "research",
@@ -3181,190 +3419,16 @@
     "isFeatured": true
   },
   {
-    "id": "8f06f0fd28c26fe4",
-    "title": "Quantile Tensor Regression for Integrative Genomic Analysis of Oesophageal Carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42707043",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42707043",
+    "id": "fcb94ce79ee0be32",
+    "title": "TRIM21 blocks DDX3X-driven stress granule formation during Mycobacterium tuberculosis infection via a non-canonical E3 ligase mechanism.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42709850",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42709850",
     "source": "pubmed",
-    "publicationName": "Statistics in medicine",
-    "journalName": "Statistics in medicine",
+    "publicationName": "PLoS pathogens",
+    "journalName": "PLoS pathogens",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "Recent integrative genomic studies have increasingly exploited the tensor structure of multi-omics data to develop statistical methods that jointly model the relationship between clinical outcomes and multiple genomes. However, genomic measurements and clinical outcomes are frequently contaminated by outliers or heavy-tailed noise, necessitating robust tens...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "4c57333905ce648e",
-    "title": "Dynamic multimodal survival prediction in multiple myeloma integrating gene expression, longitudinal laboratory measurements, and treatment history.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42704271",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42704271",
-    "source": "pubmed",
-    "publicationName": "Briefings in bioinformatics",
-    "journalName": "Briefings in bioinformatics",
-    "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "Prognostic stratification in multiple myeloma (MM) relies on staging systems fixed at diagnosis, discarding temporal information accumulated during treatment. We developed a dynamic multimodal framework that predicts residual overall survival from observation windows of 1-18&#xa0;months post-diagnosis. The model integrates DeepInsight-transformed gene expre...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 65,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "f38c73b1d4739a3a",
-    "title": "Interpretable deep neural network identifies robust biomarkers for diseases with mechanistic insights from omics data.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42704266",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42704266",
-    "source": "pubmed",
-    "publicationName": "Briefings in bioinformatics",
-    "journalName": "Briefings in bioinformatics",
-    "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "Identifying essential biomarkers remains a core challenge in elucidating the pathogenic mechanisms and achieving precise diagnosis of complex diseases. Deep neural networks offer immense predictive power, yet their lack of interpretability severely limits downstream biological insight. Here, we introduce DeepVaris, an explainable deep learning framework tha...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology",
-      "biomarker"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "47d4dd9082a67652",
-    "title": "Functional and Proteomic Profiles of CD3(+) Plasma-Derived Small Extracellular Vesicles Differentiate Cancer Patients From Healthy Donors.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42703967",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42703967",
-    "source": "pubmed",
-    "publicationName": "European journal of immunology",
-    "journalName": "European journal of immunology",
-    "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "Small extracellular vesicles (sEV) released by T cells play a key role in immune regulation. Immune capture with anti-CD3 antibodies was used to isolate and study T cell-derived CD3(+)sEV from the plasma of patients with melanoma (MPs) or healthy donors (HDs). Functional responses induced in recipient target cells by CD3(+)sEV of MPs differed from responses...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 65,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "fe351a1ab9832fae",
-    "title": "Multi-Omics Integration Identifies a Five-Gene Metabolic Signature With Experimental Validation in Clear Cell Renal Cell Carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42702836",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42702836",
-    "source": "pubmed",
-    "publicationName": "Cancer reports (Hoboken, N.J.)",
-    "journalName": "Cancer reports (Hoboken, N.J.)",
-    "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "Clear cell renal cell carcinoma (ccRCC) is hallmarked by profound metabolic reprogramming; however, its intricate crosstalk with the tumor immune microenvironment (TIME) and its clinical ramifications remain inadequately elucidated. This study aims to systematically decipher the metabolic-immune interplay in ccRCC through multi-omics integration, with the g...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai",
-      "translational medicine",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "5d6ac461ad9e2a0b",
-    "title": "HIV-1 integrase inhibitor resistance in viraemic-treated individuals and baseline capsid diversity relevant to future lenacapavir therapy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42708709",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42708709",
-    "source": "pubmed",
-    "publicationName": "The Journal of antimicrobial chemotherapy",
-    "journalName": "The Journal of antimicrobial chemotherapy",
-    "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "Dolutegravir (DTG)-based antiretroviral therapy has been widely adopted across sub-Saharan Africa, yet resistance pathways in non-B HIV-1 subtypes remain poorly defined. As lenacapavir (LEN), a long-acting capsid inhibitor, is introduced for prevention and treatment, characterizing baseline capsid variation alongside emerging integrase resistance is increas...",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "Tripartite motif-containing 21 (TRIM21) is an E3 ubiquitin ligase that binds viral and host proteins to mediate antiviral defense. Its role in Mycobacterium tuberculosis (Mtb) infection, however, is unclear. Here, our analysis of human TB transcriptomic datasets showed that TRIM21 expression levels correlate with TB progression in human patients. We further...",
     "tags": [
       "research",
       "pubmed",
@@ -3390,34 +3454,34 @@
     "isFeatured": true
   },
   {
-    "id": "8172864e8e8554f3",
-    "title": "Immune Checkpoint Inhibitor Myocarditis and Myotoxicity.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42709038",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42709038",
+    "id": "7d5d529ab2138322",
+    "title": "Gastric cancer in the Era of neural regulation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42713073",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42713073",
     "source": "pubmed",
-    "publicationName": "Circulation",
-    "journalName": "Circulation",
-    "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "Immune checkpoint inhibitor (ICI)-associated myocarditis is uncommon but has been described as an important and potentially fatal complication of cancer treatment. Increasing evidence from a variety of data sources have reframed this complication as part of ICI-associated myotoxicity (ICI-M), a systemic cardiomuscular syndrome in which myocarditis, myositis...",
+    "publicationName": "Chinese journal of cancer research = Chung-kuo yen cheng yen chiu",
+    "journalName": "Chinese journal of cancer research = Chung-kuo yen cheng yen chiu",
+    "publishedAt": "2026-08-30T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "Neural regulation of gastric cancer (GC) has conventionally been parsed into isolated axes-vagal, sympathetic, or sensory. This compartmentalized view is increasingly untenable. The stomach is embedded in a multilayered neural architecture in which tumor-infiltrating nerves, the enteric nervous system (ENS), and long-range brain-gut pathways operate at dist...",
     "tags": [
       "research",
       "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
     ],
     "topicBuckets": [
-      "translational medicine",
+      "single-cell",
       "oncology",
-      "immunology"
+      "immunology",
+      "ai"
     ],
     "isNewToday": false,
     "importanceScore": 65,
     "importanceSignals": [
       "published this month",
-      "priority topic: translational medicine, oncology",
+      "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -3425,117 +3489,39 @@
     "isFeatured": true
   },
   {
-    "id": "c329e89252b33d37",
-    "title": "Identification of Causal Plasma Proteins and Immune Mediators for Lung Cancer in Never-Smokers: A Large-Scale Integrative Analysis Combining Mendelian Randomization, Colocalization, and Mediation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42708309",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42708309",
+    "id": "d8c6e5786d26fb73",
+    "title": "A programmed cell death learning signature predicts immunotherapy response and identifies AP1S1 as a regulator of immune exclusion in breast cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42712842",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42712842",
     "source": "pubmed",
-    "publicationName": "Current medicinal chemistry",
-    "journalName": "Current medicinal chemistry",
-    "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "As global smoking rates decline, Lung Cancer in Never-Smokers (LCINS) has emerged as a distinct and increasingly important clinical entity. However, its underlying pathogenesis remains poorly understood, highlighting the need to identify circulating molecular determinants and candidate biomarkers. Genetic instruments for plasma proteins were obtained from p...",
+    "publicationName": "Chinese journal of cancer research = Chung-kuo yen cheng yen chiu",
+    "journalName": "Chinese journal of cancer research = Chung-kuo yen cheng yen chiu",
+    "publishedAt": "2026-08-30T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "Breast cancer remains a leading cause of global cancer mortality, characterized by profound heterogeneity. While immune checkpoint blockade (ICB) has transformed oncology, its efficacy in breast cancer is often hindered by \"immune-cold\" microenvironments and immune exclusion. Programmed cell death (PCD) is a critical regulator of tumor immune microenvironme...",
     "tags": [
       "research",
       "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "f8e8961052b843bd",
-    "title": "Histological, functional, and behavioral comparison of three Duchenne muscular dystrophy mouse models.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42705128",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42705128",
-    "source": "pubmed",
-    "publicationName": "Neuromuscular disorders : NMD",
-    "journalName": "Neuromuscular disorders : NMD",
-    "publishedAt": "2026-08-25T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "Mouse models carrying specific subsets of mutations are particularly suitable for personalized medicine research. Nonetheless, mouse models do not completely mimic the human phenotype. This is the case for different Duchenne muscular dystrophy (DMD) mouse models, in which several aspects like muscle force, histopathology, cognition, and behavior can vary co...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 55,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: gene therapy",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "3f171f0a177ba9ae",
-    "title": "Enhancing pan-cancer spatial transcriptomics at single-cell resolution with stPainter.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42706255",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706255",
-    "source": "pubmed",
-    "publicationName": "Nature communications",
-    "journalName": "Nature communications",
-    "publishedAt": "2026-08-10T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "Subcellular spatial transcriptomics can resolve tissue architecture at cellular scale, but sparse gene panels and limited detection sensitivity constrain downstream analysis. Existing enhancement methods often require tissue-matched single-cell RNA sequencing (scRNA-seq) references and dataset-specific retraining. Here we show that stPainter, a conditional....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology",
-      "single-cell",
-      "spatial",
       "Single-cell TME",
+      "single-cell",
       "tumor microenvironment",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
+      "immunotherapy"
     ],
     "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai",
       "single-cell",
-      "spatial",
-      "immunology"
+      "oncology",
+      "immunology",
+      "ai"
     ],
     "isNewToday": false,
+    "importanceScore": 65,
     "importanceSignals": [
       "published this month",
-      "priority topic: computational biology, oncology",
+      "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 75,
     "isFeatured": true
   },
   {
@@ -3547,36 +3533,32 @@
     "publicationName": "Nature communications",
     "journalName": "Nature communications",
     "publishedAt": "2026-08-10T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
     "snippet": "Human epidermal growth factor receptor 2 (HER2) expression is a distinctive feature of a subgroup of gastric cancer (GC) but the underpinning characteristics of the immune microenvironment and mechanisms remain unclear. In the study, spatial transcriptomics and single-cell RNA sequencing are used on treatment-na&#xef;ve HER2-positive and HER2-negative GC sp...",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "immunotherapy",
       "Spatial oncology",
       "spatial transcriptomics",
-      "cancer"
+      "cancer",
+      "immunotherapy"
     ],
     "topicBuckets": [
-      "single-cell",
+      "spatial",
       "oncology",
-      "immunology",
-      "ai",
       "computational biology",
-      "spatial"
+      "ai",
+      "single-cell",
+      "immunology"
     ],
     "isNewToday": false,
+    "importanceScore": 68,
     "importanceSignals": [
-      "published this month",
-      "priority topic: oncology, ai",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 75,
     "isFeatured": true
   },
   {
@@ -3587,7 +3569,7 @@
     "source": "biospace",
     "publicationName": "BioSpace",
     "publishedAt": "2026-08-05T13:36:28.000Z",
-    "fetchedAt": "2026-09-08T16:52:03.457Z",
+    "fetchedAt": "2026-09-09T16:54:48.469Z",
     "snippet": "The FDA has been trying to mend fences with rare disease drug developers and patient groups since the departure of former Commissioner Marty Makary three months ago. But advisory committee meetings last week for Replimune and Capricor Therapeutics only created more confusion and frustration.",
     "tags": [
       "biotech",
@@ -3614,7 +3596,7 @@
     "source": "biospace",
     "publicationName": "BioSpace",
     "publishedAt": "2026-07-02T14:54:36.000Z",
-    "fetchedAt": "2026-09-08T16:52:03.457Z",
+    "fetchedAt": "2026-09-09T16:54:48.469Z",
     "snippet": "Congressional letters sent to the CEOs of Eli Lilly, Pfizer, Merck, BMS and AbbVie this week voicing concerns about the pharmas' clinical trials in China highlight an ongoing discrepancy in how government and industry think about the rise of the Asian country’s biotech industry.",
     "tags": [
       "biotech",
@@ -3641,7 +3623,7 @@
     "source": "biospace",
     "publicationName": "BioSpace",
     "publishedAt": "2026-06-22T04:53:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:03.457Z",
+    "fetchedAt": "2026-09-09T16:54:48.469Z",
     "snippet": "If cell and gene therapy makers are going to achieve their mission to improve patients’ lives, the industry must come together to share information across stakeholders, from regulators to manufacturers to payers.",
     "tags": [
       "biotech",
@@ -3668,7 +3650,7 @@
     "source": "biospace",
     "publicationName": "BioSpace",
     "publishedAt": "2026-06-18T15:44:10.000Z",
-    "fetchedAt": "2026-09-08T16:52:03.457Z",
+    "fetchedAt": "2026-09-09T16:54:48.469Z",
     "snippet": "UniQure’s planned third-quarter submission for its Huntington’s disease gene therapy may be a harbinger of a more flexible FDA under acting commissioner Kyle Diamantas—but how long will it last? And how can companies be sure these positive decisions won’t just be reversed?",
     "tags": [
       "biotech",
@@ -3966,7 +3948,7 @@
     "publicationName": "Frontiers in oncology",
     "journalName": "Frontiers in oncology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
     "snippet": "Effective glioblastoma care requires integrating multiparametric longitudinal MRI with histopathology, molecular profiling, and clinical records documenting surgery, radiotherapy, chemotherapy, and supportive treatments. In routine practice, however, these data streams are often evaluated separately rather than jointly, which can delay molecularly informed....",
     "tags": [
       "research",
@@ -4001,7 +3983,7 @@
     "publicationName": "Theranostics",
     "journalName": "Theranostics",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
     "snippet": "Regulatory T cells (Tregs) suppress antitumor immunity in ovarian cancer (OC) and are promising targets for immunotherapy. However, the heterogeneity and regulatory mechanisms of tumor-infiltrating Tregs (TI-Tregs) remain poorly defined. Here, we aim to delineate TI-Treg programs to identify potential therapeutic targets. CD4&#x207a;CD25&#x207a;CD127&#x207b...",
     "tags": [
       "research",
@@ -4040,7 +4022,7 @@
     "publicationName": "Frontiers in genetics",
     "journalName": "Frontiers in genetics",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
     "snippet": "Immune checkpoint inhibitor (ICI) therapy for oral squamous cell carcinoma (OSCC) yields objective responses in fewer than 20% of patients, underscoring the urgent need for novel predictive biomarkers beyond PD-L1 expression and tumor mutational burden (TMB). Ferroptosis, an iron-dependent oxidative cell death program, has emerged as a dual-function regulat...",
     "tags": [
       "research",
@@ -4076,7 +4058,7 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
     "snippet": "Tumor microenvironment-resident immunosuppressive cells-comprising myeloid-derived suppressor cells, regulatory T cells, and tumor-associated macrophages-constitute primary obstacles to effective cancer immunotherapy. Advances in single-cell and spatial multi-omics have uncovered their substantial functional heterogeneity, tissue-adaptive reprogramming, and...",
     "tags": [
       "research",
@@ -4099,7 +4081,7 @@
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
+    "isFeatured": false
   },
   {
     "id": "2c218b2288926f47",
@@ -4110,7 +4092,7 @@
     "publicationName": "Journal of inflammation research",
     "journalName": "Journal of inflammation research",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
     "snippet": "Poor pathological response to neoadjuvant immunotherapy combined with chemotherapy (nICT) limits long-term survival in resectable lung cancer. How to improve response rates and the regulatory mechanism of tumor inflammatory signaling in nICT efficacy remain unclear. In this study, patients were stratified into molecular subgroups using unsupervised consensu...",
     "tags": [
       "research",
@@ -4141,124 +4123,16 @@
     "isFeatured": true
   },
   {
-    "id": "bee89682c4e8b688",
-    "title": "Senescent immune cells, inflammaging, and bone loss: therapeutic potential and translational challenges of senolytics in osteoporosis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42707630",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42707630",
-    "source": "pubmed",
-    "publicationName": "Frontiers in endocrinology",
-    "journalName": "Frontiers in endocrinology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "Osteoporosis is a common age-related skeletal disorder characterized by low bone mass, deterioration of bone microarchitecture, and increased susceptibility to fragility fractures. Although antiresorptive and anabolic therapies have substantially improved fracture prevention, current treatments do not fully address the aging-related biological processes tha...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: oncology, translational medicine",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "629c8f4092394754",
-    "title": "Dynamic immune state transitions and metastatic niche remodelling drive osteosarcoma evolution as a barrier-restricted immune-cold ecosystem.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42707561",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42707561",
+    "id": "d2bdcac6cc9c33ae",
+    "title": "C-reactive protein in cardiovascular disease: clinical associations, conformation-dependent biology, and therapeutic perspectives.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42712801",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42712801",
     "source": "pubmed",
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "Osteosarcoma exhibits limited responsiveness to immune checkpoint blockade, a feature commonly referred to as immune coldness. However, interpreting immune coldness as a fixed tumour trait may underestimate the spatially and temporally dynamic processes that govern immune resistance. Accumulating evidence instead supports an evolutionary ecosystem view, in....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "76b188d37b9fbe8e",
-    "title": "Association Between Mutation Context-Associated RUNX1 Transcriptional States and Immune-Stromal Heterogeneity in Nonsmall Cell Lung Cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42707325",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42707325",
-    "source": "pubmed",
-    "publicationName": "Human mutation",
-    "journalName": "Human mutation",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "Nonsmall cell lung cancer (NSCLC) is characterized by substantial heterogeneity in driver mutation backgrounds and tumor microenvironment (TME) phenotypes, yet the transcriptional regulatory states linking genotype context to immune-stromal variation remain incompletely defined. In this study, we integrated mutation, transcriptomic, and clinical data from T...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "translational medicine",
-      "spatial",
-      "computational biology"
-    ],
-    "isNewToday": false,
-    "importanceSignals": [
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "importanceScore": 68,
-    "isFeatured": true
-  },
-  {
-    "id": "b4f23a536e50e619",
-    "title": "From immune dysregulation to renal injury: mechanistic insights and translational opportunities in immune-mediated nephropathies.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42707564",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42707564",
-    "source": "pubmed",
-    "publicationName": "Frontiers in cell and developmental biology",
-    "journalName": "Frontiers in cell and developmental biology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "Immune-mediated nephropathies are a mechanistically diverse group of kidney disorders in which dysregulated innate and adaptive immunity drive sustained inflammation, tissue injury, and progressive fibrosis. The kidney is not a passive target of these processes but an active immunological organ, where crosstalk between resident parenchymal cells and infiltr...",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "C-reactive protein (CRP) is a widely used biomarker of systemic inflammation and cardiovascular risk. Its clinical and experimental relevance has been investigated across major cardiovascular disease (CVD) phenotypes, including coronary artery disease, heart failure, arrhythmias, cardiomyopathies, hypertension, and aortic aneurysm. High-sensitivity CRP (hs-...",
     "tags": [
       "research",
       "pubmed",
@@ -4284,16 +4158,16 @@
     "isFeatured": true
   },
   {
-    "id": "a94dc0fa720a13b7",
-    "title": "Beyond bacterial dysbiosis: the emerging role of gut bacteriophages in type 2 diabetes.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42707337",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42707337",
+    "id": "b081c54bb6578902",
+    "title": "Hypoimmune platforms: from rejection to immune evasion and regulatory implications.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42712437",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42712437",
     "source": "pubmed",
-    "publicationName": "Frontiers in cell and developmental biology",
-    "journalName": "Frontiers in cell and developmental biology",
+    "publicationName": "Transplant international : official journal of the European Society for Organ Transplantation",
+    "journalName": "Transplant international : official journal of the European Society for Organ Transplantation",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "Bacteriophages, the viruses that infect gut bacteria, are now seen as active members of the intestinal ecosystem rather than passive observers. In type 2 diabetes mellitus (T2DM), growing evidence suggests that the gut phage community changes in several important ways. People with T2DM often have lower phage diversity, more temperate phages, and shifts in b...",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "The growing gap between organ demand and clinical availability has renewed interest in immune-evasive graft strategies, yet rejection and lifelong immunosuppression remain major barriers to durable success. Advances in genome editing enable immune-evasive cell platforms designed to avoid immune recognition while replacing missing function in allogeneic sett...",
     "tags": [
       "research",
       "pubmed",
@@ -4304,12 +4178,123 @@
     ],
     "topicBuckets": [
       "gene therapy",
-      "immunology"
+      "immunology",
+      "ai",
+      "translational medicine"
     ],
     "isNewToday": false,
-    "importanceScore": 48,
+    "importanceScore": 68,
     "importanceSignals": [
-      "priority topic: gene therapy",
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "544ebf2589c13e48",
+    "title": "Beyond traditional criteria: CRP and fibrinogen as biomarkers of metabolic syndrome in ART-treated people living with HIV and their association with HIF-1&#x3b1; rs11549465.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42709845",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42709845",
+    "source": "pubmed",
+    "publicationName": "PloS one",
+    "journalName": "PloS one",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "Metabolic syndrome (MS) is highly prevalent among people living with HIV (PLWH) receiving antiretroviral therapy (ART) and is driven by persistent low-grade inflammation. Hypoxia-inducible factor 1 alpha (HIF-1&#x3b1;) polymorphisms may influence inflammatory pathways underlying MS. This study investigated the association of the rs11549465 HIF-1&#x3b1; poly...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation",
+      "biomarker"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: gene therapy, translational medicine",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "f3a140b2a43d960a",
+    "title": "Vascular-immune zonation sets organ-specific metastatic checkpoints.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42713169",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42713169",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "Organ-specific metastatic niches begin at vascular-immune interfaces, where endothelial heterogeneity and tissue-resident immunity shape the fate of disseminated tumor cells. Hemodynamics and vascular geometry shape initial tumor-cell encounters, whereas endothelial and perivascular immune states determine whether arrest progresses to extravasation, immune....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "immunology",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 68,
+    "isFeatured": false
+  },
+  {
+    "id": "b54c4921bcf76608",
+    "title": "Graph neural networks for multi-scale gene-drug interaction modeling in cancer: applications, challenges, and therapeutic opportunities for breast cancer drug resistance.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42712955",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42712955",
+    "source": "pubmed",
+    "publicationName": "Frontiers in oncology",
+    "journalName": "Frontiers in oncology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "Breast cancer drug resistance remains a major clinical challenge driven by complex genetic, signaling, and microenvironmental interactions. Conventional machine learning and deep learning represent genes, drugs, and patients as independent feature vectors, limiting their ability to capture biological relationships governing therapeutic response. Graph neura...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "ai",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -4325,7 +4310,7 @@
     "publicationName": "Theranostics",
     "journalName": "Theranostics",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
     "snippet": "Ubiquitin-specific peptidase 22 (USP22), a deubiquitinase and component of the \"Death-from-Cancer\" 11-gene signature, is overexpressed in multiple malignancies and linked to recurrence, therapy resistance, and poor prognosis. Its role in KRAS/p53-driven lung cancer and the response to immune checkpoint inhibitors (ICIs) remains poorly defined. Here, we inve...",
     "tags": [
       "research",
@@ -4353,6 +4338,42 @@
     "isFeatured": true
   },
   {
+    "id": "76b188d37b9fbe8e",
+    "title": "Association Between Mutation Context-Associated RUNX1 Transcriptional States and Immune-Stromal Heterogeneity in Nonsmall Cell Lung Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42707325",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42707325",
+    "source": "pubmed",
+    "publicationName": "Human mutation",
+    "journalName": "Human mutation",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "Nonsmall cell lung cancer (NSCLC) is characterized by substantial heterogeneity in driver mutation backgrounds and tumor microenvironment (TME) phenotypes, yet the transcriptional regulatory states linking genotype context to immune-stromal variation remain incompletely defined. In this study, we integrated mutation, transcriptomic, and clinical data from T...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "ai",
+      "translational medicine",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
     "id": "d7404603b727f12d",
     "title": "Multimodal AI reading of genetic complexity and residual marrow composition in acute promyelocytic leukemia.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42707273",
@@ -4361,7 +4382,7 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
     "snippet": "Acute promyelocytic leukemia (APL) is defined by its genetics, yet interphase fluorescencehybridization (FISH) for the PML::RARA fusion, the chromosomal complement seen on a metaphase spread, and the marrow's cellular composition on a Wright-Giemsa smear are read as separate, unconnected examinations. We did not identify a published model trained on two or....",
     "tags": [
       "research",
@@ -4387,16 +4408,16 @@
     "isFeatured": true
   },
   {
-    "id": "08bf0bb1bf6e51d2",
-    "title": "The-/NRF2 Axis in Non-Small Cell Lung Cancer Radioresistance: Redox Homeostasis and Emerging DNA Damage Response Mechanisms.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42708106",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42708106",
+    "id": "1d6879f92a60bcdb",
+    "title": "Progress for RAD18's mechanism in breast cancer radioresistant.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42713304",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42713304",
     "source": "pubmed",
-    "publicationName": "Cancer management and research",
-    "journalName": "Cancer management and research",
+    "publicationName": "Open life sciences",
+    "journalName": "Open life sciences",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "Radioresistance and local recurrence remain major barriers to effective radiotherapy in non-small cell lung cancer (NSCLC). Loss-of-functionalterations or activatingalterations can stabilize NRF2, but do not alone establish sustained transcriptional activity or functional dependency. This focused narrative review evaluates clinical radiotherapy studies and....",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "Radioresistance remains a critical barrier to achieving durable locoregional control and improved survival outcomes in breast cancer. RAD18, an E3 ubiquitin ligase that regulates translesion synthesis and post-replication repair, has emerged as a candidate mediator of this phenotype by promoting proliferating cell nuclear antigen (PCNA) ubiquitination, faci...",
     "tags": [
       "research",
       "pubmed",
@@ -4421,16 +4442,16 @@
     "isFeatured": true
   },
   {
-    "id": "ee044b34dd958f7d",
-    "title": "Membrane and soluble VTCN1 (B7H4) converge on Src signaling to mediate gemcitabine resistance in intrahepatic cholangiocarcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42708082",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42708082",
+    "id": "e71fa6c820e772d4",
+    "title": "Therapeutic mRNA vaccines for lung cancer: reshaping the tumor microenvironment to enhance anti-tumor immunity.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42713225",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42713225",
     "source": "pubmed",
-    "publicationName": "Theranostics",
-    "journalName": "Theranostics",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "A combination of gemcitabine (GEM)-based chemotherapy and an immune checkpoint inhibitor is the standard treatment for patients with advanced intrahepatic cholangiocarcinoma (iCCA). However, 70% of patients develop progressive disease following GEM treatment, highlighting the urgent need for therapeutic strategies targeting GEM-resistant (GR) disease. We es...",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "Traditional treatments for lung cancer include surgery, radiotherapy, chemotherapy, and targeted therapies (such as Erlotinib, Gefitinib, and Crizotinib), as well as immunotherapy (such as Nivolumab and Pembrolizumab). However, these approaches face challenges such as drug resistance, limited efficacy, and significant side effects, making it difficult to im...",
     "tags": [
       "research",
       "pubmed",
@@ -4441,8 +4462,7 @@
     ],
     "topicBuckets": [
       "translational medicine",
-      "oncology",
-      "immunology"
+      "oncology"
     ],
     "isNewToday": false,
     "importanceScore": 58,
@@ -4455,16 +4475,16 @@
     "isFeatured": false
   },
   {
-    "id": "0b56a4c99e7fbf60",
-    "title": "Development and Validation of a LASSO-RF-Cox-Derived Nomogram Incorporating Inflammatory Markers to Predict Long-Term Survival in Early-Stage Hepatocellular Carcinoma After Microwave Ablation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42708024",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42708024",
+    "id": "8f2cc73c816e0791",
+    "title": "Systemic inflammatory indices and lung cancer risk by smoking and alcohol use in Korean men: A secondary dataset analysis of the Korean Cancer Prevention Study-II.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42713203",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42713203",
     "source": "pubmed",
-    "publicationName": "Journal of hepatocellular carcinoma",
-    "journalName": "Journal of hepatocellular carcinoma",
+    "publicationName": "Tobacco induced diseases",
+    "journalName": "Tobacco induced diseases",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-08T16:52:04.110Z",
-    "snippet": "This study aimed to identify factors influencing overall survival (OS) in patients with hepatocellular carcinoma (HCC) undergoing microwave ablation (MWA) and to develop and validate a nomogram for predicting 3&#x2011;, 5&#x2011;, and 8&#x2011;year OS. Data from 440 patients who received MWA at Beijing Ditan Hospital, Captical Medical University were analyz...",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "Systemic inflammation has been implicated in cancer development, but prospective evidence regarding its association with lung cancer risk remains limited. This study evaluated the associations of systemic immune-inflammation index (SII) and neutrophil-to-lymphocyte ratio (NLR) with lung cancer risk according to smoking status, alcohol drinking status, and t...",
     "tags": [
       "research",
       "pubmed",
@@ -4476,10 +4496,77 @@
     "topicBuckets": [
       "translational medicine",
       "oncology",
-      "ai"
+      "ai",
+      "immunology"
     ],
     "isNewToday": false,
     "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "6826f8a8cc25d5bc",
+    "title": "Perineuronal net degradation in aggressive glioblastomas withfusions.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42713184",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42713184",
+    "source": "pubmed",
+    "publicationName": "Neuro-oncology advances",
+    "journalName": "Neuro-oncology advances",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "Approximately 10% of glioblastomas harbor targetable genomic fusions.participates in a variety of fusion events that drive tumorigenesis. Two previous reports have describedfusions in adult glioblastoma patients with poor survival. We performed a retrospective analysis of glioblastoma patients treated at Dartmouth-Hitchcock Medical Center (DHMC) from 2020 t...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "f6cd6cb4f593dbb2",
+    "title": "Early prediction of metastatic insulinoma using tumor size and biochemical markers: a retrospective cohort study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42713095",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42713095",
+    "source": "pubmed",
+    "publicationName": "Frontiers in endocrinology",
+    "journalName": "Frontiers in endocrinology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T16:54:49.356Z",
+    "snippet": "Insulinomas are rare functional pancreatic neuroendocrine tumors. Metastasis is found in up to 15% of patients and is difficult to predict at diagnosis. We retrospectively analyzed 64 patients (56.2% female, median age 49 years) with biochemically confirmed insulinoma treated at a European Neuroendocrine Tumor Society Center of Excellence between 2010 and 2...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
     "importanceSignals": [
       "priority topic: translational medicine, oncology",
       "high-signal source",
