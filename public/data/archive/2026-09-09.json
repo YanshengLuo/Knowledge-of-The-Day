@@ -7,7 +7,7 @@
     "source": "biospace",
     "publicationName": "BioSpace",
     "publishedAt": "2026-09-09T23:22:00.000Z",
-    "fetchedAt": "2026-09-11T16:47:04.583Z",
+    "fetchedAt": "2026-09-12T15:53:30.866Z",
     "snippet": "Follow along as BioSpace tracks job cuts and restructuring initiatives.",
     "tags": [
       "biotech",
@@ -18,9 +18,9 @@
       "hiring"
     ],
     "isNewToday": false,
-    "importanceScore": 54,
+    "importanceScore": 44,
     "importanceSignals": [
-      "very recent",
+      "recent",
       "rich metadata"
     ],
     "isFeatured": false
@@ -33,7 +33,7 @@
     "source": "biospace",
     "publicationName": "BioSpace",
     "publishedAt": "2026-09-09T13:56:42.000Z",
-    "fetchedAt": "2026-09-11T16:47:04.583Z",
+    "fetchedAt": "2026-09-12T15:53:30.866Z",
     "snippet": "Watch this discussion on how GLP-1 drugs for obesity are changing the shape of U.S. healthcare. From direct-to-consumer portals to pharmacy deals, how these drugs reach patients is changing—and leading to debates over pricing and coverage. Learn how your company can be both patient-forward while also maximizing revenu...",
     "tags": [
       "biotech",
@@ -59,7 +59,7 @@
     "source": "biospace",
     "publicationName": "BioSpace",
     "publishedAt": "2026-09-09T13:00:53.000Z",
-    "fetchedAt": "2026-09-11T16:47:04.583Z",
+    "fetchedAt": "2026-09-12T15:53:30.866Z",
     "snippet": "The company is investing billions of dollars to construct a European biosimilar hub capable of supporting the rapid expansion of its portfolio.",
     "tags": [
       "biotech",
@@ -79,104 +79,69 @@
     "isFeatured": false
   },
   {
-    "id": "418cebf07aafcbac",
-    "title": "Empowering communities, educating researchers: reflections on researcher training through the 'Be the Voice of Your Community' Public and Patient Involvement (PPI) event.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42717369",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42717369",
+    "id": "e6d334dc06ea518f",
+    "title": "Regenerative medicine strategies for the treatment of radiation-induced ulcers: Mechanisms, challenges, and future directions.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42727376",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42727376",
     "source": "pubmed",
-    "publicationName": "Research involvement and engagement",
-    "journalName": "Research involvement and engagement",
+    "publicationName": "Journal of tissue viability",
+    "journalName": "Journal of tissue viability",
     "publishedAt": "2026-09-09T00:00:00.000Z",
-    "fetchedAt": "2026-09-11T16:47:05.306Z",
-    "snippet": "Patient and Public Involvement (PPI) is increasingly recognised as essential in research design and funding. While benefits for patients include empowerment and trust in science, PPI also offers unique learning opportunities for early-stage researchers (ESRs), however, structured experiential PPI training for ESRs remains limited. The objective of this work...",
+    "fetchedAt": "2026-09-12T15:53:31.539Z",
+    "snippet": "Radiation-induced ulcers are serious chronic complications of radiation therapy and are characterized by a pathological microenvironment involving persistent inflammation, oxidative stress, vascular damage, and fibroblast dysfunction. Conventional therapies often yield poor outcomes because they fail to reverse the abnormal microenvironment of irradiated wo...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 72,
+    "importanceSignals": [
+      "recent",
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "464058b027dffcdf",
+    "title": "Prognostic role of thymidine kinase 1 activity in hormone receptor positive metastatic breast cancer. A systematic review and meta-analysis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42727162",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42727162",
+    "source": "pubmed",
+    "publicationName": "Breast (Edinburgh, Scotland)",
+    "journalName": "Breast (Edinburgh, Scotland)",
+    "publishedAt": "2026-09-09T00:00:00.000Z",
+    "fetchedAt": "2026-09-12T15:53:31.539Z",
+    "snippet": "Circulating thymidine kinase 1 activity (TKa) is a potential prognostic biomarker in patients with hormone receptor-positive (HR+) metastatic breast cancer (MBC); however, results are heterogeneous. In this study we aimed to summarize the current evidence on the prognostic role of circulating TKa in women with HR+&#xa0;MBC. We conducted a systematic review....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
       "oncology"
     ],
     "topicBuckets": [
-      "computational biology",
+      "translational medicine",
       "oncology",
-      "ai",
-      "funding"
+      "ai"
     ],
     "isNewToday": false,
     "importanceScore": 82,
     "importanceSignals": [
       "recent",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "5f9a8481d9540daf",
-    "title": "Microbial adhesion promotes Piezo1 activation to initiate innate immunity.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42717253",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42717253",
-    "source": "pubmed",
-    "publicationName": "Nature immunology",
-    "journalName": "Nature immunology",
-    "publishedAt": "2026-09-09T00:00:00.000Z",
-    "fetchedAt": "2026-09-11T16:47:05.306Z",
-    "snippet": "How mammals mount an effective immune response against infectious agents remains unresolved. Here we identify microbial adhesion to myeloid cells as a critical initiating event that precedes pattern recognition receptor (PRR) engagement. Using a skin infection model with pathogenic bacteria and fungi, we demonstrate that neutrophil recruitment occurs in two...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 72,
-    "importanceSignals": [
-      "recent",
-      "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "d7f554025916904e",
-    "title": "Inhaled siRNA therapy targeting RAGE for pulmonary inflammation: a first-in-human randomized trial.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42717034",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42717034",
-    "source": "pubmed",
-    "publicationName": "Nature medicine",
-    "journalName": "Nature medicine",
-    "publishedAt": "2026-09-09T00:00:00.000Z",
-    "fetchedAt": "2026-09-11T16:47:05.306Z",
-    "snippet": "The receptor for advanced glycation end products (RAGE), a multiligand receptor that is abundantly expressed by lung alveolar type-1 cells, amplifies and sustains the innate immune response in a variety of pulmonary disorders, including asthma and chronic obstructive pulmonary disease. Here we developed ARO-RAGE, an inhaled, lung-epithelium-targeted siRNA d...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 72,
-    "importanceSignals": [
-      "recent",
-      "priority topic: gene therapy, ai",
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"

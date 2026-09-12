@@ -1,36 +1,35 @@
 [
   {
-    "id": "2c9f7c2990376f3b",
-    "title": "Spatially guided translation from histology images to transcriptomic profiles using foundation model-driven contrastive learning.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42709893",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42709893",
+    "id": "afcab9d2a26492a5",
+    "title": "Targeting Angiogenesis in Drug Discovery: Current Status and Future Directions.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42725601",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42725601",
     "source": "pubmed",
-    "publicationName": "PLoS computational biology",
-    "journalName": "PLoS computational biology",
+    "publicationName": "Current drug targets",
+    "journalName": "Current drug targets",
     "publishedAt": "2026-09-08T00:00:00.000Z",
-    "fetchedAt": "2026-09-10T16:42:41.061Z",
-    "snippet": "Spatial transcriptomics (ST) enhances single-cell RNA sequencing by revealing transcript distribution, offering critical insights into heterogeneous diseases such as breast cancer. However, the high cost and lengthy processes of generating high-quality ST data limit clinical application. Recent deep learning methods predict ST from histology images, but oft...",
+    "fetchedAt": "2026-09-12T15:53:31.539Z",
+    "snippet": "Angiogenesis, the formation of new blood vessels from pre-existing vasculature, is essential for development, tissue repair, and reproduction; however, dysregulation of angiogenesis contributes to cancer, ocular disorders, chronic inflammation, and cardiovascular diseases. Current antiangiogenic therapies that target VEGF/VEGFR signalling, tyrosine kinase p...",
     "tags": [
       "research",
       "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "spatial"
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
     ],
     "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
+      "gene therapy",
+      "immunology",
       "ai",
-      "single-cell",
-      "translational medicine"
+      "biotech",
+      "oncology"
     ],
     "isNewToday": false,
     "importanceScore": 82,
     "importanceSignals": [
       "recent",
-      "priority topic: oncology, computational biology",
+      "priority topic: gene therapy, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -38,74 +37,34 @@
     "isFeatured": true
   },
   {
-    "id": "9eaa1658b128a1d3",
-    "title": "Spatially resolved lactate-glycolysis transcriptional programs are associated with neutrophil-enriched immune remodeling in lung adenocarcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42709341",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42709341",
+    "id": "8092f09caa6924ea",
+    "title": "A Boveri perspective on cancer biomarker testing using artificial intelligence.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42728348",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42728348",
     "source": "pubmed",
-    "publicationName": "Medical oncology (Northwood, London, England)",
-    "journalName": "Medical oncology (Northwood, London, England)",
+    "publicationName": "NPJ precision oncology",
+    "journalName": "NPJ precision oncology",
     "publishedAt": "2026-09-08T00:00:00.000Z",
-    "fetchedAt": "2026-09-10T16:42:41.061Z",
-    "snippet": "Metabolic reprogramming characterized by enhanced glycolysis and lactate production plays a critical role in tumor progression and immune regulation. However, the cellular distribution and spatial organization of lactate-glycolysis activity within the lung adenocarcinoma (LUAD) microenvironment remain incompletely understood. We integrated single-cell RNA s...",
+    "fetchedAt": "2026-09-12T15:53:31.539Z",
+    "snippet": "Artificial intelligence (AI) can predict genomic alterations from histology, yet its adoption is slowed by a lack of trust. We argue that deliberate morphology (i.e., a cognitive understanding of histological features supported by standardized annotations) creates a bidirectional feedback loop between clinical practice and model outputs.We translate these o...",
     "tags": [
       "research",
       "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "spatial"
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
     ],
     "topicBuckets": [
-      "spatial",
+      "translational medicine",
       "oncology",
-      "computational biology",
-      "ai",
-      "single-cell",
-      "immunology"
+      "ai"
     ],
     "isNewToday": false,
     "importanceScore": 82,
     "importanceSignals": [
       "recent",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "48eeb54fbf372a10",
-    "title": "Impact of Single-Cell RNA Reference Selection for the Deconvolution of Breast Cancer Spatial Transcriptomics Datasets.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42709043",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42709043",
-    "source": "pubmed",
-    "publicationName": "International journal of cancer",
-    "journalName": "International journal of cancer",
-    "publishedAt": "2026-09-08T00:00:00.000Z",
-    "fetchedAt": "2026-09-10T16:42:41.061Z",
-    "snippet": "Spot-based spatial transcriptomics (ST) allows for unbiased gene expression analysis within tissue architecture, overcoming the limitations of single-cell RNA sequencing (scRNA-seq) by preserving spatial context. However, the high spatial resolution in ST leads to cellular heterogeneity within spots, requiring computational deconvolution to infer cellular c...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "single-cell",
-      "spatial"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "single-cell"
-    ],
-    "isNewToday": false,
-    "importanceScore": 72,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, computational biology",
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"

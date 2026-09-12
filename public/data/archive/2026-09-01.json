@@ -1,5 +1,40 @@
 [
   {
+    "id": "0674870b880cf02a",
+    "title": "BOMIFA: biologically informed multi-omics integration with graph contrastive learning for cancer prognosis in women.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42725918",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42725918",
+    "source": "pubmed",
+    "publicationName": "Briefings in bioinformatics",
+    "journalName": "Briefings in bioinformatics",
+    "publishedAt": "2026-09-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-12T15:53:31.539Z",
+    "snippet": "Accurate survival prediction remains a central challenge in precision oncology, particularly for female patients whose sex-specific molecular characteristics are often under-modeled in prior studies. Although multi-omics integration enables a deeper exploration of prognostic biomarkers, existing methods rely on mathematically driven fusion strategies, which...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
     "id": "77a33bf03752a81a",
     "title": "AET5: A transcriptome-guided molecular generation framework with contrastive self-supervised learning.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42721204",
@@ -8,7 +43,7 @@
     "publicationName": "PLoS computational biology",
     "journalName": "PLoS computational biology",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-11T16:47:05.306Z",
+    "fetchedAt": "2026-09-12T15:53:31.539Z",
     "snippet": "Gene expression profiles capture system-level drug responses and offer a promising basis for de novo molecular generation. However, their application is limited by data sparsity and experimental noise, which hinder the reliable mapping between disease-associated transcriptomic perturbations and chemically valid therapeutic molecules. Here, we present AET5,....",
     "tags": [
       "research",
@@ -33,46 +68,6 @@
     "isFeatured": true
   },
   {
-    "id": "befabf57c882a794",
-    "title": "Spatial Omics in High-Grade Gliomas: Mapping Immune-Tumor Niches for Precision Therapy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42717555",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42717555",
-    "source": "pubmed",
-    "publicationName": "Cancer medicine",
-    "journalName": "Cancer medicine",
-    "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-11T16:47:05.306Z",
-    "snippet": "High-grade gliomas (HGGs), particularly glioblastoma (GBM), remain among the most lethal human cancers despite decades of molecular profiling and therapeutic innovation. A primary reason for treatment failure is that HGG biology is spatial: malignant cell states, immune suppression, metabolic stress, and therapeutic resistance are organized into distinct an...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology",
-      "spatial",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai",
-      "spatial",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "importanceScore": 75,
-    "isFeatured": true
-  },
-  {
     "id": "81d2e3e144a3aee6",
     "title": "An immune exhaustion signature predicts prognosis and identifies patients with diffuse large B-cell lymphoma (DLBCL) who derive preferential benefit from chimeric antigen receptor (CAR)-T cell therapy.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42724625",
@@ -81,7 +76,7 @@
     "publicationName": "Cancer pathogenesis and therapy",
     "journalName": "Cancer pathogenesis and therapy",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-11T16:47:05.306Z",
+    "fetchedAt": "2026-09-12T15:53:31.539Z",
     "snippet": "The tumor microenvironment (TME) is a key determinant of prognosis in diffuse large B-cell lymphoma (DLBCL). While T-cell exhaustion is implicated in therapeutic failure, its precise molecular hallmarks and utility for predicting response to modern immunotherapies, such as chimeric antigen receptor (CAR)-T cell therapy, remain unclear. We performed an integ...",
     "tags": [
       "research",
@@ -102,41 +97,6 @@
     "importanceSignals": [
       "published this month",
       "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "f0628c08ffd0a50a",
-    "title": "Black Rice Anthocyanin-Hyaluronic Acid Complex Alleviates Hyperuricemia-Associated Renal Injury Through Synergistic Inhibition of the TLR4/NF-&#x3ba;B Pathway and Modulation of Uric Acid Transport.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42717777",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42717777",
-    "source": "pubmed",
-    "publicationName": "Molecular nutrition & food research",
-    "journalName": "Molecular nutrition & food research",
-    "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-11T16:47:05.306Z",
-    "snippet": "Hyperuricemia-associated renal injury is closely linked to oxidative stress and inflammation, highlighting the need for safe dietary intervention. This study evaluated the protective effects of a black rice anthocyanin (ATC)-hyaluronic acid complex (HAA) against uric acid (UA)-induced injury. In UA-induced human renal proximal tubular epithelial (HK-2) cell...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 65,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: gene therapy, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
