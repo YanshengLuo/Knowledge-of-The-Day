@@ -8,7 +8,7 @@
     "publicationName": "Briefings in bioinformatics",
     "journalName": "Briefings in bioinformatics",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-12T15:53:31.539Z",
+    "fetchedAt": "2026-09-13T16:40:11.355Z",
     "snippet": "Accurate survival prediction remains a central challenge in precision oncology, particularly for female patients whose sex-specific molecular characteristics are often under-modeled in prior studies. Although multi-omics integration enables a deeper exploration of prognostic biomarkers, existing methods rely on mathematically driven fusion strategies, which...",
     "tags": [
       "research",
@@ -35,32 +35,37 @@
     "isFeatured": true
   },
   {
-    "id": "77a33bf03752a81a",
-    "title": "AET5: A transcriptome-guided molecular generation framework with contrastive self-supervised learning.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42721204",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42721204",
+    "id": "452c286c99d6e807",
+    "title": "CCL2/CCR2 axis suggests a role in bridging obesity-related adipose inflammation to Sertoli cell injury in asthenozoospermia: Integrated multi-omics, machine learning and in vitro validation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42731365",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42731365",
     "source": "pubmed",
-    "publicationName": "PLoS computational biology",
-    "journalName": "PLoS computational biology",
+    "publicationName": "Biochemical and biophysical research communications",
+    "journalName": "Biochemical and biophysical research communications",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-12T15:53:31.539Z",
-    "snippet": "Gene expression profiles capture system-level drug responses and offer a promising basis for de novo molecular generation. However, their application is limited by data sparsity and experimental noise, which hinder the reliable mapping between disease-associated transcriptomic perturbations and chemically valid therapeutic molecules. Here, we present AET5,....",
+    "fetchedAt": "2026-09-13T16:40:11.355Z",
+    "snippet": "This study established an integrated framework combining multi-omics analysis, machine learning (ML), single-cell RNA sequencing (scRNA-seq), molecular docking, and in vitro validation to investigate potential mechanisms and therapeutic targets of obesity-associated asthenozoospermia (AZS). Based on transcriptomic data from the Gene Expression Omnibus (GEO)...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "machine learning"
     ],
     "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai",
       "computational biology",
-      "oncology"
+      "funding"
     ],
     "isNewToday": false,
-    "importanceScore": 65,
+    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: computational biology, oncology",
+      "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -68,35 +73,69 @@
     "isFeatured": true
   },
   {
-    "id": "81d2e3e144a3aee6",
-    "title": "An immune exhaustion signature predicts prognosis and identifies patients with diffuse large B-cell lymphoma (DLBCL) who derive preferential benefit from chimeric antigen receptor (CAR)-T cell therapy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42724625",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42724625",
+    "id": "26e9ee0bf0afa87d",
+    "title": "Biomimetic nanodelivery of antagomiR-155-5p ameliorates wear particle-induced osteolysis by dual regulation of Gas6/Axl-mediated macrophage inflammation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42729954",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42729954",
     "source": "pubmed",
-    "publicationName": "Cancer pathogenesis and therapy",
-    "journalName": "Cancer pathogenesis and therapy",
+    "publicationName": "Journal of orthopaedic translation",
+    "journalName": "Journal of orthopaedic translation",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-12T15:53:31.539Z",
-    "snippet": "The tumor microenvironment (TME) is a key determinant of prognosis in diffuse large B-cell lymphoma (DLBCL). While T-cell exhaustion is implicated in therapeutic failure, its precise molecular hallmarks and utility for predicting response to modern immunotherapies, such as chimeric antigen receptor (CAR)-T cell therapy, remain unclear. We performed an integ...",
+    "fetchedAt": "2026-09-13T16:40:11.355Z",
+    "snippet": "Aseptic loosening (AL) is the primary cause of prosthesis failure after total joint replacement, which is triggered by wear particle-induced macrophage activation, excessive inflammatory factor secretion and subsequent periprosthetic osteolysis. MicroRNAs (miRNAs) act as key regulators of this pathological cascade, yet the specific functional miRNAs and the...",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
     ],
     "topicBuckets": [
-      "single-cell",
-      "oncology",
+      "gene therapy",
       "immunology",
-      "ai",
-      "gene therapy"
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "2a2ce08d7456a679",
+    "title": "Heat Shock Proteins in Cancer: Mechanisms and Therapeutic Targeting.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42732222",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42732222",
+    "source": "pubmed",
+    "publicationName": "MedComm",
+    "journalName": "MedComm",
+    "publishedAt": "2026-09-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-13T16:40:11.355Z",
+    "snippet": "Heat shock proteins (HSPs) are molecular chaperones that couple proteostasis to cancer metabolic reprogramming under oncogenic and microenvironmental stress. This Review integrates structural, biochemical, preclinical, and clinical evidence on HSP90, HSP70, HSP60, HSP40, HSP110, and small HSPs. We explain how ATPase cycles, chaperonin cages, co-chaperone ne...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
     ],
     "isNewToday": false,
     "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology, ai",
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"

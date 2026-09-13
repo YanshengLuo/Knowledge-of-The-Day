@@ -7,7 +7,7 @@
     "source": "biospace",
     "publicationName": "BioSpace",
     "publishedAt": "2026-09-09T23:22:00.000Z",
-    "fetchedAt": "2026-09-12T15:53:30.866Z",
+    "fetchedAt": "2026-09-13T16:40:10.485Z",
     "snippet": "Follow along as BioSpace tracks job cuts and restructuring initiatives.",
     "tags": [
       "biotech",
@@ -33,7 +33,7 @@
     "source": "biospace",
     "publicationName": "BioSpace",
     "publishedAt": "2026-09-09T13:56:42.000Z",
-    "fetchedAt": "2026-09-12T15:53:30.866Z",
+    "fetchedAt": "2026-09-13T16:40:10.485Z",
     "snippet": "Watch this discussion on how GLP-1 drugs for obesity are changing the shape of U.S. healthcare. From direct-to-consumer portals to pharmacy deals, how these drugs reach patients is changing—and leading to debates over pricing and coverage. Learn how your company can be both patient-forward while also maximizing revenu...",
     "tags": [
       "biotech",
@@ -59,7 +59,7 @@
     "source": "biospace",
     "publicationName": "BioSpace",
     "publishedAt": "2026-09-09T13:00:53.000Z",
-    "fetchedAt": "2026-09-12T15:53:30.866Z",
+    "fetchedAt": "2026-09-13T16:40:10.485Z",
     "snippet": "The company is investing billions of dollars to construct a European biosimilar hub capable of supporting the rapid expansion of its portfolio.",
     "tags": [
       "biotech",
@@ -79,34 +79,75 @@
     "isFeatured": false
   },
   {
-    "id": "e6d334dc06ea518f",
-    "title": "Regenerative medicine strategies for the treatment of radiation-induced ulcers: Mechanisms, challenges, and future directions.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42727376",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42727376",
+    "id": "517e539ea292c08f",
+    "title": "Cancer-associated fibroblast-derived POSTN as a metabolic \"switch\" shapes lipid-stressed macrophage polarization in gastric cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42731290",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42731290",
     "source": "pubmed",
-    "publicationName": "Journal of tissue viability",
-    "journalName": "Journal of tissue viability",
+    "publicationName": "Redox biology",
+    "journalName": "Redox biology",
     "publishedAt": "2026-09-09T00:00:00.000Z",
-    "fetchedAt": "2026-09-12T15:53:31.539Z",
-    "snippet": "Radiation-induced ulcers are serious chronic complications of radiation therapy and are characterized by a pathological microenvironment involving persistent inflammation, oxidative stress, vascular damage, and fibroblast dysfunction. Conventional therapies often yield poor outcomes because they fail to reverse the abnormal microenvironment of irradiated wo...",
+    "fetchedAt": "2026-09-13T16:40:11.355Z",
+    "snippet": "Cancer-associated fibroblasts (CAFs) foster an immunosuppressive tumor microenvironment (TME) and confer resistance to immune checkpoint blockade (ICB) in gastric cancer (GC). However, the mechanisms by which specific CAF subsets regulate metabolic crosstalk and immune evasion remain poorly defined. We integrated bulk and single-cell RNA-sequencing data, sp...",
     "tags": [
       "research",
       "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
     ],
     "topicBuckets": [
-      "gene therapy",
+      "single-cell",
+      "oncology",
       "immunology",
-      "ai"
+      "ai",
+      "spatial",
+      "computational biology"
     ],
     "isNewToday": false,
-    "importanceScore": 72,
     "importanceSignals": [
       "recent",
-      "priority topic: gene therapy, ai",
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 82,
+    "isFeatured": true
+  },
+  {
+    "id": "145f80c9d55c2c99",
+    "title": "Polyethylene terephthalate micro-/nanoplastics suppress SAT1-dependent ferroptosis in triple-negative breast cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42731238",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42731238",
+    "source": "pubmed",
+    "publicationName": "Environment international",
+    "journalName": "Environment international",
+    "publishedAt": "2026-09-09T00:00:00.000Z",
+    "fetchedAt": "2026-09-13T16:40:11.355Z",
+    "snippet": "The potential association between micro-/nanoplastics and cancer has raised increasing concerns. However, research focusing specifically on breast cancer (BC), and particularly on triple-negative breast cancer (TNBC), remains limited, leading to a critical gap in current knowledge. This study seeks to explore potential correlative effects of micro-/nanoplas...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "ai",
+      "funding"
+    ],
+    "isNewToday": false,
+    "importanceScore": 82,
+    "importanceSignals": [
+      "recent",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -114,34 +155,35 @@
     "isFeatured": true
   },
   {
-    "id": "464058b027dffcdf",
-    "title": "Prognostic role of thymidine kinase 1 activity in hormone receptor positive metastatic breast cancer. A systematic review and meta-analysis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42727162",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42727162",
+    "id": "ebece269aeb7d8a8",
+    "title": "DNA/RNA Hybrid Hairpin Gold Nanobeacons Targeting miR-31 Reprogram Invasion in Lung Cancer and Remodel Tumor Histo-Architecture.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42729941",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42729941",
     "source": "pubmed",
-    "publicationName": "Breast (Edinburgh, Scotland)",
-    "journalName": "Breast (Edinburgh, Scotland)",
+    "publicationName": "ACS materials Au",
+    "journalName": "ACS materials Au",
     "publishedAt": "2026-09-09T00:00:00.000Z",
-    "fetchedAt": "2026-09-12T15:53:31.539Z",
-    "snippet": "Circulating thymidine kinase 1 activity (TKa) is a potential prognostic biomarker in patients with hormone receptor-positive (HR+) metastatic breast cancer (MBC); however, results are heterogeneous. In this study we aimed to summarize the current evidence on the prognostic role of circulating TKa in women with HR+&#xa0;MBC. We conducted a systematic review....",
+    "fetchedAt": "2026-09-13T16:40:11.355Z",
+    "snippet": "Readout-enabled delivery of anti-microRNA (miRNA) therapeutics remains a bottleneck for translating RNA nanomedicine against invasion and metastasis. We report &#x223c;60 nm PEG-gold nanobeacons bearing a Cy3-labeled anti-miR-31-5p hairpin and establish a chemistry-to-phenotype pipeline spanning physicochemical control, cellular trafficking, functional phen...",
     "tags": [
       "research",
       "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
     ],
     "topicBuckets": [
-      "translational medicine",
+      "spatial",
       "oncology",
-      "ai"
+      "computational biology",
+      "ai",
+      "biotech"
     ],
     "isNewToday": false,
     "importanceScore": 82,
     "importanceSignals": [
       "recent",
-      "priority topic: translational medicine, oncology",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
