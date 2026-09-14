@@ -1,15 +1,93 @@
 [
   {
-    "id": "a9562ae999ed7c5d",
-    "title": "PIWIL4 regulates gene expression and piRNA levels in RSV-infected airway epithelial cells.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42701432",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42701432",
+    "id": "b381469a661e0e79",
+    "title": "SCLC TumorMiner: A genomics platform for small cell lung cancer precision oncology.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42733745",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42733745",
     "source": "pubmed",
     "publicationName": "iScience",
     "journalName": "iScience",
     "publishedAt": "2026-09-18T00:00:00.000Z",
-    "fetchedAt": "2026-09-07T17:57:27.453Z",
-    "snippet": "Respiratory syncytial virus (RSV) causes acute lower respiratory tract infection in young children, the elderly, and immunocompromised hosts, and no RSV vaccine or therapy exists for infants, beyond prophylaxis. PIWI-interacting RNAs (piRNAs), small non-coding RNAs acting through P element-induced wimpy testis (Piwi) proteins, remain largely unexplored. We....",
+    "fetchedAt": "2026-09-14T18:13:18.361Z",
+    "snippet": "Small cell lung cancer (SCLC) is among the most aggressive malignancies. Unlike many other cancers, it is not represented in The Cancer Genome Atlas, and available datasets are fragmented across institutions, disease stages, and treatment settings. RNA sequencing provides a powerful and cost-effective approach, but the high dimensionality of transcriptomic....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 92,
+    "isFeatured": true
+  },
+  {
+    "id": "28b330ec98d36ecb",
+    "title": "CoexpressDeconvolve enables reference-free single-cell-resolution deconvolution from spot-based spatial transcriptomics.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42733532",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42733532",
+    "source": "pubmed",
+    "publicationName": "iScience",
+    "journalName": "iScience",
+    "publishedAt": "2026-09-18T00:00:00.000Z",
+    "fetchedAt": "2026-09-14T18:13:18.361Z",
+    "snippet": "Spot-based spatial transcriptomics captures the transcriptome of multiple adjacent cells per spot, obscuring cell type-specific signals. Most deconvolution tools, therefore, depend on external single-cell references and return cell-type fractions rather than the number of cells, and only some output full expression profiles. Here we present CoexpressDeconvo...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "spatial",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "computational biology",
+      "spatial"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 82,
+    "isFeatured": false
+  },
+  {
+    "id": "926e583a269662e9",
+    "title": "Amphiregulin shapes mitochondrial delivery and immune modulation by microvescicles.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42733842",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42733842",
+    "source": "pubmed",
+    "publicationName": "iScience",
+    "journalName": "iScience",
+    "publishedAt": "2026-09-18T00:00:00.000Z",
+    "fetchedAt": "2026-09-14T18:13:18.361Z",
+    "snippet": "Amniotic epithelial cells (AECs) exert potent paracrine immunoregulatory functions, yet whether inflammatory cues enhance the biological activity of their extracellular vesicles (EVs) remains unclear. To address this question, we characterized the secretome of ovine AECs under basal and lipopolysaccharide (LPS)-stimulated conditions using label-free proteom...",
     "tags": [
       "research",
       "pubmed",
@@ -21,13 +99,49 @@
     "topicBuckets": [
       "gene therapy",
       "immunology",
-      "ai"
+      "ai",
+      "funding"
     ],
     "isNewToday": false,
     "importanceScore": 82,
     "importanceSignals": [
       "very recent",
       "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "9225f8b7019d6363",
+    "title": "CT-based deep learning for survival stratification in EGFR-mutant lung adenocarcinoma after EGFR-TKI resistance: A multicenter study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42733514",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42733514",
+    "source": "pubmed",
+    "publicationName": "iScience",
+    "journalName": "iScience",
+    "publishedAt": "2026-09-18T00:00:00.000Z",
+    "fetchedAt": "2026-09-14T18:13:18.361Z",
+    "snippet": "Accurate risk assessment after EGFR-TKI resistance is important for guiding subsequent management of patients with EGFR-mutant lung adenocarcinoma. In this multicenter retrospective study, we developed and externally validated a computed tomography (CT)-based deep learning model using pretreatment CT images from 525 patients. A 2.5D ResNet-101 model showed....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 92,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
