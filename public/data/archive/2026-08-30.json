@@ -1,33 +1,32 @@
 [
   {
-    "id": "7d5d529ab2138322",
-    "title": "Gastric cancer in the Era of neural regulation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42713073",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42713073",
+    "id": "dfddea925e3a64ca",
+    "title": "PMAVP: A Mamba-Inspired Deep Learning Framework for Antiviral Peptide Identification and Functional Activity Prediction.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42737660",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42737660",
     "source": "pubmed",
-    "publicationName": "Chinese journal of cancer research = Chung-kuo yen cheng yen chiu",
-    "journalName": "Chinese journal of cancer research = Chung-kuo yen cheng yen chiu",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
     "publishedAt": "2026-08-30T00:00:00.000Z",
-    "fetchedAt": "2026-09-09T16:54:49.356Z",
-    "snippet": "Neural regulation of gastric cancer (GC) has conventionally been parsed into isolated axes-vagal, sympathetic, or sensory. This compartmentalized view is increasingly untenable. The stomach is embedded in a multilayered neural architecture in which tumor-infiltrating nerves, the enteric nervous system (ENS), and long-range brain-gut pathways operate at dist...",
+    "fetchedAt": "2026-09-15T17:19:41.128Z",
+    "snippet": "Accurate computational prediction of antiviral peptides (AVPs) can accelerate peptide screening and reduce experimental costs. However, existing deep learning-based methods still suffer from severe class imbalance, over-reliance on handcrafted features and limited interpretability. Here, we propose PMAVP, a multi-task learning framework that integrates the....",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
+      "Computational oncology",
+      "computational biology",
+      "oncology"
     ],
     "topicBuckets": [
-      "single-cell",
+      "computational biology",
       "oncology",
-      "immunology",
       "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 65,
+    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology, ai",
+      "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -35,39 +34,37 @@
     "isFeatured": true
   },
   {
-    "id": "d8c6e5786d26fb73",
-    "title": "A programmed cell death learning signature predicts immunotherapy response and identifies AP1S1 as a regulator of immune exclusion in breast cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42712842",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42712842",
+    "id": "410a2e5c18e82b7c",
+    "title": "Beyond Weight Loss: Thromboinflammation as a Candidate Mechanism for the Cardiovascular Benefit of GLP-1 Receptor Agonists.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42738873",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42738873",
     "source": "pubmed",
-    "publicationName": "Chinese journal of cancer research = Chung-kuo yen cheng yen chiu",
-    "journalName": "Chinese journal of cancer research = Chung-kuo yen cheng yen chiu",
+    "publicationName": "Cells",
+    "journalName": "Cells",
     "publishedAt": "2026-08-30T00:00:00.000Z",
-    "fetchedAt": "2026-09-09T16:54:49.356Z",
-    "snippet": "Breast cancer remains a leading cause of global cancer mortality, characterized by profound heterogeneity. While immune checkpoint blockade (ICB) has transformed oncology, its efficacy in breast cancer is often hindered by \"immune-cold\" microenvironments and immune exclusion. Programmed cell death (PCD) is a critical regulator of tumor immune microenvironme...",
+    "fetchedAt": "2026-09-15T17:19:41.128Z",
+    "snippet": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have emerged as an important class of medications for managing type 2 diabetes and obesity, with cardiovascular outcome trials demonstrating reductions in major adverse cardiovascular events (MACEs) for several agents. The SELECT trial, which enrolled 17,604 participants with established cardiovascular di...",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "immunotherapy"
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
     ],
     "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai"
+      "gene therapy",
+      "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 65,
+    "importanceScore": 55,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology, ai",
+      "priority topic: gene therapy",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
+    "isFeatured": false
   }
 ]

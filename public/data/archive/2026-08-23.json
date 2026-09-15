@@ -1,33 +1,69 @@
 [
   {
-    "id": "c03e01b652ce1561",
-    "title": "Arglabin targets a non-canonical NLRP3/CCR2 axis to suppress MDSC infiltration and potentiates anti-PD-1 immunotherapy in hepatocellular carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42685565",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42685565",
+    "id": "2a2cc9d44e6c89d5",
+    "title": "The Gut-Iron-Immune Axis in Severe Anaemia and Bacteraemia.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42738927",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42738927",
     "source": "pubmed",
-    "publicationName": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
-    "journalName": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+    "publicationName": "Nutrients",
+    "journalName": "Nutrients",
     "publishedAt": "2026-08-23T00:00:00.000Z",
-    "fetchedAt": "2026-09-03T16:42:49.922Z",
-    "snippet": "Hepatocellular carcinoma (HCC) develops in an immunosuppressive tumor microenvironment characterized by NLRP3 overexpression, in which myeloid-derived suppressor cells (MDSCs) are abundantly enriched and play a critical role in compromising T cell-mediated antitumor immunity. Arglabin (Arg), a natural sesquiterpene lactone derived from Artemisia glabella, s...",
+    "fetchedAt": "2026-09-15T17:19:41.128Z",
+    "snippet": "Severe anaemia remains a major public health challenge, disproportionately affecting children and women of reproductive age in sub-Saharan Africa. In high-burden settings, the aetiology of severe anaemia is multifactorial, encompassing nutritional deficiencies, infections, and host genetic factors. Beyond its direct clinical consequences, severe anaemia is....",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "immunotherapy"
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
     ],
     "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology"
+      "gene therapy",
+      "immunology",
+      "ai",
+      "translational medicine"
     ],
     "isNewToday": false,
-    "importanceScore": 55,
+    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology",
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "d07df9de015c8d04",
+    "title": "The Classical-Basal Spectrum in Pancreatic Ductal Adenocarcinoma: A Developmental Framework for Tumour Cell Plasticity and Clinical Translation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42738256",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42738256",
+    "source": "pubmed",
+    "publicationName": "Cancers",
+    "journalName": "Cancers",
+    "publishedAt": "2026-08-23T00:00:00.000Z",
+    "fetchedAt": "2026-09-15T17:19:41.128Z",
+    "snippet": "Transcriptomic profiling reproducibly resolves pancreatic ductal adenocarcinoma (PDAC) into two prognostically divergent tumour-intrinsic programmes-classical/progenitor and basal-like/squamous-accompanied by a separable stromal axis; additional proposed classes are strongly influenced by low tumour cellularity and generalise poorly across datasets. Rather....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
