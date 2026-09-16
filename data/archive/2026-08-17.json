@@ -1,36 +1,37 @@
 [
   {
-    "id": "c389c2966a659f15",
-    "title": "Smoking-Stratified Signal Decomposition and Feature Selection for Never-Smoker Cancer Classification in a Combined Lung-Breast Metabolomics Cohort.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42653353",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42653353",
+    "id": "b9222ebccfb49439",
+    "title": "scETM improves single-cell embedding interpretability and reveals cellular perturbation signatures.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42744811",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42744811",
     "source": "pubmed",
-    "publicationName": "International journal of molecular sciences",
-    "journalName": "International journal of molecular sciences",
+    "publicationName": "Nature communications",
+    "journalName": "Nature communications",
     "publishedAt": "2026-08-17T00:00:00.000Z",
-    "fetchedAt": "2026-08-27T22:39:20.064Z",
-    "snippet": "Metabolomic cancer classifiers trained on mixed-smoking cohorts may embed tobacco exposure signal within their predictions, degrading performance in never-smokers, a population in which lung adenocarcinoma is frequently diagnosed. We developed a two-stage framework that (i) decomposes a shared 129-metabolite panel from a combined lung-breast cancer cohort (...",
+    "fetchedAt": "2026-09-16T17:18:48.071Z",
+    "snippet": "Single-cell RNA sequencing reveals cellular heterogeneity, yet computational methods struggle to balance performance with biological interpretability. Embedded topic models provide interpretable cell representations, but may learn overly similar topics, resulting in redundancy and incomplete capture of biological variation. Single-cell foundation models cre...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
-      "oncology"
+      "oncology",
+      "single-cell"
     ],
     "topicBuckets": [
       "computational biology",
       "oncology",
-      "ai"
+      "ai",
+      "single-cell"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
+    "importanceScore": 68,
     "importanceSignals": [
-      "published this month",
       "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": false
+    "isFeatured": true
   }
 ]
