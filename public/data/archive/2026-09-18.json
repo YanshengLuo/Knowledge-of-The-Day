@@ -1,32 +1,28 @@
 [
   {
-    "id": "b381469a661e0e79",
-    "title": "SCLC TumorMiner: A genomics platform for small cell lung cancer precision oncology.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42733745",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42733745",
+    "id": "ca3ab3ea857ad5d0",
+    "title": "Shape-shifting proteins and the subtlety in their form and function.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42750698",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42750698",
     "source": "pubmed",
     "publicationName": "iScience",
     "journalName": "iScience",
     "publishedAt": "2026-09-18T00:00:00.000Z",
-    "fetchedAt": "2026-09-14T18:13:18.361Z",
-    "snippet": "Small cell lung cancer (SCLC) is among the most aggressive malignancies. Unlike many other cancers, it is not represented in The Cancer Genome Atlas, and available datasets are fragmented across institutions, disease stages, and treatment settings. RNA sequencing provides a powerful and cost-effective approach, but the high dimensionality of transcriptomic....",
+    "fetchedAt": "2026-09-17T17:18:23.341Z",
+    "snippet": "Shape-shifting proteins include intrinsically disordered proteins (IDPs) and fold-switching, or metamorphic proteins. They make up a significant fraction of the \"dark proteome\" in the protein universe. In this essay, we highlight some often misconceived or underappreciated features of shape-shifting proteins: First, the subtlety of the structure of IDPs; se...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
-      "oncology",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification"
+      "oncology"
     ],
     "topicBuckets": [
       "computational biology",
-      "oncology",
-      "ai",
-      "translational medicine"
+      "oncology"
     ],
     "isNewToday": false,
+    "importanceScore": 82,
     "importanceSignals": [
       "very recent",
       "priority topic: computational biology, oncology",
@@ -34,60 +30,19 @@
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 92,
     "isFeatured": true
   },
   {
-    "id": "28b330ec98d36ecb",
-    "title": "CoexpressDeconvolve enables reference-free single-cell-resolution deconvolution from spot-based spatial transcriptomics.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42733532",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42733532",
+    "id": "dd4c115ff014a019",
+    "title": "CTLA-4 haploinsufficiency leads to late-onset autoimmune pathology in mice.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42750776",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42750776",
     "source": "pubmed",
     "publicationName": "iScience",
     "journalName": "iScience",
     "publishedAt": "2026-09-18T00:00:00.000Z",
-    "fetchedAt": "2026-09-14T18:13:18.361Z",
-    "snippet": "Spot-based spatial transcriptomics captures the transcriptome of multiple adjacent cells per spot, obscuring cell type-specific signals. Most deconvolution tools, therefore, depend on external single-cell references and return cell-type fractions rather than the number of cells, and only some output full expression profiles. Here we present CoexpressDeconvo...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "spatial",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "computational biology",
-      "spatial"
-    ],
-    "isNewToday": false,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "importanceScore": 82,
-    "isFeatured": false
-  },
-  {
-    "id": "926e583a269662e9",
-    "title": "Amphiregulin shapes mitochondrial delivery and immune modulation by microvescicles.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42733842",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42733842",
-    "source": "pubmed",
-    "publicationName": "iScience",
-    "journalName": "iScience",
-    "publishedAt": "2026-09-18T00:00:00.000Z",
-    "fetchedAt": "2026-09-14T18:13:18.361Z",
-    "snippet": "Amniotic epithelial cells (AECs) exert potent paracrine immunoregulatory functions, yet whether inflammatory cues enhance the biological activity of their extracellular vesicles (EVs) remains unclear. To address this question, we characterized the secretome of ovine AECs under basal and lipopolysaccharide (LPS)-stimulated conditions using label-free proteom...",
+    "fetchedAt": "2026-09-17T17:18:23.341Z",
+    "snippet": "In humans, the loss of function in a single copy of thegene leads to an immune disorder characterized by a spectrum of immunodeficient and autoimmune manifestations. To investigate the pathogenicity of CTLA-4 haploinsufficiency, we utilized a heterozygous mouse model carrying a patient-derived Y139C mutation. We found that young heterozygous mice exhibited....",
     "tags": [
       "research",
       "pubmed",
@@ -98,50 +53,13 @@
     ],
     "topicBuckets": [
       "gene therapy",
-      "immunology",
-      "ai",
-      "funding"
+      "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
+    "importanceScore": 72,
     "importanceSignals": [
       "very recent",
-      "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "9225f8b7019d6363",
-    "title": "CT-based deep learning for survival stratification in EGFR-mutant lung adenocarcinoma after EGFR-TKI resistance: A multicenter study.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42733514",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42733514",
-    "source": "pubmed",
-    "publicationName": "iScience",
-    "journalName": "iScience",
-    "publishedAt": "2026-09-18T00:00:00.000Z",
-    "fetchedAt": "2026-09-14T18:13:18.361Z",
-    "snippet": "Accurate risk assessment after EGFR-TKI resistance is important for guiding subsequent management of patients with EGFR-mutant lung adenocarcinoma. In this multicenter retrospective study, we developed and externally validated a computed tomography (CT)-based deep learning model using pretreatment CT images from 525 patients. A 2.5D ResNet-101 model showed....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 92,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: translational medicine, oncology",
+      "priority topic: gene therapy",
       "high-signal source",
       "rich summary",
       "rich metadata"
