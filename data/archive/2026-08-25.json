@@ -1,96 +1,28 @@
 [
   {
-    "id": "2eeec16b697b6975",
-    "title": "Exploring the Role of HSD17B2 in Colorectal Cancer Through Bioinformatic Analysis: Preliminary Insights for Prognostic Evaluation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42737518",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42737518",
+    "id": "0579d9cf5e596693",
+    "title": "scGPA: an LLM-assisted workflow for directional virtual gene perturbation analysis from single-cell transcriptomes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42754836",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42754836",
     "source": "pubmed",
-    "publicationName": "International journal of molecular sciences",
-    "journalName": "International journal of molecular sciences",
+    "publicationName": "BMC genomics",
+    "journalName": "BMC genomics",
     "publishedAt": "2026-08-25T00:00:00.000Z",
-    "fetchedAt": "2026-09-15T17:19:41.128Z",
-    "snippet": "Colorectal cancer (CRC) is the third most commonly diagnosed cancer and the second leading cause of cancer-related mortality worldwide. Although screening has reduced CRC in older adults, cases in younger individuals are rising, highlighting the need for early biomarkers. Emerging research highlights the role of estrogen metabolism in CRC progression, with....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "7cf1cc1de4386e00",
-    "title": "Integrating Radiogenomics and CSF-Based Liquid Biopsy Sequencing for Precision Neuro-Oncology.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42737517",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42737517",
-    "source": "pubmed",
-    "publicationName": "International journal of molecular sciences",
-    "journalName": "International journal of molecular sciences",
-    "publishedAt": "2026-08-25T00:00:00.000Z",
-    "fetchedAt": "2026-09-15T17:19:41.128Z",
-    "snippet": "Glioblastoma and diffuse gliomas pose major therapeutic challenges due to marked intratumoral heterogeneity, limited tissue accessibility, and the blood-brain barrier. Tissue-based next-generation sequencing (NGS) remains essential for WHO CNS5 molecular classification, yet it is invasive and poorly suited to serial monitoring. Two complementary non- or min...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "6e096546d92b01b7",
-    "title": "Long Noncoding RNAs (lncRNAs) as Biomarkers of Prognosis in TNBC and Non-TNBC Breast Cancer Patients.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42737514",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42737514",
-    "source": "pubmed",
-    "publicationName": "International journal of molecular sciences",
-    "journalName": "International journal of molecular sciences",
-    "publishedAt": "2026-08-25T00:00:00.000Z",
-    "fetchedAt": "2026-09-15T17:19:41.128Z",
-    "snippet": "Functional studies have shown that long noncoding RNAs (lncRNAs) play different roles in gene expression regulation, acting as epigenetic factors. Accumulating evidence indicates that lncRNAs modulate diverse biological processes, and their altered expression is associated with the development and progression of cancer, including BC. Here, aiming to identif...",
+    "fetchedAt": "2026-09-18T16:45:17.942Z",
+    "snippet": "Existing virtual perturbation methods can often infer directional changes by comparing predicted post-perturbation expression profiles with control cells. However, workflows that directly return direction-specific downstream candidate genes together with confidence scores, evidence support and interpretable summaries remain limited. We developed scGPA, an L...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
       "oncology",
-      "biomarker"
+      "single-cell"
     ],
     "topicBuckets": [
       "computational biology",
       "oncology",
       "ai",
-      "translational medicine"
+      "single-cell"
     ],
     "isNewToday": false,
     "importanceScore": 75,
@@ -101,41 +33,6 @@
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": false
-  },
-  {
-    "id": "e033557b731567ba",
-    "title": "Exploratory Multi-Platform Bioinformatic Analysis of MEAK7 and Its Molecular, Survival, and Immune Associations in Pancreatic Ductal Adenocarcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42737511",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42737511",
-    "source": "pubmed",
-    "publicationName": "International journal of molecular sciences",
-    "journalName": "International journal of molecular sciences",
-    "publishedAt": "2026-08-25T00:00:00.000Z",
-    "fetchedAt": "2026-09-15T17:19:41.128Z",
-    "snippet": "Pancreatic ductal adenocarcinoma (PDAC) is associated with high mortality owing to late diagnosis, aggressive tumor biology, and limited clinically useful early diagnostic and prognostic biomarkers. This study provides an exploratory evaluation of the expression profile, survival associations, co-expressed genes, functional association networks, and regulat...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "translational medicine",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
+    "isFeatured": true
   }
 ]
