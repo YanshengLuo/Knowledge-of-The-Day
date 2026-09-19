@@ -1,34 +1,36 @@
 [
   {
-    "id": "0579d9cf5e596693",
-    "title": "scGPA: an LLM-assisted workflow for directional virtual gene perturbation analysis from single-cell transcriptomes.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42754836",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42754836",
+    "id": "fe0123e2330427f0",
+    "title": "Tumor-derived KLK5 activates TMEM158cancer-associated fibroblasts to induce CD8T cell exhaustion and confer immunotherapy resistance in lung cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42759446",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42759446",
     "source": "pubmed",
-    "publicationName": "BMC genomics",
-    "journalName": "BMC genomics",
+    "publicationName": "Drug resistance updates : reviews and commentaries in antimicrobial and anticancer chemotherapy",
+    "journalName": "Drug resistance updates : reviews and commentaries in antimicrobial and anticancer chemotherapy",
     "publishedAt": "2026-08-25T00:00:00.000Z",
-    "fetchedAt": "2026-09-18T16:45:17.942Z",
-    "snippet": "Existing virtual perturbation methods can often infer directional changes by comparing predicted post-perturbation expression profiles with control cells. However, workflows that directly return direction-specific downstream candidate genes together with confidence scores, evidence support and interpretable summaries remain limited. We developed scGPA, an L...",
+    "fetchedAt": "2026-09-19T16:07:17.948Z",
+    "snippet": "Immune checkpoint blockade (ICB) has improved the treatment landscape of lung squamous cell carcinoma (LUSC), but durable clinical benefit is limited by frequent therapeutic resistance. We aimed to define the microenvironmental mechanisms underlying ICB resistance in LUSC. Surgical specimens from LUSC patients treated with neoadjuvant anti-PD-1 therapy plus...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology",
-      "single-cell"
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "immunotherapy"
     ],
     "topicBuckets": [
-      "computational biology",
+      "spatial",
       "oncology",
+      "computational biology",
       "ai",
-      "single-cell"
+      "translational medicine",
+      "immunology"
     ],
     "isNewToday": false,
     "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: computational biology, oncology",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
