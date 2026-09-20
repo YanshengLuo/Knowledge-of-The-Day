@@ -1,36 +1,31 @@
 [
   {
-    "id": "261d73c370819483",
-    "title": "Microglia and neuroinflammation: An in-depth analysis from functional diversity to disease mechanisms.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42757440",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42757440",
+    "id": "207c77e6f6547ce9",
+    "title": "Epitranscriptomic Regulation in Oncogenic Viruses: Emerging Roles of RNA Modifications in Viral Persistence and Tumourigenesis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42762501",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42762501",
     "source": "pubmed",
-    "publicationName": "Clinical and translational medicine",
-    "journalName": "Clinical and translational medicine",
+    "publicationName": "Reviews in medical virology",
+    "journalName": "Reviews in medical virology",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-19T16:07:17.948Z",
-    "snippet": "Microglia are essential regulators of central nervous system homeostasis and participate in immune surveillance, inflammatory regulation, phagocytosis, metabolic adaptation, and tissue repair. Recent single cell and spatial omics studies have revealed extensive microglial heterogeneity, challenging the traditional M1/M2 classification. However, the function...",
+    "fetchedAt": "2026-09-20T16:31:50.090Z",
+    "snippet": "Oncogenic viral pathogens, such as human papillomavirus (HPV), Epstein-Barr virus (EBV), hepatitis B and C viruses (HBV, HCV), and Kaposi's sarcoma-associated herpesvirus (KSHV), are involved in a significant proportion of human cancers worldwide. While genetic and epigenetic mechanisms underlying viral oncogenesis have been thoroughly investigated, emergin...",
     "tags": [
       "research",
       "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
+      "Computational oncology",
+      "computational biology",
+      "oncology"
     ],
     "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai",
       "computational biology",
-      "single-cell",
-      "spatial"
+      "oncology"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
+    "importanceScore": 65,
     "importanceSignals": [
       "published this month",
-      "priority topic: gene therapy, ai",
+      "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -38,103 +33,34 @@
     "isFeatured": true
   },
   {
-    "id": "7da286e55ccb6e23",
-    "title": "Comparative Analysis of the Immune Profiles of Women and Men With Hepatocellular Carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42760831",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760831",
+    "id": "67580e95efa038f5",
+    "title": "Targeting LGALS1 via CAF-Derived Extracellular Vesicles Synergizes With &#x3b1;PD-1 to Reverse Immunosuppression and Sensibilize Chemo-Immunotherapy for Colorectal Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42762518",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42762518",
     "source": "pubmed",
-    "publicationName": "Cancer medicine",
-    "journalName": "Cancer medicine",
+    "publicationName": "Macromolecular bioscience",
+    "journalName": "Macromolecular bioscience",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-19T16:07:17.948Z",
-    "snippet": "Hepatocellular carcinoma (HCC) is the most common primary liver cancer and a major global health concern, with a higher incidence in men than in women. In the era of immunotherapy, understanding sex-based immunological differences is crucial. This study investigated sex-specific differences in anti-tumor immunity in HCC through immune profiling of liver bio...",
+    "fetchedAt": "2026-09-20T16:31:50.090Z",
+    "snippet": "Colorectal cancer (CRC) exhibits intrinsic resistance to conventional therapeutic regimens. By integrating single-cell and bulk transcriptomic data from CRC cohorts, we demonstrate that proliferative capacity alone constitutes an inadequate prognostic predictor. Instead, an immunosuppressive tumor microenvironment (TME) emerges as the dominant driver of dis...",
     "tags": [
       "research",
       "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "immunotherapy"
     ],
     "topicBuckets": [
-      "translational medicine",
+      "single-cell",
       "oncology",
       "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 65,
+    "importanceScore": 55,
     "importanceSignals": [
       "published this month",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "5679bdde0c486a08",
-    "title": "Identification of Inflammatory Cell Death-Related Prognostic Signature and Its Regulatory Mechanism in Lung Adenocarcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42760759",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760759",
-    "source": "pubmed",
-    "publicationName": "Cancer medicine",
-    "journalName": "Cancer medicine",
-    "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-19T16:07:17.948Z",
-    "snippet": "This study investigated how inflammatory cell death-associated regulators influence the prognosis of lung adenocarcinoma (LUAD) and elucidated their underlying mechanisms. LUAD RNA-seq data from UCSC-Xena (training) and GSE72094 (validation) were analyzed. Inflammatory cell death regulators were identified, and LUAD subtypes were classified based on their e...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "501ac433e17f971e",
-    "title": "Preoperative Glucose-to-Albumin Ratio as a Prognostic Marker for Survival in Pancreatic Cancer Patients Undergoing Pancreatectomy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42760632",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760632",
-    "source": "pubmed",
-    "publicationName": "Cancer medicine",
-    "journalName": "Cancer medicine",
-    "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-19T16:07:17.948Z",
-    "snippet": "Pancreatic cancer (PC) disrupts metabolic and nutritional processes, including glucose homeostasis and albumin levels. Both hyperglycemia and hypoalbuminemia have been linked to poorer outcomes in various cancers, including PC. This study investigates the preoperative glucose-to-albumin ratio (GAR) as a potential prognostic marker of overall survival in pat...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 65,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: translational medicine, oncology",
+      "priority topic: oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
