@@ -8,7 +8,7 @@
     "publicationName": "Frontiers in oncology",
     "journalName": "Frontiers in oncology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-20T16:31:50.090Z",
+    "fetchedAt": "2026-09-21T18:20:21.389Z",
     "snippet": "Gastric cancer remains a major cause of cancer-related mortality worldwide, largely due to late diagnosis and pronounced molecular heterogeneity. Although genomic and transcriptomic studies have advanced understanding of gastric tumor biology, they do not fully capture dynamic changes in protein expression, post-translational modifications, and signaling ac...",
     "tags": [
       "research",
@@ -43,34 +43,29 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-20T16:31:50.090Z",
+    "fetchedAt": "2026-09-21T18:20:21.389Z",
     "snippet": "Chronic pancreatitis (CP) creates an inflammatory pancreatic microenvironment and is an established risk factor for pancreatic cancer (PC). However, immune-inflammatory links between CP and PC remain unclear. Isorhamnetin (ISO), a natural flavonoid with anti-inflammatory and antitumor activities, may influence pancreatic inflammatory signaling. This study i...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
-      "oncology",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
+      "oncology"
     ],
     "topicBuckets": [
       "computational biology",
       "oncology",
       "ai",
-      "immunology",
-      "gene therapy"
+      "immunology"
     ],
     "isNewToday": false,
+    "importanceScore": 68,
     "importanceSignals": [
       "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 68,
     "isFeatured": true
   },
   {
@@ -82,7 +77,7 @@
     "publicationName": "Frontiers in endocrinology",
     "journalName": "Frontiers in endocrinology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-20T16:31:50.090Z",
+    "fetchedAt": "2026-09-21T18:20:21.389Z",
     "snippet": "Polycystic ovary syndrome is associated with metabolic and hormonal disturbances during pregnancy, but whether these alterations are reflected in the fetal intrauterine exposure environment remains incompletely understood. This study aimed to identify polycystic ovary syndrome-related intrauterine metabolic signatures using late-gestation amniotic fluid. Un...",
     "tags": [
       "research",
@@ -107,6 +102,41 @@
     "isFeatured": true
   },
   {
+    "id": "50bb0cc7347eddf9",
+    "title": "Ultrasound radiomics integrated with an immune-related gene signature for predicting response and resistance to immune checkpoint inhibitors in cutaneous melanoma: a retrospective radiogenomic study with biological validation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42765081",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42765081",
+    "source": "pubmed",
+    "publicationName": "Frontiers in genetics",
+    "journalName": "Frontiers in genetics",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-21T18:20:21.389Z",
+    "snippet": "Immune checkpoint inhibitors (ICIs) have transformed cutaneous melanoma therapy, yet 50% of patients show primary or acquired resistance, and current biomarkers (PD-L1 and tumor mutational burden) lack precision. High-frequency ultrasound (HFUS), contrast-enhanced ultrasound (CEUS), and shear-wave elastography (SWE) are inexpensive and repeatable, but their...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "computational biology",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
     "id": "b16b30a81ef5196f",
     "title": "Therapy-induced immunoediting and the evolution of cancer immune escape.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42761662",
@@ -115,7 +145,7 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-20T16:31:50.090Z",
+    "fetchedAt": "2026-09-21T18:20:21.389Z",
     "snippet": "Anticancer therapy can eliminate immune-visible tumour cells while simultaneously imposing selective pressures that favour residual immune-evasive populations. This mini-review conceptualizes therapy-induced immunoediting as a dynamic continuum comprising pre-existing escape, therapeutic immune activation, a selective bottleneck, residual equilibrium and se...",
     "tags": [
       "research",
@@ -140,44 +170,6 @@
     "isFeatured": false
   },
   {
-    "id": "dc523cc1ddca073e",
-    "title": "The tumor immune microenvironment of thyroid cancer and colorectal cancer: cellular crosstalk and therapeutic implications.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42761343",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42761343",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-20T16:31:50.090Z",
-    "snippet": "Thyroid cancer (TC) and colorectal cancer are common malignancies of the endocrine and gastrointestinal systems, respectively, and continue to impose a substantial global disease burden. The tumor immune microenvironment (TIME) plays a central role in tumor initiation, progression, and therapeutic response; however, the cellular composition and intercellula...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "spatial",
-      "computational biology"
-    ],
-    "isNewToday": false,
-    "importanceSignals": [
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "importanceScore": 58,
-    "isFeatured": false
-  },
-  {
     "id": "582c495915f22e11",
     "title": "A Myeloid-Specific Endogenous TRP1-CAR Knock-in Mouse Model for Melanoma-Targeted Immunotherapy.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42763759",
@@ -186,7 +178,7 @@
     "publicationName": "ImmunoTargets and therapy",
     "journalName": "ImmunoTargets and therapy",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-20T16:31:50.090Z",
+    "fetchedAt": "2026-09-21T18:20:21.389Z",
     "snippet": "Malignant melanoma is highly aggressive and prone to therapeutic resistance. Chimeric antigen receptor macrophage (CAR-M) therapy is promising for solid tumors, but conventional ex vivo-engineered CAR-M has limited in vivo persistence, complicating longer-term safety evaluation. This study established a myeloid-specific, endogenously expressed tyrosinase-re...",
     "tags": [
       "research",
@@ -213,138 +205,33 @@
     "isFeatured": true
   },
   {
-    "id": "c5414da8d294f892",
-    "title": "Analysis of Antimicrobial Resistance and Infection Characteristics ofHarboring theMetallo-&#x3b2;-Lactamase Gene.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42761903",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42761903",
-    "source": "pubmed",
-    "publicationName": "Infection and drug resistance",
-    "journalName": "Infection and drug resistance",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-20T16:31:50.090Z",
-    "snippet": "To investigate the drug resistance genotype and phenotypic characteristics of a clinical isolate ofproducing metallo-&#x3b2;-lactamase, so as to provide reference for the diagnosis and treatment of similar severe infections in critical care settings. A Gram-negative bacillus isolated from blood cultures of an elderly patient with severe bloodstream infectio...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: gene therapy, translational medicine",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "bb5fffb55aa34e5c",
-    "title": "Repurposed metformin-apigenin combination therapy for metabolic dysfunction-associated steatohepatitis: from integrative multi-omics discovery tovalidation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42761201",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42761201",
-    "source": "pubmed",
-    "publicationName": "Frontiers in pharmacology",
-    "journalName": "Frontiers in pharmacology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-20T16:31:50.090Z",
-    "snippet": "Metabolic dysfunction-associated steatohepatitis (MASH) is a chronic liver disease. Although recent drugs have been approved, the complex pathophysiology of MASH limits monotherapy efficacy and generates considerable inter-patient heterogeneity. The purpose of this research was to identify new molecular targets and develop a rational combination therapeutic...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "computational biology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: gene therapy, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "ac4f691fa2a8145d",
-    "title": "Immuno-based profiling of knee osteoarthritis patients identifies baseline characteristics associated with positive response to autologous platelet-rich plasma injection at one-year follow-up.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42761170",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42761170",
+    "id": "dc523cc1ddca073e",
+    "title": "The tumor immune microenvironment of thyroid cancer and colorectal cancer: cellular crosstalk and therapeutic implications.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42761343",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42761343",
     "source": "pubmed",
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-20T16:31:50.090Z",
-    "snippet": "Osteoarthritis (OA) is a degenerative musculoskeletal disease of multifactorial origin causing chronic disability, despite numerous treatment options for which there are no predictive biomarkers on the different endotypes. We aimed at defining a peripheral blood (PB) profile potentially predictive of early and sustained response to intra-articular injection...",
+    "fetchedAt": "2026-09-21T18:20:21.389Z",
+    "snippet": "Thyroid cancer (TC) and colorectal cancer are common malignancies of the endocrine and gastrointestinal systems, respectively, and continue to impose a substantial global disease burden. The tumor immune microenvironment (TIME) plays a central role in tumor initiation, progression, and therapeutic response; however, the cellular composition and intercellula...",
     "tags": [
       "research",
       "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
     ],
     "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "df0ce80f8ca14c6b",
-    "title": "The cGAS-STING pathway in acute myocardial infarction: Biomarker discovery and mechanistic insights.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42758768",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42758768",
-    "source": "pubmed",
-    "publicationName": "PloS one",
-    "journalName": "PloS one",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-20T16:31:50.090Z",
-    "snippet": "Acute Myocardial infarction (AMI) continues to be a severe deadly disease with a high case-fatality rate and great psychological and economic costs. Despite the development of new therapies, early diagnosis and treatment optimization still are problematical. Here we applied the integrated bioinformatics strategy to screen potential new diagnosis biomarkers....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation",
-      "biomarker"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
+      "spatial",
+      "oncology",
       "computational biology",
-      "translational medicine"
+      "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 68,
+    "importanceScore": 58,
     "importanceSignals": [
-      "priority topic: gene therapy, computational biology",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -352,16 +239,16 @@
     "isFeatured": true
   },
   {
-    "id": "5e37de8231455230",
-    "title": "Advanced thymic epithelial tumours after neoadjuvant therapy: a narrative review of surgical challenges and strategies.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42763662",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42763662",
+    "id": "6acd1aba50fe1ddd",
+    "title": "Development of a Consensus-Based Risk Stratification Algorithm for HR+/HER2- Early Breast Cancer to Guide Adjuvant CDK4/6i Therapy: Outcomes from a Multidisciplinary Workshop in India.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42764958",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42764958",
     "source": "pubmed",
-    "publicationName": "Mediastinum (Hong Kong, China)",
-    "journalName": "Mediastinum (Hong Kong, China)",
+    "publicationName": "Breast cancer (Dove Medical Press)",
+    "journalName": "Breast cancer (Dove Medical Press)",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-20T16:31:50.090Z",
-    "snippet": "Thymic epithelial tumours, including thymoma and thymic carcinoma, are rare anterior mediastinal neoplasms. Complete surgical resection remains the strongest prognostic determinant, yet locally advanced disease frequently involves critical mediastinal structures and requires multimodality treatment. Neoadjuvant therapy is commonly used to improve resectabil...",
+    "fetchedAt": "2026-09-21T18:20:21.389Z",
+    "snippet": "Hormone receptor-positive/human epidermal growth factor receptor 2-negative (HR+/HER2-) early breast cancer (EBC) is treated with curative intent, but risk of recurrence (RoR) remains a challenge. The identification of high RoR EBC patients is inconsistent, highlighting the need for a simplified approach. This study aimed to develop an evidence-informed, co...",
     "tags": [
       "research",
       "pubmed",
@@ -386,16 +273,16 @@
     "isFeatured": true
   },
   {
-    "id": "062c7ef290c300ee",
-    "title": "Anti-angiogenic therapy in thymic carcinoma: a narrative review of current evidence and emerging combinations.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42763652",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42763652",
+    "id": "34d7ec79a97cd37c",
+    "title": "Current Perspectives on the Use of Adjuvant Pembrolizumab for Hepatocellular Carcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42764956",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42764956",
     "source": "pubmed",
-    "publicationName": "Mediastinum (Hong Kong, China)",
-    "journalName": "Mediastinum (Hong Kong, China)",
+    "publicationName": "Journal of hepatocellular carcinoma",
+    "journalName": "Journal of hepatocellular carcinoma",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-20T16:31:50.090Z",
-    "snippet": "Thymic carcinoma (TC) is a rare and aggressive malignancy with limited systemic treatment options. Although platinum-based chemotherapy has historically been the first-line standard, anti-angiogenic therapy has emerged as an important therapeutic strategy across treatment settings. This review synthesizes current evidence on anti-angiogenic therapies, as mo...",
+    "fetchedAt": "2026-09-21T18:20:21.389Z",
+    "snippet": "Despite implementation of surveillance in at-risk populations and the availability of potentially curative treatment such as resection or ablation, recurrence of hepatocellular carcinoma (HCC) remains a frequent clinical challenge driven by both occult residual disease and de novo carcinogenesis, and can have a major impact on patients' quality of life. Cur...",
     "tags": [
       "research",
       "pubmed",
@@ -406,7 +293,42 @@
     ],
     "topicBuckets": [
       "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "6eec1844e28bb935",
+    "title": "Rituximab-Conjugated DART Nanoformulation for CD20-Targeted Drug Delivery in Non-Hodgkin Lymphoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42764913",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42764913",
+    "source": "pubmed",
+    "publicationName": "International journal of nanomedicine",
+    "journalName": "International journal of nanomedicine",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-21T18:20:21.389Z",
+    "snippet": "To develop rituximab (RTX)-conjugated decreased nonspecific adhesivity receptor-targeted (DART) nanoparticles for CD20-targeted paclitaxel (PTX) delivery in non-Hodgkin lymphoma (NHL) and evaluate their targeting, therapeutic activity, formulation stability, and immune-associated cellular responses. PTX-loaded PLGA-PEG nanoparticles were conjugated with RTX...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
       "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "immunology"
     ],
     "isNewToday": false,
     "importanceScore": 58,
@@ -419,16 +341,16 @@
     "isFeatured": true
   },
   {
-    "id": "90cdff53a4a8d174",
-    "title": "ctDNA in the Management of Resectable & Advanced Colorectal Cancer: Current Status and Future Directions.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42763649",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42763649",
+    "id": "406c7bc5a12ea2d7",
+    "title": "ST6GAL1 promotes cancer stem-like cell-associated paclitaxel resistance through the EGFR-mTOR-SOX2/BMI1 axis in non-small cell lung cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42764906",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42764906",
     "source": "pubmed",
-    "publicationName": "OncoTargets and therapy",
-    "journalName": "OncoTargets and therapy",
+    "publicationName": "Cancer drug resistance (Alhambra, Calif.)",
+    "journalName": "Cancer drug resistance (Alhambra, Calif.)",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-20T16:31:50.090Z",
-    "snippet": "Circulating tumor DNA (ctDNA) is an increasingly important biomarker for molecular residual disease (MRD) after curative-intent treatment of colorectal cancer (CRC), but its prognostic value must be distinguished from proven clinical utility. This structured narrative review synthesizes evidence from PubMed/MEDLINE, Embase, ClinicalTrials.gov, and major onc...",
+    "fetchedAt": "2026-09-21T18:20:21.389Z",
+    "snippet": "Despite the contribution of cancer stem-like cells (CSLCs) to acquired paclitaxel resistance in non-small cell lung cancer (NSCLC), the biomarkers and regulatory mechanisms sustaining their stemness under chemotherapy pressure remain poorly understood. This study aimed to identify the stemness-maintaining programs underlying CSLC-associated paclitaxel resis...",
     "tags": [
       "research",
       "pubmed",
@@ -439,10 +361,11 @@
     ],
     "topicBuckets": [
       "translational medicine",
-      "oncology"
+      "oncology",
+      "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 58,
+    "importanceScore": 68,
     "importanceSignals": [
       "priority topic: translational medicine, oncology",
       "high-signal source",
