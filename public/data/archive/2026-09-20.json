@@ -1,34 +1,69 @@
 [
   {
-    "id": "58ce66fc5f465d2b",
-    "title": "Bridging the data latency gap: automated extraction of genomic biomarkers from unstructured clinical documents to support real-world oncology data.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42763830",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42763830",
+    "id": "58802c2d739444b3",
+    "title": "An ATXN2-linked stress granule transcript program marks proliferative and CD8-low states in colorectal cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42777445",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42777445",
     "source": "pubmed",
-    "publicationName": "Cancer causes & control : CCC",
-    "journalName": "Cancer causes & control : CCC",
+    "publicationName": "Computational biology and chemistry",
+    "journalName": "Computational biology and chemistry",
     "publishedAt": "2026-09-20T00:00:00.000Z",
-    "fetchedAt": "2026-09-22T17:21:45.094Z",
-    "snippet": "Real-world oncology data are essential for clinical research and precision cancer care. However, genomic biomarkers are often embedded in scanned, unstructured clinical documents requiring manual abstraction before becoming available in cancer registries, delaying real-world evidence generation. This study evaluated and compared three open-source optical ch...",
+    "fetchedAt": "2026-09-24T17:35:24.585Z",
+    "snippet": "Immune checkpoint blockade benefits only a minority of colorectal cancer patients, and many tumors show immune-cold phenotypes at the transcript level, especially in microsatellite-stable (MSS) disease. Stress granules are conserved ribonucleoprotein assemblies that form under metabolic and proteotoxic stress and include the RNA-binding protein ataxin-2 (AT...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology",
-      "biomarker"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
     ],
     "topicBuckets": [
-      "computational biology",
+      "single-cell",
       "oncology",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 62,
+    "importanceSignals": [
+      "recent",
+      "priority topic: oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "5e7f9ac76f0b1b2c",
+    "title": "Modeling lung adenocarcinoma using layer-by-layer nanoparticles mitigates innate immune cell activation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42779946",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42779946",
+    "source": "pubmed",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
+    "publishedAt": "2026-09-20T00:00:00.000Z",
+    "fetchedAt": "2026-09-24T17:35:24.585Z",
+    "snippet": "Lung adenocarcinoma, driven frequently by KRAS and p53 mutations, remains a leading cause of cancer mortality. Current state-of-the-art genetically engineered mouse models often rely on viral delivery of recombinases, such as Cre recombinase, to initiate transformation. However, viral particles can infect and activate innate immune cells, thus potentially i...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
       "ai",
-      "translational medicine"
+      "computational biology",
+      "oncology"
     ],
     "isNewToday": false,
     "importanceScore": 82,
     "importanceSignals": [
       "recent",
-      "priority topic: computational biology, oncology",
+      "priority topic: gene therapy, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"

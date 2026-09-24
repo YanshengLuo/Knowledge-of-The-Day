@@ -1,51 +1,56 @@
 [
   {
-    "id": "106beac69ebf3b1f",
-    "title": "Integrative Multi-Omics and Humanized Mouse Modelling to Predict Immunotherapy Response in Triple-Negative Breast Cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42770448",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42770448",
+    "id": "e60390b8bdfca310",
+    "title": "Spatially resolved multimodal hallmarks of response to neoadjuvant immunotherapies in the melanoma ecosystem in 2D and 3D.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42779625",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42779625",
     "source": "pubmed",
-    "publicationName": "Anti-cancer agents in medicinal chemistry",
-    "journalName": "Anti-cancer agents in medicinal chemistry",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
     "publishedAt": "2026-09-18T00:00:00.000Z",
-    "fetchedAt": "2026-09-23T17:30:21.541Z",
-    "snippet": "Triple-Negative Breast Cancer (TNBC) is an aggressive variant of breast cancer, which has a high degree of molecular heterogeneity, essentially immunologically cold tumor phenotypes, and heterogeneous responses to immunotherapy. Although immune checkpoint inhibitors and combination immunotherapeutic approaches have broadened treatment opportunities, the act...",
+    "fetchedAt": "2026-09-24T17:35:24.585Z",
+    "snippet": "Neoadjuvant immunotherapy has transformed cancer treatment, yet the spatial molecular architecture governing response and resistance across distinct immune checkpoint blockade (ICB) regimens remains poorly defined. We assembled the largest neoadjuvant ICB (NICB) spatial multi-omics cohort to date, profiling over 112 million cells at single-cell resolution a...",
     "tags": [
       "research",
       "pubmed",
       "Single-cell TME",
       "single-cell",
       "tumor microenvironment",
-      "immunotherapy"
+      "spatial",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
     ],
     "topicBuckets": [
       "single-cell",
       "oncology",
       "immunology",
-      "computational biology"
+      "ai",
+      "computational biology",
+      "spatial"
     ],
     "isNewToday": false,
-    "importanceScore": 72,
     "importanceSignals": [
       "recent",
-      "priority topic: oncology, computational biology",
+      "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
+    "importanceScore": 82,
     "isFeatured": true
   },
   {
-    "id": "abebf9ef932cb50e",
-    "title": "PLGA-loaded puerarin attenuates arsenic-induced liver injury through modulation of ferroptosis, oxidative stress, inflammation, and apoptotic signaling.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42773487",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42773487",
+    "id": "4a41ffc37d62260a",
+    "title": "Spatiotemporal control of STING activation and saRNA delivery decouples humoral and cellular immunity.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42779658",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42779658",
     "source": "pubmed",
-    "publicationName": "BMC pharmacology & toxicology",
-    "journalName": "BMC pharmacology & toxicology",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
     "publishedAt": "2026-09-18T00:00:00.000Z",
-    "fetchedAt": "2026-09-23T17:30:21.541Z",
-    "snippet": "Arsenic (AR) is an environmental and mining occupational toxicant with reported hepatotoxic effects. Ferroptosis has recently emerged as a critical mechanism involved in arsenic-induced hepatotoxicity. This study investigated the hepatoprotective effects of puerarin (PU) and its PLGA-loaded nanoparticle formulation (PU-PLGA) against arsenic-induced liver in...",
+    "fetchedAt": "2026-09-24T17:35:24.585Z",
+    "snippet": "Self-amplifying mRNA (saRNA) vaccine formulations link the location and timing of antigen expression to innate immune stimulation by both RNA cargo and carrier. We hypothesized that targeting a polymeric STING agonist prodrug (polySTING) to antigen-presenting cells (APCs) independently of saRNA delivery could tune vaccines responses without limiting saRNA e...",
     "tags": [
       "research",
       "pubmed",
@@ -56,31 +61,30 @@
     ],
     "topicBuckets": [
       "gene therapy",
-      "immunology",
-      "ai"
+      "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 72,
+    "importanceScore": 62,
     "importanceSignals": [
       "recent",
-      "priority topic: gene therapy, ai",
+      "priority topic: gene therapy",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
+    "isFeatured": false
   },
   {
-    "id": "a136cecebc307f28",
-    "title": "Integrating AI-Based Digital Pathology with Spatial Transcriptomics for Deeper Insight.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42772332",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42772332",
+    "id": "08b639e1c2fd408d",
+    "title": "spaGFM is a scalable graph foundation model for spatial transcriptomics analyses.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42779937",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42779937",
     "source": "pubmed",
-    "publicationName": "Cancer research and treatment",
-    "journalName": "Cancer research and treatment",
+    "publicationName": "Research square",
+    "journalName": "Research square",
     "publishedAt": "2026-09-18T00:00:00.000Z",
-    "fetchedAt": "2026-09-23T17:30:21.541Z",
-    "snippet": "Histopathology preserves tissue architecture, whereas spatial transcriptomics measures gene expression within its native spatial context. Integrating these modalities with artificial intelligence (AI) can link morphology to spatial molecular states and scale spatial discoveries to routine pathology cohorts. Early hematoxylin and eosin (H&E)-to-spatial model...",
+    "fetchedAt": "2026-09-24T17:35:24.585Z",
+    "snippet": "Foundation models offer a promising paradigm for modeling spatial transcriptomics, but capturing tissue context over cellular graphs makes training at scale challenging. We introduce spaGFM, a graph foundation model that serializes cellular neighborhoods through random walks to generate transformer-compatible representations of tissue organization. By repla...",
     "tags": [
       "research",
       "pubmed",
