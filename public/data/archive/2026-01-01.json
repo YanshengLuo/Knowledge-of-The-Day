@@ -1,15 +1,15 @@
 [
   {
-    "id": "c0cb8dffdce143cc",
-    "title": "Beyond natural amino acids: extending immunogenicity risk assessment to modified peptides through chemical feature encoding. A case study on citrullination.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42780093",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42780093",
+    "id": "5c724af1c5f29bab",
+    "title": "Oral microbiota and serum metabolomics features in newly diagnosed anti-AchR antibody-positive myasthenia gravis patients.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42787195",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42787195",
     "source": "pubmed",
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-24T17:35:24.585Z",
-    "snippet": "Peptide therapeutics are increasingly explored to treat challenging diseases, but immunogenicity risks limit their clinical success.tools enable immunogenicity screening through prediction of peptide-MHCII binding, yet current methods do not account for chemical properties of non-natural amino acids routinely incorporated to improve peptide properties. Here...",
+    "fetchedAt": "2026-09-25T17:35:19.195Z",
+    "snippet": "Myasthenia gravis (MG) is an autoimmune disorder mediated by autoantibodies. While research regarding the microbiota-gut-brain axis has expanded significantly in recent years, the role of the oral microbiota in MG and its potential association with systemic metabolism remain poorly understood. To address this, we conducted a case-control study to investigat...",
     "tags": [
       "research",
       "pubmed",
@@ -20,8 +20,8 @@
     "topicBuckets": [
       "computational biology",
       "oncology",
-      "biotech",
-      "translational medicine"
+      "ai",
+      "immunology"
     ],
     "isNewToday": false,
     "importanceScore": 68,
@@ -31,46 +31,115 @@
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": false
+    "isFeatured": true
   },
   {
-    "id": "053b92a082352be7",
-    "title": "Circulating and tumor-infiltrating immune cell profiles in cervical cancer checkpoint blockade: multi-omics biomarkers of response and resistance.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42774775",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42774775",
+    "id": "0d4b96a2792732c3",
+    "title": "Molecular subgroups and biomarker guided precision immunotherapy in triple-negative breast cancer: advances, challenges, and future directions.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42787418",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42787418",
     "source": "pubmed",
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-24T17:35:24.585Z",
-    "snippet": "Immune checkpoint blockade has changed the therapeutic landscape of cervical cancer, but clinical benefit remains heterogeneous and difficult to predict with single biomarkers. Cervical cancer is a particularly suitable setting for immune-cell profiling because HPV-driven antigenicity, chemoradiotherapy-induced tissue remodeling, anti-angiogenic combination...",
+    "fetchedAt": "2026-09-25T17:35:19.195Z",
+    "snippet": "Triple-negative breast cancer is an aggressive, biologically heterogeneous subtype with limited targeted therapies. Immunotherapy improves outcomes in selected patients, but durable benefit is limited by inter- and intratumoral heterogeneity, imperfect biomarkers, and primary or acquired resistance. This review integrates evidence from major positive and ne...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
       "biomarker",
+      "immunotherapy",
       "Spatial oncology",
       "spatial transcriptomics",
       "cancer"
     ],
     "topicBuckets": [
-      "computational biology",
+      "single-cell",
       "oncology",
-      "ai",
-      "translational medicine",
       "immunology",
-      "spatial"
+      "translational medicine",
+      "spatial",
+      "computational biology"
     ],
     "isNewToday": false,
     "importanceSignals": [
-      "priority topic: computational biology, oncology",
+      "priority topic: oncology, translational medicine",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
     "importanceScore": 68,
+    "isFeatured": true
+  },
+  {
+    "id": "a7fb14899fc4c20c",
+    "title": "GSDMD Promotes Epithelial-Mesenchymal Transition and Lymph Node Metastasis in Cervical Cancer in vitro and in vivo.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42781620",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42781620",
+    "source": "pubmed",
+    "publicationName": "Journal of inflammation research",
+    "journalName": "Journal of inflammation research",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-25T17:35:19.195Z",
+    "snippet": "Lymph node metastasis (LNM) is a critical determinant of prognosis in cervical cancer (CC). Tumor-associated macrophages (TAMs) and inflammatory signaling within the tumor microenvironment have been implicated in metastatic progression; however, the molecular mechanisms linking inflammation to lymphatic dissemination remain poorly understood. We integrated....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "dedc38cf1624f3df",
+    "title": "CXCL2/CXCR2 pathway regulates CD169large macrophages to promote progression of malignant pleural effusion from lung adenocarcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42780770",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42780770",
+    "source": "pubmed",
+    "publicationName": "Frontiers in medicine",
+    "journalName": "Frontiers in medicine",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-25T17:35:19.195Z",
+    "snippet": "Malignant pleural effusion (MPE) correlates with poor prognosis. Tumor-associated macrophages dominate the immune microenvironment and govern MPE progression, while the functional heterogeneity of macrophage subsets in MPE remains poorly understood. CD169macrophages exhibit context-dependent tumor-regulatory functions in various malignancies, yet their phen...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
     "isFeatured": true
   },
   {
@@ -82,7 +151,7 @@
     "publicationName": "Frontiers in cell and developmental biology",
     "journalName": "Frontiers in cell and developmental biology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-24T17:35:24.585Z",
+    "fetchedAt": "2026-09-25T17:35:19.195Z",
     "snippet": "Pancreatic ductal adenocarcinoma (PDAC) is characterized by marked molecular, cellular, and clinical heterogeneity. Chaperone-mediated autophagy (CMA) supports adaptation to metabolic and environmental stress, but its cell type-specific distribution and prognostic relevance in PDAC remain unclear. Single-cell RNA sequencing data from GSE212966 were analyzed...",
     "tags": [
       "research",
@@ -110,86 +179,16 @@
     "isFeatured": true
   },
   {
-    "id": "9c5b2be3b53f2560",
-    "title": "Integrative single-cell and bulk transcriptomics define polyamine-associated cell states in acute myeloid leukemia and implicate CCT6A in polyamine homeostasis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42774397",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42774397",
+    "id": "7951d71aac4024d1",
+    "title": "Beta-Caryophyllene (BCP) Modulating the Endocannabinoid System and PPAR&#x3b3; to Combat Metabolic Dysregulation: A Narrative Review.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42781288",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42781288",
     "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
+    "publicationName": "Therapeutics and clinical risk management",
+    "journalName": "Therapeutics and clinical risk management",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-24T17:35:24.585Z",
-    "snippet": "Polyamine metabolism is an important metabolic dependency in cancer, but its cellular organization and clinical relevance in acute myeloid leukemia (AML) remain unclear. We integrated publicly available single-cell RNA sequencing (scRNA-seq) data from 41 AML samples (198,846 cells) and bulk transcriptomic profiles from 712 AML patients across independent co...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "computational biology",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "e2fcbade6ff7ce71",
-    "title": "Single-cell-informed senescence programs underpin a machine-learning prognostic model robustly validated across melanoma cohorts.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42774276",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42774276",
-    "source": "pubmed",
-    "publicationName": "Frontiers in cell and developmental biology",
-    "journalName": "Frontiers in cell and developmental biology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-24T17:35:24.585Z",
-    "snippet": "Cellular senescence (CS) shapes tumor evolution and the tumor microenvironment (TME), yet senescence-informed prognostic models for skin cutaneous melanoma (SKCM) remain limited. We aimed to develop and validate a robust senescence-related prognostic signature by integrating single-cell and bulk transcriptomic data with systematic machine-learning screening...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "f65ba2266f17fa46",
-    "title": "Astilbin: a novel therapeutic strategy for bone destruction in rheumatoid arthritis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42780125",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42780125",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-24T17:35:24.585Z",
-    "snippet": "Bone destruction constitutes the primary cause of disability in rheumatoid arthritis (RA). Herbal medicines feature unique multi-target advantages, rendering them promising therapeutic candidates for attenuating RA-associated bone damage. This study aimed to investigate the therapeutic efficacy and underlying mechanisms of astilbin, a core bioactive flavono...",
+    "fetchedAt": "2026-09-25T17:35:19.195Z",
+    "snippet": "Metabolic diseases are characterized by disruptions in normal metabolic processes and are often caused by genetic, environmental, or lifestyle-related factors. These conditions, including obesity, type 2 diabetes mellitus (T2DM), metabolic syndrome, and dyslipidemia, are associated with impaired regulation of glucose and lipid metabolism, chronic inflammati...",
     "tags": [
       "research",
       "pubmed",
@@ -211,19 +210,53 @@
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": false
+    "isFeatured": true
   },
   {
-    "id": "f5b368d3d890838f",
-    "title": "Tertiary lymphoid structures in urothelial carcinoma: bridging spatial architecture with therapeutic vulnerability in the post-BCG era.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42774854",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42774854",
+    "id": "a1a32f9c742a2271",
+    "title": "Beyond Structure: The Dynamic Role of the Extracellular Matrix Components in Immune Evasion.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42787254",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42787254",
     "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
+    "publicationName": "Cancer communications (London, England)",
+    "journalName": "Cancer communications (London, England)",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-24T17:35:24.585Z",
-    "snippet": "Urothelial carcinoma (UC) remains a persistent clinical challenge in the post-Bacillus Calmette-Gu&#xe9;rin (BCG) era, particularly because a substantial proportion of patients with high-risk non-muscle-invasive bladder cancer (NMIBC) experience recurrence or progression despite standard intravesical immunotherapy. Although immune checkpoint inhibitors (ICI...",
+    "fetchedAt": "2026-09-25T17:35:19.195Z",
+    "snippet": "The extracellular matrix (ECM) is a dynamic and functionally active component of the tumor microenvironment that critically regulates immune cell trafficking, activation, and persistence. Rather than serving solely as a structural framework, ECM remodeling through collagen reorganization, proteoglycan-dependent chemokine sequestration, and fibroblast-driven...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "d62f397e5fc844d8",
+    "title": "Spatially convergent functional MRI signatures of diabetes and male sex identify genetic vulnerabilities to accelerated brain ageing.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42781427",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42781427",
+    "source": "pubmed",
+    "publicationName": "Brain communications",
+    "journalName": "Brain communications",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-25T17:35:19.195Z",
+    "snippet": "Age-related cognitive decline results from complex interactions between neuroendocrine and neurometabolic processes that undergo lifelong degradation, yet the mechanisms underlying these interactions remain poorly understood. This study examined the effects of diabetes and sex on functional brain networks across ageing through analysis of two large cohorts....",
     "tags": [
       "research",
       "pubmed",
@@ -236,8 +269,80 @@
       "spatial",
       "oncology",
       "computational biology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "d02d39300cc11ece",
+    "title": "Benign Uroandrological Ecosystem: A Thorough Overview from Single-Cell and Spatial Transcriptomics.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42781193",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42781193",
+    "source": "pubmed",
+    "publicationName": "Research (Washington, D.C.)",
+    "journalName": "Research (Washington, D.C.)",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-25T17:35:19.195Z",
+    "snippet": "Benign urological and andrological diseases (BUADs) represent common yet complex clinical challenges, where the diversity and dynamic nature of their microenvironments substantially influence disease onset and progression. In recent years, the emergence of single-cell RNA sequencing (scRNA-seq) and spatially resolved transcriptomic (SRT) technologies has pr...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "single-cell",
+      "spatial"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "single-cell",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "c63387a27c833ca0",
+    "title": "Melanoma in people living with HIV: antigen-presentation loss, spatial immune escape, and inclusive immunotherapy trials.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42780435",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42780435",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-25T17:35:19.195Z",
+    "snippet": "People living with HIV (PLWH) experience a growing burden of non-AIDS-defining malignancies in the era of effective antiretroviral therapy. Melanoma is an informative but understudied example because its progression and response to immune checkpoint inhibitors are shaped by host immunity and tumor antigen presentation. Yet PLWH have often been excluded from...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "spatial",
+      "immunotherapy"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
       "ai",
-      "translational medicine",
       "immunology"
     ],
     "isNewToday": false,
@@ -251,16 +356,16 @@
     "isFeatured": false
   },
   {
-    "id": "86771b85b0ee7b60",
-    "title": "A multidomain early warning model for 12-month adverse outcomes in older adults with multimorbidity: a risk-stratified public health approach.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42780304",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42780304",
+    "id": "208ff4d7e1177a82",
+    "title": "ASSOCIATION OF TUMOR DEPOSITS WITH TUMOR PATHOLOGY AND SURVIVAL IN GASTRIC CANCER: A CROSS-SECTIONAL STUDY.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42788523",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42788523",
     "source": "pubmed",
-    "publicationName": "Frontiers in public health",
-    "journalName": "Frontiers in public health",
+    "publicationName": "Arquivos de gastroenterologia",
+    "journalName": "Arquivos de gastroenterologia",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-24T17:35:24.585Z",
-    "snippet": "To develop and internally validate a multidomain early warning model for 12-month adverse outcomes in older adults with multimorbidity, and to explore its potential for risk-stratified follow-up. This retrospective study included 690 older adults (&#x2265;60&#x202f;years) with multimorbidity from a Chinese tertiary hospital, split into derivation (&#x202f;=...",
+    "fetchedAt": "2026-09-25T17:35:19.195Z",
+    "snippet": "Tumor deposits (TDs) are recognized as adverse prognostic factors in colorectal cancer and are incorporated as N1c in the TNM staging system. Their significance in gastric cancer (GC), however, remains less clear. This study aimed to investigate the association of TDs with pathological features and survival outcomes in GC. We conducted a cross-sectional stu...",
     "tags": [
       "research",
       "pubmed",
@@ -276,109 +381,6 @@
     ],
     "isNewToday": false,
     "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "10b38df76d07d08d",
-    "title": "Systemic-local immune remodeling in colorectal cancer: CD14+ cell-derived cytokine responsiveness, mucosal immune-cell organization, and exploratory metastasis-associated patterns.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42780184",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42780184",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-24T17:35:24.585Z",
-    "snippet": "Immune regulatory networks contribute to colorectal cancer (CRC) progression, but most clinical studies focus on tissue immune-cell abundance or static inflammatory mediators. We investigated cytokine-response patterns in cultures derived from peripheral-blood CD14+ cells and local immune-cell composition in tumor-adjacent and resection-margin mucosa. This....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "computational biology",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "d90445d0b8f4c2aa",
-    "title": "Allostatic load in female cancer patients: a systematic review.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42780075",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42780075",
-    "source": "pubmed",
-    "publicationName": "Frontiers in endocrinology",
-    "journalName": "Frontiers in endocrinology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-24T17:35:24.585Z",
-    "snippet": "The physiological burden of chronic stress, quantified as allostatic load (AL), is implicated in cancer development and outcomes. However, a synthesis of evidence regarding its role in female-specific cancers is lacking. This systematic review aimed to synthesize existing evidence on the application of AL in female cancer patients, covering both its predict...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "5f2d4aa1f25c1ac3",
-    "title": "Combined C-reactive protein, procalcitonin, and microalbuminuria panel for contrast-induced nephropathy risk stratification after percutaneous coronary intervention.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42780069",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42780069",
-    "source": "pubmed",
-    "publicationName": "Frontiers in cardiovascular medicine",
-    "journalName": "Frontiers in cardiovascular medicine",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-24T17:35:24.585Z",
-    "snippet": "Cancer patients with cardiovascular comorbidities requiring contrast-based cardiac procedures face substantially amplified risk for contrast-induced nephropathy (CIN), driven by anticancer therapy-related systemic inflammation, nephrotoxicity, and endothelial dysfunction. Validated biomarker-based risk stratification tools that capture these distinct pathop...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
     "importanceSignals": [
       "priority topic: translational medicine, oncology",
       "high-signal source",

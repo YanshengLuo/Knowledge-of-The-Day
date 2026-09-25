@@ -1,114 +1,36 @@
 [
   {
-    "id": "517e539ea292c08f",
-    "title": "Cancer-associated fibroblast-derived POSTN as a metabolic \"switch\" shapes lipid-stressed macrophage polarization in gastric cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42731290",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42731290",
+    "id": "618fcf4d5c3e14c1",
+    "title": "The Role of cGAS-STING-Driven PANoptosis in Neurodegenerative Diseases and Therapeutic Prospects.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42782733",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42782733",
     "source": "pubmed",
-    "publicationName": "Redox biology",
-    "journalName": "Redox biology",
+    "publicationName": "Cells",
+    "journalName": "Cells",
     "publishedAt": "2026-09-09T00:00:00.000Z",
-    "fetchedAt": "2026-09-14T18:13:18.361Z",
-    "snippet": "Cancer-associated fibroblasts (CAFs) foster an immunosuppressive tumor microenvironment (TME) and confer resistance to immune checkpoint blockade (ICB) in gastric cancer (GC). However, the mechanisms by which specific CAF subsets regulate metabolic crosstalk and immune evasion remain poorly defined. We integrated bulk and single-cell RNA-sequencing data, sp...",
+    "fetchedAt": "2026-09-25T17:35:19.195Z",
+    "snippet": "Neurodegenerative diseases share features of neuronal loss, neuroinflammation, and protein aggregation. The cGAS-STING pathway, a key DNA sensor, mediates neuroinflammation via TBK1-IRF3 and IKK-NF-&#x3ba;B axes, inducing type I interferons and pro-inflammatory cytokines. This pathway upregulates ZBP1, promotes PANoptosome assembly, and triggers PANoptosis,...",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
     ],
     "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "spatial",
-      "computational biology"
+      "gene therapy",
+      "immunology"
     ],
     "isNewToday": false,
+    "importanceScore": 55,
     "importanceSignals": [
-      "recent",
-      "priority topic: oncology, ai",
+      "published this month",
+      "priority topic: gene therapy",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 82,
-    "isFeatured": true
-  },
-  {
-    "id": "145f80c9d55c2c99",
-    "title": "Polyethylene terephthalate micro-/nanoplastics suppress SAT1-dependent ferroptosis in triple-negative breast cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42731238",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42731238",
-    "source": "pubmed",
-    "publicationName": "Environment international",
-    "journalName": "Environment international",
-    "publishedAt": "2026-09-09T00:00:00.000Z",
-    "fetchedAt": "2026-09-14T18:13:18.361Z",
-    "snippet": "The potential association between micro-/nanoplastics and cancer has raised increasing concerns. However, research focusing specifically on breast cancer (BC), and particularly on triple-negative breast cancer (TNBC), remains limited, leading to a critical gap in current knowledge. This study seeks to explore potential correlative effects of micro-/nanoplas...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "ai",
-      "funding"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "ebece269aeb7d8a8",
-    "title": "DNA/RNA Hybrid Hairpin Gold Nanobeacons Targeting miR-31 Reprogram Invasion in Lung Cancer and Remodel Tumor Histo-Architecture.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42729941",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42729941",
-    "source": "pubmed",
-    "publicationName": "ACS materials Au",
-    "journalName": "ACS materials Au",
-    "publishedAt": "2026-09-09T00:00:00.000Z",
-    "fetchedAt": "2026-09-14T18:13:18.361Z",
-    "snippet": "Readout-enabled delivery of anti-microRNA (miRNA) therapeutics remains a bottleneck for translating RNA nanomedicine against invasion and metastasis. We report &#x223c;60 nm PEG-gold nanobeacons bearing a Cy3-labeled anti-miR-31-5p hairpin and establish a chemistry-to-phenotype pipeline spanning physicochemical control, cellular trafficking, functional phen...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "ai",
-      "biotech"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
+    "isFeatured": false
   }
 ]

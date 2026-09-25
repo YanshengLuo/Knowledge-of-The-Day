@@ -1,5 +1,39 @@
 [
   {
+    "id": "aec94c65713559a3",
+    "title": "Genomic Characterization of RTK-RAS Pathway Alterations in Juvenile Myelomonocytic Leukemia Through Whole-Exome Sequencing.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42783456",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42783456",
+    "source": "pubmed",
+    "publicationName": "Medical sciences (Basel, Switzerland)",
+    "journalName": "Medical sciences (Basel, Switzerland)",
+    "publishedAt": "2026-09-18T00:00:00.000Z",
+    "fetchedAt": "2026-09-25T17:35:19.195Z",
+    "snippet": "Juvenile myelomonocytic leukemia (JMML) is a rare and very aggressive pediatric myelodysplastic/myeloproliferative neoplasm with molecular heterogeneity and constitutive activation of the RAS signaling pathway. The aim of this study was to identify the mutational landscape, driver genes, mutational signatures, functional pathways, and therapeutic targets of...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
     "id": "e60390b8bdfca310",
     "title": "Spatially resolved multimodal hallmarks of response to neoadjuvant immunotherapies in the melanoma ecosystem in 2D and 3D.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42779625",
@@ -8,7 +42,7 @@
     "publicationName": "bioRxiv : the preprint server for biology",
     "journalName": "bioRxiv : the preprint server for biology",
     "publishedAt": "2026-09-18T00:00:00.000Z",
-    "fetchedAt": "2026-09-24T17:35:24.585Z",
+    "fetchedAt": "2026-09-25T17:35:19.195Z",
     "snippet": "Neoadjuvant immunotherapy has transformed cancer treatment, yet the spatial molecular architecture governing response and resistance across distinct immune checkpoint blockade (ICB) regimens remains poorly defined. We assembled the largest neoadjuvant ICB (NICB) spatial multi-omics cohort to date, profiling over 112 million cells at single-cell resolution a...",
     "tags": [
       "research",
@@ -16,94 +50,20 @@
       "Single-cell TME",
       "single-cell",
       "tumor microenvironment",
-      "spatial",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
+      "spatial"
     ],
     "topicBuckets": [
       "single-cell",
       "oncology",
       "immunology",
       "ai",
-      "computational biology",
-      "spatial"
+      "computational biology"
     ],
     "isNewToday": false,
+    "importanceScore": 75,
     "importanceSignals": [
-      "recent",
+      "published this month",
       "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "importanceScore": 82,
-    "isFeatured": true
-  },
-  {
-    "id": "4a41ffc37d62260a",
-    "title": "Spatiotemporal control of STING activation and saRNA delivery decouples humoral and cellular immunity.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42779658",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42779658",
-    "source": "pubmed",
-    "publicationName": "bioRxiv : the preprint server for biology",
-    "journalName": "bioRxiv : the preprint server for biology",
-    "publishedAt": "2026-09-18T00:00:00.000Z",
-    "fetchedAt": "2026-09-24T17:35:24.585Z",
-    "snippet": "Self-amplifying mRNA (saRNA) vaccine formulations link the location and timing of antigen expression to innate immune stimulation by both RNA cargo and carrier. We hypothesized that targeting a polymeric STING agonist prodrug (polySTING) to antigen-presenting cells (APCs) independently of saRNA delivery could tune vaccines responses without limiting saRNA e...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 62,
-    "importanceSignals": [
-      "recent",
-      "priority topic: gene therapy",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "08b639e1c2fd408d",
-    "title": "spaGFM is a scalable graph foundation model for spatial transcriptomics analyses.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42779937",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42779937",
-    "source": "pubmed",
-    "publicationName": "Research square",
-    "journalName": "Research square",
-    "publishedAt": "2026-09-18T00:00:00.000Z",
-    "fetchedAt": "2026-09-24T17:35:24.585Z",
-    "snippet": "Foundation models offer a promising paradigm for modeling spatial transcriptomics, but capturing tissue context over cellular graphs makes training at scale challenging. We introduce spaGFM, a graph foundation model that serializes cellular neighborhoods through random walks to generate transformer-compatible representations of tissue organization. By repla...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "spatial"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
