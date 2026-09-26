@@ -1,37 +1,77 @@
 [
   {
-    "id": "88284e5c9b0007bb",
-    "title": "Spatiotemporal decoding of the pre-metastatic niche: Multi-omics innovations and clinical horizons.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42702190",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42702190",
+    "id": "47748c337982fee3",
+    "title": "Prognostic Significance ofin Non-Small Cell Lung Cancer: A Favorable Association in Lung Adenocarcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42796245",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42796245",
     "source": "pubmed",
-    "publicationName": "Seminars in oncology",
-    "journalName": "Seminars in oncology",
+    "publicationName": "Medicina (Kaunas, Lithuania)",
+    "journalName": "Medicina (Kaunas, Lithuania)",
     "publishedAt": "2026-08-27T00:00:00.000Z",
-    "fetchedAt": "2026-09-07T17:57:27.453Z",
-    "snippet": "Cancer metastasis, the leading cause of cancer mortality, is fundamentally dependent on the formation of a pre-metastatic niche (PMN), a distant microenvironment proactively reprogrammed by the primary tumor to support malignant seeding. The early microscopic and spatially heterogeneous events driving PMN formation have historically evaded detection by stan...",
+    "fetchedAt": "2026-09-26T16:47:16.744Z",
+    "snippet": "Non-small cell lung cancer (NSCLC) comprises biologically distinct histologic subtypes, including lung adenocarcinoma (LUAD) and lung squamous cell carcinoma (LUSC). We evaluated whether the prognostic association of cyclin-dependent kinase-like 2 () differs by histology.: TCGAexpression was linked to harmonized clinical data. The primary analysis used a po...",
     "tags": [
       "research",
       "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: oncology, translational medicine",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "98de42d444b25259",
+    "title": "Integrating Multi-Omics and Machine Learning to Reveal a Prognostic Model for Prostate Cancer Metastatic Recurrence Associated with Epithelial-Mesenchymal Transition Features.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42792911",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42792911",
+    "source": "pubmed",
+    "publicationName": "Genes",
+    "journalName": "Genes",
+    "publishedAt": "2026-08-27T00:00:00.000Z",
+    "fetchedAt": "2026-09-26T16:47:16.744Z",
+    "snippet": ": Prostate cancer (PCa) is a leading cause of cancer-related mortality worldwide, highlighting the need for improved prognostic tools. The integration of artificial intelligence (AI) and machine learning (ML) with multi-omics data offers new opportunities for biomarker discovery and risk stratification.: We integrated bulk transcriptomic data from GSE116918...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "machine learning",
       "Spatial oncology",
       "spatial transcriptomics",
       "cancer"
     ],
     "topicBuckets": [
-      "spatial",
+      "single-cell",
       "oncology",
+      "immunology",
+      "ai",
       "computational biology",
-      "translational medicine"
+      "translational medicine",
+      "spatial"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
     "importanceSignals": [
-      "published this month",
-      "priority topic: oncology, computational biology",
+      "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
+    "importanceScore": 68,
     "isFeatured": true
   }
 ]

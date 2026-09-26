@@ -1,31 +1,66 @@
 [
   {
-    "id": "489877daaf47f807",
-    "title": "Spatial and single-cell dissection of medulloblastoma identifies developmental hierarchies and a prognostic PPIA-BSG tumor-immune axis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42773474",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42773474",
+    "id": "2f9fd3b3414d6af1",
+    "title": "FABP4/5-Mediated Lipid Reprogramming Is Associated with Immunosuppressive T Cell Crosstalk in Cervical Cancer After Chemoradiotherapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42792812",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42792812",
     "source": "pubmed",
-    "publicationName": "Journal of translational medicine",
-    "journalName": "Journal of translational medicine",
+    "publicationName": "Biomedicines",
+    "journalName": "Biomedicines",
     "publishedAt": "2026-09-15T00:00:00.000Z",
-    "fetchedAt": "2026-09-24T17:35:24.585Z",
-    "snippet": "Medulloblastoma (MB) in children is highly heterogeneous, leading to its classification into molecular subgroups and resulting in significant differences in clinical outcomes even within the same risk group. This heterogeneity severely hampers the clinical management of MB. Therefore, it is essential to characterize MB heterogeneity within its tumor microen...",
+    "fetchedAt": "2026-09-26T16:47:16.744Z",
+    "snippet": "Concurrent chemoradiotherapy (CCRT) is the standard treatment for locally advanced cervical cancer, but resistance and recurrence remain major clinical challenges. Tumor immune-metabolic reprogramming profoundly affects treatment response and immune evasion; however, the molecular mechanisms of lipid metabolism remodeling and its interaction with T cells af...",
     "tags": [
       "research",
       "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
+      "Single-cell TME",
       "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai",
+      "computational biology",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "32b7b12c6d2ae9aa",
+    "title": "Integrative Single-Cell, Spatial, and Bulk Transcriptomics Characterizes an Outcome-Associated, Spatially Organized Mesenchymal Program in-Mutant Glioma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42792569",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42792569",
+    "source": "pubmed",
+    "publicationName": "Biology",
+    "journalName": "Biology",
+    "publishedAt": "2026-09-15T00:00:00.000Z",
+    "fetchedAt": "2026-09-26T16:47:16.744Z",
+    "snippet": "-mutant gliomas show variable clinical behavior that may reflect transcriptional programs organized within tumor tissue. We evaluated two curated expression scores: a differentiation-loss/Stem-NPC score (Axis1) and a mesenchymal-hypoxia score (Axis2). Public single-cell RNA-sequencing data were used to characterize malignant-cell states, and the scores were...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
       "spatial"
     ],
     "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
       "single-cell",
-      "translational medicine",
-      "immunology"
+      "oncology",
+      "immunology",
+      "computational biology",
+      "translational medicine"
     ],
     "isNewToday": false,
     "importanceScore": 75,

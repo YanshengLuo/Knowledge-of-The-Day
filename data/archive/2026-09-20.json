@@ -1,49 +1,15 @@
 [
   {
-    "id": "58802c2d739444b3",
-    "title": "An ATXN2-linked stress granule transcript program marks proliferative and CD8-low states in colorectal cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42777445",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42777445",
+    "id": "03821de282318ba3",
+    "title": "Small Nucleic Acid Therapeutics for Ocular Diseases: Progress, Challenges, and Future Perspectives.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42797364",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42797364",
     "source": "pubmed",
-    "publicationName": "Computational biology and chemistry",
-    "journalName": "Computational biology and chemistry",
+    "publicationName": "Pharmaceutics",
+    "journalName": "Pharmaceutics",
     "publishedAt": "2026-09-20T00:00:00.000Z",
-    "fetchedAt": "2026-09-24T17:35:24.585Z",
-    "snippet": "Immune checkpoint blockade benefits only a minority of colorectal cancer patients, and many tumors show immune-cold phenotypes at the transcript level, especially in microsatellite-stable (MSS) disease. Stress granules are conserved ribonucleoprotein assemblies that form under metabolic and proteotoxic stress and include the RNA-binding protein ataxin-2 (AT...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 62,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "5e7f9ac76f0b1b2c",
-    "title": "Modeling lung adenocarcinoma using layer-by-layer nanoparticles mitigates innate immune cell activation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42779946",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42779946",
-    "source": "pubmed",
-    "publicationName": "bioRxiv : the preprint server for biology",
-    "journalName": "bioRxiv : the preprint server for biology",
-    "publishedAt": "2026-09-20T00:00:00.000Z",
-    "fetchedAt": "2026-09-24T17:35:24.585Z",
-    "snippet": "Lung adenocarcinoma, driven frequently by KRAS and p53 mutations, remains a leading cause of cancer mortality. Current state-of-the-art genetically engineered mouse models often rely on viral delivery of recombinases, such as Cre recombinase, to initiate transformation. However, viral particles can infect and activate innate immune cells, thus potentially i...",
+    "fetchedAt": "2026-09-26T16:47:16.744Z",
+    "snippet": "Ocular diseases remain a major global health challenge with substantial unmet therapeutic needs. Small nucleic acid therapeutics offer a precise strategy to regulate disease-related mRNAs or noncoding RNAs through base pairing, thereby modulating protein expression at the RNA level. Major modalities include antisense oligonucleotides, small interfering RNAs...",
     "tags": [
       "research",
       "pubmed",
@@ -56,14 +22,85 @@
       "gene therapy",
       "immunology",
       "ai",
+      "biotech"
+    ],
+    "isNewToday": false,
+    "importanceScore": 72,
+    "importanceSignals": [
+      "recent",
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "ba0fb3b39548e13d",
+    "title": "Next-Generation Biomarkers and Artificial Intelligence in Colorectal Cancer: From Multi-Omic Data Integration to Clinical Application.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42795017",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42795017",
+    "source": "pubmed",
+    "publicationName": "Cancers",
+    "journalName": "Cancers",
+    "publishedAt": "2026-09-20T00:00:00.000Z",
+    "fetchedAt": "2026-09-26T16:47:16.744Z",
+    "snippet": "Colorectal cancer (CRC) remains a leading cause of cancer-related mortality worldwide, although advances in molecular profiling and artificial intelligence (AI) are now reshaping precision oncology in ways that promise better patient outcomes. This review synthesises contemporary evidence on next-generation biomarkers and AI applications in CRC across multi...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "biomarker"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
       "computational biology",
-      "oncology"
+      "ai",
+      "translational medicine"
     ],
     "isNewToday": false,
     "importanceScore": 82,
     "importanceSignals": [
       "recent",
-      "priority topic: gene therapy, ai",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "e53eef8b97b72db1",
+    "title": "Probe-Based Confocal Laser Endomicroscopy During Immune Checkpoint Inhibitor Therapy: A Translational Framework Linking Intestinal Barrier Function, Microbiota, and Clinical Outcomes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42797069",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42797069",
+    "source": "pubmed",
+    "publicationName": "Nutrients",
+    "journalName": "Nutrients",
+    "publishedAt": "2026-09-20T00:00:00.000Z",
+    "fetchedAt": "2026-09-26T16:47:16.744Z",
+    "snippet": "Immune checkpoint inhibitors (ICIs) have transformed the treatment of several malignancies, but their efficacy and gastrointestinal (GI) immune-related adverse events (irAEs) vary considerably among patients. Growing evidence suggests that the gut microbiota and intestinal barrier integrity are associated with both therapeutic response and toxicity, althoug...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 72,
+    "importanceSignals": [
+      "recent",
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
