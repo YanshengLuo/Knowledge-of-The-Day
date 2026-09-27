@@ -1,5 +1,114 @@
 [
   {
+    "id": "835d268efb961f29",
+    "title": "DeOPUS: cellular deconvolution via optimized power-transformed unmixing with shrinkage.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42799697",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42799697",
+    "source": "pubmed",
+    "publicationName": "Briefings in bioinformatics",
+    "journalName": "Briefings in bioinformatics",
+    "publishedAt": "2026-09-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-27T17:19:27.034Z",
+    "snippet": "Single-cell RNA sequencing provides high-resolution insights into cellular heterogeneity but its widespread application is often constrained by high costs and technical complexity. Cellular deconvolution serves as a cost-effective alternative by computationally estimating cell-type proportions from bulk RNA-seq data. However, the extreme dynamic range and i...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "single-cell",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 75,
+    "isFeatured": true
+  },
+  {
+    "id": "c0710ee9260d7c91",
+    "title": "Integrative multi-omics profiling and machine learning reveal enhancer RNA signatures for early detection and prognostic stratification in breast cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42798840",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42798840",
+    "source": "pubmed",
+    "publicationName": "NAR cancer",
+    "journalName": "NAR cancer",
+    "publishedAt": "2026-09-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-27T17:19:27.034Z",
+    "snippet": "Current breast cancer biomarkers rely predominantly on protein-coding transcriptomes, leaving the regulatory information encoded by enhancer RNAs (eRNAs) largely unexploited. Here, we profiled eRNA expression across 1073 The Cancer Genome Atlas Breast Cancer (TCGA-BRCA) samples integrated with The Cancer eRNA Atlas annotations, using GTEx healthy breast tis...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "machine learning"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "eb2f97c8c41ecdb8",
+    "title": "Constructing cell-type-specific gene regulatory networks from cell-cell communication and a global gene regulatory network.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42799699",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42799699",
+    "source": "pubmed",
+    "publicationName": "Briefings in bioinformatics",
+    "journalName": "Briefings in bioinformatics",
+    "publishedAt": "2026-09-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-27T17:19:27.034Z",
+    "snippet": "Accurately inferring cell-type-specific gene regulatory networks (GRNs) is crucial for understanding cellular heterogeneity, lineage determination, and disease progression mechanisms. Although single-cell RNA sequencing (scRNA-seq) enables high-resolution expression profiling, its inherent sparsity and high noise levels pose challenges to reliable GRN recon...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 55,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
     "id": "7f42bde3979198e8",
     "title": "Primary Bronchial Hybrid Low-Grade Fibromyxoid Sarcoma/Sclerosing Epithelioid Fibrosarcoma With EWSR1::CREB3L1 Fusion: Diagnostic Insights From a Challenging Case in the Respiratory Tract.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42788956",
@@ -8,7 +117,7 @@
     "publicationName": "Pathology international",
     "journalName": "Pathology international",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-26T16:47:16.744Z",
+    "fetchedAt": "2026-09-27T17:19:27.034Z",
     "snippet": "Hybrid low-grade fibromyxoid sarcoma/sclerosing epithelioid fibrosarcoma (LGFMS/SEF) is an ultra-rare fibroblastic sarcoma that typically arises in the soft tissues. Primary involvement of the respiratory tract is extremely uncommon, and, to our knowledge, no cases arising in the bronchial wall have previously been reported. We describe a hybrid LGFMS/SEF a...",
     "tags": [
       "research",
@@ -27,6 +136,41 @@
     "importanceSignals": [
       "published this month",
       "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "a7efe7a6ae8aa018",
+    "title": "Patients with high-risk features on active surveillance for prostate cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42801144",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42801144",
+    "source": "pubmed",
+    "publicationName": "Prostate international",
+    "journalName": "Prostate international",
+    "publishedAt": "2026-09-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-27T17:19:27.034Z",
+    "snippet": "With the increasing incidence of prostate cancer worldwide, active surveillance (AS) remains a cornerstone in the management of men with low-risk disease. While the criteria for AS in low-risk prostate cancer are well established, its appropriateness for men with higher-risk features is less clearly defined. This review aims to evaluate the evidence support...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
