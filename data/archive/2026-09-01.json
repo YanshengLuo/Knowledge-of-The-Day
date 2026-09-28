@@ -1,5 +1,74 @@
 [
   {
+    "id": "8d617331cc4559e1",
+    "title": "Comprehensive evaluation of structural variation detection for germline and somatic analysis with long-read sequencing data.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42803633",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42803633",
+    "source": "pubmed",
+    "publicationName": "Briefings in bioinformatics",
+    "journalName": "Briefings in bioinformatics",
+    "publishedAt": "2026-09-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-28T19:51:40.534Z",
+    "snippet": "Detecting structural variations (SVs) via long-read sequencing remains difficult due to algorithmic variations and genomic complexity, alongside a shortage of comprehensive benchmarks for somatic variants. We present a unified benchmarking framework covering both germline and somatic SV detection, which evaluates 14 long-read callers across 20 core datasets...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "e6a9b1274056dc25",
+    "title": "Untargeted serum metabolomic profiling reveals altered choline-phospholipid and amino acid metabolism in patients receiving subcostal transversus abdominis plane block combined with general anesthesia for radical gastrectomy: A prospective comparative study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42802220",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42802220",
+    "source": "pubmed",
+    "publicationName": "The Journal of international medical research",
+    "journalName": "The Journal of international medical research",
+    "publishedAt": "2026-09-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-28T19:51:40.534Z",
+    "snippet": "ObjectiveThis study aimed to investigate, using clinical serum metabolomics, the effects of general anesthesia combined with transversus abdominis plane block (TAPB) on systemic metabolism in patients undergoing radical gastrectomy compared with general anesthesia alone.MethodsFifty-six patients undergoing laparoscopic-assisted radical gastrectomy for gastr...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
     "id": "835d268efb961f29",
     "title": "DeOPUS: cellular deconvolution via optimized power-transformed unmixing with shrinkage.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42799697",
@@ -8,7 +77,7 @@
     "publicationName": "Briefings in bioinformatics",
     "journalName": "Briefings in bioinformatics",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-27T17:19:27.034Z",
+    "fetchedAt": "2026-09-28T19:51:40.534Z",
     "snippet": "Single-cell RNA sequencing provides high-resolution insights into cellular heterogeneity but its widespread application is often constrained by high costs and technical complexity. Cellular deconvolution serves as a cost-effective alternative by computationally estimating cell-type proportions from bulk RNA-seq data. However, the extreme dynamic range and i...",
     "tags": [
       "research",
@@ -39,42 +108,6 @@
     "isFeatured": true
   },
   {
-    "id": "c0710ee9260d7c91",
-    "title": "Integrative multi-omics profiling and machine learning reveal enhancer RNA signatures for early detection and prognostic stratification in breast cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42798840",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42798840",
-    "source": "pubmed",
-    "publicationName": "NAR cancer",
-    "journalName": "NAR cancer",
-    "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-27T17:19:27.034Z",
-    "snippet": "Current breast cancer biomarkers rely predominantly on protein-coding transcriptomes, leaving the regulatory information encoded by enhancer RNAs (eRNAs) largely unexploited. Here, we profiled eRNA expression across 1073 The Cancer Genome Atlas Breast Cancer (TCGA-BRCA) samples integrated with The Cancer eRNA Atlas annotations, using GTEx healthy breast tis...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology",
-      "machine learning"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
     "id": "eb2f97c8c41ecdb8",
     "title": "Constructing cell-type-specific gene regulatory networks from cell-cell communication and a global gene regulatory network.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42799699",
@@ -83,7 +116,7 @@
     "publicationName": "Briefings in bioinformatics",
     "journalName": "Briefings in bioinformatics",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-27T17:19:27.034Z",
+    "fetchedAt": "2026-09-28T19:51:40.534Z",
     "snippet": "Accurately inferring cell-type-specific gene regulatory networks (GRNs) is crucial for understanding cellular heterogeneity, lineage determination, and disease progression mechanisms. Although single-cell RNA sequencing (scRNA-seq) enables high-resolution expression profiling, its inherent sparsity and high noise levels pose challenges to reliable GRN recon...",
     "tags": [
       "research",
@@ -106,19 +139,19 @@
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
+    "isFeatured": false
   },
   {
-    "id": "7f42bde3979198e8",
-    "title": "Primary Bronchial Hybrid Low-Grade Fibromyxoid Sarcoma/Sclerosing Epithelioid Fibrosarcoma With EWSR1::CREB3L1 Fusion: Diagnostic Insights From a Challenging Case in the Respiratory Tract.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42788956",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42788956",
+    "id": "3ac0b3b8320b722a",
+    "title": "A Spinal Cord Sarcoma With EWSR1::WT1 Fusion Exhibited Ewing Sarcoma-Like Pattern Rather Than Desmoplastic Small Round Cell Tumor.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42801529",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42801529",
     "source": "pubmed",
     "publicationName": "Pathology international",
     "journalName": "Pathology international",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-27T17:19:27.034Z",
-    "snippet": "Hybrid low-grade fibromyxoid sarcoma/sclerosing epithelioid fibrosarcoma (LGFMS/SEF) is an ultra-rare fibroblastic sarcoma that typically arises in the soft tissues. Primary involvement of the respiratory tract is extremely uncommon, and, to our knowledge, no cases arising in the bronchial wall have previously been reported. We describe a hybrid LGFMS/SEF a...",
+    "fetchedAt": "2026-09-28T19:51:40.534Z",
+    "snippet": "We received a case of a 22 years old female, with a spinal cord sarcoma. The tumor exhibited a morphology similar to that of a small blue round cell tumor, lack of desmoplastic stroma. Immunohistochemical analysis demonstrated diffusely membranal expression of CD99 and cytoplasmic expression of Desmin, but was negative of NKX2.2. Fluorescence in situ hybrid...",
     "tags": [
       "research",
       "pubmed",
@@ -136,41 +169,6 @@
     "importanceSignals": [
       "published this month",
       "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "a7efe7a6ae8aa018",
-    "title": "Patients with high-risk features on active surveillance for prostate cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42801144",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42801144",
-    "source": "pubmed",
-    "publicationName": "Prostate international",
-    "journalName": "Prostate international",
-    "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-27T17:19:27.034Z",
-    "snippet": "With the increasing incidence of prostate cancer worldwide, active surveillance (AS) remains a cornerstone in the management of men with low-risk disease. While the criteria for AS in low-risk prostate cancer are well established, its appropriateness for men with higher-risk features is less clearly defined. This review aims to evaluate the evidence support...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
