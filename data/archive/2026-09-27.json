@@ -1,77 +1,5 @@
 [
   {
-    "id": "12f678297b6d4e0b",
-    "title": "Integrated Multi-Omics Reveals Cellular States and Microenvironmental Remodeling in Coexisting DCIS and IDC.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42801661",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42801661",
-    "source": "pubmed",
-    "publicationName": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-    "journalName": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-    "publishedAt": "2026-09-27T00:00:00.000Z",
-    "fetchedAt": "2026-09-28T19:51:40.534Z",
-    "snippet": "Ductal carcinoma in situ (DCIS) is a non-invasive precursor of invasive ductal carcinoma (IDC), yet the biological mechanisms underlying the transition from DCIS to IDC remain incompletely understood. Here, we integrate spatial transcriptomics, single-cell RNA sequencing, and single-cell DNA sequencing on coexisting DCIS and IDC samples to characterize cell...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai",
-      "single-cell",
-      "spatial"
-    ],
-    "isNewToday": false,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "importanceScore": 92,
-    "isFeatured": true
-  },
-  {
-    "id": "e240a44cc9dcb7c9",
-    "title": "Lipidome as a ferroptotic rheostat in cholangiocarcinoma: A proposed model and its current evidence base.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42801336",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42801336",
-    "source": "pubmed",
-    "publicationName": "Molecular biology reports",
-    "journalName": "Molecular biology reports",
-    "publishedAt": "2026-09-27T00:00:00.000Z",
-    "fetchedAt": "2026-09-28T19:51:40.534Z",
-    "snippet": "Cholangiocarcinoma (CCA) is a biliary epithelial malignancy of relentless lethality, whose therapeutic intractability is inseparable from its radical metabolic reprogramming. Ferroptosis, an iron-catalysed, lipid-hydroperoxide-mediated form of regulated cell death, has emerged as a compelling therapeutic vulnerability in CCA. However, exploiting this vulner...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
     "id": "aa1e6c6507656a21",
     "title": "Machine learning-driven M2 macrophage signature for precision prediction of survival and therapy response in acute myeloid leukemia.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42802232",
@@ -80,7 +8,7 @@
     "publicationName": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
     "journalName": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
     "publishedAt": "2026-09-27T00:00:00.000Z",
-    "fetchedAt": "2026-09-28T19:51:40.534Z",
+    "fetchedAt": "2026-09-29T18:20:13.918Z",
     "snippet": "M2-type tumor-associated macrophages (TAMs) play critical roles in the immunosuppressive microenvironment and treatment resistance of acute myeloid leukemia (AML). However, their single-cell characteristics and predictive value for prognosis and therapy response remain unclear. Single-cell transcriptomic data from AML patients and healthy donors were integr...",
     "tags": [
       "research",
@@ -88,208 +16,55 @@
       "Single-cell TME",
       "single-cell",
       "tumor microenvironment",
-      "machine learning",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
+      "machine learning"
     ],
     "topicBuckets": [
       "single-cell",
       "oncology",
-      "immunology",
-      "ai",
-      "gene therapy",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "importanceScore": 92,
-    "isFeatured": true
-  },
-  {
-    "id": "9995b4eb4976b022",
-    "title": "A Progression-Associated Tumor-Reactive T-Cell Signature Predicts Immunotherapy Response and Reveals ICOS-High CD8 T-Cell Functional States in Head and Neck Squamous Cell Carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42801723",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42801723",
-    "source": "pubmed",
-    "publicationName": "Molecular carcinogenesis",
-    "journalName": "Molecular carcinogenesis",
-    "publishedAt": "2026-09-27T00:00:00.000Z",
-    "fetchedAt": "2026-09-28T19:51:40.534Z",
-    "snippet": "Immune checkpoint blockade has improved outcomes for patients with head and neck squamous cell carcinoma (HNSCC), but reliable biomarkers for predicting therapeutic response remain limited. Tumor-reactive T-cell states are increasingly recognized as critical determinants of antitumor immunity; however, progression-associated T-cell programs that reflect tum...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "immunotherapy"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 92,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "bb0071cd1caa13b8",
-    "title": "A Tumor-Boundary Niche Enriched for PD-1CD8T Cells and BTLAB Cells Drives Resistance to Immunotherapy in NSCLC.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42801684",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42801684",
-    "source": "pubmed",
-    "publicationName": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-    "journalName": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-    "publishedAt": "2026-09-27T00:00:00.000Z",
-    "fetchedAt": "2026-09-28T19:51:40.534Z",
-    "snippet": "CD8T cells are central mediators of antitumor immunity, and their functional heterogeneity profoundly influences immunotherapy efficacy. We characterized the spatial distribution of CD8T cell subsets stratified by PD-1 expression within the tumor microenvironment (TME) of non-small cell lung cancer (NSCLC). Our analyses revealed that PD-1CD8T cells were mor...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "immunotherapy"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 72,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "a1809d324db76c75",
-    "title": "PP4 deficiency drives airway epithelial senescence via the PERK-eIF2&#x3b1;-ATF4-p21 axis in severe asthma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42802286",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42802286",
-    "source": "pubmed",
-    "publicationName": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
-    "journalName": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
-    "publishedAt": "2026-09-27T00:00:00.000Z",
-    "fetchedAt": "2026-09-28T19:51:40.534Z",
-    "snippet": "Cellular senescence, defined by irreversible cell cycle arrest and the senescence-associated secretory phenotype (SASP), has emerged as a critical driver of airway inflammation and hyperresponsiveness in asthma. Despite well-established associations between senescence, aging, and chronic disease, its precise mechanistic role in asthma pathogenesis remains p...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
       "immunology",
       "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
+    "importanceScore": 72,
     "importanceSignals": [
-      "very recent",
-      "priority topic: gene therapy, ai",
+      "recent",
+      "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": false
+    "isFeatured": true
   },
   {
-    "id": "13cbe466ce48c0f1",
-    "title": "PLXDC2 siRNA-Mediated Intervention Attenuates Microglial Senescence Through cGAS-STING Signaling.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42801545",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42801545",
+    "id": "12f678297b6d4e0b",
+    "title": "Integrated Multi-Omics Reveals Cellular States and Microenvironmental Remodeling in Coexisting DCIS and IDC.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42801661",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42801661",
     "source": "pubmed",
     "publicationName": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
     "journalName": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
     "publishedAt": "2026-09-27T00:00:00.000Z",
-    "fetchedAt": "2026-09-28T19:51:40.534Z",
-    "snippet": "Parkinson's disease (PD) is driven by neurodegeneration, iron accumulation, and microglial senescence, yet effective therapy is hindered by the blood-brain barrier (BBB). By constructing the largest-to-date single-cell atlas of the human substantia nigra, we identified a marked upregulation of PLXDC2 in PD microglia. Leveraging this finding, we developed a....",
+    "fetchedAt": "2026-09-29T18:20:13.918Z",
+    "snippet": "Ductal carcinoma in situ (DCIS) is a non-invasive precursor of invasive ductal carcinoma (IDC), yet the biological mechanisms underlying the transition from DCIS to IDC remain incompletely understood. Here, we integrate spatial transcriptomics, single-cell RNA sequencing, and single-cell DNA sequencing on coexisting DCIS and IDC samples to characterize cell...",
     "tags": [
       "research",
       "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
     ],
     "topicBuckets": [
-      "gene therapy",
-      "immunology",
+      "spatial",
+      "oncology",
+      "computational biology",
       "ai",
       "single-cell"
     ],
     "isNewToday": false,
     "importanceScore": 82,
     "importanceSignals": [
-      "very recent",
-      "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "6582bda3e6b944cc",
-    "title": "ADAM19: biological characteristics and implications in disease pathology and clinical applications.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42802271",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42802271",
-    "source": "pubmed",
-    "publicationName": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
-    "journalName": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
-    "publishedAt": "2026-09-27T00:00:00.000Z",
-    "fetchedAt": "2026-09-28T19:51:40.534Z",
-    "snippet": "This article critically examines ADAM19-mediated inflammatory remodeling within five distinct subtypes of solid tumors prone to inflammation, employing non-neoplastic inflammatory states strictly as a comparative reference. As a transmembrane protease belonging to the ADAM family, ADAM19 undergoes maturation through plasmin-dependent cleavage, with its expr...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "computational biology",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 92,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: translational medicine, oncology",
+      "recent",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"

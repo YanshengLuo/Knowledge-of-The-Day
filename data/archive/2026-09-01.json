@@ -8,7 +8,7 @@
     "publicationName": "Briefings in bioinformatics",
     "journalName": "Briefings in bioinformatics",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-28T19:51:40.534Z",
+    "fetchedAt": "2026-09-29T18:20:13.918Z",
     "snippet": "Detecting structural variations (SVs) via long-read sequencing remains difficult due to algorithmic variations and genomic complexity, alongside a shortage of comprehensive benchmarks for somatic variants. We present a unified benchmarking framework covering both germline and somatic SV detection, which evaluates 14 long-read callers across 20 core datasets...",
     "tags": [
       "research",
@@ -42,7 +42,7 @@
     "publicationName": "The Journal of international medical research",
     "journalName": "The Journal of international medical research",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-28T19:51:40.534Z",
+    "fetchedAt": "2026-09-29T18:20:13.918Z",
     "snippet": "ObjectiveThis study aimed to investigate, using clinical serum metabolomics, the effects of general anesthesia combined with transversus abdominis plane block (TAPB) on systemic metabolism in patients undergoing radical gastrectomy compared with general anesthesia alone.MethodsFifty-six patients undergoing laparoscopic-assisted radical gastrectomy for gastr...",
     "tags": [
       "research",
@@ -69,79 +69,6 @@
     "isFeatured": true
   },
   {
-    "id": "835d268efb961f29",
-    "title": "DeOPUS: cellular deconvolution via optimized power-transformed unmixing with shrinkage.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42799697",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42799697",
-    "source": "pubmed",
-    "publicationName": "Briefings in bioinformatics",
-    "journalName": "Briefings in bioinformatics",
-    "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-28T19:51:40.534Z",
-    "snippet": "Single-cell RNA sequencing provides high-resolution insights into cellular heterogeneity but its widespread application is often constrained by high costs and technical complexity. Cellular deconvolution serves as a cost-effective alternative by computationally estimating cell-type proportions from bulk RNA-seq data. However, the extreme dynamic range and i...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai",
-      "single-cell",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "importanceScore": 75,
-    "isFeatured": true
-  },
-  {
-    "id": "eb2f97c8c41ecdb8",
-    "title": "Constructing cell-type-specific gene regulatory networks from cell-cell communication and a global gene regulatory network.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42799699",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42799699",
-    "source": "pubmed",
-    "publicationName": "Briefings in bioinformatics",
-    "journalName": "Briefings in bioinformatics",
-    "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-28T19:51:40.534Z",
-    "snippet": "Accurately inferring cell-type-specific gene regulatory networks (GRNs) is crucial for understanding cellular heterogeneity, lineage determination, and disease progression mechanisms. Although single-cell RNA sequencing (scRNA-seq) enables high-resolution expression profiling, its inherent sparsity and high noise levels pose challenges to reliable GRN recon...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 55,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
     "id": "3ac0b3b8320b722a",
     "title": "A Spinal Cord Sarcoma With EWSR1::WT1 Fusion Exhibited Ewing Sarcoma-Like Pattern Rather Than Desmoplastic Small Round Cell Tumor.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42801529",
@@ -150,7 +77,7 @@
     "publicationName": "Pathology international",
     "journalName": "Pathology international",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-28T19:51:40.534Z",
+    "fetchedAt": "2026-09-29T18:20:13.918Z",
     "snippet": "We received a case of a 22 years old female, with a spinal cord sarcoma. The tumor exhibited a morphology similar to that of a small blue round cell tumor, lack of desmoplastic stroma. Immunohistochemical analysis demonstrated diffusely membranal expression of CD99 and cytoplasmic expression of Desmin, but was negative of NKX2.2. Fluorescence in situ hybrid...",
     "tags": [
       "research",
@@ -174,5 +101,317 @@
       "rich metadata"
     ],
     "isFeatured": true
+  },
+  {
+    "id": "7c1e70e656734c21",
+    "title": "Circulating miR-181a-3p, ATR, and HMGB-1 as Integrated Predictors of Induction Blast Clearance in Adults with Acute Myeloid Leukemia.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42808417",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42808417",
+    "source": "pubmed",
+    "publicationName": "Asian Pacific journal of cancer prevention : APJCP",
+    "journalName": "Asian Pacific journal of cancer prevention : APJCP",
+    "publishedAt": "2026-09-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-29T18:20:13.918Z",
+    "snippet": "This study included 71 adult patients with newly diagnosed AML who received standard \"7+3\" induction chemotherapy. Baseline circulating miR-181a-3p and miR-181b-5p levels were quantified using quantitative real-time polymerase chain reaction, while ATM, ATR, and HMGB-1 protein levels were measured using enzyme-linked immunosorbent assay. Induction blast cle...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "768dcdefc6ce32d0",
+    "title": "Combined Circulating miR-17-5p and Heat Shock Proteins as Diagnostic Biomarkers for Colorectal Cancer Progression.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42808411",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42808411",
+    "source": "pubmed",
+    "publicationName": "Asian Pacific journal of cancer prevention : APJCP",
+    "journalName": "Asian Pacific journal of cancer prevention : APJCP",
+    "publishedAt": "2026-09-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-29T18:20:13.918Z",
+    "snippet": "Colorectal cancer (CRC) remains a significant global health challenge, and early diagnosis is essential for improving patient survival and treatment outcomes. Currently used serum biomarkers, including carcinoembryonic antigen (CEA) and carbohydrate antigen 19-9 (CA19-9), suffer from limited sensitivity and specificity, particularly in early-stage disease,....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "146a690c5c1c86a1",
+    "title": "Prostate Cancer Epidemiology In A Central Asian Region After Discontinuation Of Screening: Population-Based Data From Abay, Kazakhstan (2020-2024).",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42808408",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42808408",
+    "source": "pubmed",
+    "publicationName": "Asian Pacific journal of cancer prevention : APJCP",
+    "journalName": "Asian Pacific journal of cancer prevention : APJCP",
+    "publishedAt": "2026-09-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-29T18:20:13.918Z",
+    "snippet": "Prostate cancer is one of the most common malignancies among men worldwide, with marked regional variability in incidence, mortality, and stage at diagnosis. Data from Central Asia remain limited, particularly in regions without organized prostate-specific antigen (PSA) screening programs. This study aimed to assess the epidemiology of prostate cancer in th...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "0de10458a15c464a",
+    "title": "High Prevalence of Cannabinoid Receptor 1 Expression in Thai Patients with Cholangiocarcinoma and Its Prognostic Implications.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42808403",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42808403",
+    "source": "pubmed",
+    "publicationName": "Asian Pacific journal of cancer prevention : APJCP",
+    "journalName": "Asian Pacific journal of cancer prevention : APJCP",
+    "publishedAt": "2026-09-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-29T18:20:13.918Z",
+    "snippet": "Cholangiocarcinoma (CCA) is highly prevalent in Thailand and remains associated with poor outcomes. Emerging evidence suggests that dysregulation of the endocannabinoid system may be involved in CCA pathogenesis and prognosis. This study aimed to evaluate the prevalence of cannabinoid receptor 1 (CB1) expression and its association with clinicopathological....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "7126cf7ceef434de",
+    "title": "Expression of miR-214 in Pediatric Acute Leukemia: Correlations with Leukemia Subtypes, Familial Predisposition, and Hepatitis B Virus Infection.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42808400",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42808400",
+    "source": "pubmed",
+    "publicationName": "Asian Pacific journal of cancer prevention : APJCP",
+    "journalName": "Asian Pacific journal of cancer prevention : APJCP",
+    "publishedAt": "2026-09-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-29T18:20:13.918Z",
+    "snippet": "miR-214 dysregulation has been implicated in various cancers, yet its role in pediatric acute lymphoblastic leukemia (ALL) is not fully understood. This study evaluated miR-214 expression in newly diagnosed pediatric ALL patients and explored associations with leukemia subtypes, family history, and hepatitis B virus (HBV) infection. &#xa0;Bone marrow aspira...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "b21052e212627d1d",
+    "title": "p53 and &#x3b2;-Catenin Expression in Gallbladder Carcinoma: Translational Insights for Pediatric Cancer Biology.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42808396",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42808396",
+    "source": "pubmed",
+    "publicationName": "Asian Pacific journal of cancer prevention : APJCP",
+    "journalName": "Asian Pacific journal of cancer prevention : APJCP",
+    "publishedAt": "2026-09-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-29T18:20:13.918Z",
+    "snippet": "The tumor suppressor p53 and the Wnt pathway effector &#x3b2;-catenin represent two of the most frequently dysregulated molecular components across human malignancies. Although gallbladder cancer (GBC) predominantly affects adults, the pattern and clinicopathological correlates of p53 and &#x3b2;-catenin dysregulation in GBC may illuminate how these pathway...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "06ba198b848b9e6a",
+    "title": "Evaluation of S100A4, CA-12, CA-9, Annexin A1/A2, and Galectin-3 in Prostate Cancer: Diagnostic and Prognostic Implications.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42808395",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42808395",
+    "source": "pubmed",
+    "publicationName": "Asian Pacific journal of cancer prevention : APJCP",
+    "journalName": "Asian Pacific journal of cancer prevention : APJCP",
+    "publishedAt": "2026-09-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-29T18:20:13.918Z",
+    "snippet": "The limited specificity of prostate-specific antigen (PSA) increases the risk of unnecessary biopsies and overtreatment. This study aimed to evaluate the diagnostic and prognostic value of serum S100A4, along with CA-9, CA-12, Annexin A1/A2, and Galectin-3, in prostate cancer. This prospective case-control study, conducted between July 2024 and September 20...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "661b7b0edaf06cf5",
+    "title": "Evaluation of GATA3 and HER-2 Immunohistochemical Expression as Prognostic Markers in Urothelial Carcinoma of the Urinary Bladder.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42808394",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42808394",
+    "source": "pubmed",
+    "publicationName": "Asian Pacific journal of cancer prevention : APJCP",
+    "journalName": "Asian Pacific journal of cancer prevention : APJCP",
+    "publishedAt": "2026-09-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-29T18:20:13.918Z",
+    "snippet": "Urothelial carcinoma (UC) of the bladder remains a significant clinical challenge due to its high rates of recurrence and progression. Reliable biomarkers to predict tumor behaviour are still needed. GATA3 and HER2 have gained attention in this context, but their combined prognostic value has not been fully established. This study aims to evaluate the immun...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "1aab478c9e39d3e9",
+    "title": "Evaluation of PIK3CA, AKT1, and mTOR Genes Polymorphisms in a Sample of Iranian Women with Breast Cancer Compared with Healthy Women.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42808391",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42808391",
+    "source": "pubmed",
+    "publicationName": "Asian Pacific journal of cancer prevention : APJCP",
+    "journalName": "Asian Pacific journal of cancer prevention : APJCP",
+    "publishedAt": "2026-09-01T00:00:00.000Z",
+    "fetchedAt": "2026-09-29T18:20:13.918Z",
+    "snippet": "Breast cancer (BC) is the most common cancer among women globally, with Iranian women showing an earlier onset compared to those in Western countries. Genetic variations in the PI3K/AKT/mTOR signaling pathway have been implicated in cancer susceptibility, but limited studies exist on the association of these polymorphisms with BC risk in the Iranian populat...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
   }
 ]
