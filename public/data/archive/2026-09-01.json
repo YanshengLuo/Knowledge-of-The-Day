@@ -1,15 +1,15 @@
 [
   {
-    "id": "f22ab29182fe2fad",
-    "title": "Diagnostic and therapeutic impact of genomic testing in neuroendocrine neoplasms.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42808979",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42808979",
+    "id": "c837d35019066dea",
+    "title": "A high-dimensional benchmark of objective functions and biological resolutions for personalized metabolic phenotyping.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42814604",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42814604",
     "source": "pubmed",
-    "publicationName": "Endocrine-related cancer",
-    "journalName": "Endocrine-related cancer",
+    "publicationName": "Briefings in bioinformatics",
+    "journalName": "Briefings in bioinformatics",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-30T18:09:30.140Z",
-    "snippet": "Neuroendocrine neoplasms (NENs) are a diverse group of rare cancers with high heritability and limited treatment options for metastatic disease. Genomic testing guidelines for patients with NENs are limited to germline testing in high-risk individuals and tumour mutational burden (TMB) in a subset of patients. Here, we assess the prevalence of clinically ac...",
+    "fetchedAt": "2026-10-01T18:35:32.770Z",
+    "snippet": "Genome-scale personalized metabolic modeling relies on objective functions to simulate intracellular flux phenotypes, yet the optimal formulation for characterizing complex human diseases remains unknown. We ask which combination of objective function, biological resolution, and feature-selection strategy yields the most reliable diagnostic signal, treating...",
     "tags": [
       "research",
       "pubmed",
@@ -20,12 +20,11 @@
     "topicBuckets": [
       "computational biology",
       "oncology",
-      "translational medicine"
+      "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
+    "importanceScore": 68,
     "importanceSignals": [
-      "published this month",
       "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
@@ -34,16 +33,51 @@
     "isFeatured": true
   },
   {
-    "id": "79b96df4f7f4c765",
-    "title": "Clinical implications of CD47 and programmed death-ligand 1 expression in predicting the therapeutic response of immune checkpoints in advanced nonsmall-cell lung cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42813858",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42813858",
+    "id": "08b69703be89597f",
+    "title": "Clove oil-derived &#x3b2;-caryophyllene carried in a self-nanoemulsifying drug delivery system improves adjuvant-induced arthritis in rats.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42814598",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42814598",
     "source": "pubmed",
-    "publicationName": "Journal of cancer research and therapeutics",
-    "journalName": "Journal of cancer research and therapeutics",
+    "publicationName": "The Journal of pharmacy and pharmacology",
+    "journalName": "The Journal of pharmacy and pharmacology",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-30T18:09:30.140Z",
-    "snippet": "This study aimed to evaluate CD47 expression in nonsmall-cell lung cancer (NSCLC) and explore the predictive value of combined CD47 and programmed death-ligand 1 (PD-L1) status for immunotherapy outcomes. Specimens from 59 patients with advanced NSCLC who were diagnosed or surgically resected and subsequently received immune checkpoint inhibitors (ICIs) wer...",
+    "fetchedAt": "2026-10-01T18:35:32.770Z",
+    "snippet": "&#x3b2;-Caryophyllene (&#x3b2;-Cary) exhibits anti-inflammatory and antioxidant activities. It can be obtained from clove oil, which is rich in eugenol; following eugenol removal, &#x3b2;-Cary can be isolated as the major constituent. However, the high lipophilicity of &#x3b2;-Cary limits its oral bioavailability. The present study investigated the anti-art...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai",
+      "funding"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "736500de873d71d6",
+    "title": "Real-World Barriers to Molecular Biomarker Testing in Neuro-Oncology Clinical Trials in Resource-Limited Settings: A Scoping Review.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42817695",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42817695",
+    "source": "pubmed",
+    "publicationName": "JPMA. The Journal of the Pakistan Medical Association",
+    "journalName": "JPMA. The Journal of the Pakistan Medical Association",
+    "publishedAt": "2026-09-01T00:00:00.000Z",
+    "fetchedAt": "2026-10-01T18:35:32.770Z",
+    "snippet": "Molecular biomarkers are crucial for the diagnosis, prognosis, and enrollment in biomarker-driven neuro-oncology clinical trials, but their inequitable availability in low- and middle-income countries (LMICs) hinders uptake of the 2021 WHO Classification of CNS tumours. This scoping review reports an analysis of existing evidence concerning challenges to mo...",
     "tags": [
       "research",
       "pubmed",
@@ -56,12 +90,11 @@
       "translational medicine",
       "oncology",
       "ai",
-      "immunology"
+      "biotech"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
+    "importanceScore": 68,
     "importanceSignals": [
-      "published this month",
       "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
@@ -70,51 +103,16 @@
     "isFeatured": true
   },
   {
-    "id": "2ef17d91fa4b5d8d",
-    "title": "Prognostic and immunotherapeutic efficacy predictive model for gastric cancer based on ferroptosis- and autophagy-related genes.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42813854",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42813854",
+    "id": "81a4fdd43dbd5701",
+    "title": "Anatomical Compartment-Associated Histopathological Phenotypes in Glioblastoma: Evidence for Location-Dependent Morphological Heterogeneity in a Five-Year Pakistani Cohort.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42817671",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42817671",
     "source": "pubmed",
-    "publicationName": "Journal of cancer research and therapeutics",
-    "journalName": "Journal of cancer research and therapeutics",
+    "publicationName": "JPMA. The Journal of the Pakistan Medical Association",
+    "journalName": "JPMA. The Journal of the Pakistan Medical Association",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-30T18:09:30.140Z",
-    "snippet": "The clinical management of gastric cancer is challenged by profound tumor heterogeneity and the emergence of drug-resistant cell populations. Ferroptosis, a regulated form of iron-dependent cell death driven by lipid peroxidation, has exhibited limited clinical efficacy as a monotherapy. Emerging evidence shows that selective autophagy pathways can promote....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 65,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "734111ec0e3968a2",
-    "title": "Potential utility of cell-free deoxyribonucleic acid for detection of early-stage resectable non-small cell lung cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42813481",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42813481",
-    "source": "pubmed",
-    "publicationName": "The Medical journal of Malaysia",
-    "journalName": "The Medical journal of Malaysia",
-    "publishedAt": "2026-09-01T00:00:00.000Z",
-    "fetchedAt": "2026-09-30T18:09:30.140Z",
-    "snippet": "Cell-free DNA (cfDNA) has emerged as a promising non-invasive biomarker for cancer detection, including non-small cell lung cancer (NSCLC). While these approaches have demonstrated high diagnostic accuracy in controlled settings, their performance in real-world clinical populations remains uncertain. This study aimed to evaluate the diagnostic performance o...",
+    "fetchedAt": "2026-10-01T18:35:32.770Z",
+    "snippet": "Glioblastoma (GB) exhibits marked histopathological heterogeneity, yet the influence of neuroanatomical location on its morphological and immunohistochemical characteristics remains poorly understood. We aimed to evaluate whether GBs arising in different anatomical compartments of the brain exhibit distinct histopathological and immunohistochemical phenotyp...",
     "tags": [
       "research",
       "pubmed",
@@ -129,9 +127,8 @@
       "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
+    "importanceScore": 68,
     "importanceSignals": [
-      "published this month",
       "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",

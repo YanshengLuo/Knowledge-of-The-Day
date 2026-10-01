@@ -1,31 +1,32 @@
 [
   {
-    "id": "aa1e6c6507656a21",
-    "title": "Machine learning-driven M2 macrophage signature for precision prediction of survival and therapy response in acute myeloid leukemia.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42802232",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42802232",
+    "id": "79d6dae1c22d2164",
+    "title": "Ultrasound-activated CuSe/TiOheterostructured nanosonosensitizer enables coordinated induction of ferroptosis and cuproptosis for tumor immunotherapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42816848",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42816848",
     "source": "pubmed",
-    "publicationName": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
-    "journalName": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
+    "publicationName": "Journal of nanobiotechnology",
+    "journalName": "Journal of nanobiotechnology",
     "publishedAt": "2026-09-27T00:00:00.000Z",
-    "fetchedAt": "2026-09-29T18:20:13.918Z",
-    "snippet": "M2-type tumor-associated macrophages (TAMs) play critical roles in the immunosuppressive microenvironment and treatment resistance of acute myeloid leukemia (AML). However, their single-cell characteristics and predictive value for prognosis and therapy response remain unclear. Single-cell transcriptomic data from AML patients and healthy donors were integr...",
+    "fetchedAt": "2026-10-01T18:35:32.770Z",
+    "snippet": "Triple-negative breast cancer (TNBC) is a highly aggressive subtype characterized by the absence of actionable molecular targets, high metastatic propensity, and limited responsiveness to current immunotherapies. Although immune checkpoint inhibitors show promise, their clinical efficacy is constrained by low tumor immunogenicity and a highly immunosuppress...",
     "tags": [
       "research",
       "pubmed",
       "Single-cell TME",
       "single-cell",
       "tumor microenvironment",
-      "machine learning"
+      "immunotherapy"
     ],
     "topicBuckets": [
       "single-cell",
       "oncology",
       "immunology",
-      "ai"
+      "ai",
+      "translational medicine"
     ],
     "isNewToday": false,
-    "importanceScore": 72,
+    "importanceScore": 82,
     "importanceSignals": [
       "recent",
       "priority topic: oncology, ai",
@@ -36,16 +37,16 @@
     "isFeatured": true
   },
   {
-    "id": "12f678297b6d4e0b",
-    "title": "Integrated Multi-Omics Reveals Cellular States and Microenvironmental Remodeling in Coexisting DCIS and IDC.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42801661",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42801661",
+    "id": "c90bed7dd4132f2d",
+    "title": "A meta-interaction basis for cell-cell communication in tissues.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42818244",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42818244",
     "source": "pubmed",
-    "publicationName": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-    "journalName": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
     "publishedAt": "2026-09-27T00:00:00.000Z",
-    "fetchedAt": "2026-09-29T18:20:13.918Z",
-    "snippet": "Ductal carcinoma in situ (DCIS) is a non-invasive precursor of invasive ductal carcinoma (IDC), yet the biological mechanisms underlying the transition from DCIS to IDC remain incompletely understood. Here, we integrate spatial transcriptomics, single-cell RNA sequencing, and single-cell DNA sequencing on coexisting DCIS and IDC samples to characterize cell...",
+    "fetchedAt": "2026-10-01T18:35:32.770Z",
+    "snippet": "Tissue function depends on signals exchanged between cells and the responses they elicit. Yet whether diverse cell-cell interactions in situ form recurrent sender-receiver programs remains unclear. We present SpiderNet, an interpretable representation-learning framework that discovers such directed programs as a compact basis of cell-cell meta-interactions....",
     "tags": [
       "research",
       "pubmed",
@@ -57,8 +58,7 @@
       "spatial",
       "oncology",
       "computational biology",
-      "ai",
-      "single-cell"
+      "ai"
     ],
     "isNewToday": false,
     "importanceScore": 82,
