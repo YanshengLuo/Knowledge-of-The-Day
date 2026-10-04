@@ -1,69 +1,70 @@
 [
   {
-    "id": "c8eeaa3215ae6c30",
-    "title": "Mitochondrial mechanisms underlying spatial immune phenotypes in non&#x2011;small cell lung cancer: Implications for ICI response and cold&#x2011;to&#x2011;hot tumor conversion (Review).",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42825382",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42825382",
+    "id": "950ec1519adc91ff",
+    "title": "Identification of cancer-associated fibroblast biomarkers in cutaneous squamous cell carcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42828112",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42828112",
     "source": "pubmed",
-    "publicationName": "Oncology reports",
-    "journalName": "Oncology reports",
+    "publicationName": "Oncology letters",
+    "journalName": "Oncology letters",
     "publishedAt": "2026-11-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-02T18:04:51.237Z",
-    "snippet": "Non&#x2011;small cell lung cancer (NSCLC) is characterized by marked spatial immune heterogeneity, commonly manifested as immune&#x2011;desert, immune&#x2011;excluded and immune&#x2011;inflamed phenotypes. These phenotypes are closely associated with variable responses to immune checkpoint inhibitors (ICIs). Emerging evidence suggests that they are shaped n...",
+    "fetchedAt": "2026-10-04T17:06:50.826Z",
+    "snippet": "Cancer-associated fibroblasts (CAFs) are a key component of the tumor microenvironment and serve key roles in tumor progression, extracellular matrix remodeling and immune modulation. Nevertheless, no consensus has been reached thus far on biomarkers for CAFs in cutaneous squamous cell carcinoma (cSCC), a situation that hinders mechanistic research into thi...",
     "tags": [
       "research",
       "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology",
-      "spatial"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "biomarker"
     ],
     "topicBuckets": [
-      "translational medicine",
+      "single-cell",
       "oncology",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "d0a20206168e6e4e",
-    "title": "Targeting the DNHD1&#x2011;HDAC6 axis inactivates prostate&#xa0;cancer cell aggressiveness, suggesting potential therapeutic vulnerability.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42825379",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42825379",
-    "source": "pubmed",
-    "publicationName": "Oncology reports",
-    "journalName": "Oncology reports",
-    "publishedAt": "2026-11-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-02T18:04:51.237Z",
-    "snippet": "Prostate cancer progression toward an aggressive, therapy&#x2011;resistant disease state remains a major clinical challenge, indicating a need to identify novel molecular drivers of such progression and actionable therapeutic targets. The present study analyzed the role of dynein heavy chain domain 1 (), a previously uncharacterized regulator of malignancy,...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
+      "immunology",
+      "computational biology",
+      "translational medicine"
     ],
     "isNewToday": false,
     "importanceScore": 92,
     "importanceSignals": [
       "very recent",
-      "priority topic: translational medicine, oncology",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "daf24102a2113d65",
+    "title": "Methyltransferase-like 7B promotes M2-like macrophage polarization in lung adenocarcinoma via upregulating human epidermal growth factor receptor 3 expression and secretion.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42828105",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42828105",
+    "source": "pubmed",
+    "publicationName": "Oncology letters",
+    "journalName": "Oncology letters",
+    "publishedAt": "2026-11-01T00:00:00.000Z",
+    "fetchedAt": "2026-10-04T17:06:50.826Z",
+    "snippet": "M2-like tumor-associated macrophages form an immunosuppressive tumor microenvironment that drives tumor progression and limits therapeutic efficacy. Although methyltransferase-like 7B (METTL7B) acts as an oncogenic regulator of lung cancer, its non-cell-autonomous paracrine role in modulating macrophage polarization remains poorly characterized. In the pres...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 82,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
