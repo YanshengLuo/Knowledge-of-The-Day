@@ -1,15 +1,82 @@
 [
   {
-    "id": "d9b277fde6f7902a",
-    "title": "Integrative multi-omics characterization of KLRB1/CD161 in diffuse large B-cell lymphoma: associations with immune context, subtype biology, and therapeutic response.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42851302",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42851302",
+    "id": "83fb7f3ada56bd6f",
+    "title": "Somatic Mutation-Informed Transcriptional Architecture of Hepatocellular Carcinoma: A Multiomics Study Centered on.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42859650",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42859650",
     "source": "pubmed",
-    "publicationName": "Frontiers in molecular biosciences",
-    "journalName": "Frontiers in molecular biosciences",
+    "publicationName": "Human mutation",
+    "journalName": "Human mutation",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-10T17:29:34.325Z",
-    "snippet": "The tumor immune microenvironment (TME) of diffuse large B-cell lymphoma (DLBCL) displays pronounced heterogeneity, and existing immunotherapeutic approaches achieve only suboptimal outcomes for a considerable proportion of affected individuals. CD161-a C-type lectin receptor whose coding gene is KLRB1-has lately emerged as a modulator of T-cell activity in...",
+    "fetchedAt": "2026-10-11T17:48:58.473Z",
+    "snippet": "Hepatocellular carcinoma (HCC) is characterized by extensive somatic mutation heterogeneity, yet the cellular contexts in which recurrent driver mutation-associated transcriptional programs operate remain incompletely defined. In this study, we applied a mutation-informed multiomics framework centered onto connect somatic mutation status, bulk transcription...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "118bcbc6e4403de8",
+    "title": "Development of a predictive model for pancreatic cancer integrating serum metabolomics and polygenic risk score.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42856819",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42856819",
+    "source": "pubmed",
+    "publicationName": "Frontiers in endocrinology",
+    "journalName": "Frontiers in endocrinology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-10-11T17:48:58.473Z",
+    "snippet": "Pancreatic cancer (PC) is highly aggressive and associated with extremely poor prognosis. Due to the lack of specfic symptoms in the early stage, most patients have already lost the opportunity for curative surgical resection at the time of diagnosis. Therefore, improving the early identification of individuals at elevated risk of PC is clinically important...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "ff08aac286bb7fd5",
+    "title": "The Cellular and Immune Context of YTHDC1 in Hepatocellular Carcinoma: A Single-Cell and Multicohort Study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42859557",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42859557",
+    "source": "pubmed",
+    "publicationName": "International journal of genomics",
+    "journalName": "International journal of genomics",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-10-11T17:48:58.473Z",
+    "snippet": "YTHDC1 is a nuclear N6-methyladenosine reader involved in RNA processing. Its abundance, cellular distribution, and relationship with the immune microenvironment in hepatocellular carcinoma (HCC) remain incompletely characterized. We integrated paired tumor-adjacent transcriptomic and proteomic cohorts, three single-cell RNA-sequencing datasets containing 2...",
     "tags": [
       "research",
       "pubmed",
@@ -21,12 +88,257 @@
       "single-cell",
       "oncology",
       "immunology",
-      "computational biology"
+      "ai"
     ],
     "isNewToday": false,
     "importanceScore": 58,
     "importanceSignals": [
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "e5686f436ee127e0",
+    "title": "Cytopathology of the microbiome-immune interface: Emerging applications of cytology in infectious, inflammatory, and neoplastic conditions.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42857515",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42857515",
+    "source": "pubmed",
+    "publicationName": "CytoJournal",
+    "journalName": "CytoJournal",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-10-11T17:48:58.473Z",
+    "snippet": "The objective of the study is to synthesize current evidence on the microbiome-immune interface as reflected in cytopathologic specimens and to explore the emerging diagnostic, prognostic, and translational applications of cytology in infectious, inflammatory, and neoplastic diseases. This narrative review integrates published literature on cytopathology, m...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: oncology, translational medicine",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "439b40866a0eed74",
+    "title": "Shared immune perturbations in hepatocellular carcinoma-depression comorbidity and synergistic immunotherapeutic effects of fluoxetine combined with anti-PD-1.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42857177",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42857177",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-10-11T17:48:58.473Z",
+    "snippet": "Hepatocellular carcinoma (HCC) often coexists with depression, elevating patient mortality by 39%. The tryptophan metabolic axis bridges tumor and neuropsychiatric immune dysfunction, yet the immunometabolic crosstalk underlying HCC-depression comorbidity remains poorly defined, and reliable combinatorial immunotherapies are absent. We integrated public mul...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai",
+      "spatial",
+      "computational biology"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 68,
+    "isFeatured": true
+  },
+  {
+    "id": "01f49ccb7228381b",
+    "title": "A bittersweet symphony: soluble mediator networks orchestrate melanoma plasticity and therapeutic adaptation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42857075",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42857075",
+    "source": "pubmed",
+    "publicationName": "Frontiers in cell and developmental biology",
+    "journalName": "Frontiers in cell and developmental biology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-10-11T17:48:58.473Z",
+    "snippet": "Melanoma progression and therapeutic resistance are increasingly recognized as emergent properties of the dynamic interactions between tumor cells and their surrounding tumor microenvironment (TME). A central feature of this adaptability is melanoma cell plasticity, through which tumor cells reversibly transition between distinct transcriptional and functio...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 48,
+    "importanceSignals": [
+      "priority topic: oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "eb97e538a21c6bae",
+    "title": "Beyond molecular classification: integrating signaling, subcellular, and immune reprogramming in endometrial cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42857018",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42857018",
+    "source": "pubmed",
+    "publicationName": "Frontiers in oncology",
+    "journalName": "Frontiers in oncology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-10-11T17:48:58.473Z",
+    "snippet": "Endometrial cancer (EC) is the most common gynecological malignancy in developed countries, with rising incidence rates that have not been matched by equivalent improvements in survival outcomes, particularly for high-grade and advanced-stage disease. The landmark molecular profiling performed by The Cancer Genome Atlas consortium transformed EC classificat...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "spatial",
+      "computational biology"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
       "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 58,
+    "isFeatured": true
+  },
+  {
+    "id": "c0008e96a6521b1a",
+    "title": "Targeting TREM2and TIMD4Macrophages Reprograms the Tumor Microenvironment and Enhances PD-1 Blockade Efficacy in Intrahepatic Cholangiocarcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42856794",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42856794",
+    "source": "pubmed",
+    "publicationName": "Cancer communications (London, England)",
+    "journalName": "Cancer communications (London, England)",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-10-11T17:48:58.473Z",
+    "snippet": "Intrahepatic cholangiocarcinoma (ICC) is the second most common primary liver cancer. Macrophages are crucial components of the tumor microenvironment (TME). Triggering receptor expressed on myeloid cells 2-positive (TREM2) macrophages have recently emerged as potent pro-tumor progress players in several cancers. However, the heterogeneity and tumor-promoti...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 48,
+    "importanceSignals": [
+      "priority topic: oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "61e108b83293220c",
+    "title": "A palmitoylation-associated three-gene signature predicts prognosis, immune features, and drug sensitivity in gastric cancer: functional validation of CTHRC1.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42856656",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42856656",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-10-11T17:48:58.473Z",
+    "snippet": "Gastric cancer (GC) is a heterogeneous malignancy that requires improved molecular tools for prognostic stratification. Protein palmitoylation regulates membrane localization and signaling, but the clinical relevance of palmitoylation-related genes (PRGs) in GC remains unclear. Gene Expression Omnibus, The Cancer Genome Atlas, and GeneCards data were integr...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "eb811c716904a061",
+    "title": "Metabolic dysfunction-associated fatty liver disease: redefining the conceptual framework from nomenclature to emerging therapeutic paradigms.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42857521",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42857521",
+    "source": "pubmed",
+    "publicationName": "Frontiers in endocrinology",
+    "journalName": "Frontiers in endocrinology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-10-11T17:48:58.473Z",
+    "snippet": "The renaming of non-alcoholic fatty liver disease (NAFLD) to metabolic dysfunction-associated fatty liver disease (MAFLD), and subsequently to metabolic dysfunction-associated steatotic liver disease (MASLD), signals a paradigm shift that repositions hepatic steatosis as a systemic metabolic disorder rather than a diagnosis by exclusion. This review synthes...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 48,
+    "importanceSignals": [
+      "priority topic: gene therapy",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -42,7 +354,7 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-10T17:29:34.325Z",
+    "fetchedAt": "2026-10-11T17:48:58.473Z",
     "snippet": "Inborn Errors of Immunity (IEI) are associated with an increased risk of malignancy due to impaired immune surveillance, genetic instability and chronic inflammation, However, comprehensive epidemiological data from large national cohorts remain limited. We conducted a multicenter, retrospective-prospective observational study involving 4,540 pediatric and....",
     "tags": [
       "research",
@@ -76,7 +388,7 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-10T17:29:34.325Z",
+    "fetchedAt": "2026-10-11T17:48:58.473Z",
     "snippet": "Endometriosis is an estrogen-dependent inflammatory disorder that often persists or returns even after visible lesions have been removed. The behavior of peritoneal macrophages may help explain this clinical durability. These cells participate in lesion implantation, vascularization, fibrosis, defective immune clearance, and pain, but it is uncertain why di...",
     "tags": [
       "research",
@@ -100,109 +412,77 @@
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
+    "isFeatured": false
   },
   {
-    "id": "c9e5498220db8a4a",
-    "title": "Clonal hematopoiesis of indeterminate potential and cancer immunotherapy: a host-intrinsic immune-inflammatory modifier of treatment efficacy and toxicity.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42846836",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42846836",
-    "source": "pubmed",
-    "publicationName": "Frontiers in oncology",
-    "journalName": "Frontiers in oncology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-10T17:29:34.325Z",
-    "snippet": "Clonal hematopoiesis of indeterminate potential (CHIP), the age-related expansion of hematopoietic stem cells carrying leukemia-associated somatic mutations, is common in patients with cancer and is increasingly detected during tumor-only genomic profiling and cell-free DNA sequencing. In this narrative review, we assess epidemiological, mechanistic, and cl...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation",
-      "immunotherapy"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: gene therapy, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "78d99cb4846e1602",
-    "title": "Selpercatinib mitigates microglia-mediated neuroinflammation by inhibiting RET signaling and NLRP3 inflammasome activation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42846543",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42846543",
+    "id": "7f5129e5da56372e",
+    "title": "A full-thickness spatial transcriptomics atlas of medically refractory ulcerative colitis identifies niche signatures associated with biologic non-response.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42857567",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42857567",
     "source": "pubmed",
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-10T17:29:34.325Z",
-    "snippet": "Selpercatinib is a highly selective rearranged during transfection (RET) receptor tyrosine kinase inhibitor approved for RET fusion-positive cancers and known to penetrate the blood-brain barrier. Although RET signaling has been implicated in neural development and cell survival, its role in microglia-mediated neuroinflammation and NOD-like receptor family....",
+    "fetchedAt": "2026-10-11T17:48:58.473Z",
+    "snippet": "Ulcerative colitis (UC) is a chronic mucosal immune disorder in which 30-50% of patients fail biologic therapy, yet the full-thickness immune architecture of medically refractory disease and reliable tissue-level markers of treatment response remain undefined. Using 10x Visium HD spatial transcriptomics (16-&#xb5;m bins; 615,274 bins), we generated a full-t...",
     "tags": [
       "research",
       "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "spatial"
     ],
     "topicBuckets": [
-      "gene therapy",
-      "immunology",
+      "spatial",
+      "oncology",
+      "computational biology",
       "ai",
-      "oncology"
+      "immunology"
     ],
     "isNewToday": false,
     "importanceScore": 68,
     "importanceSignals": [
-      "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "dc1c3f04ca64b645",
-    "title": "Filamentous bacteriophages: impact on prokaryotic virulence, eukaryotic immunity, and implications for phage therapy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42846242",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42846242",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-10T17:29:34.325Z",
-    "snippet": "Filamentous bacteriophages, of the family, are characterized by their reproduction and secretion by their bacterial hosts without killing them. These viruses have evolved mutualistic relationships with their bacterial hosts by impacting bacterial phenotypes in a variety of ways, including biofilm formation, horizontal gene transfer, colonization, and motili...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 48,
-    "importanceSignals": [
-      "priority topic: gene therapy",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
     "isFeatured": false
+  },
+  {
+    "id": "4bc5edf99cfd67c2",
+    "title": "Prediction of prognosis and treatment effect of cervical cancer by immunogenic cell death-related genes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42859803",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42859803",
+    "source": "pubmed",
+    "publicationName": "PeerJ",
+    "journalName": "PeerJ",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-10-11T17:48:58.473Z",
+    "snippet": "Immunogenic cell death (ICD) is a potential mechanism that mediates adaptive immune responses during anticancer therapy. However, expression patterns and clinical implications of ICD related genes in cervical squamous cell carcinoma and endocervical adenocarcinoma (CESC) remain unclear. This study aimed to investigate the associations of 34 ICD related gene...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
   }
 ]
