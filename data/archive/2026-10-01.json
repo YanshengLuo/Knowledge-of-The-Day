@@ -1,5 +1,39 @@
 [
   {
+    "id": "82942629288f0f65",
+    "title": "Understanding cell fate decisions with temporal attention.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42862872",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42862872",
+    "source": "pubmed",
+    "publicationName": "PLoS computational biology",
+    "journalName": "PLoS computational biology",
+    "publishedAt": "2026-10-01T00:00:00.000Z",
+    "fetchedAt": "2026-10-13T19:34:45.541Z",
+    "snippet": "Understanding non-genetic determinants of cell fate is critical for developing and improving cancer therapies, as genetically identical cells can exhibit divergent outcomes under the same treatment conditions. In this work, we present a deep learning approach for cell fate prediction from raw long-term live-cell recordings of cancer cell populations under c...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
     "id": "5bb0f2dc52e254d1",
     "title": "Single-Cell Multiomics Reveals That OTUD7B Is a Central Driver of Epithelial Remodelling and the Immunosuppressive Microenvironment in Pancreatic Ductal Adenocarcinoma.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42860383",
@@ -8,7 +42,7 @@
     "publicationName": "Journal of cellular and molecular medicine",
     "journalName": "Journal of cellular and molecular medicine",
     "publishedAt": "2026-10-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-12T21:25:38.573Z",
+    "fetchedAt": "2026-10-13T19:34:45.541Z",
     "snippet": "Pancreatic ductal adenocarcinoma (PAAD) is characterized by extreme malignancy and profound resistance to therapy, largely driven by a fibrotic and immunosuppressive tumour microenvironment (TME). The deubiquitinase OTU domain-containing protein 7B (OTUD7B) has been implicated in inflammatory and oncogenic signalling, but its role in PAAD and its TME remain...",
     "tags": [
       "research",
@@ -16,18 +50,16 @@
       "Computational oncology",
       "computational biology",
       "oncology",
-      "single-cell",
-      "Single-cell TME",
-      "tumor microenvironment"
+      "single-cell"
     ],
     "topicBuckets": [
       "computational biology",
       "oncology",
       "ai",
-      "single-cell",
-      "immunology"
+      "single-cell"
     ],
     "isNewToday": false,
+    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
       "priority topic: computational biology, oncology",
@@ -35,7 +67,6 @@
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 75,
     "isFeatured": true
   },
   {
@@ -47,7 +78,7 @@
     "publicationName": "Journal of extracellular vesicles",
     "journalName": "Journal of extracellular vesicles",
     "publishedAt": "2026-10-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-12T21:25:38.573Z",
+    "fetchedAt": "2026-10-13T19:34:45.541Z",
     "snippet": "Tissue-specific resolution remains a critical barrier in liquid biopsy for precision medicine. To address this, we developed NEXPLOR (Novel EXtracellular vesicle PopuLation Omics Revealer), an immunoaffinity platform enabling selective enrichment of circulating tissue-specific extracellular vesicles (TS-EVs), demonstrated here for liver-derived hepatocyte-E...",
     "tags": [
       "research",
@@ -82,7 +113,7 @@
     "publicationName": "Journal of neuroendocrinology",
     "journalName": "Journal of neuroendocrinology",
     "publishedAt": "2026-10-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-12T21:25:38.573Z",
+    "fetchedAt": "2026-10-13T19:34:45.541Z",
     "snippet": "Although small intestinal neuroendocrine tumours (SI-NET) Grade 1 (G1) and 2 (G2) are often studied together, clinical course and response to treatment may differ. We hypothesized that these tumour groups express different markers in blood that may inform future treatment strategies. Blood from 107 SI-NET patients (G1 n&#x2009;=&#x2009;64, G2 n&#x2009;=&#x2...",
     "tags": [
       "research",
@@ -109,6 +140,47 @@
     "isFeatured": true
   },
   {
+    "id": "976c2b9782ce94af",
+    "title": "Integrated scRNA-Seq and Spatial Transcriptomics Reveal CHPF and GPC1 as Markers of Cancer-Associated Fibroblast-Dominant Domains in Colorectal Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42864774",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42864774",
+    "source": "pubmed",
+    "publicationName": "Cancer medicine",
+    "journalName": "Cancer medicine",
+    "publishedAt": "2026-10-01T00:00:00.000Z",
+    "fetchedAt": "2026-10-13T19:34:45.541Z",
+    "snippet": "Spatial heterogeneity in the colorectal cancer (CRC) tumor microenvironment (TME) is closely related to stromal organization and may influence treatment-related features. In this study, we integrated single-cell RNA sequencing and spatial transcriptomic data from CRC tissues to examine cancer-associated fibroblast (CAF)-dominant spatial domains. GPC1 and CH...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "spatial",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai",
+      "computational biology",
+      "spatial"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 75,
+    "isFeatured": true
+  },
+  {
     "id": "76aa54b464bdf0ec",
     "title": "Gene-Driven Precision Medicine: Enhancing Biomarker Identification for Personalized Therapy.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42861755",
@@ -117,7 +189,7 @@
     "publicationName": "Current gene therapy",
     "journalName": "Current gene therapy",
     "publishedAt": "2026-10-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-12T21:25:38.573Z",
+    "fetchedAt": "2026-10-13T19:34:45.541Z",
     "snippet": "Transformative advances in biomarker science are reshaping the landscape of precision medicine, offering powerful tools for early disease detection, accurate prognostication, and individualized therapeutic design. This review synthesizes recent progress in biomarker discovery, classification, and clinical application across multiple medical domains, emphasi...",
     "tags": [
       "research",
@@ -125,10 +197,7 @@
       "Single-cell TME",
       "single-cell",
       "tumor microenvironment",
-      "biomarker",
-      "Biomarkers in oncology",
-      "patient stratification",
-      "oncology"
+      "biomarker"
     ],
     "topicBuckets": [
       "single-cell",
@@ -138,9 +207,50 @@
       "translational medicine"
     ],
     "isNewToday": false,
+    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
       "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "9577d2362ee362dc",
+    "title": "Targeting the Tumor Microenvironment Network to Overcome Immunotherapy Resistance in Non-Small Cell Lung Cancer: Mechanisms to Clinical Translation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42864833",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42864833",
+    "source": "pubmed",
+    "publicationName": "Cancer medicine",
+    "journalName": "Cancer medicine",
+    "publishedAt": "2026-10-01T00:00:00.000Z",
+    "fetchedAt": "2026-10-13T19:34:45.541Z",
+    "snippet": "Immunotherapy has transformed the treatment landscape for advanced non-small cell lung cancer (NSCLC), yet resistance mediated by the tumor microenvironment (TME) limits its efficacy in most patients. This review aims to synthesize the current understanding of the TME as an integrated network driving immunotherapy resistance and to evaluate emerging therape...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "immunotherapy",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "ai",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -157,7 +267,7 @@
     "publicationName": "Clinical and translational medicine",
     "journalName": "Clinical and translational medicine",
     "publishedAt": "2026-10-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-12T21:25:38.573Z",
+    "fetchedAt": "2026-10-13T19:34:45.541Z",
     "snippet": "Spatiotemporal transcriptomics (STT) integrates spatially resolved gene expression with temporal information derived from staged samples, paired treatment specimens, or computational inference, providing a framework for reconstructing tissue-level dynamics. In the tumour microenvironment (TME), STT extends static molecular and cellular maps by revealing how...",
     "tags": [
       "research",
@@ -184,34 +294,33 @@
     "isFeatured": true
   },
   {
-    "id": "4757aad9478e9a78",
-    "title": "Epithelial to mesenchymal transition and M2 macrophages drive aggressiveness in murine and human sarcomatoid urothelial carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42856641",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42856641",
+    "id": "b4decb638061f3de",
+    "title": "Context-dependent TREM2 signalling in myeloid cells: Molecular mechanisms and immunotherapeutic divergence in neurodegeneration and cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42865133",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42865133",
     "source": "pubmed",
-    "publicationName": "bioRxiv : the preprint server for biology",
-    "journalName": "bioRxiv : the preprint server for biology",
+    "publicationName": "Clinical and translational medicine",
+    "journalName": "Clinical and translational medicine",
     "publishedAt": "2026-10-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-12T21:25:38.573Z",
-    "snippet": "Patients with majority variant subtype histology including sarcomatoid urothelial carcinoma (SUC) have poor outcomes and limited treatment options, and there are few preclinical resources to investigate rare histologic subtypes. We developed three novel variant subtype histology bladder cancer (BC) cell lines by finding that basal BC tumor cells derived fro...",
+    "fetchedAt": "2026-10-13T19:34:45.541Z",
+    "snippet": "Triggering receptor expressed on myeloid cells 2 (TREM2) is a pivotal lipid-sensing receptor that governs the functional plasticity and metabolic fitness of mononuclear phagocytes, including microglia, osteoclasts, dendritic cells and tissue-resident macrophages. While originally identified as a genetic risk factor for Alzheimer's disease (AD), TREM2 functi...",
     "tags": [
       "research",
       "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
     ],
     "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "translational medicine"
+      "translational medicine",
+      "oncology"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
+    "importanceScore": 65,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology, computational biology",
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -219,16 +328,16 @@
     "isFeatured": true
   },
   {
-    "id": "83c0daaef511588e",
-    "title": "Identification of Key Genes and Construction of miRNA-mRNA Regulatory Networks Associated with Glioma Grade by Bioinformatics Analysis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42861757",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42861757",
+    "id": "b6318d3243f4daf2",
+    "title": "The Association Between CD40 rs1883832 Polymorphism and Cancer Susceptibility: A Systematic Review and Meta-Analysis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42864853",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42864853",
     "source": "pubmed",
-    "publicationName": "Current medicinal chemistry",
-    "journalName": "Current medicinal chemistry",
+    "publicationName": "Cancer medicine",
+    "journalName": "Cancer medicine",
     "publishedAt": "2026-10-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-12T21:25:38.573Z",
-    "snippet": "The malignant transformation of Low-Grade Gliomas (LGGs) represents a critical clinical event, leading to intensified therapeutic regimens, higher morbidity, and premature death. This study aimed to identify Differentially Expressed Genes (DEGs) between LGGs and High-Grade Gliomas (HGGs) and to build a regulatory network involving microRNAs (miRNAs) and mes...",
+    "fetchedAt": "2026-10-13T19:34:45.541Z",
+    "snippet": "The CD40 gene, a key immune regulatory molecule, has been implicated in tumorigenesis, and its functional polymorphism rs1883832 located in the Kozak sequence, may modulate cancer susceptibility by influencing CD40 expression. To clarify inconsistent epidemiological findings, a comprehensive meta-analysis was conducted to evaluate the association between th...",
     "tags": [
       "research",
       "pubmed",
@@ -240,11 +349,10 @@
     "topicBuckets": [
       "translational medicine",
       "oncology",
-      "ai",
-      "computational biology"
+      "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
+    "importanceScore": 65,
     "importanceSignals": [
       "published this month",
       "priority topic: translational medicine, oncology",
@@ -252,76 +360,6 @@
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
-  },
-  {
-    "id": "70ee4cfaf92a6624",
-    "title": "Clinicopathological Significance of Extra-Alveolar Invasion in Lung Adenocarcinomas Treated With Sublobar Resection.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42861566",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42861566",
-    "source": "pubmed",
-    "publicationName": "Pathology international",
-    "journalName": "Pathology international",
-    "publishedAt": "2026-10-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-12T21:25:38.573Z",
-    "snippet": "Lung adenocarcinoma exhibits diverse pathological features, some of which for example, histological grading and tumor spread through air spaces (STAS), can be used for prognosis. Extra-alveolar invasion (EX) is a unique pathological factor focused on depth of invasion, and is defined as tumor infiltration into periarterial, peribronchiolar, or interlobular....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "44a1e7da2692f6b7",
-    "title": "Integrated Transcriptomic Analysis Identifies ENO3 as a Candidate Lactate Metabolism-Associated Biomarker in Colorectal Cancer Metastasis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42860655",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42860655",
-    "source": "pubmed",
-    "publicationName": "Cancer reports (Hoboken, N.J.)",
-    "journalName": "Cancer reports (Hoboken, N.J.)",
-    "publishedAt": "2026-10-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-12T21:25:38.573Z",
-    "snippet": "Metastasis is the primary cause of mortality in colorectal cancer (CRC), a leading global malignancy. Although metabolic reprogramming is a hallmark of cancer, the stage-associated transcriptional features of metabolic pathways during CRC progression remain incompletely understood. This study aimed to characterize transcriptionally inferred metabolic hetero...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
+    "isFeatured": false
   }
 ]
