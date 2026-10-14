@@ -2,21 +2,21 @@
   {
     "source": "biospace",
     "success": true,
-    "fetchedAt": "2026-10-13T19:34:45.030Z",
+    "fetchedAt": "2026-10-14T17:38:37.692Z",
     "itemCount": 24,
     "usedFallback": false
   },
   {
     "source": "pubmed",
     "success": true,
-    "fetchedAt": "2026-10-13T19:34:45.541Z",
+    "fetchedAt": "2026-10-14T17:38:38.430Z",
     "itemCount": 60,
     "usedFallback": false
   },
   {
     "source": "mckinsey",
     "success": false,
-    "fetchedAt": "2026-10-13T19:35:12.032Z",
+    "fetchedAt": "2026-10-14T17:39:05.678Z",
     "itemCount": 11,
     "usedFallback": true,
     "fallbackReason": "timeout",
@@ -26,18 +26,15 @@
   {
     "source": "a16z",
     "success": true,
-    "fetchedAt": "2026-10-13T19:38:08.329Z",
+    "fetchedAt": "2026-10-14T17:42:03.589Z",
     "itemCount": 48,
     "usedFallback": false
   },
   {
     "source": "crunchbase",
-    "success": false,
-    "fetchedAt": "2026-10-13T19:38:53.911Z",
-    "itemCount": 24,
-    "usedFallback": true,
-    "fallbackReason": "request failure",
-    "cacheTimestamp": "2026-04-13T14:29:33.153Z",
-    "errorMessage": "HTTP 403 while fetching https://news.crunchbase.com/sections/health-wellness-biotech/"
+    "success": true,
+    "fetchedAt": "2026-10-14T17:42:49.143Z",
+    "itemCount": 20,
+    "usedFallback": false
   }
 ]
