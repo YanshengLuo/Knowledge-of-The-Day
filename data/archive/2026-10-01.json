@@ -1,31 +1,38 @@
 [
   {
-    "id": "c536d155aaa035ee",
-    "title": "Integrative Multi-Omics and Experimental Validation Define RELB as an Immune-Related Prognostic Driver in Ovarian Cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42870286",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42870286",
+    "id": "0640f473479ba576",
+    "title": "Spatial and Single-Cell Multi-Omics Analyses of T-Cell Subsets and Interactions in Melanoma Lymph Node Metastasis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42876116",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42876116",
     "source": "pubmed",
-    "publicationName": "Chemical biology & drug design",
-    "journalName": "Chemical biology & drug design",
+    "publicationName": "Experimental dermatology",
+    "journalName": "Experimental dermatology",
     "publishedAt": "2026-10-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-14T17:38:38.430Z",
-    "snippet": "Ovarian cancer (OC) is one of the most aggressive gynecological malignancies worldwide. The tumor microenvironment and transcriptomic alterations play important roles in OC progression and therapeutic response. Integrative bulk and single-cell transcriptomic analyses may facilitate the identification of prognostic biomarkers and potential therapeutic target...",
+    "fetchedAt": "2026-10-15T17:24:37.689Z",
+    "snippet": "Melanoma is a highly immunogenic malignancy, yet responses to systemic therapy remain variable. The tumour-draining lymph node (TDLN), including the sentinel lymph node (SLN) during early regional spread, is not only a site of metastatic dissemination but also an important setting for T-cell priming and immune regulation. Conventional classification of node...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
       "oncology",
-      "Single-cell TME",
       "single-cell",
-      "tumor microenvironment"
+      "spatial",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification"
     ],
     "topicBuckets": [
       "computational biology",
       "oncology",
+      "ai",
       "single-cell",
-      "translational medicine",
-      "immunology"
+      "immunology",
+      "spatial",
+      "translational medicine"
     ],
     "isNewToday": false,
     "importanceSignals": [
@@ -39,6 +46,75 @@
     "isFeatured": true
   },
   {
+    "id": "f817206d6d0dd593",
+    "title": "Cancer Heterogeneity Modeling With Omics Data via Network-Based Block-Wise Regulatory Analysis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42875016",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42875016",
+    "source": "pubmed",
+    "publicationName": "Statistics in medicine",
+    "journalName": "Statistics in medicine",
+    "publishedAt": "2026-10-01T00:00:00.000Z",
+    "fetchedAt": "2026-10-15T17:24:37.689Z",
+    "snippet": "Omics data have been extensively analyzed to quantify the heterogeneity of cancer and other diseases. Recent studies have suggested that interconnections among omics variables, as reflected in network structures, can be more informative than simpler measures. Multiple types of omics variables can be connected via regulatory relationships, and there are stud...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "c536d155aaa035ee",
+    "title": "Integrative Multi-Omics and Experimental Validation Define RELB as an Immune-Related Prognostic Driver in Ovarian Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42870286",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42870286",
+    "source": "pubmed",
+    "publicationName": "Chemical biology & drug design",
+    "journalName": "Chemical biology & drug design",
+    "publishedAt": "2026-10-01T00:00:00.000Z",
+    "fetchedAt": "2026-10-15T17:24:37.689Z",
+    "snippet": "Ovarian cancer (OC) is one of the most aggressive gynecological malignancies worldwide. The tumor microenvironment and transcriptomic alterations play important roles in OC progression and therapeutic response. Integrative bulk and single-cell transcriptomic analyses may facilitate the identification of prognostic biomarkers and potential therapeutic target...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "single-cell",
+      "translational medicine",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
     "id": "80484cb1a0d2d459",
     "title": "Genomic Landscape and Clinical Actionability of Skin Adnexal Carcinomas.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42868338",
@@ -47,7 +123,7 @@
     "publicationName": "JCO precision oncology",
     "journalName": "JCO precision oncology",
     "publishedAt": "2026-10-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-14T17:38:38.430Z",
+    "fetchedAt": "2026-10-15T17:24:37.689Z",
     "snippet": "Skin adnexal carcinomas (SACs) are rare and heterogeneous tumors with no established systemic treatment options and poor long-term survival rates in the advanced disease setting. Here, we aimed to characterize the genomic landscape and clinically actionable alterations across SAC subtypes. We analyzed next-generation sequencing data from SACs in the America...",
     "tags": [
       "research",
@@ -74,33 +150,35 @@
     "isFeatured": true
   },
   {
-    "id": "82942629288f0f65",
-    "title": "Understanding cell fate decisions with temporal attention.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42862872",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42862872",
+    "id": "00d8ffdf12788130",
+    "title": "Fingolimod Alleviates Neuroinflammation and Blood-Brain Barrier Disruption in Epilepsy by Upregulating S1PR5 and Inhibiting the Rho/ROCK/NF-&#x3ba;B Pathway.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42873088",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42873088",
     "source": "pubmed",
-    "publicationName": "PLoS computational biology",
-    "journalName": "PLoS computational biology",
+    "publicationName": "CNS neuroscience & therapeutics",
+    "journalName": "CNS neuroscience & therapeutics",
     "publishedAt": "2026-10-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-14T17:38:38.430Z",
-    "snippet": "Understanding non-genetic determinants of cell fate is critical for developing and improving cancer therapies, as genetically identical cells can exhibit divergent outcomes under the same treatment conditions. In this work, we present a deep learning approach for cell fate prediction from raw long-term live-cell recordings of cancer cell populations under c...",
+    "fetchedAt": "2026-10-15T17:24:37.689Z",
+    "snippet": "This study aimed to clarify the role of sphingosine-1-phosphate receptor 5 (S1PR5) in epileptic pathogenesis and the mechanism by which fingolimod exerts anti-epileptic effects, with a focus on neuroinflammation and blood-brain barrier (BBB) disruption. Multi-omics integration and machine learning were used to identify S1PR5 as a key candidate gene. Molecul...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
     ],
     "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai"
+      "gene therapy",
+      "immunology",
+      "ai",
+      "computational biology"
     ],
     "isNewToday": false,
     "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: computational biology, oncology",
+      "priority topic: gene therapy, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -116,69 +194,62 @@
     "publicationName": "JCO precision oncology",
     "journalName": "JCO precision oncology",
     "publishedAt": "2026-10-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-14T17:38:38.430Z",
+    "fetchedAt": "2026-10-15T17:24:37.689Z",
     "snippet": "No curative options are available for medulloblastoma (MB) in the relapse setting. The tumor microenvironment (TME) influences progression and therapy response, presenting a promising target for therapeutic advances. Prior single-cell analyses have characterized the cellular components of the TME but lack spatial context. We hypothesize that spatial archite...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "spatial",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "computational biology",
-      "spatial"
-    ],
-    "isNewToday": false,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "importanceScore": 75,
-    "isFeatured": true
-  },
-  {
-    "id": "9577d2362ee362dc",
-    "title": "Targeting the Tumor Microenvironment Network to Overcome Immunotherapy Resistance in Non-Small Cell Lung Cancer: Mechanisms to Clinical Translation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42864833",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42864833",
-    "source": "pubmed",
-    "publicationName": "Cancer medicine",
-    "journalName": "Cancer medicine",
-    "publishedAt": "2026-10-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-14T17:38:38.430Z",
-    "snippet": "Immunotherapy has transformed the treatment landscape for advanced non-small cell lung cancer (NSCLC), yet resistance mediated by the tumor microenvironment (TME) limits its efficacy in most patients. This review aims to synthesize the current understanding of the TME as an integrated network driving immunotherapy resistance and to evaluate emerging therape...",
     "tags": [
       "research",
       "pubmed",
       "Spatial oncology",
       "spatial transcriptomics",
       "cancer",
-      "immunotherapy"
+      "spatial"
     ],
     "topicBuckets": [
       "spatial",
       "oncology",
       "computational biology",
       "ai",
-      "translational medicine"
+      "single-cell"
     ],
     "isNewToday": false,
     "importanceScore": 75,
     "importanceSignals": [
       "published this month",
       "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "2c8ec604378926b4",
+    "title": "Basal Marker &#x394;Np63&#x3b1; Is Enriched in Pancreatic Cancer Metastases but Not in Primary Tumors Post-Chemotherapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42876041",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42876041",
+    "source": "pubmed",
+    "publicationName": "Cancer medicine",
+    "journalName": "Cancer medicine",
+    "publishedAt": "2026-10-01T00:00:00.000Z",
+    "fetchedAt": "2026-10-15T17:24:37.689Z",
+    "snippet": "Cancer cells within a single pancreatic ductal adenocarcinoma (PDAC) are most often heterogeneous in their expression of the basal or classical transcriptional program. Predominance of the basal subtype has been associated with poorer patient outcomes and increased resistance to chemotherapy. Based on this, we predicted that basal subtype would be enriched....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
