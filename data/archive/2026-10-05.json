@@ -1,15 +1,48 @@
 [
   {
-    "id": "36bf11ea4ce4cec2",
-    "title": "Efficient Generation of Fetal Hepatic Stellate Cells From hiPSC.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42859455",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42859455",
+    "id": "a240bff5ec531968",
+    "title": "HBOCpred: An Ensemble Framework for Prioritisation of Germline Missense Variants in Hereditary Breast and Ovarian Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42884108",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42884108",
     "source": "pubmed",
-    "publicationName": "Bio-protocol",
-    "journalName": "Bio-protocol",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
     "publishedAt": "2026-10-05T00:00:00.000Z",
-    "fetchedAt": "2026-10-13T19:34:45.541Z",
-    "snippet": "Human induced pluripotent stem cell (hiPSC)-derived liver organoids have emerged as valuable models for studying human liver development. However, existing organoid systems often lack developmentally matched cell populations, particularly fetal hepatic stellate cells (HSCs), limiting their ability to recapitulate key developmental processes. Current approac...",
+    "fetchedAt": "2026-10-16T17:00:43.315Z",
+    "snippet": "HBOCpred was developed to support research prioritisation of unresolved germline missense variants in a defined 17-gene study panel. Four calibrated learners provide vote states (V0-V4) and a continuous modified adaptive classifier score (S). The same directional descriptors apply to labelled and unresolved records: unanimous benign/likely benign-directed (...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "4d13f6672ec50709",
+    "title": "Pan-Cancer APOBEC Mutagenesis, Immune Microenvironment, and Clinical Outcome: A Comprehensive Multi-Omics Analysis of All Ten Family Members Across 9653 TCGA Tumors.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42884106",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42884106",
+    "source": "pubmed",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
+    "publishedAt": "2026-10-05T00:00:00.000Z",
+    "fetchedAt": "2026-10-16T17:00:43.315Z",
+    "snippet": "The apolipoprotein B mRNA-editing catalytic polypeptide-like () family comprises ten cytidine deaminases implicated in cancer mutagenesis, yet their broader biological significance remains incompletely understood. We performed an integrated pan-cancer analysis of all tenfamily members across 9653 tumors from 33 cancer types in The Cancer Genome Atlas (TCGA)...",
     "tags": [
       "research",
       "pubmed",
@@ -20,10 +53,13 @@
     "topicBuckets": [
       "computational biology",
       "oncology",
-      "funding"
+      "ai",
+      "funding",
+      "translational medicine",
+      "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 65,
+    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
       "priority topic: computational biology, oncology",

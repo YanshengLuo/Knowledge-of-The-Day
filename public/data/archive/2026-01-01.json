@@ -1,211 +1,34 @@
 [
   {
-    "id": "6ba100c98587a491",
-    "title": "Personalized genomic landscape of prostate cancer in African American men reveals novel drivers and therapeutic opportunities.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42873762",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42873762",
+    "id": "3a4972e0028974e2",
+    "title": "Integrative multi-omics analysis identifies CCDC69 as a marker associated with germinal center B-cell infiltration in TNBC: development and validation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42879643",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42879643",
     "source": "pubmed",
-    "publicationName": "PloS one",
-    "journalName": "PloS one",
+    "publicationName": "Brazilian journal of medical and biological research = Revista brasileira de pesquisas medicas e biologicas",
+    "journalName": "Brazilian journal of medical and biological research = Revista brasileira de pesquisas medicas e biologicas",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-15T17:24:37.689Z",
-    "snippet": "African American (AA) men experience disproportionately high prostate cancer incidence and mortality. Despite this disparity, current genomic repositories are predominantly derived from European populations, and studies using archived tissues are often limited by stromal contamination. We sought to characterize the high-resolution somatic mutational landsca...",
+    "fetchedAt": "2026-10-16T17:00:43.315Z",
+    "snippet": "Although coiled-coil domain containing 69 (CCDC69) has been implicated in tumor biology, its role in triple-negative breast cancer (TNBC) and immune regulation remains unclear. Bulk transcriptomic data, single-cell RNA sequencing datasets, and spatial transcriptomics were used to investigate the role of CCDC69 in TNBC. Germinal center B-cell (GCB) signature...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "3fd4c62442116ae1",
-    "title": "AI-driven multi-omics biomarkers in precision breast cancer therapeutics: from discovery to clinical translation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42871535",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42871535",
-    "source": "pubmed",
-    "publicationName": "Frontiers in pharmacology",
-    "journalName": "Frontiers in pharmacology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-15T17:24:37.689Z",
-    "snippet": "Breast cancer is biologically heterogeneous, yet conventional clinical decisions rely on static, single-marker proxies (ER, PR, HER2, and Ki-67) that capture only a narrow slice of tumor biology. This mini-review argues that AI-driven multi-omics biomarkers offer a valuable shift toward systems-level, model-derived probabilities integrating genomic, transcr...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology",
-      "biomarker"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai",
-      "biotech",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "dd87d6a701118073",
-    "title": "Comprehensive metabolomic characterization of patients with myasthenia gravis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42871075",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42871075",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-15T17:24:37.689Z",
-    "snippet": "Myasthenia gravis (MG) is mediated by abnormal antibody generation and is characterized by muscle weakness and pathological fatigue. However, the accuracy of anti-acetylcholine receptor (AChR) antibody testing for the diagnosis of MG needs improvement. This study was aimed to systematically characterize the plasma metabolome of patients with MG and identify...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "dcce72b970120dbb",
-    "title": "Genetic evidence and multi-omics characterization of DEHP-relevant detoxification and metabolic heterogeneity in hepatocellular carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42871276",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42871276",
-    "source": "pubmed",
-    "publicationName": "Frontiers in toxicology",
-    "journalName": "Frontiers in toxicology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-15T17:24:37.689Z",
-    "snippet": "Human evidence linking di(2-ethylhexyl) phthalate (DEHP) exposure to hepatocellular carcinoma (HCC) is limited, and it remains unclear whether DEHP-relevant detoxification biology captures clinically meaningful HCC heterogeneity. We integrated two-sample Mendelian randomization, proteomic and phosphoproteomic subtyping, bulk, single-cell and spatial transcr...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "computational biology",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "93d8a279252b947f",
-    "title": "Cellular, chromatin-accessibility, and spatial contextualization of bulk transcriptional patterns linked to positive peritoneal cytology in endometrial cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42871041",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42871041",
-    "source": "pubmed",
-    "publicationName": "Frontiers in genetics",
-    "journalName": "Frontiers in genetics",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-15T17:24:37.689Z",
-    "snippet": "Positive peritoneal cytology (PPC) identifies a clinically adverse subset of endometrial cancer, but the tumor transcriptional patterns accompanying PPC and their cellular origins remain incompletely resolved. We evaluated PPC-linked bulk RNA patterns in TCGA-UCEC and contextualized the resulting programs using independent single-cell, chromatin-accessibili...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "spatial",
       "Spatial oncology",
       "spatial transcriptomics",
       "cancer"
     ],
     "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "translational medicine",
       "spatial",
-      "computational biology"
-    ],
-    "isNewToday": false,
-    "importanceSignals": [
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "importanceScore": 68,
-    "isFeatured": true
-  },
-  {
-    "id": "d2a3ce58ff70f7cb",
-    "title": "[The Great Imposter: Three Cases of Inflammatory Bowel Disease Associated with Innate Immune Defects].",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42871851",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42871851",
-    "source": "pubmed",
-    "publicationName": "Acta gastroenterologica Latinoamericana",
-    "journalName": "Acta gastroenterologica Latinoamericana",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-15T17:24:37.689Z",
-    "snippet": "Pediatric inflammatory bowel disease associated with inborn errors of immunity represents a diagnostic and therapeutic challenge, particularly in cases of early-onset, severe disease, extraintestinal manifestations, or refractoriness to treatment. We present three pediatric cases with an aggressive clinical course, multisystemic involvement, and an inadequa...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
+      "oncology",
+      "computational biology",
       "ai",
-      "translational medicine"
+      "single-cell",
+      "immunology"
     ],
     "isNewToday": false,
     "importanceScore": 68,
     "importanceSignals": [
-      "priority topic: gene therapy, ai",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -213,33 +36,34 @@
     "isFeatured": true
   },
   {
-    "id": "62f90916df9170aa",
-    "title": "The gut microbiome and metabolome of people living with HIV altered during treatment.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42871189",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42871189",
+    "id": "e3a545dc4961cd2c",
+    "title": "Loss of CLIC3 in CD8cytotoxic T lymphocytes is associated with immune dysfunction and poor prognosis in lung adenocarcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42877053",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42877053",
     "source": "pubmed",
-    "publicationName": "Frontiers in microbiology",
-    "journalName": "Frontiers in microbiology",
+    "publicationName": "Frontiers in oncology",
+    "journalName": "Frontiers in oncology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-15T17:24:37.689Z",
-    "snippet": "Despite effective viral suppression with antiretroviral therapy (ART), people living with HIV (PLWH) often experience persistent immune activation and incomplete immune reconstitution. Gut barrier disruption and gut microbial dysbiosis contribute to chronic inflammation in PLWH. Shen Ling Ai Cao pill (SLAC) may have immunomodulatory effects, however, change...",
+    "fetchedAt": "2026-10-16T17:00:43.315Z",
+    "snippet": "Lung adenocarcinoma (LUAD) is the most common histological subtype of lung cancer, with a dismal prognosis partly attributed to immune evasion mediated by T cell dysfunction within the tumor microenvironment. However, the molecular determinants governing CD8cytotoxic T lymphocyte functional competence remain incompletely understood. Chloride intracellular c...",
     "tags": [
       "research",
       "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
     ],
     "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai"
+      "spatial",
+      "oncology",
+      "computational biology",
+      "ai",
+      "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 58,
+    "importanceScore": 68,
     "importanceSignals": [
-      "priority topic: gene therapy, ai",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"

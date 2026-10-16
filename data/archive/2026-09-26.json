@@ -1,37 +1,77 @@
 [
   {
-    "id": "954fc459ab84ef8f",
-    "title": "Variant-Specific Rewiring of Lysosomal Positioning by STARD9 Produces Opposite Cholesterol Trafficking Outcomes.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42818073",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42818073",
+    "id": "8fedb7bea2a3b3eb",
+    "title": "Deoxythymidylate Kinase (DTYMK)-Driven Pyrimidine Hypermetabolism Is Associated with a Folate-Dependent Macrophage Programme in Triple-Negative Breast Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883873",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42883873",
     "source": "pubmed",
-    "publicationName": "bioRxiv : the preprint server for biology",
-    "journalName": "bioRxiv : the preprint server for biology",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
     "publishedAt": "2026-09-26T00:00:00.000Z",
-    "fetchedAt": "2026-10-01T18:35:32.770Z",
-    "snippet": "Residual cardiovascular risk persists despite lipid-lowering therapy, independent of LDL and Lp(a), reflecting cholesterol dysregulation. We identify STARD9, a lysosomal cholesterol-sensing kinesin, as a causal gene for divergent familial dyslipidemias and premature atherosclerosis. Its START domain binds cholesterol to govern lysosomal positioning. Rare va...",
+    "fetchedAt": "2026-10-16T17:00:43.315Z",
+    "snippet": "Immune checkpoint blockade benefits only a minority of patients with triple-negative breast cancer (TNBC), and the tumour-intrinsic programmes that establish its immunosuppressive microenvironment remain poorly defined. Pyrimidine metabolism supplies nucleotides and one-carbon units in malignant cells, but whether it shapes the immune microenvironment is un...",
     "tags": [
       "research",
       "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
     ],
     "topicBuckets": [
-      "gene therapy",
+      "single-cell",
+      "oncology",
       "immunology",
-      "ai"
+      "ai",
+      "spatial",
+      "computational biology"
     ],
     "isNewToday": false,
-    "importanceScore": 72,
     "importanceSignals": [
-      "recent",
-      "priority topic: gene therapy, ai",
+      "published this month",
+      "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
+    "importanceScore": 75,
+    "isFeatured": false
+  },
+  {
+    "id": "48d69c761c83c3c1",
+    "title": "Uncovering Immune Cell-Specific lncRNAs as Anti-PD-1 Response-Associated Markers in Breast Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883853",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42883853",
+    "source": "pubmed",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
+    "publishedAt": "2026-09-26T00:00:00.000Z",
+    "fetchedAt": "2026-10-16T17:00:43.315Z",
+    "snippet": "Long non-coding RNAs (lncRNAs) are critical regulators of the tumor microenvironment (TME); however, their cell-specific roles in predicting immunotherapy response in breast cancer (BC) remain poorly understood. This study aimed to identify immune cell-specific lncRNA signatures associated with potential pembrolizumab responsiveness by analyzing single-cell...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
   }
 ]
