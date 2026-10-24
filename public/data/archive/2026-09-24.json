@@ -1,173 +1,32 @@
 [
   {
-    "id": "71643ad4305928f1",
-    "title": "MCOF: A Multi-Channel Attention-Based Omics Fusion Framework for Cancer Subtyping and Candidate Biomarker Prioritization.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42883767",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42883767",
+    "id": "17e093b2b05e8206",
+    "title": "Stepwise pairing and fast transition regulated by recombination drive meiotic chromosome interactions.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42918807",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42918807",
     "source": "pubmed",
-    "publicationName": "International journal of molecular sciences",
-    "journalName": "International journal of molecular sciences",
+    "publicationName": "Nature communications",
+    "journalName": "Nature communications",
     "publishedAt": "2026-09-24T00:00:00.000Z",
-    "fetchedAt": "2026-10-16T17:00:43.315Z",
-    "snippet": "Multi-omics molecular subtyping is complicated by small cohorts, heterogeneous data layers, and sensitivity to data splitting and feature selection. We developed multi-channel attention-based omics fusion (MCOF), an end-to-end framework that combines omics-specific projection, one-dimensional convolution, and integrated gradients for candidate biomarker pri...",
+    "fetchedAt": "2026-10-24T16:17:25.839Z",
+    "snippet": "Maternal and paternal homologous chromosomes recognize each other and pair during meiosis to ensure accurate chromosome segregation. However, the mechanisms that drive chromosome pairing and their regulation remain poorly understood. To investigate this, we develop a fluorescence reporter-operator system based on the lac operator-lac repressor system, enabl...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "spatial",
       "oncology",
-      "biomarker"
-    ],
-    "topicBuckets": [
       "computational biology",
-      "oncology",
-      "translational medicine"
+      "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
+    "importanceScore": 68,
     "importanceSignals": [
-      "published this month",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "ef8faafc306e2876",
-    "title": "Identification of a Conserved Temporal Molecular Response Signature to CDK4/6 Inhibition Through Multi-Omics Integration Across Cancer Cell Lines.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42883756",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42883756",
-    "source": "pubmed",
-    "publicationName": "International journal of molecular sciences",
-    "journalName": "International journal of molecular sciences",
-    "publishedAt": "2026-09-24T00:00:00.000Z",
-    "fetchedAt": "2026-10-16T17:00:43.315Z",
-    "snippet": "Treatment of metastatic breast cancer with CDK4/6 inhibitors in combination with hormone ablation is the current first-line standard of care for this indication, and the therapeutic activity of these inhibitors has been demonstrated in various tumor entities. However, the efficacy of CDK4/6 inhibitor monotherapy is limited and requires combination with suit...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 65,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "6e12f7ee89fb6c35",
-    "title": "O-GlcNAcylated TCF4 Drives Ferroptosis Resistance and Tumor-Associated Macrophage Infiltration to Promote Colorectal Cancer Liver Metastasis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42882800",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42882800",
-    "source": "pubmed",
-    "publicationName": "Cancers",
-    "journalName": "Cancers",
-    "publishedAt": "2026-09-24T00:00:00.000Z",
-    "fetchedAt": "2026-10-16T17:00:43.315Z",
-    "snippet": ": Colorectal cancer liver metastasis (CRLM) remains a major cause of mortality in colorectal cancer (CRC), while the upstream molecular mechanisms linking tumor cell adaptation and immune microenvironment remodeling remain poorly understood.: By integrating single-cell RNA sequencing, multi-omics analysis, clinical cohorts, and functional experiments, we in...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "computational biology",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "a7ddd85be69f370b",
-    "title": "A ZIP-Active Tumor Cell State Defines an NRF2-Associated Ferroptosis-Resistant and Immune-Cold Transcriptional Program in Head and Neck Squamous Cell Carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42882799",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42882799",
-    "source": "pubmed",
-    "publicationName": "Cancers",
-    "journalName": "Cancers",
-    "publishedAt": "2026-09-24T00:00:00.000Z",
-    "fetchedAt": "2026-10-16T17:00:43.315Z",
-    "snippet": ": Zinc homeostasis has emerged as an important regulator of cancer biology, yet the biological and clinical significance of zinc transporter-associated transcriptional programs in head and neck squamous cell carcinoma (HNSCC) remains poorly understood. This study aimed to identify zinc transporter-associated epithelial tumor cell states and evaluate their m...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "3bf3ec57d856df07",
-    "title": "Longitudinal Association Between the Change in Serum Procollagen Type III-Terminal Peptide (PIIINP) and Skeletal Muscle Loss in Patients with Gastrointestinal Cancer Receiving Chemotherapy: A Prospective Cohort Study.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42884599",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42884599",
-    "source": "pubmed",
-    "publicationName": "Nutrients",
-    "journalName": "Nutrients",
-    "publishedAt": "2026-09-24T00:00:00.000Z",
-    "fetchedAt": "2026-10-16T17:00:43.315Z",
-    "snippet": "Sarcopenia predicts increased morbidity and mortality in gastrointestinal (GI) cancer. This study evaluated the longitudinal association between changes in the skeletal muscle index (SMI) and serum procollagen type III-terminal peptide (PIIINP), together with sarcopenia and malnutrition screening tools (SARC-F, SARC-CalF, MUST), during chemotherapy for GI c...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 65,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: translational medicine, oncology",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
