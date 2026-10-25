@@ -1,68 +1,35 @@
 [
   {
-    "id": "a240bff5ec531968",
-    "title": "HBOCpred: An Ensemble Framework for Prioritisation of Germline Missense Variants in Hereditary Breast and Ovarian Cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42884108",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42884108",
+    "id": "5cdff97f32c0ef65",
+    "title": "Single-Cell Multiplex Immune Biomarker Prediction from Histopathology Across Cancer Types and Clinical Endpoints.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42926687",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42926687",
     "source": "pubmed",
-    "publicationName": "International journal of molecular sciences",
-    "journalName": "International journal of molecular sciences",
+    "publicationName": "Research square",
+    "journalName": "Research square",
     "publishedAt": "2026-10-05T00:00:00.000Z",
-    "fetchedAt": "2026-10-17T15:59:29.203Z",
-    "snippet": "HBOCpred was developed to support research prioritisation of unresolved germline missense variants in a defined 17-gene study panel. Four calibrated learners provide vote states (V0-V4) and a continuous modified adaptive classifier score (S). The same directional descriptors apply to labelled and unresolved records: unanimous benign/likely benign-directed (...",
+    "fetchedAt": "2026-10-25T16:52:11.428Z",
+    "snippet": "Background The spatial organization of cellular lineages within the tumor microenvironment governs disease progression and therapeutic response, but multiplexed spatial profiling remains costly, technically complex, and tissue-destructive. Routine hematoxylin and eosin (H&E) histopathology is inexpensive and widely available but lacks explicit molecular inf...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "biomarker"
     ],
     "topicBuckets": [
-      "computational biology",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 65,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "4d13f6672ec50709",
-    "title": "Pan-Cancer APOBEC Mutagenesis, Immune Microenvironment, and Clinical Outcome: A Comprehensive Multi-Omics Analysis of All Ten Family Members Across 9653 TCGA Tumors.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42884106",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42884106",
-    "source": "pubmed",
-    "publicationName": "International journal of molecular sciences",
-    "journalName": "International journal of molecular sciences",
-    "publishedAt": "2026-10-05T00:00:00.000Z",
-    "fetchedAt": "2026-10-17T15:59:29.203Z",
-    "snippet": "The apolipoprotein B mRNA-editing catalytic polypeptide-like () family comprises ten cytidine deaminases implicated in cancer mutagenesis, yet their broader biological significance remains incompletely understood. We performed an integrated pan-cancer analysis of all tenfamily members across 9653 tumors from 33 cancer types in The Cancer Genome Atlas (TCGA)...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
+      "single-cell",
       "oncology",
+      "immunology",
       "ai",
-      "funding",
-      "translational medicine",
-      "immunology"
+      "translational medicine"
     ],
     "isNewToday": false,
     "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: computational biology, oncology",
+      "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
