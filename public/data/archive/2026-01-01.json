@@ -1,5 +1,40 @@
 [
   {
+    "id": "c4d30818932875e7",
+    "title": "Cross-lineage anomaly detection of microRNA expression: a framework for deriving exploratory candidate biomarkers in sarcoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42928931",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42928931",
+    "source": "pubmed",
+    "publicationName": "Frontiers in genetics",
+    "journalName": "Frontiers in genetics",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-10-26T18:53:33.994Z",
+    "snippet": "Sarcomas are rare, heterogeneous malignancies of mesenchymal origin whose diagnosis and molecular classification remain challenging. We introduced a oneclass anomaly detection framework to microRNA expression profiles to test whether sarcoma-associated miRNA features are distinguishable from those of epithelial, haematological, and neurological cancers and....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "biomarker"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
     "id": "661d27c5795f05da",
     "title": "A bibliometric evolution of molecular mechanisms and emerging research trends of therapeutic resistance in oral cancer.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42924173",
@@ -8,7 +43,7 @@
     "publicationName": "Journal of dental sciences",
     "journalName": "Journal of dental sciences",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-25T16:52:11.428Z",
+    "fetchedAt": "2026-10-26T18:53:33.994Z",
     "snippet": "Drug resistance has served as a primary determinant of treatment failure and disease recurrence in oral cancer. The present study aimed to evaluate the global research landscape of drug resistance mechanisms in oral cancer by integrating bibliometric mapping with bioinformatic validation. A comprehensive dataset of 1660 publications was retrieved from the S...",
     "tags": [
       "research",
@@ -41,7 +76,7 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-25T16:52:11.428Z",
+    "fetchedAt": "2026-10-26T18:53:33.994Z",
     "snippet": "Intrahepatic cholangiocarcinoma (ICC) exhibits substantial cellular heterogeneity and a complex tumor microenvironment (TME), contributing to poor clinical outcomes. Effective prognostic biomarkers and a deeper understanding of the cellular ecosystems associated with high-risk disease remain urgently needed. We integrated five scRNA-seq datasets from GEO wi...",
     "tags": [
       "research",
@@ -52,8 +87,6 @@
       "single-cell",
       "spatial",
       "machine learning",
-      "Single-cell TME",
-      "tumor microenvironment",
       "Spatial oncology",
       "spatial transcriptomics",
       "cancer"
@@ -64,7 +97,6 @@
       "ai",
       "single-cell",
       "translational medicine",
-      "immunology",
       "spatial"
     ],
     "isNewToday": false,
@@ -86,7 +118,7 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-25T16:52:11.428Z",
+    "fetchedAt": "2026-10-26T18:53:33.994Z",
     "snippet": "Oral squamous cell carcinoma (OSCC) is characterized by inter- and intratumoral heterogeneity, which complicates patient stratification and treatment. Although single-cell studies have improved the resolution of the OSCC microenvironment, the relationships among cellular states, spatial organization, immune-repertoire dynamics, and patient-level ecosystem p...",
     "tags": [
       "research",
@@ -117,127 +149,23 @@
     "isFeatured": false
   },
   {
-    "id": "6f5ec8115857d46c",
-    "title": "Histone modifications in laryngeal squamous cell carcinoma: from epigenetic reprogramming to precision therapy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42923756",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42923756",
+    "id": "c7d0f975123ef44c",
+    "title": "Development and External Validation of an M2 Macrophage-Related Prognostic Signature in Breast Cancer Using Multi-Omics Data and Machine Learning.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42928788",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42928788",
     "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
+    "publicationName": "Breast cancer (Dove Medical Press)",
+    "journalName": "Breast cancer (Dove Medical Press)",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-25T16:52:11.428Z",
-    "snippet": "Laryngeal squamous cell carcinoma (LSCC) is a common malignancy of the head and neck, accounting for the vast majority of laryngeal cancers. Its development involves complex interactions between genetic and epigenetic alterations. Histone post-translational modifications, as a crucial regulatory layer linking intracellular metabolic states, oncogenic signal...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: oncology, translational medicine",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "6b4191e849ddaad2",
-    "title": "Chemokine-receptor axes in immune-tumor cell communication: spatial niches, immune exclusion, and therapy resistance.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42921511",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42921511",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-25T16:52:11.428Z",
-    "snippet": "Chemokine-receptor axes are traditionally viewed as leukocyte trafficking cues, but increasing evidence indicates that they also function as spatial and functional organizers of immune-tumor communication. In the tumor microenvironment, chemokine gradients determine which immune-cell subsets are recruited, where they are positioned, and whether they acquire...",
+    "fetchedAt": "2026-10-26T18:53:33.994Z",
+    "snippet": "Tumor-associated macrophages (TAMs), particularly the M2-like phenotype, are central regulators of breast cancer progression; however, clinically applicable models capturing their functional heterogeneity and biological mechanisms remain limited. We integrated single-cell RNA sequencing, spatial transcriptomics, and bulk RNA-seq data to construct an M2 macr...",
     "tags": [
       "research",
       "pubmed",
       "Single-cell TME",
       "single-cell",
       "tumor microenvironment",
-      "spatial"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 48,
-    "importanceSignals": [
-      "priority topic: oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "39567c12269d5d49",
-    "title": "Autonomous AI research agents in pancreatic ductal adenocarcinoma immunology: from multimodal evidence to experimental validation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42921155",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42921155",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-25T16:52:11.428Z",
-    "snippet": "Pancreatic ductal adenocarcinoma (PDAC) remains one of the most challenging malignancies due to profound biological heterogeneity, complex stromal organization, and limited responsiveness to current immunotherapies. Recent advances in single-cell sequencing, spatial omics, digital pathology, and multimodal profiling have revealed that PDAC immune states are...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "computational biology",
-      "spatial"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "062a6445cdf5a907",
-    "title": "Tumor-associated macrophages in glioblastoma: implications for immunotherapy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42921135",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42921135",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-25T16:52:11.428Z",
-    "snippet": "Glioblastoma, IDH-wildtype, CNS WHO grade 4 (GBM) is the most aggressive primary malignant brain tumor in adults, with a median overall survival of approximately 15 months despite maximal surgical resection, radiotherapy, and chemotherapy with temozolomide. This therapeutic resistance is increasingly attributed to the immunosuppressive tumor microenvironmen...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "immunotherapy",
+      "machine learning",
       "Spatial oncology",
       "spatial transcriptomics",
       "cancer"
@@ -247,8 +175,9 @@
       "oncology",
       "immunology",
       "ai",
+      "computational biology",
       "spatial",
-      "computational biology"
+      "translational medicine"
     ],
     "isNewToday": false,
     "importanceSignals": [
@@ -258,180 +187,6 @@
       "rich metadata"
     ],
     "importanceScore": 68,
-    "isFeatured": true
-  },
-  {
-    "id": "1eb307c63607ae9b",
-    "title": "Biomarker-guided immunotherapy in osteosarcoma: from immune microenvironment profiling to patient stratification and combination strategies.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42920922",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42920922",
-    "source": "pubmed",
-    "publicationName": "Frontiers in medicine",
-    "journalName": "Frontiers in medicine",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-25T16:52:11.428Z",
-    "snippet": "Osteosarcoma remains a therapeutically difficult malignancy, particularly after metastatic relapse, and immune checkpoint blockade or adoptive cell therapy has not reproduced the durable responses achieved in more immunogenic cancers. The central translational problem is not a complete absence of immune activity, but marked interpatient, intratumoral, and s...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "biomarker",
-      "immunotherapy"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "gene therapy",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "433587452e7ee8c1",
-    "title": "ameliorates complete freund adjuvant-induced rheumatoid arthritis through modulating the gut-joint axis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42923033",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42923033",
-    "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-25T16:52:11.428Z",
-    "snippet": "Although(TW) is a classical Chinese herbal medicine for the treatment of rheumatoid arthritis (RA), the mechanism by which it alleviates inflammation through modulation of the gut microbiota remains unclear. To elucidate the mechanism underlying the therapeutic effects of TW on RA, we first employed network pharmacology to predict the relevant pathways and....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "7a32efdb545167e5",
-    "title": "Progress on therapeutic mRNA vaccines for cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42920849",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42920849",
-    "source": "pubmed",
-    "publicationName": "Frontiers in oncology",
-    "journalName": "Frontiers in oncology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-25T16:52:11.428Z",
-    "snippet": "Therapeutic mRNA vaccines are a clinically validated cancer immunotherapy platform usingtranscribed mRNA encoding tumor antigens to induce durable anti-tumor immunity. Advances in mRNA engineering, lipid nanoparticle (LNP) delivery, and immunomodulatory combinations have propelled this approach from preclinical models to randomized trials with survival bene...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "oncology",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: gene therapy, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "086b50309757ece4",
-    "title": "A SynNotch-PiggyBac gene circuit for inflammation-responsive IL-10 delivery in Alzheimer's disease: a hypothesis and design framework.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42920686",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42920686",
-    "source": "pubmed",
-    "publicationName": "Frontiers in aging neuroscience",
-    "journalName": "Frontiers in aging neuroscience",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-25T16:52:11.428Z",
-    "snippet": "Chronic neuroinflammation driven by sustained microglial and astrocyte activation contributes to Alzheimer's disease progression, yet no therapeutic strategy addresses it with precision or durability in the brain. Interleukin-10 occupies an unresolved position in this problem. Constitutive interleukin-10 overexpression in amyloid precursor protein transgeni...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "448f7d1f3de7aefa",
-    "title": "Influence of yoga on the epigenetics of obesity: a study on its short- and medium-term benefits in the treatment of patients with severe/morbid obesity eligible for bariatric surgery.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42920517",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42920517",
-    "source": "pubmed",
-    "publicationName": "Frontiers in public health",
-    "journalName": "Frontiers in public health",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-25T16:52:11.428Z",
-    "snippet": "Obesity is a growing global health problem characterised by chronic low-grade inflammation and epigenetic dysregulation. Epigenetic mechanisms-potentially reversible changes in gene expression occurring without alteration of the DNA sequence, most notably DNA methylation-are increasingly implicated in obesity-related inflammation. Yoga may act as complement...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 48,
-    "importanceSignals": [
-      "priority topic: gene therapy",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
     "isFeatured": true
   },
   {
@@ -443,7 +198,7 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-25T16:52:11.428Z",
+    "fetchedAt": "2026-10-26T18:53:33.994Z",
     "snippet": "Osteoarthritis (OA) has traditionally been regarded as a degenerative joint disorder characterized primarily by cartilage erosion. However, growing evidence suggests that OA is a disorder of maladaptive whole-joint remodeling in which fibrotic remodeling represents an important yet underappreciated contributor to disease progression. Fibrotic remodeling is....",
     "tags": [
       "research",
@@ -469,35 +224,34 @@
     "isFeatured": true
   },
   {
-    "id": "58d8b1f31abe4609",
-    "title": "Machine learning-derived intracellular protein-based prognostic model reflecting a senescence-associated secretory phenotype-driven immunosuppressive microenvironment in lung adenocarcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42927379",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42927379",
+    "id": "062a6445cdf5a907",
+    "title": "Tumor-associated macrophages in glioblastoma: implications for immunotherapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42921135",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42921135",
     "source": "pubmed",
-    "publicationName": "PeerJ",
-    "journalName": "PeerJ",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-25T16:52:11.428Z",
-    "snippet": "This study aimed to investigate the associations of senescence-associated secretory phenotype (SASP)-related genes with the tumor immune microenvironment (TIME) and clinical outcomes in lung adenocarcinoma (LUAD) and to develop and evaluate a prognostic signature for risk stratification and exploratory treatment-response prediction. Non-negative matrix fact...",
+    "fetchedAt": "2026-10-26T18:53:33.994Z",
+    "snippet": "Glioblastoma, IDH-wildtype, CNS WHO grade 4 (GBM) is the most aggressive primary malignant brain tumor in adults, with a median overall survival of approximately 15 months despite maximal surgical resection, radiotherapy, and chemotherapy with temozolomide. This therapeutic resistance is increasingly attributed to the immunosuppressive tumor microenvironmen...",
     "tags": [
       "research",
       "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology",
-      "machine learning"
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "immunotherapy"
     ],
     "topicBuckets": [
-      "translational medicine",
+      "spatial",
       "oncology",
-      "ai",
-      "immunology"
+      "computational biology",
+      "ai"
     ],
     "isNewToday": false,
     "importanceScore": 68,
     "importanceSignals": [
-      "priority topic: translational medicine, oncology",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"

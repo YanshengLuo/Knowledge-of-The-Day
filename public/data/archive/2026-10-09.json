@@ -8,7 +8,7 @@
     "publicationName": "BMC cancer",
     "journalName": "BMC cancer",
     "publishedAt": "2026-10-09T00:00:00.000Z",
-    "fetchedAt": "2026-10-25T16:52:11.428Z",
+    "fetchedAt": "2026-10-26T18:53:33.994Z",
     "snippet": "Esophageal squamous cell carcinoma (ESCC) features a poor prognosis and unclear pathogenesis, and the role of R-loops, key regulators of genome stability, has not been systematically characterized in this disease. Transcriptomic and single-cell RNA sequencing data of ESCC were integrated with published R-loop-related genes (RLRGs) to construct an RLRG scori...",
     "tags": [
       "research",
@@ -18,17 +18,13 @@
       "oncology",
       "Single-cell TME",
       "single-cell",
-      "tumor microenvironment",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification"
+      "tumor microenvironment"
     ],
     "topicBuckets": [
       "computational biology",
       "oncology",
       "single-cell",
-      "immunology",
-      "translational medicine"
+      "immunology"
     ],
     "isNewToday": false,
     "importanceSignals": [
@@ -38,7 +34,111 @@
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 75,
+    "importanceScore": 65,
     "isFeatured": true
+  },
+  {
+    "id": "5be35382607e4da3",
+    "title": "Extrachromosomal DNA: A New Therapeutic Frontier for Overcoming Cancer Drug Resistance.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42929807",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42929807",
+    "source": "pubmed",
+    "publicationName": "Cells",
+    "journalName": "Cells",
+    "publishedAt": "2026-10-09T00:00:00.000Z",
+    "fetchedAt": "2026-10-26T18:53:33.994Z",
+    "snippet": "Extrachromosomal DNAs (ecDNAs) are acentric circular DNA molecules that frequently harbor amplified oncogenes and their regulatory elements. Although ecDNAs occur at low levels in normal cells, oncogenic ecDNAs are enriched in cancer, where they promote tumor evolution, intratumoral heterogeneity, and therapeutic resistance. Advances in long-read sequencing...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 55,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "19e2c5d29bbfcdce",
+    "title": "Olink Platform-Based Identification of Peripheral Blood Biomarkers for irAEs in Advanced NSCLC.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42930174",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42930174",
+    "source": "pubmed",
+    "publicationName": "Current oncology (Toronto, Ont.)",
+    "journalName": "Current oncology (Toronto, Ont.)",
+    "publishedAt": "2026-10-09T00:00:00.000Z",
+    "fetchedAt": "2026-10-26T18:53:33.994Z",
+    "snippet": "Lung cancer is the leading cause of cancer-related mortality worldwide. Immunotherapy has transformed the treatment landscape for advanced non-small cell lung cancer (NSCLC). However, immune-related adverse events (irAEs) represent a major clinical challenge during immunotherapy. These events can affect any organ system, and severe irAEs may necessitate tre...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "6b4e4a9c18e981c9",
+    "title": "Circulating Tumor DNA (ctDNA) for Minimal Residual Disease (MRD) Detection in Colorectal Cancer (CRC): Current Evidence, Clinical Applications, and Future Directions.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42930172",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42930172",
+    "source": "pubmed",
+    "publicationName": "Current oncology (Toronto, Ont.)",
+    "journalName": "Current oncology (Toronto, Ont.)",
+    "publishedAt": "2026-10-09T00:00:00.000Z",
+    "fetchedAt": "2026-10-26T18:53:33.994Z",
+    "snippet": "Minimal residual disease (MRD) is a major contributor to colorectal cancer (CRC) recurrence following curative-intent treatment, yet conventional surveillance methods may fail to detect residual disease at its earliest stages. Circulating tumor DNA (ctDNA) has emerged as a minimally invasive biomarker for MRD detection and postoperative monitoring. We condu...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
   }
 ]
