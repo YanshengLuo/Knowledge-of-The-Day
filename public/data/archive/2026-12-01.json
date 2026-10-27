@@ -1,71 +1,32 @@
 [
   {
-    "id": "03bb9e109fcd942b",
-    "title": "Transcription factors in liver fibrosis: Mechanistic insights and nanotechnology&#x2011;driven therapeutic strategies (Review).",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42924606",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42924606",
+    "id": "1061436a28571900",
+    "title": "xNNPCD identifies regulators of programmed cell death by integrating perturbation transcriptomes with cancer dependency profiles.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42936269",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42936269",
     "source": "pubmed",
-    "publicationName": "International journal of molecular medicine",
-    "journalName": "International journal of molecular medicine",
+    "publicationName": "NAR cancer",
+    "journalName": "NAR cancer",
     "publishedAt": "2026-12-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-26T18:53:33.994Z",
-    "snippet": "Liver fibrosis, a common pathological outcome of chronic liver diseases, is a dynamic process characterized by molecular and cell interactions. Transcription factors (TFs) are key in modulating gene expression programs that govern hepatocyte fate, metabolic homeostasis, inflammation and extracellular matrix remodeling. In hepatocytes, TFs such as hepatocyte...",
+    "fetchedAt": "2026-10-27T18:23:26.979Z",
+    "snippet": "Programmed cell death (PCD) encompasses regulated processes whose dysregulation shapes cancer fitness, yet computational studies use known PCD genes for prognosis rather than discovering regulators. We developed xNNPCD, an interpretable neural-network framework that links CRISPR-Cas9 perturbation signatures from CMap to gene dependency profiles from DepMap....",
     "tags": [
       "research",
       "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "computational biology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "very recent",
-      "priority topic: gene therapy, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "d923ce174988865a",
-    "title": "Bulk and single-cell analysis of FAM72D reveals its prognostic and functional relevance in hepatocellular carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42921007",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42921007",
-    "source": "pubmed",
-    "publicationName": "Oncology letters",
-    "journalName": "Oncology letters",
-    "publishedAt": "2026-12-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-26T18:53:33.994Z",
-    "snippet": "Family with sequence similarity 72 member D (FAM72D) has been implicated in proliferative programs in several malignancies, but its clinical significance, cellular distribution and underlying biological programs in hepatocellular carcinoma (HCC) remain insufficiently characterized. FAM72D expression and its clinical relevance were evaluated using The Cancer...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "single-cell"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
+      "Computational oncology",
       "computational biology",
-      "ai",
-      "single-cell",
-      "translational medicine"
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "gene therapy"
     ],
     "isNewToday": false,
     "importanceScore": 92,
     "importanceSignals": [
       "very recent",
-      "priority topic: oncology, computational biology",
+      "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"

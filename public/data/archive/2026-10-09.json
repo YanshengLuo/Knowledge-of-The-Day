@@ -1,32 +1,29 @@
 [
   {
-    "id": "a77788104bcaf251",
-    "title": "An R-loop-related gene signature predicts prognosis and shapes the immune microenvironment in esophageal squamous cell carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42926202",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42926202",
+    "id": "0993ebb69186c5c3",
+    "title": "Selenium Nanoparticles Functionalized with Tumor-Targeting Peptides for Lung Cancer Therapy: A Comprehensive Review.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42943298",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42943298",
     "source": "pubmed",
-    "publicationName": "BMC cancer",
-    "journalName": "BMC cancer",
+    "publicationName": "Pharmaceuticals (Basel, Switzerland)",
+    "journalName": "Pharmaceuticals (Basel, Switzerland)",
     "publishedAt": "2026-10-09T00:00:00.000Z",
-    "fetchedAt": "2026-10-26T18:53:33.994Z",
-    "snippet": "Esophageal squamous cell carcinoma (ESCC) features a poor prognosis and unclear pathogenesis, and the role of R-loops, key regulators of genome stability, has not been systematically characterized in this disease. Transcriptomic and single-cell RNA sequencing data of ESCC were integrated with published R-loop-related genes (RLRGs) to construct an RLRG scori...",
+    "fetchedAt": "2026-10-27T18:23:26.979Z",
+    "snippet": "Lung cancer is among the most fatal malignancies worldwide, with approximately 85% of diagnosed cases being non-small-cell lung cancer (NSCLC). Despite the considerable progress in surgical, chemotherapeutic, radiotherapeutic, and immunological treatments, the prognosis of NSCLC remains poor due to late-stage diagnosis, molecular heterogeneity, treatment re...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
-      "oncology",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
+      "oncology"
     ],
     "topicBuckets": [
       "computational biology",
       "oncology",
-      "single-cell",
-      "immunology"
+      "ai"
     ],
     "isNewToday": false,
+    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
       "priority topic: computational biology, oncology",
@@ -34,20 +31,93 @@
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 65,
     "isFeatured": true
   },
   {
-    "id": "5be35382607e4da3",
-    "title": "Extrachromosomal DNA: A New Therapeutic Frontier for Overcoming Cancer Drug Resistance.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42929807",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42929807",
+    "id": "01ac6d5c059bec8f",
+    "title": "ReCAST: Single-Cell-Informed Tumour Microenvironment Profiling for Translational Prognostic Assessment in Esophageal Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42940104",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42940104",
     "source": "pubmed",
-    "publicationName": "Cells",
-    "journalName": "Cells",
+    "publicationName": "Biomedicines",
+    "journalName": "Biomedicines",
     "publishedAt": "2026-10-09T00:00:00.000Z",
-    "fetchedAt": "2026-10-26T18:53:33.994Z",
-    "snippet": "Extrachromosomal DNAs (ecDNAs) are acentric circular DNA molecules that frequently harbor amplified oncogenes and their regulatory elements. Although ecDNAs occur at low levels in normal cells, oncogenic ecDNAs are enriched in cancer, where they promote tumor evolution, intratumoral heterogeneity, and therapeutic resistance. Advances in long-read sequencing...",
+    "fetchedAt": "2026-10-27T18:23:26.979Z",
+    "snippet": "Single-cell transcriptomics provides detailed maps of the tumour microenvironment, but translating these maps to large clinical cohorts requires methods that can recover biologically meaningful cell states from routinely available bulk transcriptomes and establish whether these states provide information beyond standard clinical factors. The objective of th...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai",
+      "computational biology",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "1637c4b5eae85ea8",
+    "title": "Integrated Multi-Omics Characterization ofReveals Cancer-Specific Molecular, Clinical, Immune, and Cellular Associations.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42939584",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42939584",
+    "source": "pubmed",
+    "publicationName": "Current issues in molecular biology",
+    "journalName": "Current issues in molecular biology",
+    "publishedAt": "2026-10-09T00:00:00.000Z",
+    "fetchedAt": "2026-10-27T18:23:26.979Z",
+    "snippet": "encodes a WASH-complex scaffold implicated in actin remodeling, endosomal organization, and intracellular trafficking, yet its cancer-specific molecular and clinical relevance remains insufficiently defined, particularly in the context of the closely related paralogue. An integrated pan-cancer multi-omics analysis was performed incorporating transcriptomic....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai",
+      "computational biology",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "3f488a760dcf7a4a",
+    "title": "Molecular Landscape of Classical Hodgkin Lymphoma: From Genetic Lesions to Biologically Defined Subtypes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42938794",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42938794",
+    "source": "pubmed",
+    "publicationName": "Cancers",
+    "journalName": "Cancers",
+    "publishedAt": "2026-10-09T00:00:00.000Z",
+    "fetchedAt": "2026-10-27T18:23:26.979Z",
+    "snippet": "Hodgkin lymphoma (HL) represents a unique lymphoid malignancy characterized by the presence of rare malignant Hodgkin and Reed-Sternberg (HRS) cells embedded within a highly complex and immunologically active tumor microenvironment. Over the past decade, advances in genomic and transcriptomic technologies have substantially refined the understanding of HL p...",
     "tags": [
       "research",
       "pubmed",
@@ -69,37 +139,37 @@
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": false
+    "isFeatured": true
   },
   {
-    "id": "19e2c5d29bbfcdce",
-    "title": "Olink Platform-Based Identification of Peripheral Blood Biomarkers for irAEs in Advanced NSCLC.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42930174",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42930174",
+    "id": "e6537b9a11f0dd81",
+    "title": "The 3' UTR Pseudoknot-Containing Region of Arteriviruses Acts as a PAMP to Activate RIG-I- and TLR8-Dependent Type I Interferon Responses.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42944037",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42944037",
     "source": "pubmed",
-    "publicationName": "Current oncology (Toronto, Ont.)",
-    "journalName": "Current oncology (Toronto, Ont.)",
+    "publicationName": "Viruses",
+    "journalName": "Viruses",
     "publishedAt": "2026-10-09T00:00:00.000Z",
-    "fetchedAt": "2026-10-26T18:53:33.994Z",
-    "snippet": "Lung cancer is the leading cause of cancer-related mortality worldwide. Immunotherapy has transformed the treatment landscape for advanced non-small cell lung cancer (NSCLC). However, immune-related adverse events (irAEs) represent a major clinical challenge during immunotherapy. These events can affect any organ system, and severe irAEs may necessitate tre...",
+    "fetchedAt": "2026-10-27T18:23:26.979Z",
+    "snippet": "Porcine reproductive and respiratory syndrome virus (PRRSV) and other members of the Arteriviridae family cause substantial economic losses in livestock. However, their pathogen-associated molecular patterns (PAMPs) remain poorly characterized. Here, we investigated whether the 3' untranslated region (UTR) pseudoknot structures of Arteriviruses act as PAMPs...",
     "tags": [
       "research",
       "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
     ],
     "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "immunology"
+      "gene therapy",
+      "immunology",
+      "ai"
     ],
     "isNewToday": false,
     "importanceScore": 65,
     "importanceSignals": [
       "published this month",
-      "priority topic: translational medicine, oncology",
+      "priority topic: gene therapy, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -107,16 +177,122 @@
     "isFeatured": false
   },
   {
-    "id": "6b4e4a9c18e981c9",
-    "title": "Circulating Tumor DNA (ctDNA) for Minimal Residual Disease (MRD) Detection in Colorectal Cancer (CRC): Current Evidence, Clinical Applications, and Future Directions.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42930172",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42930172",
+    "id": "dc905464be5ba3ef",
+    "title": "Extraplatelet Molecule Enrichment Enhances the Ability of Platelet-Rich Plasma Releasate to Buffer IL-1&#x3b2;-Induced Inflammation and Oxidative Stress in a Primary Human Chondrocyte-Synoviocyte Co-Culture In Vitro System of Osteoarthritis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42941726",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42941726",
     "source": "pubmed",
-    "publicationName": "Current oncology (Toronto, Ont.)",
-    "journalName": "Current oncology (Toronto, Ont.)",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
     "publishedAt": "2026-10-09T00:00:00.000Z",
-    "fetchedAt": "2026-10-26T18:53:33.994Z",
-    "snippet": "Minimal residual disease (MRD) is a major contributor to colorectal cancer (CRC) recurrence following curative-intent treatment, yet conventional surveillance methods may fail to detect residual disease at its earliest stages. Circulating tumor DNA (ctDNA) has emerged as a minimally invasive biomarker for MRD detection and postoperative monitoring. We condu...",
+    "fetchedAt": "2026-10-27T18:23:26.979Z",
+    "snippet": "To evaluate the anti-inflammatory and antioxidant effects of standard platelet-rich plasma (sPRP) and balanced protein-concentrate plasma (BPCP), which is a next-generation formulation enriched in platelet-derived and extraplatelet bioactive molecules, in an indirect co-culture model of primary human chondrocytes (hCh) and synoviocytes (hSv) under IL-1&#x3b...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 55,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: gene therapy",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "5cba215bc1b774f3",
+    "title": "Pan-Cancer Analysis Identifies LUC7L2 as a Prognostic Biomarker and Potential Functional Regulator of Prostate Cancer Progression.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42940099",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42940099",
+    "source": "pubmed",
+    "publicationName": "Biomedicines",
+    "journalName": "Biomedicines",
+    "publishedAt": "2026-10-09T00:00:00.000Z",
+    "fetchedAt": "2026-10-27T18:23:26.979Z",
+    "snippet": "Cancer imposes a substantial global public health burden, and its initiation and progression involve complex dysregulation of gene expression regulatory networks.This study systematically evaluated the expression characteristics and prognostic value of LUC7L2 across pan-cancer types, with a particular focus on functional validation in prostate cancer. Using...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "biomarker"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "07ae803531514d3b",
+    "title": "Prognostic and Spatial Organization of Tertiary Lymphoid Structures in Pancreatic Ductal Adenocarcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42940093",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42940093",
+    "source": "pubmed",
+    "publicationName": "Biomedicines",
+    "journalName": "Biomedicines",
+    "publishedAt": "2026-10-09T00:00:00.000Z",
+    "fetchedAt": "2026-10-27T18:23:26.979Z",
+    "snippet": ": Tertiary lymphoid structures (TLSs) may identify immunologically active pancreatic ductal adenocarcinoma (PDAC), but clinical definitions and spatial analyses have been inconsistent.: We integrated a systematic review of 21 studies (22 reports) with patient-aware secondary analyses of seven public molecular datasets.: Pathology-defined TLS presence was as...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "spatial"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "bea3191dc894c6c8",
+    "title": "CT-Defined Low Skeletal Muscle Mass, Prognostic Nutritional Index, and Anemia in Relation to In-Hospital Major Morbidity After Gastrectomy for Gastric Carcinoma: A Retrospective Cohort Study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42942480",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42942480",
+    "source": "pubmed",
+    "publicationName": "Medicina (Kaunas, Lithuania)",
+    "journalName": "Medicina (Kaunas, Lithuania)",
+    "publishedAt": "2026-10-09T00:00:00.000Z",
+    "fetchedAt": "2026-10-27T18:23:26.979Z",
+    "snippet": ": Computed tomography (CT)-defined skeletal muscle mass, nutritional status, and anemia are widely proposed markers of perioperative vulnerability before gastrectomy, but published estimates are heterogeneous and derive largely from East Asian, upfront-surgery cohorts. It is unclear how frequently these abnormalities occur in a predominantly neoadjuvant-tre...",
     "tags": [
       "research",
       "pubmed",
@@ -127,11 +303,10 @@
     ],
     "topicBuckets": [
       "translational medicine",
-      "oncology",
-      "ai"
+      "oncology"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
+    "importanceScore": 65,
     "importanceSignals": [
       "published this month",
       "priority topic: translational medicine, oncology",
