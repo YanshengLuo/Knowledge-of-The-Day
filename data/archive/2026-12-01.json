@@ -1,32 +1,67 @@
 [
   {
-    "id": "1061436a28571900",
-    "title": "xNNPCD identifies regulators of programmed cell death by integrating perturbation transcriptomes with cancer dependency profiles.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42936269",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42936269",
+    "id": "439e2d6c098c6e63",
+    "title": "Mechanisms of infantile hemangioma involution (Review).",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42948358",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42948358",
     "source": "pubmed",
-    "publicationName": "NAR cancer",
-    "journalName": "NAR cancer",
+    "publicationName": "Experimental and therapeutic medicine",
+    "journalName": "Experimental and therapeutic medicine",
     "publishedAt": "2026-12-01T00:00:00.000Z",
-    "fetchedAt": "2026-10-27T18:23:26.979Z",
-    "snippet": "Programmed cell death (PCD) encompasses regulated processes whose dysregulation shapes cancer fitness, yet computational studies use known PCD genes for prognosis rather than discovering regulators. We developed xNNPCD, an interpretable neural-network framework that links CRISPR-Cas9 perturbation signatures from CMap to gene dependency profiles from DepMap....",
+    "fetchedAt": "2026-10-28T18:31:52.605Z",
+    "snippet": "Infantile hemangioma (IH) is the most common benign vascular tumor of infancy, characterized by a distinctive life cycle of rapid postnatal proliferation followed by spontaneous involution. However, the mechanisms underlying this regression process remain incompletely understood. In this narrative review, current IH-specific evidence was synthesized and can...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 82,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "96dd447cc3214b9c",
+    "title": "Assessment of a direct fluorescence-based cell-free DNA assay for evaluating the extent of metastatic dissemination: An exploratory study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42948601",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42948601",
+    "source": "pubmed",
+    "publicationName": "Biomedical reports",
+    "journalName": "Biomedical reports",
+    "publishedAt": "2026-12-01T00:00:00.000Z",
+    "fetchedAt": "2026-10-28T18:31:52.605Z",
+    "snippet": "Fluorescence-based cell-free DNA (cfDNA) assays quantify nucleic acids without the need for DNA extraction and amplification. The present study investigated whether cfDNA levels differed between patients with active cancer and those with no evidence of disease (NED). Blood samples from patients with metastatic cancer (Patient group) and from individuals wit...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
       "oncology"
     ],
     "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "gene therapy"
+      "translational medicine",
+      "oncology"
     ],
     "isNewToday": false,
-    "importanceScore": 92,
+    "importanceScore": 82,
     "importanceSignals": [
       "very recent",
-      "priority topic: computational biology, oncology",
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"

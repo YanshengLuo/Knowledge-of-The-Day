@@ -8,7 +8,7 @@
     "publicationName": "Life (Basel, Switzerland)",
     "journalName": "Life (Basel, Switzerland)",
     "publishedAt": "2026-10-15T00:00:00.000Z",
-    "fetchedAt": "2026-10-27T18:23:26.979Z",
+    "fetchedAt": "2026-10-28T18:31:52.605Z",
     "snippet": "In the context of chronic obstructive pulmonary disease (COPD), understanding gene expression patterns across various cell types is pivotal for disease comprehension, therapeutic development, and enhancement of patient prognosis. Nevertheless, the intricate interplay between immune and structural cells, along with their significance in COPD pathogenesis, re...",
     "tags": [
       "research",
@@ -16,19 +16,16 @@
       "Computational oncology",
       "computational biology",
       "oncology",
-      "machine learning",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
+      "machine learning"
     ],
     "topicBuckets": [
       "computational biology",
       "oncology",
       "ai",
-      "immunology",
-      "single-cell"
+      "immunology"
     ],
     "isNewToday": false,
+    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
       "priority topic: computational biology, oncology",
@@ -36,78 +33,43 @@
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 75,
     "isFeatured": true
   },
   {
-    "id": "61f46aa324ebacc4",
-    "title": "Tissue Factor Expression Is Associated with Distinct Pattern of Immune-Cell Infiltration in the Ovarian Tumor Microenvironment.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42941916",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42941916",
+    "id": "ea3626d65359e3d1",
+    "title": "Spatial Molecular Signatures of Canine Oral Squamous Cell Carcinoma with and Without Locoregional Metastasis with Cross-Species Comparison to Human Samples.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42941933",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42941933",
     "source": "pubmed",
     "publicationName": "International journal of molecular sciences",
     "journalName": "International journal of molecular sciences",
     "publishedAt": "2026-10-15T00:00:00.000Z",
-    "fetchedAt": "2026-10-27T18:23:26.979Z",
-    "snippet": "Tissue factor (TF) has been implicated in tumor progression and immune regulation, but its cellular sources and relationship with immune infiltration in ovarian cancer remain incompletely defined. We integrated single-cell RNA sequencing (GSE232314), analyses of The Cancer Genome Atlas (TCGA) ovarian cancer cohort, and multiplex immunofluorescence in an ind...",
+    "fetchedAt": "2026-10-28T18:31:52.605Z",
+    "snippet": "Accurate diagnosis of locoregional spread in head and neck squamous cell carcinoma (HNSCC) is critical for prognosis and treatment planning. However, the currently available pre-surgical staging modalities often fail to detect occult nodal metastasis, necessitating nodal extirpation for accurate pathologic staging. This approach carries no clinical benefit....",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "spatial"
     ],
     "topicBuckets": [
-      "single-cell",
+      "spatial",
       "oncology",
-      "immunology",
-      "ai"
+      "computational biology",
+      "ai",
+      "translational medicine"
     ],
     "isNewToday": false,
-    "importanceScore": 65,
+    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology, ai",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
     "isFeatured": false
-  },
-  {
-    "id": "5de3d00e442ea6de",
-    "title": "Metabolic Dysfunction and T-Cell Exhaustion in Colorectal Cancer: Mechanisms, Microenvironment Remodeling, and Therapeutic Opportunities.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42941901",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42941901",
-    "source": "pubmed",
-    "publicationName": "International journal of molecular sciences",
-    "journalName": "International journal of molecular sciences",
-    "publishedAt": "2026-10-15T00:00:00.000Z",
-    "fetchedAt": "2026-10-27T18:23:26.979Z",
-    "snippet": "Colorectal cancer (CRC) remains a major cause of cancer-related morbidity and mortality worldwide. Metabolic disorders such as obesity, diabetes mellitus, dyslipidemia, and metabolic syndrome are associated with CRC risk. Metabolic abnormalities may contribute to colorectal tumorigenesis and reshape the tumor immune microenvironment, which in turn influence...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "computational biology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
   }
 ]
