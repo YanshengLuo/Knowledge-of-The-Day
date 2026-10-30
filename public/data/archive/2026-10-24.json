@@ -1,32 +1,70 @@
 [
   {
-    "id": "23167a2ccbe52fbc",
-    "title": "Correlative insights into luteolin regulating the macrophage-p53-CCNB1/CDK1 axis associated with cell-cycle control in hepatocellular carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42950621",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42950621",
+    "id": "3dcbeea080289113",
+    "title": "EWSR1 associates with the 40S ribosomal subunit and represses translation to maintain endoplasmic reticulum homeostasis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42953963",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42953963",
     "source": "pubmed",
-    "publicationName": "Biochemical and biophysical research communications",
-    "journalName": "Biochemical and biophysical research communications",
+    "publicationName": "Nucleic acids research",
+    "journalName": "Nucleic acids research",
     "publishedAt": "2026-10-24T00:00:00.000Z",
-    "fetchedAt": "2026-10-29T18:40:41.036Z",
-    "snippet": "The polarization of macrophages and the deactivation of oncogenic pathways within the tumor microenvironment are directly linked to the evolution of hepatocellular carcinoma (HCC), a relatively frequent cancer in the world. Though the exact mechanism is yet unknown, tumor-associated macrophages (TAMs) may alter p53 activity by secreting cytokines. In contra...",
+    "fetchedAt": "2026-10-30T18:16:18.938Z",
+    "snippet": "FET family proteins (FUS, EWSR1, and TAF15) have garnered significant attention due to their involvement in oncogenic fusions and mutations in various cancers and neurodegenerative disorders. Although these highly conserved RNA-binding proteins are widely described as multifunctional regulators of gene expression, their precise molecular functions remain in...",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
+      "Computational oncology",
+      "computational biology",
+      "oncology"
     ],
     "topicBuckets": [
-      "single-cell",
+      "computational biology",
       "oncology",
-      "immunology"
+      "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 62,
+    "importanceScore": 82,
     "importanceSignals": [
       "recent",
-      "priority topic: oncology",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "3915ff90c0d18101",
+    "title": "Spatial multi-omics and AI for decoding tumor heterogeneity: implications for target discovery and therapy resistance.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42956530",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42956530",
+    "source": "pubmed",
+    "publicationName": "Neoplasia (New York, N.Y.)",
+    "journalName": "Neoplasia (New York, N.Y.)",
+    "publishedAt": "2026-10-24T00:00:00.000Z",
+    "fetchedAt": "2026-10-30T18:16:18.938Z",
+    "snippet": "Tumor heterogeneity remains a major bottleneck for effective cancer therapy because many determinants of target expression, biomarker performance, and treatment resistance are spatially organized within the tumor ecosystem. Bulk molecular profiling averages these signals across cell populations, whereas dissociation-based single-cell approaches disrupt the....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "spatial"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "ai",
+      "single-cell",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 82,
+    "importanceSignals": [
+      "recent",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
