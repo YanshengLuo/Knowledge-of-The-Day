@@ -1,5 +1,51 @@
 [
   {
+    "id": "2932fad37bbaa115",
+    "title": "Multiomics Dissection of Early-Onset Colorectal Cancer (EOCRC) Reveals an Immunosuppressive Microenvironment and Identifies FAT3 Mutation as a Biomarker of Hot-Like Immune Features.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42968892",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42968892",
+    "source": "pubmed",
+    "publicationName": "Human mutation",
+    "journalName": "Human mutation",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-11-02T21:57:37.617Z",
+    "snippet": "Early-onset colorectal cancer (EOCRC) exhibits distinct clinical and biological features compared with late-onset CRC (LOCRC), yet its genomic architecture and immune microenvironmental determinants remain incompletely characterized. Here, we integrated multiomics discovery analyses of 69 EOCRC and 461 LOCRC patients from the TCGA cohort, complemented by in...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "biomarker",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "Biomarkers in oncology",
+      "patient stratification"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "translational medicine",
+      "immunology",
+      "single-cell",
+      "spatial"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 68,
+    "isFeatured": true
+  },
+  {
     "id": "455acb029f29da54",
     "title": "Multi-omics Profiling of Post-translational Modifications in RNA-binding Proteins in Colorectal Cancer.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42966632",
@@ -8,7 +54,7 @@
     "publicationName": "Cancer genomics & proteomics",
     "journalName": "Cancer genomics & proteomics",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-01T18:09:07.922Z",
+    "fetchedAt": "2026-11-02T21:57:37.617Z",
     "snippet": "Post-translational modifications (PTMs) play a pivotal role in regulating RNA-binding proteins (RBPs), which are crucial in the progression of colorectal cancer (CRC). This study aims to explore the role of PTMs in modulating RBPs and their implications for CRC pathogenesis. We characterized phosphorylation, ubiquitination, and malonylation of RBPs in CRC u...",
     "tags": [
       "research",
@@ -42,7 +88,7 @@
     "publicationName": "Cancer genomics & proteomics",
     "journalName": "Cancer genomics & proteomics",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-01T18:09:07.922Z",
+    "fetchedAt": "2026-11-02T21:57:37.617Z",
     "snippet": "Fibroblast growth factor receptor 4 (FGFR4) contributes to colorectal cancer (CRC) progression, but its effects on extracellular vesicle (EV)-associated proteins remain unclear. In the present study, we examined FGFR4-associated changes in EV-enriched extracellular fractions and the role of STAT1 in LGALS3BP regulation. EV-enriched fractions from conditione...",
     "tags": [
       "research",
@@ -64,7 +110,7 @@
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": false
+    "isFeatured": true
   },
   {
     "id": "442a436021b7a360",
@@ -75,7 +121,7 @@
     "publicationName": "Frontiers in microbiology",
     "journalName": "Frontiers in microbiology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-01T18:09:07.922Z",
+    "fetchedAt": "2026-11-02T21:57:37.617Z",
     "snippet": "Engineered live biotherapeutic products (LBPs) are viable microorganisms deliberately modified to perform a therapeutic function in a patient. Recombinant therapeutic strains are considered separately from conventional probiotics, donor-derived microbiota products, vaccines, living diagnostics, environmental systems, and systemically administered oncolytic....",
     "tags": [
       "research",
@@ -101,39 +147,6 @@
     "isFeatured": true
   },
   {
-    "id": "20302c66877c0567",
-    "title": "Targeting the gut-tumor axis: probiotic therapy as an adjunct strategy in colorectal cancer treatment.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42964032",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42964032",
-    "source": "pubmed",
-    "publicationName": "Frontiers in cellular and infection microbiology",
-    "journalName": "Frontiers in cellular and infection microbiology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-01T18:09:07.922Z",
-    "snippet": "Colorectal cancer (CRC) is a multifactorial disease driven by interactions among host genetics, immune dysregulation, environmental factors, and gut microbiota. The gut-tumor axis regulates CRC progression through inflammatory signaling, oxidative stress, epithelial barrier disruption, and immune imbalance. Probiotic-derived metabolites act as bioactive mol...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
     "id": "5a15b819891c8494",
     "title": "Stromal CD163-positive Macrophage Enrichment Is Associated With a FOXP3-skewed Immune Profile and Poor Prognosis in Esophageal Squamous Cell Carcinoma.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42966633",
@@ -142,34 +155,29 @@
     "publicationName": "Cancer genomics & proteomics",
     "journalName": "Cancer genomics & proteomics",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-01T18:09:07.922Z",
+    "fetchedAt": "2026-11-02T21:57:37.617Z",
     "snippet": "The prognostic significance of macrophage-centered spatial immune architecture in esophageal squamous cell carcinoma (ESCC) remains incompletely understood. We investigated the spatial distribution and prognostic relevance of CD163-positive macrophages and their association with T-cell subsets in ESCC. A total of 139 patients with surgically resected ESCC,....",
     "tags": [
       "research",
       "pubmed",
       "Single-cell TME",
       "single-cell",
-      "tumor microenvironment",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
+      "tumor microenvironment"
     ],
     "topicBuckets": [
       "single-cell",
       "oncology",
       "immunology",
-      "ai",
-      "translational medicine"
+      "ai"
     ],
     "isNewToday": false,
+    "importanceScore": 58,
     "importanceSignals": [
       "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 68,
     "isFeatured": false
   },
   {
@@ -181,7 +189,7 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-01T18:09:07.922Z",
+    "fetchedAt": "2026-11-02T21:57:37.617Z",
     "snippet": "Esophageal squamous cell carcinoma (ESCC) is closely linked to chronic inflammation, but the transcriptional mechanisms connecting epithelial inflammatory remodeling with malignant transformation remain incompletely understood. We integrated secondary analysis of published single-cell epithelial transition-state data, virtual SP1 perturbation, TCGA analyses...",
     "tags": [
       "research",
@@ -216,7 +224,7 @@
     "publicationName": "Frontiers in cell and developmental biology",
     "journalName": "Frontiers in cell and developmental biology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-01T18:09:07.922Z",
+    "fetchedAt": "2026-11-02T21:57:37.617Z",
     "snippet": "In colorectal cancer (CRC), dysregulated cyclin-dependent kinase inhibitor 2A (CDKN2A) contributes to disease progression. This investigation sought to explore the link betweenexpression and the effectiveness of radiotherapy in CRC, and to investigate the underlying mechanisms. Transcriptomic and clinical datasets were procured from the Cancer Genome Atlas....",
     "tags": [
       "research",
@@ -242,108 +250,6 @@
     "isFeatured": true
   },
   {
-    "id": "37dcd3984c2f6720",
-    "title": "Single-cell and bulk transcriptomic characterization of the osteosarcoma microenvironment reveals lineage-specific programs and inflammatory differences associated with metastasis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42960375",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42960375",
-    "source": "pubmed",
-    "publicationName": "Frontiers in genetics",
-    "journalName": "Frontiers in genetics",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-01T18:09:07.922Z",
-    "snippet": "Osteosarcoma is a heterogeneous bone malignancy in which malignant, immune, stromal, and bone-lineage cells form a complex microenvironment. Clinical activity of immune-checkpoint blockade has remained limited in advanced osteosarcoma, motivating cell-type-resolved investigation of the tumor microenvironment while avoiding mechanistic overinterpretation of....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "4679352b06c2fe29",
-    "title": "Mapping the Intellectual Architecture of Inflammation-Centered Macrophage Research in Hepatocellular Carcinoma: A Dual-Database Bibliometric and Scientometric Analysis, 2005-2025.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42959746",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42959746",
-    "source": "pubmed",
-    "publicationName": "Journal of inflammation research",
-    "journalName": "Journal of inflammation research",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-01T18:09:07.922Z",
-    "snippet": "Chronic liver inflammation provides a major biological context for hepatocarcinogenesis, and macrophages link innate immune sensing, fibrogenesis, immune suppression and therapeutic resistance in hepatocellular carcinoma (HCC). Tumor-associated macrophages (TAMs), Kupffer cells and inflammation-associated myeloid populations have been extensively investigat...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 48,
-    "importanceSignals": [
-      "priority topic: oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "50d7cc05b2c40d2e",
-    "title": "DZIP3 is associated with the cytoskeletal dynamics in glioblastoma and mitochondrial machinery regulation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42959642",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42959642",
-    "source": "pubmed",
-    "publicationName": "Frontiers in bioinformatics",
-    "journalName": "Frontiers in bioinformatics",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-01T18:09:07.922Z",
-    "snippet": "Glioblastoma (GBM) is a major public health issue with increased prevalence and incidence worldwide. The therapeutic strategy is based on surgical resection, followed by chemotherapy and radiotherapy. However, therapeutic failure is increasingly recognized as driven by the intricate characteristics of the tumor microenvironment (TME). Stress granules (SGs)....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
     "id": "1d5c42a502a53a51",
     "title": "Non-invasive electromagnetic fields induce anti-tumor neutrophil reprogramming and enhance checkpoint blockade in breast cancer.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42964829",
@@ -352,7 +258,7 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-01T18:09:07.922Z",
+    "fetchedAt": "2026-11-02T21:57:37.617Z",
     "snippet": "Neutrophil reprogramming toward interferon-activated anti-tumor states represents an emerging mechanism of checkpoint sensitization; however, effective strategies to selectively induce this response in the tumor microenvironment remain elusive. We evaluated Asha Therapy, an investigational non-invasive, low-intensity (50 kHz, 2 mT) alternating magnetic fiel...",
     "tags": [
       "research",
@@ -387,7 +293,7 @@
     "publicationName": "Frontiers in neurology",
     "journalName": "Frontiers in neurology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-01T18:09:07.922Z",
+    "fetchedAt": "2026-11-02T21:57:37.617Z",
     "snippet": "Research on traditional Chinese medicine (TCM)-related interventions has shifted from overall phenotypic effects to defined neuroimmune targets. The cyclic GMP-AMP synthase-stimulator of interferon genes (cGAS-STING) axis connects cytosolic DNA sensing with host defense and sterile inflammatory injury, but the functional direction of this pathway changes wi...",
     "tags": [
       "research",
@@ -420,7 +326,7 @@
     "publicationName": "Cancer genomics & proteomics",
     "journalName": "Cancer genomics & proteomics",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-01T18:09:07.922Z",
+    "fetchedAt": "2026-11-02T21:57:37.617Z",
     "snippet": "Desmoplastic small round cell tumor (DSRCT) is an::-driven sarcoma with limited disease-specific options. We assembled an 80-gene candidate-and-control panel and evaluated bulk tumor RNA prevalence, cellular source, fusion-associated expression change, normal-tissue expression, and treatment-specific validation requirements to construct a DSRCT target atlas...",
     "tags": [
       "research",
@@ -443,144 +349,5 @@
       "rich metadata"
     ],
     "isFeatured": false
-  },
-  {
-    "id": "9530dce5e3231388",
-    "title": "Perioperative immunogenomics and clinical outcomes under ERAS-based nursing care in muscle-invasive bladder cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42948804",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42948804",
-    "source": "pubmed",
-    "publicationName": "Frontiers in genetics",
-    "journalName": "Frontiers in genetics",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-01T18:09:07.922Z",
-    "snippet": "Surgical trauma is associated with perioperative immune perturbation in muscle-invasive bladder cancer (MIBC). Enhanced Recovery After Surgery (ERAS) combines multidisciplinary perioperative management with structured nursing care, but its immunogenomic associations remain incompletely characterized. This retrospective historical-control cohort included 126...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "ai",
-      "translational medicine",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "7c49a503829010b5",
-    "title": "Early Assessment of Circulating Tumor Cells and Their PD-L1 Expression as Predictive Biomarkers in Metastatic Non-Small Cell Lung Cancer Patients Treated with Immunotherapy: An Exploratory Study.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42967173",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42967173",
-    "source": "pubmed",
-    "publicationName": "ImmunoTargets and therapy",
-    "journalName": "ImmunoTargets and therapy",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-01T18:09:07.922Z",
-    "snippet": "The prognosis of metastatic non-small cell lung cancer (mNSCLC) has improved in recent years but therapeutic benefit remains heterogeneous, underscoring the need for reliable biomarkers. Liquid biopsy techniques, including the analysis of circulating tumor cells (CTCs) and Programmed death-ligand 1 (PD-L1) expression on CTCs (PD-L1-CTCs), have emerged as pr...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology",
-      "immunotherapy"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "e7046f6ac254d00a",
-    "title": "Circulating Biomarkers with Artificial Intelligence for Clinical Risk Assessment and Therapeutic Monitoring: Evidence, Limitations, and Translation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42967126",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42967126",
-    "source": "pubmed",
-    "publicationName": "Therapeutics and clinical risk management",
-    "journalName": "Therapeutics and clinical risk management",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-01T18:09:07.922Z",
-    "snippet": "Circulating biomarkers, particularly cell-free DNA (cfDNA), are transforming contemporary medicine through their capacity to provide dynamic, minimally invasive assessments of disease dynamics. Their clinical utility has broadened substantially to include oncology, cardiovascular conditions, transplant monitoring, infectious diseases, and persistent inflamm...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "59b4c7cfc24f59f9",
-    "title": "RAD51 Genetic Variants and Oral Cancer Susceptibility: Gene-Environment Interactions with Smoking and Alcohol Consumption in a Taiwanese Population.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42966634",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42966634",
-    "source": "pubmed",
-    "publicationName": "Cancer genomics & proteomics",
-    "journalName": "Cancer genomics & proteomics",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-01T18:09:07.922Z",
-    "snippet": "Oral cancer is a major health burden in Taiwan, with tobacco, alcohol, and betel quid use as major environmental risk factors. RAD51 is essential for homologous recombination repair and may influence cancer susceptibility through gene-environment interactions. This study evaluated associations ofrs2619679, rs5030789, and rs1801320 with oral cancer risk and....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
-    "importanceSignals": [
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
   }
 ]
