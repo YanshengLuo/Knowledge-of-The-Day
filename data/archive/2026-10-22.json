@@ -1,33 +1,68 @@
 [
   {
-    "id": "60790e054fc76399",
-    "title": "Immune composition and adenosine-associated transcription in non-small-cell lung cancer after neoadjuvant PD-1 blockade.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42950753",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42950753",
+    "id": "d566ff48b6a7acc3",
+    "title": "Integrated Single-cell and Bulk Transcriptomic Analysis Links NOTCH Signaling to Stromal Features and Prognosis in Gastric Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42973359",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42973359",
     "source": "pubmed",
-    "publicationName": "Cancer treatment and research communications",
-    "journalName": "Cancer treatment and research communications",
+    "publicationName": "Current medicinal chemistry",
+    "journalName": "Current medicinal chemistry",
     "publishedAt": "2026-10-22T00:00:00.000Z",
-    "fetchedAt": "2026-11-01T18:09:07.922Z",
-    "snippet": "In non-small-cell lung cancer (NSCLC), high metabolic gene expression during immunotherapy can reflect either more infiltrating cells or altered cellular activity. We tested whether separating cell abundance from cell-intrinsic transcription clarifies incomplete tumour clearance after neoadjuvant programmed cell death-1 (PD-1) blockade. Using cross-dataset....",
+    "fetchedAt": "2026-11-03T19:51:26.895Z",
+    "snippet": "NOTCH signaling is frequently dysregulated in Gastric Cancer (GC) and has been implicated in stromal and immune regulation. This study aimed to characterize NOTCH-associated intercellular communication and develop a transcriptome-based risk model for survival stratification and exploratory prediction of treatment response. The Seurat package was used to pro...",
     "tags": [
       "research",
       "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
     ],
     "topicBuckets": [
-      "spatial",
+      "single-cell",
       "oncology",
-      "computational biology",
-      "immunology"
+      "immunology",
+      "ai"
     ],
     "isNewToday": false,
     "importanceScore": 65,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology, computational biology",
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "e4b40aa7f13c5646",
+    "title": "Network Pharmacology and Molecular Docking on the Mechanism of Epimedium in the Treatment of Chronic Obstructive Pulmonary Disease.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42973309",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42973309",
+    "source": "pubmed",
+    "publicationName": "Current pharmaceutical design",
+    "journalName": "Current pharmaceutical design",
+    "publishedAt": "2026-10-22T00:00:00.000Z",
+    "fetchedAt": "2026-11-03T19:51:26.895Z",
+    "snippet": "To investigate the mechanism of Epimedium in the treatment of Chronic Obstructive Pulmonary Disease (COPD) using network pharmacology and molecular docking approaches. The active components and corresponding targets of Epimedium were screened from the Traditional Chinese Medicine Systems Pharmacology (TCMSP) database. COPD-related disease targets were obtai...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: gene therapy, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
