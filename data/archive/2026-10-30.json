@@ -1,33 +1,5 @@
 [
   {
-    "id": "91ba2918b3bab7c7",
-    "title": "AbbVie’s Q3 beat should keep ‘train rolling’ as company eyes bolt-on deals",
-    "url": "https://www.biospace.com/business/abbvies-q3-beat-should-keep-train-rolling-as-company-eyes-bolt-on-deals",
-    "canonicalUrl": "https://www.biospace.com/business/abbvies-q3-beat-should-keep-train-rolling-as-company-eyes-bolt-on-deals",
-    "source": "biospace",
-    "publicationName": "BioSpace",
-    "publishedAt": "2026-10-30T15:42:22.000Z",
-    "fetchedAt": "2026-11-03T19:51:26.062Z",
-    "snippet": "Strong immunology and neuroscience sales fueled AbbVie’s latest quarterly beat as the pharma’s stock continues to hit all-time highs.",
-    "tags": [
-      "biotech",
-      "industry"
-    ],
-    "topicBuckets": [
-      "ai",
-      "biotech",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 54,
-    "importanceSignals": [
-      "recent",
-      "priority topic: ai",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
     "id": "74b0dad95893a3db",
     "title": "RIFTT: Robust Identification of Fusion genes in Tumor Transcriptomes.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42972257",
@@ -36,7 +8,7 @@
     "publicationName": "BMC bioinformatics",
     "journalName": "BMC bioinformatics",
     "publishedAt": "2026-10-30T00:00:00.000Z",
-    "fetchedAt": "2026-11-03T19:51:26.895Z",
+    "fetchedAt": "2026-11-04T20:05:53.638Z",
     "snippet": "Fusion genes serve as crucial biomarkers for cancer diagnosis, prognosis, and therapy, yet many detection tools lead to high false-positive rates and poor consensus. We developed RIFTT, a pipeline for Robust Identification of Fusion genes in Tumor Transcriptomes which integrates Arriba and FusionCatcher, two state-of-the-art fusion callers, together with no...",
     "tags": [
       "research",
@@ -62,35 +34,71 @@
     "isFeatured": true
   },
   {
-    "id": "d5960ec59032fa0a",
-    "title": "TRACER: Twin-contrastive learning for fine-grained and rare spatial domain identification in spatial transcriptomics.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42968373",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42968373",
+    "id": "8f32479d6682ea7e",
+    "title": "Psychobiotics: A Paradigm Shift in Dermatological Disorders.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42979598",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42979598",
     "source": "pubmed",
-    "publicationName": "Bioinformatics (Oxford, England)",
-    "journalName": "Bioinformatics (Oxford, England)",
+    "publicationName": "Psychopharmacology bulletin",
+    "journalName": "Psychopharmacology bulletin",
     "publishedAt": "2026-10-30T00:00:00.000Z",
-    "fetchedAt": "2026-11-03T19:51:26.895Z",
-    "snippet": "Fine-grained and rare spatial domains are difficult to identify in spatial transcriptomics because they contain few spots, show subtle transcriptional differences, and are strongly influenced by neighboring regions. We present TRACER, a twin-contrastive learning framework that integrates a graph convolutional autoencoder with neighborhood-aware instance-lev...",
+    "fetchedAt": "2026-11-04T20:05:53.638Z",
+    "snippet": "Recent clinical studies have demonstrated an intricate bidirectional system in the gut-brain-skin axis. Here, the gut microbiome plays dual roles: it can act as a pathological factor while also serving as a potential therapeutic target in psychodermatology. Chronic skin conditions (CSCs) like acne vulgaris, atopic dermatitis, and psoriasis are some of the l...",
     "tags": [
       "research",
       "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "spatial"
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
     ],
     "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "ai"
+      "gene therapy",
+      "immunology",
+      "ai",
+      "translational medicine"
     ],
     "isNewToday": false,
     "importanceScore": 82,
     "importanceSignals": [
       "recent",
-      "priority topic: oncology, computational biology",
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "543963513c996800",
+    "title": "Genetic Polymorphisms and Hemostatic-Inflammatory Biomarkers in Schizophrenia Patients Receiving Antipsychotic Treatment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42979594",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42979594",
+    "source": "pubmed",
+    "publicationName": "Psychopharmacology bulletin",
+    "journalName": "Psychopharmacology bulletin",
+    "publishedAt": "2026-10-30T00:00:00.000Z",
+    "fetchedAt": "2026-11-04T20:05:53.638Z",
+    "snippet": "Patients with schizophrenia who receive antipsychotics carry an elevated risk of thromboembolic disease, but hemostatic and inflammatory markers vary widely between patients given the same drug. This pilot study described D-dimer, C-reactive protein (CRP), and the neutrophil-to-lymphocyte ratio (NLR) in such patients, described the distribution of CYP2D6 rs...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation",
+      "biomarker"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 72,
+    "importanceSignals": [
+      "recent",
+      "priority topic: gene therapy, translational medicine",
       "high-signal source",
       "rich summary",
       "rich metadata"
