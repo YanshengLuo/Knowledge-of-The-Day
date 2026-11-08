@@ -1,32 +1,35 @@
 [
   {
-    "id": "74b0dad95893a3db",
-    "title": "RIFTT: Robust Identification of Fusion genes in Tumor Transcriptomes.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42972257",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42972257",
+    "id": "eb7dec4ac6279ebf",
+    "title": "Comprehensive multi-omics analysis identifies molecular subtypes and AMH-dependent mechanisms driving DTX resistance in prostate cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42999584",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42999584",
     "source": "pubmed",
-    "publicationName": "BMC bioinformatics",
-    "journalName": "BMC bioinformatics",
+    "publicationName": "Translational andrology and urology",
+    "journalName": "Translational andrology and urology",
     "publishedAt": "2026-10-30T00:00:00.000Z",
-    "fetchedAt": "2026-11-04T20:05:53.638Z",
-    "snippet": "Fusion genes serve as crucial biomarkers for cancer diagnosis, prognosis, and therapy, yet many detection tools lead to high false-positive rates and poor consensus. We developed RIFTT, a pipeline for Robust Identification of Fusion genes in Tumor Transcriptomes which integrates Arriba and FusionCatcher, two state-of-the-art fusion callers, together with no...",
+    "fetchedAt": "2026-11-08T18:06:56.895Z",
+    "snippet": "Prostate cancer (PCa) remains one of the most prevalent malignancies and a leading cause of cancer-related mortality among men worldwide. Despite advancements in treatment, therapeutic resistance, particularly to docetaxel (DTX), significantly limits clinical efficacy and worsens patient outcomes. Transcriptomic profiles and matched clinical data from The C...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
     ],
     "topicBuckets": [
-      "computational biology",
+      "single-cell",
       "oncology",
+      "immunology",
+      "ai",
+      "computational biology",
       "translational medicine"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
+    "importanceScore": 75,
     "importanceSignals": [
-      "recent",
-      "priority topic: computational biology, oncology",
+      "published this month",
+      "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -34,16 +37,88 @@
     "isFeatured": true
   },
   {
-    "id": "8f32479d6682ea7e",
-    "title": "Psychobiotics: A Paradigm Shift in Dermatological Disorders.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42979598",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42979598",
+    "id": "46f8e17271ccd57a",
+    "title": "Single cell imaging mass spectrometry spatial immune profiling of brain metastasis from non-small-cell lung cancer patients treated with immune checkpoint inhibitors.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42999405",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42999405",
     "source": "pubmed",
-    "publicationName": "Psychopharmacology bulletin",
-    "journalName": "Psychopharmacology bulletin",
+    "publicationName": "Translational lung cancer research",
+    "journalName": "Translational lung cancer research",
     "publishedAt": "2026-10-30T00:00:00.000Z",
-    "fetchedAt": "2026-11-04T20:05:53.638Z",
-    "snippet": "Recent clinical studies have demonstrated an intricate bidirectional system in the gut-brain-skin axis. Here, the gut microbiome plays dual roles: it can act as a pathological factor while also serving as a potential therapeutic target in psychodermatology. Chronic skin conditions (CSCs) like acne vulgaris, atopic dermatitis, and psoriasis are some of the l...",
+    "fetchedAt": "2026-11-08T18:06:56.895Z",
+    "snippet": "Immune checkpoint inhibitors (ICIs), alone or in combination with chemotherapy, are a primary therapy for patients with advanced non-small cell lung cancer (NSCLC) without targetable driver alterations, yet brain metastases remain a major clinical challenge and their immune microenvironment is poorly characterized. This study aimed to describe the single-ce...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "spatial"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "d53a10f6a6cfe5fc",
+    "title": "Integration of single-cell and bulk transcriptomics for deciphering prognostic value and immunotherapeutic features of floatptosis-mediated cell death in lung adenocarcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42997895",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42997895",
+    "source": "pubmed",
+    "publicationName": "Translational cancer research",
+    "journalName": "Translational cancer research",
+    "publishedAt": "2026-10-30T00:00:00.000Z",
+    "fetchedAt": "2026-11-08T18:06:56.895Z",
+    "snippet": "Recent research has uncovered an unprecedented cell death pathway induced by outer membrane vesicles derived from Bergeyella cardium variant (BCV). This process promotes the pathological fusion of lysosome-related organelles via the SLC9A9 protein, leading to the formation of large vacuoles and ultimately inducing a terminal vacuolar cell death termed float...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "computational biology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "9be63b17fd29c08d",
+    "title": "Metabolic abnormalities in pediatric pulmonary arterial hypertension: a narrative review of direct evidence, mechanistic boundaries, and a validation-focused research agenda.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42996402",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42996402",
+    "source": "pubmed",
+    "publicationName": "Translational pediatrics",
+    "journalName": "Translational pediatrics",
+    "publishedAt": "2026-10-30T00:00:00.000Z",
+    "fetchedAt": "2026-11-08T18:06:56.895Z",
+    "snippet": "Metabolic reprogramming has been proposed as a major mechanism of pulmonary arterial hypertension (PAH), but evidence from adult patients, experimental models, and children is uneven. This distinction is especially important in pediatric disease because congenital heart disease (CHD), developmental syndromes, identifiable genetic disorders, and treatable me...",
     "tags": [
       "research",
       "pubmed",
@@ -54,15 +129,13 @@
     ],
     "topicBuckets": [
       "gene therapy",
-      "immunology",
-      "ai",
-      "translational medicine"
+      "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
+    "importanceScore": 55,
     "importanceSignals": [
-      "recent",
-      "priority topic: gene therapy, ai",
+      "published this month",
+      "priority topic: gene therapy",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -70,39 +143,220 @@
     "isFeatured": true
   },
   {
-    "id": "543963513c996800",
-    "title": "Genetic Polymorphisms and Hemostatic-Inflammatory Biomarkers in Schizophrenia Patients Receiving Antipsychotic Treatment.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42979594",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42979594",
+    "id": "41f04f878a1cc224",
+    "title": "Single-cell and spatial transcriptome analyses unveil thatlinks stemness to immunotherapy resistance in non-small cell lung cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42999620",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42999620",
     "source": "pubmed",
-    "publicationName": "Psychopharmacology bulletin",
-    "journalName": "Psychopharmacology bulletin",
+    "publicationName": "Translational lung cancer research",
+    "journalName": "Translational lung cancer research",
     "publishedAt": "2026-10-30T00:00:00.000Z",
-    "fetchedAt": "2026-11-04T20:05:53.638Z",
-    "snippet": "Patients with schizophrenia who receive antipsychotics carry an elevated risk of thromboembolic disease, but hemostatic and inflammatory markers vary widely between patients given the same drug. This pilot study described D-dimer, C-reactive protein (CRP), and the neutrophil-to-lymphocyte ratio (NLR) in such patients, described the distribution of CYP2D6 rs...",
+    "fetchedAt": "2026-11-08T18:06:56.895Z",
+    "snippet": "Immunotherapy is an essential treatment strategy for lung cancer, yet resistance to it is often unavoidable, resulting in treatment failure and poor prognosis. The cancer stem cell (CSC) theory offers a valuable perspective for understanding tumor metastasis and resistance to immunotherapy. However, there is a scarcity of multi-omics studies that identify t...",
     "tags": [
       "research",
       "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation",
-      "biomarker"
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "single-cell",
+      "spatial",
+      "immunotherapy"
     ],
     "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "translational medicine"
+      "spatial",
+      "oncology",
+      "computational biology",
+      "ai",
+      "single-cell"
     ],
     "isNewToday": false,
-    "importanceScore": 72,
+    "importanceScore": 75,
     "importanceSignals": [
-      "recent",
-      "priority topic: gene therapy, translational medicine",
+      "published this month",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
     "isFeatured": true
+  },
+  {
+    "id": "cb1ed2dac62a32e6",
+    "title": "Spatial transcriptomics reveals PDIA6 as a tumor-intrinsic driver of mesenchymal plasticity and vascular microenvironment remodeling in glioblastoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42997716",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42997716",
+    "source": "pubmed",
+    "publicationName": "Translational cancer research",
+    "journalName": "Translational cancer research",
+    "publishedAt": "2026-10-30T00:00:00.000Z",
+    "fetchedAt": "2026-11-08T18:06:56.895Z",
+    "snippet": "Glioblastoma (GBM) is characterized by pronounced microenvironmental heterogeneity, severe hypoxia, and profound resistance to conventional and targeted therapies. While abnormal tumor angiogenesis and perivascular niches are recognized hallmarks of GBM, the tumor-intrinsic drivers that actively orchestrate malignant-endothelial crosstalk and structure prot...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "spatial"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "3c6094fb41dc03fb",
+    "title": "Multi-omics and pathological landscape of a senescence-associated prognostic model in bladder urothelial carcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42997234",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42997234",
+    "source": "pubmed",
+    "publicationName": "Translational andrology and urology",
+    "journalName": "Translational andrology and urology",
+    "publishedAt": "2026-10-30T00:00:00.000Z",
+    "fetchedAt": "2026-11-08T18:06:56.895Z",
+    "snippet": "Cellular senescence contributes to tumor progression and shapes the tumor microenvironment (TME), yet its prognostic and biological significance in bladder urothelial carcinoma (BLCA) remains incompletely understood. This study aimed to identify senescence-associated prognostic signals through pan-cancer screening and to develop an integrated risk stratific...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "7adf797bff9250d3",
+    "title": "PET/CT radiomics for noninvasive histologic risk stratification in resected lung adenocarcinoma: a single-system development and internal validation study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42999626",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42999626",
+    "source": "pubmed",
+    "publicationName": "Translational lung cancer research",
+    "journalName": "Translational lung cancer research",
+    "publishedAt": "2026-10-30T00:00:00.000Z",
+    "fetchedAt": "2026-11-08T18:06:56.895Z",
+    "snippet": "Preoperative histologic characterisation of lung adenocarcinoma is typically available only after resection. We evaluated whether fluorine-18 fluorodeoxyglucose positron emission tomography/computed tomography (F-FDG PET/CT) radiomics could predict histologic patterns and pathologic risk features using a hierarchical modelling strategy. This retrospective c...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai",
+      "computational biology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "321c6be0ba7c7956",
+    "title": "Antibody-drug conjugates in the perioperative treatment of resectable non-small cell lung cancer: a narrative review of research advances and prospects.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42999616",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42999616",
+    "source": "pubmed",
+    "publicationName": "Translational lung cancer research",
+    "journalName": "Translational lung cancer research",
+    "publishedAt": "2026-10-30T00:00:00.000Z",
+    "fetchedAt": "2026-11-08T18:06:56.895Z",
+    "snippet": "Lung cancer is the leading cause of cancer-related mortality worldwide. Even after perioperative chemotherapy combined with immunotherapy, pathological complete response (pCR) rates remain below 30%, and further improvement in long-term outcomes has stalled. Antibody-drug conjugates (ADCs), leveraging targeted cytotoxicity and the bystander effect, can achi...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "7becddb54741c43f",
+    "title": "Machine-learning-assisted multi-omics profiling identifies CALB1 as a subtype-associated regulator of PI3K/AKT signaling and malignant progression in non-small cell lung cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42999431",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42999431",
+    "source": "pubmed",
+    "publicationName": "Translational lung cancer research",
+    "journalName": "Translational lung cancer research",
+    "publishedAt": "2026-10-30T00:00:00.000Z",
+    "fetchedAt": "2026-11-08T18:06:56.895Z",
+    "snippet": "Non-small cell lung cancer (NSCLC) is molecularly heterogeneous, and computationally nominated biomarkers often lack sufficient functional validation. CALB1 is a calcium-binding protein, but its clinical relevance, cellular source, and signaling role in NSCLC remain unclear. This study aimed to identify subtype-associated regulators in NSCLC through a machi...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai",
+      "computational biology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
   }
 ]

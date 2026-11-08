@@ -1,38 +1,70 @@
 [
   {
-    "id": "1480d38ca106b6b5",
-    "title": "Integrative Multi-Database Bioinformatics Characterization ofin Hepatocellular Carcinoma: Prognostic, Epigenetic, Immune, and ncRNA Associations.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42942519",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42942519",
+    "id": "a420040a89225491",
+    "title": "Early-onset spontaneous murine mammary tumors show increased lymphocyte representation and reduced MHC antigen presentation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42999468",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42999468",
     "source": "pubmed",
-    "publicationName": "Medicina (Kaunas, Lithuania)",
-    "journalName": "Medicina (Kaunas, Lithuania)",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
     "publishedAt": "2026-10-14T00:00:00.000Z",
-    "fetchedAt": "2026-10-28T18:31:52.605Z",
-    "snippet": "The Fanconi anemia complementation group E (FANCE) is a protein component of the Fanconi anemia (FA) DNA repair complex and contributes to genome integrity. However, its molecular and clinical relevance in liver hepatocellular carcinoma (LIHC) remains incompletely understood. This study characterized theexpression, prognosis, epigenetics, immune responses,....",
+    "fetchedAt": "2026-11-08T18:06:56.895Z",
+    "snippet": "Not all breast tumors behave the same way, and part of the reason may be inherited rather than caused by the tumor itself. Using mice that carry the same cancer-causing HER2/neu gene but differ in genetic background, we found that introduction of the PWK/PhJ genetic background was associated with tumors that appeared about a month earlier. These early tumor...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
     ],
     "topicBuckets": [
-      "computational biology",
+      "single-cell",
       "oncology",
-      "ai",
-      "translational medicine",
       "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
+    "importanceScore": 55,
     "importanceSignals": [
       "published this month",
-      "priority topic: computational biology, oncology",
+      "priority topic: oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
+    "isFeatured": false
+  },
+  {
+    "id": "219b831cdd3d172a",
+    "title": "Dysregulation of epithelial differentiation architecture underlies field cancerization in head and neck cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42999342",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42999342",
+    "source": "pubmed",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
+    "publishedAt": "2026-10-14T00:00:00.000Z",
+    "fetchedAt": "2026-11-08T18:06:56.895Z",
+    "snippet": "Head and neck squamous cell carcinoma (HNSCC) has exceptionally high recurrence rates, exceeding 50%, contributing to mortality and morbidity. This recurrence rate is proposed to be due to field cancerization, a phenomenon where tumor-adjacent \"field\" tissue that appears histologically normal harbors molecular changes that prime it for subsequent tumor grow...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
   }
 ]

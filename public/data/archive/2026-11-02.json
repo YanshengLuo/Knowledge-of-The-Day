@@ -1,33 +1,32 @@
 [
   {
-    "id": "eb89f4a2fba32765",
-    "title": "spOT-NMF: gene expression deconvolution via optimal transport with proximity-aware niche mapping for spatial transcriptomics.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42986684",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42986684",
+    "id": "3fbc6525427df5a6",
+    "title": "Metapath-guided topology and domain knowledge fusion for predicting miRNA-drug-disease triplet resistance and sensitivity associations.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42998278",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42998278",
     "source": "pubmed",
     "publicationName": "Briefings in bioinformatics",
     "journalName": "Briefings in bioinformatics",
     "publishedAt": "2026-11-02T00:00:00.000Z",
-    "fetchedAt": "2026-11-07T17:52:36.510Z",
-    "snippet": "Spatial transcriptomics enables direct profiling of cellular organization within intact tissues, yet two challenges limit its full exploitation: accurate reference-free deconvolution of mixed expression signals (including species-admixed models such as xenografts), and lack of tools that can translate per-spot program usage values into spatial niches. We de...",
+    "fetchedAt": "2026-11-08T18:06:56.895Z",
+    "snippet": "Accurately predicting drug resistance and sensitivity is critical for understanding disease treatment mechanisms and improving therapeutic strategies. MicroRNAs (miRNAs) play essential roles in regulating drug response. However, existing computational methods mainly focus on miRNA-drug pairwise associations and overlook the disease-specific context. In this...",
     "tags": [
       "research",
       "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "spatial"
+      "Computational oncology",
+      "computational biology",
+      "oncology"
     ],
     "topicBuckets": [
-      "spatial",
+      "computational biology",
       "oncology",
-      "computational biology"
+      "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 72,
+    "importanceScore": 82,
     "importanceSignals": [
       "recent",
-      "priority topic: oncology, computational biology",
+      "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"

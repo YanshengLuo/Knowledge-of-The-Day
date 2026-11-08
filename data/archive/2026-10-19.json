@@ -1,37 +1,72 @@
 [
   {
-    "id": "9b50fea0eb20ba19",
-    "title": "Molecular Mechanisms and Gene Regulatory Potential of Rutin: A Hypothesis-Driven Approach for Precision Medicine Applications.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42973317",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42973317",
+    "id": "d22fc1f067eec496",
+    "title": "Variable sparsity non-negative matrix and tensor factorization algorithms and their applications in cancer genomics.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42996051",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42996051",
     "source": "pubmed",
-    "publicationName": "Current gene therapy",
-    "journalName": "Current gene therapy",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
     "publishedAt": "2026-10-19T00:00:00.000Z",
-    "fetchedAt": "2026-11-03T19:51:26.895Z",
-    "snippet": "Rutin, is a naturally occurring flavonoid found in Ruta graveolens L., and preclinical evidence suggests its potential to regulate oxidative stress, suppress inflammation, and modulate intracellular signaling pathways. This review evaluates the therapeutic potential of rutin, with a particular emphasis on its molecular mechanisms, regulation of gene express...",
+    "fetchedAt": "2026-11-08T18:06:56.895Z",
+    "snippet": "The field of oncology has experienced significant advancements in novel therapies and molecular diagnostics to personalize initial cancer treatments. However, cancer's propensity for evolution and resistance to therapies remains a formidable challenge due to its dynamic nature. Cancer's complex and adaptive behavior surpasses the capabilities of simple mode...",
     "tags": [
       "research",
       "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
+      "Computational oncology",
+      "computational biology",
+      "oncology"
     ],
     "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "translational medicine"
+      "computational biology",
+      "oncology",
+      "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 65,
+    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: gene therapy, translational medicine",
+      "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
+    "isFeatured": false
+  },
+  {
+    "id": "3230a4fae3e85f97",
+    "title": "Survival-associated cellular communication networks in human solid cancers.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42995818",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42995818",
+    "source": "pubmed",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
+    "publishedAt": "2026-10-19T00:00:00.000Z",
+    "fetchedAt": "2026-11-08T18:06:56.895Z",
+    "snippet": "Single-cell atlases have enabled the prediction of human cell-cell communication (CCC) networks in cancer, but whether predicted communication networks have clinical significance is not well understood. Here, we integrated a pan-solid cancer scRNA-seq atlas comprising 78 cell types from 318,426 quality-controlled cells with bulk RNA-seq and clinical outcome...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "single-cell",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
   }
 ]

@@ -1,15 +1,15 @@
 [
   {
-    "id": "327e1de80fd99391",
-    "title": "Ketone Body Metabolism in Cancer-Associated Fibroblasts andas Prognostic and Therapeutic Determinants of Chemoradiotherapy Response in Cervical Cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42980014",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42980014",
+    "id": "a8879aa0c94e9e60",
+    "title": "Cross-species analysis reveals clonotypic T-cell remodeling underlying adrenal resistance to PD-1 blockade.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42999335",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42999335",
     "source": "pubmed",
-    "publicationName": "Frontiers in bioscience (Landmark edition)",
-    "journalName": "Frontiers in bioscience (Landmark edition)",
+    "publicationName": "Research square",
+    "journalName": "Research square",
     "publishedAt": "2026-10-16T00:00:00.000Z",
-    "fetchedAt": "2026-11-04T20:05:53.638Z",
-    "snippet": "Concurrent chemoradiotherapy (CCRT) is a cornerstone of treatment for locally advanced cervical cancer, although many patients show a poor response. The tumor microenvironment (TME) is a key determinant of therapeutic resistance and prognosis, with the metabolic reprogramming within specific cellular subsets playing a particularly important role. However, t...",
+    "fetchedAt": "2026-11-08T18:06:56.895Z",
+    "snippet": "Although clinical data suggest that adrenal metastases from solid tumors are less responsive to immune checkpoint inhibition (ICI) compared to other organ sites, little is known about the adrenal immune microenvironment's role in metastatic growth and response to immunotherapy. Using a novel clinical and genomic database of renal cell carcinoma (RCC) patien...",
     "tags": [
       "research",
       "pubmed",
@@ -20,13 +20,50 @@
     "topicBuckets": [
       "single-cell",
       "oncology",
-      "immunology"
+      "immunology",
+      "computational biology",
+      "translational medicine"
     ],
     "isNewToday": false,
-    "importanceScore": 55,
+    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "719b880ac4858ea6",
+    "title": "Combining an autoactivated cGAS mutant with membrane-tethered IL-12 via mRNA lipid nanoparticles promotes systemic tumor control.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42999213",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42999213",
+    "source": "pubmed",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
+    "publishedAt": "2026-10-16T00:00:00.000Z",
+    "fetchedAt": "2026-11-08T18:06:56.895Z",
+    "snippet": "Local tumor therapies rarely induce systemic immunity capable of controlling metastatic disease. Here, we engineer an mRNA lipid nanoparticle (LNP) platform to coordinate innate immune sensing and T cell activation in situ through co-delivery of an autoactivated cyclic GMP-AMP synthase mutant (cGAS) and membrane-tethered IL-12 (IL-12TM). cGASmRNA LNPs auton...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: gene therapy, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"

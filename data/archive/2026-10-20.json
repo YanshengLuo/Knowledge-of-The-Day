@@ -1,74 +1,38 @@
 [
   {
-    "id": "1022f1e965122063",
-    "title": "Microenvironment-Dependent Role of PLOD3 in Glioblastoma: Associations with Matrix Remodeling and Myeloid Immune Remodeling.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42973341",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42973341",
+    "id": "c434445c1afd0de8",
+    "title": "X-SPEAR: An Extensible Framework for Spatial Panel Evaluation and Refinement.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42995853",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42995853",
     "source": "pubmed",
-    "publicationName": "Current medicinal chemistry",
-    "journalName": "Current medicinal chemistry",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
     "publishedAt": "2026-10-20T00:00:00.000Z",
-    "fetchedAt": "2026-11-03T19:51:26.895Z",
-    "snippet": "Glioblastoma progression depends on reciprocal interactions between malignant cells, extracellular matrix remodeling, and myeloid immune suppression. However, whether PLOD3 drives glioblastoma through tumor cell-intrinsic or microenvironment- dependent mechanisms remains unclear. This retrospective multi-cohort observational study integrated transcriptomic....",
+    "fetchedAt": "2026-11-08T18:06:56.895Z",
+    "snippet": "Targeted spatial transcriptomics platforms such as 10x Genomics Xenium measure a predefined panel of genes. A gene is usually detected in fewer cells in the spatial assay than in the single-cell RNA sequencing (scRNA-seq) reference used to choose it, by an amount that differs from gene to gene. We present eXtensible Spatial Panel Evaluation And Refinement (...",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "spatial"
     ],
     "topicBuckets": [
-      "single-cell",
+      "spatial",
       "oncology",
-      "immunology",
-      "ai",
-      "computational biology"
+      "computational biology",
+      "single-cell"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
+    "importanceScore": 65,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology, ai",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
-  },
-  {
-    "id": "d3b3114146c9e10e",
-    "title": "CTLA-4/PD-1, LAG-3, and TIGIT Inhibitors: Emerging Drug Targets and Combination Strategies in Hepatocellular Carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42973337",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42973337",
-    "source": "pubmed",
-    "publicationName": "Current cancer drug targets",
-    "journalName": "Current cancer drug targets",
-    "publishedAt": "2026-10-20T00:00:00.000Z",
-    "fetchedAt": "2026-11-03T19:51:26.895Z",
-    "snippet": "Hepatocellular carcinoma (HCC) remains one of the most important causes of cancer-related death worldwide due to late diagnosis, chronic liver disease, and the highly immunosuppressive tumour microenvironment that favors immune escape and therapeutic resistance. Recently, immune checkpoint inhibitors (ICIs) targeting programmed cell death protein-1 (PD-1),....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
+    "isFeatured": false
   }
 ]
