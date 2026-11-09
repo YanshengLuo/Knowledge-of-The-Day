@@ -1,5 +1,40 @@
 [
   {
+    "id": "5cabd9b4f63aa700",
+    "title": "Can arid1a expression levels in gastric carcinomas predict response to neoadjuvant therapy and prognosis?",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43000872",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43000872",
+    "source": "pubmed",
+    "publicationName": "Polish journal of pathology : official journal of the Polish Society of Pathologists",
+    "journalName": "Polish journal of pathology : official journal of the Polish Society of Pathologists",
+    "publishedAt": "2026-10-28T00:00:00.000Z",
+    "fetchedAt": "2026-11-09T22:44:44.655Z",
+    "snippet": "The study aims to&#xa0;evaluate the significance of&#xa0;ARID1A expression in&#xa0;gastric cancer (GC) patients receiving neoadjuvant therapy, using immunohistochemical methods and bioinformatics approaches. Immunohistochemical analysis of&#xa0;an&#xa0;institutional clinical cohort (n&#xa0;= 80) was combined with bioinformatics analyses of&#xa0;independent....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
     "id": "a369e2ae74a348e8",
     "title": "Machine learning-guided multimodal analysis of APAF1-associated tumor microenvironment features prioritizes morellic acid for gastric cancer.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42998588",
@@ -8,36 +43,32 @@
     "publicationName": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
     "journalName": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
     "publishedAt": "2026-10-28T00:00:00.000Z",
-    "fetchedAt": "2026-11-08T18:06:56.895Z",
+    "fetchedAt": "2026-11-09T22:44:44.655Z",
     "snippet": "Gastric cancer (GC) exhibits substantial molecular heterogeneity and a complex tumor microenvironment (TME). Apoptotic protease-activating factor 1 (APAF1) is a core component of mitochondrial apoptosis; however, its association with immune characteristics, spatial heterogeneity and compound discovery in GC remains poorly defined. The bulk transcriptomics,....",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "machine learning",
       "Spatial oncology",
       "spatial transcriptomics",
-      "cancer"
+      "cancer",
+      "machine learning"
     ],
     "topicBuckets": [
-      "single-cell",
+      "spatial",
       "oncology",
-      "immunology",
-      "ai",
       "computational biology",
-      "spatial"
+      "ai",
+      "immunology"
     ],
     "isNewToday": false,
+    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology, ai",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 75,
     "isFeatured": true
   }
 ]
