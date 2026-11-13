@@ -1,33 +1,67 @@
 [
   {
-    "id": "e192c1b66416541a",
-    "title": "Circulating Tumor DNA in Oligoprogressive Prostate Cancer Treated With Stereotactic Radiotherapy: A Prespecified Secondary Analysis of a Nonrandomized Clinical Trial.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43013307",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43013307",
+    "id": "cee41d69cf4731f9",
+    "title": "CD39+CD71+ erythroid cells exhibit enhanced purine metabolism and T cell-suppressive function in triple-negative breast cancer and other immunoregulatory settings.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43023210",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43023210",
     "source": "pubmed",
-    "publicationName": "JAMA network open",
-    "journalName": "JAMA network open",
+    "publicationName": "Journal of immunology (Baltimore, Md. : 1950)",
+    "journalName": "Journal of immunology (Baltimore, Md. : 1950)",
     "publishedAt": "2026-11-02T00:00:00.000Z",
-    "fetchedAt": "2026-11-12T20:30:05.434Z",
-    "snippet": "Stereotactic body radiotherapy (SBRT) is increasingly used for oligoprogressive prostate cancer, but the duration of disease control is highly variable. To evaluate time to progression based on circulating tumor DNA (ctDNA) prior to SBRT. Between October 17, 2018, and February 1, 2023, the phase 2 prospective, single-arm, nonrandomized clinical TRAP (Target...",
+    "fetchedAt": "2026-11-13T20:06:34.143Z",
+    "snippet": "CD71+ erythroid cells (CECs) expand in tumor-bearing hosts and suppress antitumor immunity, but the mechanisms underlying their immunoregulatory activity remain incompletely understood. Here, we identify CD39-mediated purine metabolism as a previously unrecognized suppressive pathway used by CECs. In the 4T1 model of triple-negative breast cancer, CD39 was....",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
     ],
     "topicBuckets": [
-      "computational biology",
+      "single-cell",
       "oncology",
-      "biotech",
-      "translational medicine"
+      "immunology",
+      "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
+    "importanceScore": 65,
     "importanceSignals": [
       "published this month",
-      "priority topic: computational biology, oncology",
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "4283efea73c55a93",
+    "title": "Biosemantic graph transfer learning for cross-patient cell type annotation and cell-cell interaction analysis in tumor single-cell RNA sequencing.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43021601",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43021601",
+    "source": "pubmed",
+    "publicationName": "Briefings in bioinformatics",
+    "journalName": "Briefings in bioinformatics",
+    "publishedAt": "2026-11-02T00:00:00.000Z",
+    "fetchedAt": "2026-11-13T20:06:34.143Z",
+    "snippet": "The exploration of cellular heterogeneity within the tumor microenvironment (TME) via single-cell RNA sequencing (scRNA-seq) is essential for understanding cancer progression and response to therapy. Current scRNA-seq approaches, however, lack spatial context and rely on incomplete datasets of ligand-receptor interactions, limiting accurate cell type annota...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 55,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
