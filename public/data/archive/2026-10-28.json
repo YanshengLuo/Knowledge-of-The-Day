@@ -1,21 +1,102 @@
 [
   {
-    "id": "5cabd9b4f63aa700",
-    "title": "Can arid1a expression levels in gastric carcinomas predict response to neoadjuvant therapy and prognosis?",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43000872",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43000872",
+    "id": "c598c3ea57b91ba0",
+    "title": "An Epigenetically Remodeled EMT-Inflammatory Clone Associated with Spatial Immune Exclusion in Clear Cell Renal Cell Carcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43027916",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43027916",
     "source": "pubmed",
-    "publicationName": "Polish journal of pathology : official journal of the Polish Society of Pathologists",
-    "journalName": "Polish journal of pathology : official journal of the Polish Society of Pathologists",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
     "publishedAt": "2026-10-28T00:00:00.000Z",
-    "fetchedAt": "2026-11-10T20:03:12.254Z",
-    "snippet": "The study aims to&#xa0;evaluate the significance of&#xa0;ARID1A expression in&#xa0;gastric cancer (GC) patients receiving neoadjuvant therapy, using immunohistochemical methods and bioinformatics approaches. Immunohistochemical analysis of&#xa0;an&#xa0;institutional clinical cohort (n&#xa0;= 80) was combined with bioinformatics analyses of&#xa0;independent....",
+    "fetchedAt": "2026-11-14T18:32:32.912Z",
+    "snippet": "Clear cell renal cell carcinoma (ccRCC) exhibits intra-tumoral heterogeneity and spatial complexity that restrict immune infiltration, yet the malignant populations driving spatial immune exclusion remain elusive. We integrated scRNA-seq, paired scATAC-seq, spatial transcriptomics, and multiple bulk cohorts to identify the malignant subpopulation driving cc...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
-      "oncology"
+      "oncology",
+      "spatial",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "single-cell",
+      "spatial",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 75,
+    "isFeatured": false
+  },
+  {
+    "id": "193df55d69bcee86",
+    "title": "Integrative Single-Cell and Radiomics Analyses Identify N-Acetylneuraminate Synthase ()-High Signature Associated with Adverse Prognosis and Immune Remodeling in Glioblastoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43027883",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43027883",
+    "source": "pubmed",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
+    "publishedAt": "2026-10-28T00:00:00.000Z",
+    "fetchedAt": "2026-11-14T18:32:32.912Z",
+    "snippet": "Glioblastoma (GBM) is characterized by marked heterogeneity and an immunosuppressive microenvironment. N-acetylneuraminate synthase () contributes to tumor-associated metabolic regulation, but its relationship with GBM and its immune profile remains unclear. This study aimed to characterize the prognostic and immune relevance ofand develop an MRI radiomics....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "single-cell",
+      "Single-cell TME",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "single-cell",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 75,
+    "isFeatured": false
+  },
+  {
+    "id": "ce15a718cdd5aaf8",
+    "title": "Identification of Novel Plasma Protein Biomarkers for Early Clinical Stage Colorectal Carcinoma by High-Throughput Proteomics.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43027880",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43027880",
+    "source": "pubmed",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
+    "publishedAt": "2026-10-28T00:00:00.000Z",
+    "fetchedAt": "2026-11-14T18:32:32.912Z",
+    "snippet": "Early detection is critical for improving survival in colorectal carcinoma (CRC), underscoring the need for reliable early-stage biomarkers. Plasma protein biomarkers may support the detection of early-stage CRC. In this study, we profiled plasma from 24 patients with stages I-III CRC and 10 non-tumor participants, together with paired tumor and distant-nor...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology",
+      "biomarker"
     ],
     "topicBuckets": [
       "computational biology",
@@ -32,36 +113,69 @@
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
+    "isFeatured": false
   },
   {
-    "id": "a369e2ae74a348e8",
-    "title": "Machine learning-guided multimodal analysis of APAF1-associated tumor microenvironment features prioritizes morellic acid for gastric cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42998588",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42998588",
+    "id": "0a24847ec17bec5c",
+    "title": "Construction of a GCSCs-Related Prognostic Risk Model Based on Transcriptomic Data.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43027918",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43027918",
     "source": "pubmed",
-    "publicationName": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
-    "journalName": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
     "publishedAt": "2026-10-28T00:00:00.000Z",
-    "fetchedAt": "2026-11-10T20:03:12.254Z",
-    "snippet": "Gastric cancer (GC) exhibits substantial molecular heterogeneity and a complex tumor microenvironment (TME). Apoptotic protease-activating factor 1 (APAF1) is a core component of mitochondrial apoptosis; however, its association with immune characteristics, spatial heterogeneity and compound discovery in GC remains poorly defined. The bulk transcriptomics,....",
+    "fetchedAt": "2026-11-14T18:32:32.912Z",
+    "snippet": "Gastric Cancer Stem Cells (GCSCs) contribute to tumor progression and treatment resistance, but their heterogeneity and tumor microenvironment interactions remain unclear. We analyzed GSE163558 single-cell RNA-sequencing data from 10 gastric cancer samples and integrated GCSC-related genes with The Cancer Genome Atlas Stomach Adenocarcinoma (TCGA-STAD) trai...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "b65265331be0c97f",
+    "title": "Matrix-Associated Gene Expression and Annotated Tumor-Stroma Composition of Transcriptomically Defined Cold Regions in Triple-Negative Breast Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43026797",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43026797",
+    "source": "pubmed",
+    "publicationName": "Cancers",
+    "journalName": "Cancers",
+    "publishedAt": "2026-10-28T00:00:00.000Z",
+    "fetchedAt": "2026-11-14T18:32:32.912Z",
+    "snippet": "Regional transcriptomic labels can reflect cell mixtures and expression states. We examined how transcriptomically defined cold regions in triple-negative breast cancer relate to matrix-associated expression, annotated composition, spatial neighborhoods, and cell-type attribution. We reanalyzed public data from 43 discovery sections (22 patients) and 11 can...",
     "tags": [
       "research",
       "pubmed",
       "Spatial oncology",
       "spatial transcriptomics",
-      "cancer",
-      "machine learning"
+      "cancer"
     ],
     "topicBuckets": [
       "spatial",
       "oncology",
       "computational biology",
-      "ai",
       "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
+    "importanceScore": 65,
     "importanceSignals": [
       "published this month",
       "priority topic: oncology, computational biology",
@@ -69,6 +183,6 @@
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
+    "isFeatured": false
   }
 ]

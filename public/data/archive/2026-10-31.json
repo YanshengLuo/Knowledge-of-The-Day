@@ -1,15 +1,15 @@
 [
   {
-    "id": "7caa91e165da4d77",
-    "title": "Longitudinal plasma protein profiling in glioblastoma patients using NULISAseq reveals treatment-associated changes across radiation and chemotherapy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42965578",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42965578",
+    "id": "f32186832a183102",
+    "title": "Comprehensive Proteomics Reveals Pachymic Acid Targeting RBMX via hnRNPC Degradation in Colorectal Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43027349",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43027349",
     "source": "pubmed",
-    "publicationName": "Journal of neuro-oncology",
-    "journalName": "Journal of neuro-oncology",
+    "publicationName": "Cells",
+    "journalName": "Cells",
     "publishedAt": "2026-10-31T00:00:00.000Z",
-    "fetchedAt": "2026-11-02T21:57:37.617Z",
-    "snippet": "Glioblastoma (GBM) is the most aggressive primary brain tumor with poor outcomes despite surgery, radiotherapy (RT), and temozolomide (TMZ). Monitoring relies on imaging, which is confounded by pseudoprogression and provides limited molecular insight. Circulating biomarkers may offer a minimally invasive approach to track disease and treatment effects. We p...",
+    "fetchedAt": "2026-11-14T18:32:32.912Z",
+    "snippet": "Pachymic acid (), a major bioactive component of Poria cocos, suppresses colorectal cancer (CRC) proliferation and invasion by disrupting glycolysis. However, its antitumor activity and underlying mechanisms in vitro and in vivo remain unclear. RNA-binding proteins (RBPs) are key post-transcriptional regulators in CRC, but their mechanisms of action and the...",
     "tags": [
       "research",
       "pubmed",
@@ -20,13 +20,12 @@
     "topicBuckets": [
       "computational biology",
       "oncology",
-      "ai",
-      "translational medicine"
+      "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
+    "importanceScore": 75,
     "importanceSignals": [
-      "recent",
+      "published this month",
       "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
@@ -35,50 +34,16 @@
     "isFeatured": true
   },
   {
-    "id": "e520b040dbef3745",
-    "title": "Integrated Multiomic Analysis Reveals an EBV-Associated MIF-SPP1Macrophage Axis Linking Tumor Stemness and Immune Dysfunction in Nasopharyngeal Carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42966886",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42966886",
+    "id": "bfb5fa3e5f91fc56",
+    "title": "In Silico Single-Cell Transcriptomic Analysis Reveals Senescence-Associated Programs' Progress Along the Normal-Adenoma-Carcinoma Sequence in Colorectal Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43028049",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43028049",
     "source": "pubmed",
-    "publicationName": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-    "journalName": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
     "publishedAt": "2026-10-31T00:00:00.000Z",
-    "fetchedAt": "2026-11-02T21:57:37.617Z",
-    "snippet": "Elucidating how Epstein-Barr virus (EBV) shapes tumor-immune interactions is important for improving therapy in nasopharyngeal carcinoma (NPC). This multi-cohort analysis integrates single-cell, spatial, and bulk transcriptomic data with multiplex immunofluorescence and functional assays. Single-cell profiling identifies stemness-associated epithelial state...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 62,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "f7d845d68ff7401a",
-    "title": "MAGI3 Acts as an Intestinal Epithelial Gatekeeper in Inflammation-Associated Colorectal Cancer by Suppressing the STAT3-CCL2 Axis and TAM-Mediated Immunosuppression.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42966883",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42966883",
-    "source": "pubmed",
-    "publicationName": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-    "journalName": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-    "publishedAt": "2026-10-31T00:00:00.000Z",
-    "fetchedAt": "2026-11-02T21:57:37.617Z",
-    "snippet": "Chronic intestinal inflammation is a major driver of colorectal cancer (CRC). As the mucosal barrier's frontline sentinel, the intestinal epithelium initiates the inflammation-to-cancer transition. However, the early cell-intrinsic events that convert inflammatory responses into a sustained pro-tumorigenic program remain unclear. In this study, we identify....",
+    "fetchedAt": "2026-11-14T18:32:32.912Z",
+    "snippet": "Colorectal cancer (CRC) develops through a multistep progression from normal colonic mucosa to adenoma and ultimately carcinoma. However, the cell-type-specific senescence-associated states during this transition remain incompletely understood. We performed an integrative analysis of single-cell RNA-sequencing and spatial transcriptomic datasets derived fro...",
     "tags": [
       "research",
       "pubmed",
@@ -93,191 +58,14 @@
       "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 72,
+    "importanceScore": 65,
     "importanceSignals": [
-      "recent",
+      "published this month",
       "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
-  },
-  {
-    "id": "451ef0906ed10be1",
-    "title": "Integrating single-cell and bulk RNA sequencing with ML algorithms identified MYBL2 as a candidate transcriptomic biomarker for diagnosing laryngeal squamous cell carcinoma (LSCC).",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42966320",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42966320",
-    "source": "pubmed",
-    "publicationName": "Translational oncology",
-    "journalName": "Translational oncology",
-    "publishedAt": "2026-10-31T00:00:00.000Z",
-    "fetchedAt": "2026-11-02T21:57:37.617Z",
-    "snippet": "Laryngeal squamous cell carcinoma (LSCC) poses significant clinical challenges due to pronounced tumor heterogeneity. To identify robust, consistent biomarkers across cohorts, we integrated bulk RNA sequencing (RNA-seq) data from GSE127165 and GSE142083 and validated candidate biomarkers in the external cohort GSE13060. Candidate gene prioritization incorpo...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "biomarker"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 72,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, translational medicine",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "a19b639e489f84a9",
-    "title": "ADA2 controls autophagy-dependent mitochondrial fitness to restrain type I interferon activation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42966766",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42966766",
-    "source": "pubmed",
-    "publicationName": "Cell death and differentiation",
-    "journalName": "Cell death and differentiation",
-    "publishedAt": "2026-10-31T00:00:00.000Z",
-    "fetchedAt": "2026-11-02T21:57:37.617Z",
-    "snippet": "Adenosine deaminase 2 (ADA2) is a secreted enzyme recently shown to localize to lysosomes and bind DNA, yet its cellular function remains elusive. ADA2 is highly expressed by innate immune cells, particularly macrophages, which are implicated in the inflammatory pathogenesis of ADA2 deficiency (DADA2). Accordingly, we investigated its function in macrophage...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 72,
-    "importanceSignals": [
-      "recent",
-      "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "daf17c6e321dc969",
-    "title": "Ketone bodies in the regulation of pyroptosis and ferroptosis: opportunities for disease therapy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42966494",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42966494",
-    "source": "pubmed",
-    "publicationName": "Metabolism: clinical and experimental",
-    "journalName": "Metabolism: clinical and experimental",
-    "publishedAt": "2026-10-31T00:00:00.000Z",
-    "fetchedAt": "2026-11-02T21:57:37.617Z",
-    "snippet": "Ketone bodies (KBs)-beta-hydroxybutyrate (&#x3b2;-HB), acetoacetate (AcAc), and acetone-are generated by hepatic mitochondria during states of carbohydrate restriction and can be used by extrahepatic organs as an alternative energy source. KBs, particularly &#x3b2;-HB and AcAc, have been increasingly recognized for their diverse regulatory functions in gene...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 62,
-    "importanceSignals": [
-      "recent",
-      "priority topic: gene therapy",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "e11e419786d10b5d",
-    "title": "MRGPRX2 in Allergic and Immune-Mediated Diseases: Mechanisms, Clinical Relevance, and Therapeutic Translation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42963501",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963501",
-    "source": "pubmed",
-    "publicationName": "Clinical reviews in allergy & immunology",
-    "journalName": "Clinical reviews in allergy & immunology",
-    "publishedAt": "2026-10-31T00:00:00.000Z",
-    "fetchedAt": "2026-11-02T21:57:37.617Z",
-    "snippet": "Mas-related G protein-coupled receptor X2 (MRGPRX2) is a mast-cell-enriched receptor that mediates immunoglobulin E-independent activation by structurally diverse neuropeptides, host-defense peptides, microbial products, and selected cationic drugs. Its biology links tissue stress and neuroimmune signaling to degranulation, vascular responses, pruritus, bar...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 72,
-    "importanceSignals": [
-      "recent",
-      "priority topic: gene therapy, translational medicine",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "2edf19b17106cb4e",
-    "title": "The systemic administration of multipotent mesenchymal stromal cells alters the inflammatory response in the lung during murine polymicrobial sepsis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42963429",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963429",
-    "source": "pubmed",
-    "publicationName": "Cell and tissue research",
-    "journalName": "Cell and tissue research",
-    "publishedAt": "2026-10-31T00:00:00.000Z",
-    "fetchedAt": "2026-11-02T21:57:37.617Z",
-    "snippet": "Sepsis is a life-threatening organ dysfunction and a major cause of acute respiratory distress syndrome (ARDS). Mesenchymal stromal cells (MSCs) have emerged as a potential immunomodulatory therapy, yet preclinical data remain inconsistent. This study investigated the early effects of human MSCs derived from different tissue sources-bone marrow (BMMSCs) and...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai",
-      "funding",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
+    "isFeatured": false
   }
 ]

@@ -1,15 +1,15 @@
 [
   {
-    "id": "0adafb8ef31f40cf",
-    "title": "OSS: Open suturing skills vision-based assessment challenge 2024-2025.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43019931",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43019931",
+    "id": "7c38146d803eaa13",
+    "title": "Associations of Chronic Lymphocytic Leukemia (CLL) Susceptibility Variants Across the CLL Etiologic Continuum.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43026876",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43026876",
     "source": "pubmed",
-    "publicationName": "Medical image analysis",
-    "journalName": "Medical image analysis",
+    "publicationName": "Cancers",
+    "journalName": "Cancers",
     "publishedAt": "2026-11-05T00:00:00.000Z",
-    "fetchedAt": "2026-11-13T20:06:34.143Z",
-    "snippet": "Achieving high levels of surgical skill through effective training is essential for optimal patient outcomes. Automated, data-driven skill assessment holds significant potential to improve surgical training. While machine learning-based methods are increasingly popular for assessing skills in minimally invasive surgery, their application to open surgery rem...",
+    "fetchedAt": "2026-11-14T18:32:32.912Z",
+    "snippet": "Low-count monoclonal B-cell lymphocytosis (LC-MBL) is a precursor to chronic lymphocytic leukemia (CLL). Forty-one inherited susceptibility variants for CLL have been reported, but whether these variants impact CLL, through the initiation of the clone (LC-MBL) or progression of LC-MBL to CLL, is not well characterized.We evaluated 41 previously reported CLL...",
     "tags": [
       "research",
       "pubmed",
@@ -20,10 +20,10 @@
     "topicBuckets": [
       "computational biology",
       "oncology",
-      "ai"
+      "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
+    "importanceScore": 65,
     "importanceSignals": [
       "published this month",
       "priority topic: computational biology, oncology",
@@ -31,74 +31,47 @@
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
+    "isFeatured": false
   },
   {
-    "id": "1b71199ecdcbe736",
-    "title": "Oleandrin-mediated Neuroprotection: BDNF/TrkB Activation, CREB Modulation, and Implications for Neurovascular Degeneration.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43023272",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43023272",
+    "id": "3356b1a1b5170645",
+    "title": "Hypoxia-Associated Glycolytic-Lipogenic Reprogramming and Impaired Antigen Presentation in SPP1Tumor-Associated Macrophages in Ovarian Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43028149",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43028149",
     "source": "pubmed",
-    "publicationName": "Current neurovascular research",
-    "journalName": "Current neurovascular research",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
     "publishedAt": "2026-11-05T00:00:00.000Z",
-    "fetchedAt": "2026-11-13T20:06:34.143Z",
-    "snippet": "Oleandrin, a cardiac glycoside derived from Nerium oleander, has been identified for its neuroprotective potential. This review article will discuss the broad molecular mechanisms by which oleandrin targets neurovascular degeneration and its potential to influence critical signaling pathways that regulate oleandrin-related neuronal survival, plasticity, and...",
+    "fetchedAt": "2026-11-14T18:32:32.912Z",
+    "snippet": "Ovarian cancer has an immunosuppressive microenvironment in which SPP1tumor-associated macrophages (TAMs) are linked to poor prognosis and immune evasion, yet their molecular features and metabolic mechanisms remain unclear. We therefore set out to determine whether SPP1 marks a discrete TAM subpopulation or a functional state in treatment-na&#xef;ve high-g...",
     "tags": [
       "research",
       "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
     ],
     "topicBuckets": [
-      "gene therapy",
-      "immunology"
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai",
+      "funding",
+      "spatial",
+      "computational biology"
     ],
     "isNewToday": false,
-    "importanceScore": 55,
     "importanceSignals": [
       "published this month",
-      "priority topic: gene therapy",
+      "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
-  },
-  {
-    "id": "815e0d31b4b2754d",
-    "title": "Mechanisms of Resistance to KRAS G12C Inhibitors and the Rationale for Targeting the PI3K/AKT/mTOR Pathway in Advanced NSCLC.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43023285",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43023285",
-    "source": "pubmed",
-    "publicationName": "Mini reviews in medicinal chemistry",
-    "journalName": "Mini reviews in medicinal chemistry",
-    "publishedAt": "2026-11-05T00:00:00.000Z",
-    "fetchedAt": "2026-11-13T20:06:34.143Z",
-    "snippet": "KRAS G12C mutations represent one of the most prevalent oncogenic drivers in nonsmall cell lung cancer (NSCLC), occurring in approximately 13-14% of lung adenocarcinomas. The introduction of first-generation KRAS G12C inhibitors (sotorasib and adagrasib) marked a paradigm shift in targeting previously \"undruggable\" oncoproteins; however, treatment resistanc...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 65,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
+    "importanceScore": 75,
     "isFeatured": true
   }
 ]

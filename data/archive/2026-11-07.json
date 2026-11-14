@@ -1,36 +1,74 @@
 [
   {
-    "id": "d22aa46a091d18e6",
-    "title": "GallMine: an integrated knowledgebase and data repository on gallbladder cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42998169",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42998169",
+    "id": "4e45c2c6cb01b615",
+    "title": "Metabolomics in Thoracic Oncology from Biomarker Discovery to Therapeutic Targeting: A Narrative Review.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43026902",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43026902",
     "source": "pubmed",
-    "publicationName": "Molecular genetics and genomics : MGG",
-    "journalName": "Molecular genetics and genomics : MGG",
+    "publicationName": "Cancers",
+    "journalName": "Cancers",
     "publishedAt": "2026-11-07T00:00:00.000Z",
-    "fetchedAt": "2026-11-10T20:03:12.254Z",
-    "snippet": "Gallbladder cancer (GBC) is a rare but aggressive hepatobiliary malignancy associated with high mortality rates. It has multi-factorial etiology with a poor diagnosis and prognosis. Despite aggressive disease phenotype, GBC treatment options remain limited mostly due to inadequate scientific understanding and data. Here, we present \"GallMine\" ( https://www2...",
+    "fetchedAt": "2026-11-14T18:32:32.912Z",
+    "snippet": "Thoracic malignancies show context-dependent metabolic plasticity that influences growth, immune evasion, and treatment response. This review examines how metabolomics, stable-isotope tracing, and metabolic flux analysis complement molecular profiling in lung, esophageal, pleural, and thymic cancers. We distinguish metabolite abundance from isotope enrichme...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "biomarker"
     ],
     "topicBuckets": [
-      "computational biology",
+      "single-cell",
       "oncology",
-      "ai"
+      "immunology",
+      "computational biology",
+      "translational medicine"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
+    "importanceScore": 75,
     "importanceSignals": [
-      "recent",
-      "priority topic: computational biology, oncology",
+      "published this month",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
     "isFeatured": true
+  },
+  {
+    "id": "38b6ba869b3ae503",
+    "title": "Analysis of the Use of shRNA in Atherosclerosis Therapy: Current Status.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43027387",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43027387",
+    "source": "pubmed",
+    "publicationName": "Cells",
+    "journalName": "Cells",
+    "publishedAt": "2026-11-07T00:00:00.000Z",
+    "fetchedAt": "2026-11-14T18:32:32.912Z",
+    "snippet": "Atherosclerosis remains the principal pathological substrate of myocardial infarction, ischemic stroke and peripheral artery disease, and its progression is driven by an interlocking set of processes, including hepatic and vascular lipid metabolism, chronic vascular inflammation, macrophage foam cell formation and vascular smooth muscle cell (VSMC) prolifer...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
   }
 ]
