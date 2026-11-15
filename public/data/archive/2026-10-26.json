@@ -1,43 +1,72 @@
 [
   {
-    "id": "d86487aac6018731",
-    "title": "Spatial transcriptomics identifies tumor-intrinsic and stromal programs associated with immune exclusion in NSCLC.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42966824",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42966824",
+    "id": "a848dc41ab818b7d",
+    "title": "Effects of a Nutrigenetic Diet on Fat Mass Loss, Insulin Resistance, and Subclinical Inflammation in Adults with Abdominal Obesity: A Randomized Controlled Trial-The INNUPREC Study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43030148",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43030148",
     "source": "pubmed",
-    "publicationName": "Signal transduction and targeted therapy",
-    "journalName": "Signal transduction and targeted therapy",
+    "publicationName": "Nutrients",
+    "journalName": "Nutrients",
     "publishedAt": "2026-10-26T00:00:00.000Z",
-    "fetchedAt": "2026-11-02T21:57:37.617Z",
-    "snippet": "Immune checkpoint blockade (ICB) has reshaped the treatment of advanced non-small cell lung cancer (NSCLC), yet durable benefit remains limited to a subset of patients. One major pattern of resistance is immune exclusion, in which CD8+ T cells accumulate in stromal regions but fail to penetrate tumor nests. Here, using discovery and non-overlapping internal...",
+    "fetchedAt": "2026-11-15T19:08:47.562Z",
+    "snippet": "Abdominal obesity (AO) is involved in the development of cardiometabolic disorders, in which factors such as diet and genetics play crucial roles. In this context, interactions between genetic variants and dietary responses may influence metabolic processes associated with AO.: This study aimed to evaluate the effects of a nutrigenetic diet incorporating 21...",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment",
-      "spatial",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
     ],
     "topicBuckets": [
-      "single-cell",
-      "oncology",
+      "gene therapy",
       "immunology",
       "ai",
-      "computational biology",
-      "spatial"
+      "translational medicine"
     ],
     "isNewToday": false,
+    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology, ai",
+      "priority topic: gene therapy, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 75,
-    "isFeatured": false
+    "isFeatured": true
+  },
+  {
+    "id": "8d1961d104a7942f",
+    "title": "Histological Subtypes, Divergent Differentiation, and Neuroendocrine Components in Primary Non-Muscle-Invasive Bladder Cancer Managed with Bladder-Preserving Approaches: A Propensity Score-Matched Study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034119",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43034119",
+    "source": "pubmed",
+    "publicationName": "Clinical genitourinary cancer",
+    "journalName": "Clinical genitourinary cancer",
+    "publishedAt": "2026-10-26T00:00:00.000Z",
+    "fetchedAt": "2026-11-15T19:08:47.562Z",
+    "snippet": "We evaluated the association of histological subtypes, divergent differentiation, or an associated neuroendocrine component with oncological outcomes in NMIBC. Consecutive patients treated between January 2018 and June 2023 were retrospectively reviewed. Patients undergoing immediate or planned radical cystectomy were excluded. Propensity score matching use...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
   }
 ]

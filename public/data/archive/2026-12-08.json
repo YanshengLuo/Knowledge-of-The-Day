@@ -1,34 +1,68 @@
 [
   {
-    "id": "96d781d55156dddf",
-    "title": "Integrated multi-omics, network pharmacology, and machine learning reveal the active constituents and pharmacological mechanism of Fufang E'jiao Jiang against lung cancer-related fatigue.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42967798",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42967798",
+    "id": "e2f9cdb8416037a8",
+    "title": "Engineered lipid nanoparticles can safely and efficiently deliver plasmid DNA for hemophilia A gene therapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034607",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43034607",
     "source": "pubmed",
-    "publicationName": "Analytica chimica acta",
-    "journalName": "Analytica chimica acta",
+    "publicationName": "Molecular therapy. Nucleic acids",
+    "journalName": "Molecular therapy. Nucleic acids",
     "publishedAt": "2026-12-08T00:00:00.000Z",
-    "fetchedAt": "2026-11-02T21:57:37.617Z",
-    "snippet": "Fufang E'jiao Jiang (FEJ), a classic traditional Chinese medicine formula for improving immunity, has demonstrated clinical efficacy in alleviating lung cancer-related fatigue (LCRF). FEJ contains both plant-derived herbs and animal-derived donkey-hide gelatin, yet its complex chemical composition-particularly the collagen-derived peptides and proteins-rema...",
+    "fetchedAt": "2026-11-15T19:08:47.562Z",
+    "snippet": "Non-viral gene therapy for genetic disorders like hemophilia A (HA) can overcome major limitations posed by viral gene therapy, including vector-induced host immune responses and the inability to administer repeated doses. To advance this approach, we developed a non-viral gene therapy platform utilizing lipid nanoparticles (LNPs) for the hepatic delivery o...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology",
-      "machine learning"
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
     ],
     "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai",
-      "translational medicine"
+      "gene therapy",
+      "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 92,
+    "importanceScore": 72,
     "importanceSignals": [
       "very recent",
-      "priority topic: computational biology, oncology",
+      "priority topic: gene therapy",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "a3c5658cd759c76b",
+    "title": "Replicating vs. non-replicating RNA therapeutics: Mechanisms, trade-offs, and future directions.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032364",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43032364",
+    "source": "pubmed",
+    "publicationName": "Molecular therapy. Nucleic acids",
+    "journalName": "Molecular therapy. Nucleic acids",
+    "publishedAt": "2026-12-08T00:00:00.000Z",
+    "fetchedAt": "2026-11-15T19:08:47.562Z",
+    "snippet": "RNA-based therapies are providing new ways to treat infections, cancer, and inherited diseases. These therapies fall into two broad categories: non-replicating RNAs, like messenger RNA, small interfering RNA (siRNA), and antisense oligonucleotides; and replicating RNAs, such as self-amplifying RNA (saRNA) and defective interfering (DI) RNAs. Non-replicating...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "biotech",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 82,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: gene therapy, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"

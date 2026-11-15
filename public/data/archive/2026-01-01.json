@@ -1,5 +1,111 @@
 [
   {
+    "id": "d255f50f855b69d5",
+    "title": "GlycoAudit: structural joinability and annotation degree shape glycan-agent relation ranking.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034658",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43034658",
+    "source": "pubmed",
+    "publicationName": "Bioinformatics advances",
+    "journalName": "Bioinformatics advances",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-11-15T19:08:47.562Z",
+    "snippet": "Benchmark scores can be misleading when identifier resolution, structural availability, and incomplete interaction annotation determine which glycans can be evaluated. GlycoAudit audits this evidence-to-structure path before model comparison. A strict accession, branch, and sequence contract retained 44 of 173 resolved SugarBind glycans (25.4%) and excluded...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "f1030012f3cd4e7b",
+    "title": "From evidence to impact: purposeful use of implementation science theories, models, and frameworks in genomics and precision health.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43031615",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43031615",
+    "source": "pubmed",
+    "publicationName": "Frontiers in public health",
+    "journalName": "Frontiers in public health",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-11-15T19:08:47.562Z",
+    "snippet": "A growing number of genomics precision health applications are supported by robust evidence, yet their integration into routine clinical and population health practice remains slow, uneven, and inequitable. This article demonstrates how implementation science (IS) theories, models, and frameworks (TMFs) can support the translation of evidence-based genomics...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "ai",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "0f19439b98a5ccbe",
+    "title": "Single-cell and spatial multi-omics for studying cell competition in the tumor microenvironment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032516",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43032516",
+    "source": "pubmed",
+    "publicationName": "Frontiers in oncology",
+    "journalName": "Frontiers in oncology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-11-15T19:08:47.562Z",
+    "snippet": "Cell competition is a conserved fitness-surveillance process, first described in Drosophila epithelia, by which cells compare relative fitness with their neighbors so that less-fit \"loser\" cells are eliminated, extruded or forced to differentiate while fitter \"winner\" cells expand. In the tumor microenvironment (TME), this logic appears to be co-opted by tr...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "spatial",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "computational biology",
+      "spatial"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 58,
+    "isFeatured": true
+  },
+  {
     "id": "04eefd412b41fd4a",
     "title": "TMC8 is associated with a paradoxical immune landscape and promotes clear cell renal cell carcinoma progression.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43031750",
@@ -8,7 +114,7 @@
     "publicationName": "Frontiers in oncology",
     "journalName": "Frontiers in oncology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-14T18:32:32.912Z",
+    "fetchedAt": "2026-11-15T19:08:47.562Z",
     "snippet": "Clear cell renal cell carcinoma (ccRCC) progression is closely linked to a complex tumor microenvironment (TME), yet key regulators remain unclear. This study aimed to systematically investigate the roles ofin ccRCC, focusing on its immunological and biological potential. Multi-cohort transcriptomic data were integrated to analyzeexpression and prognostic v...",
     "tags": [
       "research",
@@ -42,18 +148,14 @@
     "publicationName": "Frontiers in pharmacology",
     "journalName": "Frontiers in pharmacology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-14T18:32:32.912Z",
+    "fetchedAt": "2026-11-15T19:08:47.562Z",
     "snippet": "Immune checkpoint blockade has reshaped lung cancer treatment, yet durable benefit remains restricted to a subset of patients. Biomarkers incompletely capture interactions between immune activation and tumor-intrinsic resistance. Integrating immune and epithelial expression programs may help identify response-associated states and candidates for functional....",
     "tags": [
       "research",
       "pubmed",
       "Single-cell TME",
       "single-cell",
-      "tumor microenvironment",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
+      "tumor microenvironment"
     ],
     "topicBuckets": [
       "single-cell",
@@ -63,43 +165,43 @@
       "translational medicine"
     ],
     "isNewToday": false,
+    "importanceScore": 68,
     "importanceSignals": [
       "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 68,
     "isFeatured": true
   },
   {
-    "id": "6bac84b13d0bb6d3",
-    "title": "Promoter hypomethylation associated with elevatedexpression in triple-negative breast cancer patients.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43031649",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43031649",
+    "id": "f6b011cd2af2d52d",
+    "title": "The cGAS-STING pathway in traumatic brain injury: mechanisms of neuroinflammation and therapeutic strategies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032631",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43032631",
     "source": "pubmed",
-    "publicationName": "Frontiers in oncology",
-    "journalName": "Frontiers in oncology",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-14T18:32:32.912Z",
-    "snippet": "Triple-negative breast cancer (TNBC) is a highly aggressive and diverse subtype of breast cancer with few therapeutic choices and poor prognosis. This is mostly because of recurrence, metastasis, and therapeutic resistance. Members of the tripartite motif-containing protein family (TRIM) have emerged as significant regulators of tumor growth due to their fu...",
+    "fetchedAt": "2026-11-15T19:08:47.562Z",
+    "snippet": "Traumatic brain injury (TBI) remains a leading cause of mortality and long-term disability worldwide, and no pharmacological therapy interrupts the deleterious secondary injury cascade. Damage-associated molecular patterns (DAMPs), particularly mislocalized nuclear and mitochondrial DNA, drive self-sustained neuroinflammation by activating the cytosolic DNA...",
     "tags": [
       "research",
       "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
     ],
     "topicBuckets": [
-      "translational medicine",
-      "oncology",
+      "gene therapy",
+      "immunology",
       "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 68,
+    "importanceScore": 58,
     "importanceSignals": [
-      "priority topic: translational medicine, oncology",
+      "priority topic: gene therapy, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -107,16 +209,16 @@
     "isFeatured": true
   },
   {
-    "id": "53960469161695cb",
-    "title": "A pretreatment TNM-metabolic vulnerability score with EBV DNA adjustment for risk stratification in non-metastatic nasopharyngeal carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43031602",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43031602",
+    "id": "3ef0e44ef1896837",
+    "title": "Development and Validation of a Clinical-Ultrasonographic Model for Differentiating Follicular Thyroid Carcinoma From Adenoma in a Surgically Selected Cohort.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034484",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43034484",
     "source": "pubmed",
-    "publicationName": "Frontiers in oncology",
-    "journalName": "Frontiers in oncology",
+    "publicationName": "International journal of endocrinology",
+    "journalName": "International journal of endocrinology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-14T18:32:32.912Z",
-    "snippet": "TNM stage and pretreatment plasma Epstein-Barr virus (EBV) DNA are central to risk assessment in nasopharyngeal carcinoma (NPC), but they do not fully capture host metabolic reserve. We retrospectively analyzed 160 patients with non-metastatic NPC treated from 2013 to 2022. The integrated metabolic vulnerability score (IMVS; range, 0-3) assigned 1 point eac...",
+    "fetchedAt": "2026-11-15T19:08:47.562Z",
+    "snippet": "To identify clinical and ultrasonographic features that distinguish follicular thyroid carcinoma (FTC) from follicular adenoma (FA) and to develop and validate a predictive model for the preoperative risk stratification of follicular neoplasms (FNs). In this retrospective study, patients who underwent thyroid surgery due to FNs were consecutively enrolled.....",
     "tags": [
       "research",
       "pubmed",
@@ -131,74 +233,6 @@
     ],
     "isNewToday": false,
     "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "31506281515da944",
-    "title": "Systemic immune-inflammation index predicts survival in gastric cancer: a systematic review and meta-analysis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43031578",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43031578",
-    "source": "pubmed",
-    "publicationName": "Frontiers in oncology",
-    "journalName": "Frontiers in oncology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-14T18:32:32.912Z",
-    "snippet": "To comprehensively assess the association of pretreatment systemic immune-inflammation index (SII) with the prognosis of gastric cancer patients. PubMed, Web of Science, Embase, and the Cochrane Library were searched to select studies exploring the association of SII with the overall survival (OS), progression-free survival (PFS) or recurrence-free survival...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "9c595747bf50d9fc",
-    "title": "Early-onset low rectal adenocarcinoma with a pMMR/MSS phenotype in a patient with an analytically confirmed germline pathogenic PMS2 variant: a case report.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43031558",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43031558",
-    "source": "pubmed",
-    "publicationName": "Frontiers in medicine",
-    "journalName": "Frontiers in medicine",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-14T18:32:32.912Z",
-    "snippet": "Mismatch repair (MMR) protein immunohistochemistry (IHC) and microsatellite instability (MSI) testing are central to colorectal cancer treatment stratification and hereditary-risk assessment, but a pMMR/MSS tumour phenotype does not exclude a germline predisposition in selected patients. We report a 41-year-old woman with low rectal adenocarcinoma whose pre...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 68,
     "importanceSignals": [
       "priority topic: translational medicine, oncology",
       "high-signal source",

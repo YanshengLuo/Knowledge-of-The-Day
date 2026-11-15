@@ -1,40 +1,72 @@
 [
   {
-    "id": "41c0acce09a9d3c4",
-    "title": "Real-world characteristics, testing patterns, and outcomes in patients with tropomyosin receptor kinase fusion cancer from a large pooled clinicogenomic database.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43017170",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43017170",
+    "id": "086e27c5e0e7a8a1",
+    "title": "Multi-omics analysis highlightsepithelial cells and the MMP14-associated signaling program in lung adenocarcinoma pathogenesis and microenvironment remodeling.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032062",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43032062",
     "source": "pubmed",
-    "publicationName": "ESMO real world data and digital oncology",
-    "journalName": "ESMO real world data and digital oncology",
+    "publicationName": "Journal of cell communication and signaling",
+    "journalName": "Journal of cell communication and signaling",
     "publishedAt": "2026-12-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-12T20:30:05.434Z",
-    "snippet": "Tropomyosin receptor kinase (TRK) inhibitors are highly active in neurotrophic tyrosine receptor kinase () gene fusion cancers. The registrational datasets of the three approved TRK inhibitors are well described in the literature but real-world data remain limited. To address this gap, we conducted the Real wOrld treAtment anD outcoMes Among Patients with T...",
+    "fetchedAt": "2026-11-15T19:08:47.562Z",
+    "snippet": "Lung adenocarcinoma (LUAD) progression is shaped by aberrant cell-cell and cell-matrix communication within a heterogeneous tumor microenvironment (TME). This study integrates single-cell RNA sequencing (scRNA-seq), genome-wide association study, and spatial transcriptomics to identify epithelial subpopulations associated with this crosstalk. Analyzing GSE1...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
     ],
     "topicBuckets": [
-      "computational biology",
+      "single-cell",
       "oncology",
-      "ai",
-      "translational medicine"
+      "immunology",
+      "computational biology",
+      "spatial"
     ],
     "isNewToday": false,
+    "importanceScore": 82,
     "importanceSignals": [
       "very recent",
-      "priority topic: computational biology, oncology",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 92,
+    "isFeatured": true
+  },
+  {
+    "id": "ebf7b7b09e3db575",
+    "title": "Comprehensive characterisation of patients with colorectal cancer and permanently liver-limited disease.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034718",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43034718",
+    "source": "pubmed",
+    "publicationName": "ESMO gastrointestinal oncology",
+    "journalName": "ESMO gastrointestinal oncology",
+    "publishedAt": "2026-12-01T00:00:00.000Z",
+    "fetchedAt": "2026-11-15T19:08:47.562Z",
+    "snippet": "Metastatic colorectal cancer (mCRC) shows organ-specific patterns of dissemination. Approximately 20% of patients develop disease confined to the liver throughout the course. Early recognition and characterisation of this phenotype may inform therapeutic stratification and improve outcomes. We retrospectively analysed patients with unresectable mCRC. Patien...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 82,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
     "isFeatured": true
   }
 ]
