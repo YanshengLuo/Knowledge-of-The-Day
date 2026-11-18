@@ -1,34 +1,69 @@
 [
   {
-    "id": "d3d46032e8f28e84",
-    "title": "Histopathological and Transcriptomic Features of Immune Checkpoint Inhibitor-related T-cell-mediated Rejection in Liver Transplantation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43038106",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43038106",
+    "id": "9b6e39a885e86d51",
+    "title": "Reprogramming tumor-associated macrophages through TLR4 N-glycosylation: A GnT-V mRNA delivery strategy to improve PD-1 inhibitor responsiveness.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43044505",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43044505",
     "source": "pubmed",
-    "publicationName": "Transplantation",
-    "journalName": "Transplantation",
+    "publicationName": "Biomaterials",
+    "journalName": "Biomaterials",
     "publishedAt": "2026-11-12T00:00:00.000Z",
-    "fetchedAt": "2026-11-17T21:23:54.497Z",
-    "snippet": "Immune checkpoint inhibitor-related T-cell-mediated rejection (irTCMR) leads to greater steroid resistance and graft loss compared with conventional T-cell-mediated rejection (cTCMR) in liver transplant recipients. However, their histopathological and transcriptomic features remain poorly understood. Thirty-one adult recipients with biopsy-proven T-cell-med...",
+    "fetchedAt": "2026-11-18T20:56:15.873Z",
+    "snippet": "PD-1 inhibitors have revolutionized cancer treatment, but their antitumor efficacy is limited by various constraints, including the immunosuppressive tumor microenvironment (TME) driven by tumor-promoting tumor-associated macrophages (TAMs). Reprogramming TAMs toward an antitumor state is a promising strategy to boost PD-1 inhibitor efficacy. However, the s...",
     "tags": [
       "research",
       "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
     ],
     "topicBuckets": [
-      "spatial",
+      "single-cell",
       "oncology",
-      "computational biology",
+      "immunology",
       "ai",
-      "immunology"
+      "gene therapy"
     ],
     "isNewToday": false,
     "importanceScore": 82,
     "importanceSignals": [
       "recent",
-      "priority topic: oncology, computational biology",
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "00a9c0a673bdc6b0",
+    "title": "Periplogenin rewires cholesterol-dependent signaling and antitumor immunity by targeting PCSK9 in cholangiocarcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43044302",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43044302",
+    "source": "pubmed",
+    "publicationName": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+    "journalName": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+    "publishedAt": "2026-11-12T00:00:00.000Z",
+    "fetchedAt": "2026-11-18T20:56:15.873Z",
+    "snippet": "Cholangiocarcinoma (CCA) is an aggressive malignancy with limited therapeutic options, underscoring the need to identify novel therapeutic agents and actionable molecular targets. This study aimed to identify natural compounds with antitumor activity against CCA and to elucidate their molecular mechanisms and therapeutic potential. A phenotype-based natural...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 72,
+    "importanceSignals": [
+      "recent",
+      "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
