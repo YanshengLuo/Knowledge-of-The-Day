@@ -1,34 +1,99 @@
 [
   {
-    "id": "c434445c1afd0de8",
-    "title": "X-SPEAR: An Extensible Framework for Spatial Panel Evaluation and Refinement.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42995853",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42995853",
+    "id": "dbe5f6b6269cbc94",
+    "title": "Fatty acids in the tumor microenvironment reprogram neutrophils to induce adenosine-mediated immunosuppression in mice.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43052331",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43052331",
     "source": "pubmed",
-    "publicationName": "bioRxiv : the preprint server for biology",
-    "journalName": "bioRxiv : the preprint server for biology",
+    "publicationName": "Nature communications",
+    "journalName": "Nature communications",
     "publishedAt": "2026-10-20T00:00:00.000Z",
-    "fetchedAt": "2026-11-09T22:44:44.655Z",
-    "snippet": "Targeted spatial transcriptomics platforms such as 10x Genomics Xenium measure a predefined panel of genes. A gene is usually detected in fewer cells in the spatial assay than in the single-cell RNA sequencing (scRNA-seq) reference used to choose it, by an amount that differs from gene to gene. We present eXtensible Spatial Panel Evaluation And Refinement (...",
+    "fetchedAt": "2026-11-19T21:01:24.615Z",
+    "snippet": "As solid tumors progress, the tumor microenvironment becomes increasingly immunosuppressive, impairing cytotoxic T-cell activity and limiting the efficacy of immune checkpoint blockade. However, the mechanistic drivers of this immunosuppression remain poorly understood. Here, we identify a tumor-derived lipid-neutrophil-adenosine axis as a critical regulato...",
     "tags": [
       "research",
       "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "spatial"
+      "Computational oncology",
+      "computational biology",
+      "oncology"
     ],
     "topicBuckets": [
-      "spatial",
-      "oncology",
       "computational biology",
-      "single-cell"
+      "oncology",
+      "ai",
+      "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 65,
+    "importanceScore": 68,
     "importanceSignals": [
-      "published this month",
-      "priority topic: oncology, computational biology",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "34db87c18ad8f315",
+    "title": "Large-scale proteomic characterization reveals clinically relevant subtypes of early-stage papillary thyroid cancer for prognostic prediction.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43052258",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43052258",
+    "source": "pubmed",
+    "publicationName": "Nature communications",
+    "journalName": "Nature communications",
+    "publishedAt": "2026-10-20T00:00:00.000Z",
+    "fetchedAt": "2026-11-19T21:01:24.615Z",
+    "snippet": "Papillary thyroid cancer (PTC) has a rising incidence. The majority are diagnosed at an early stage, albeit with a minority exhibiting aggressive tendencies. Given its generally indolent nature, controversy persists regarding the management of early-stage PTCs, particularly surgical intervention and long-term surveillance strategies. Here, we conduct a larg...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "307b91551f6b5849",
+    "title": "Oncogenic signalling and host immunocompetency govern senescent cell clearance and systemic inflammation in a mouse model of oncogene-induced senescence.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43052285",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43052285",
+    "source": "pubmed",
+    "publicationName": "Nature communications",
+    "journalName": "Nature communications",
+    "publishedAt": "2026-10-20T00:00:00.000Z",
+    "fetchedAt": "2026-11-19T21:01:24.615Z",
+    "snippet": "Senescence is a stress-induced program defined by permanent cell-cycle arrest and a pro-inflammatory senescence-associated secretory phenotype (SASP). Defective clearance of senescent cells promotes inflammation, tissue dysfunction, and ageing, yet determinants of their elimination remain poorly understood. Here, we model oncogene-induced senescence in the....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: gene therapy, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
