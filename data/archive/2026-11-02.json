@@ -1,38 +1,113 @@
 [
   {
-    "id": "61c1bd6d5378b43a",
-    "title": "Predicting Textbook Oncological Outcomes with Machine Learning: A Retrospective Review of Patients Who Underwent Resection for Malignant Tumours.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43030670",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43030670",
+    "id": "01d2e27a4fda3fa0",
+    "title": "Age-based shifts in multicellular community organization and abundance in HPV-Negative Head and Neck Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43060361",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43060361",
     "source": "pubmed",
-    "publicationName": "Journal of clinical medicine",
-    "journalName": "Journal of clinical medicine",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
     "publishedAt": "2026-11-02T00:00:00.000Z",
-    "fetchedAt": "2026-11-14T18:32:32.912Z",
-    "snippet": ": Textbook oncological outcome (TOO) is a composite measure used to assess the quality of care in surgical oncology. Specifically, in liver surgery, it assesses several domains including intraoperative events, postoperative recovery, liver-specific complications, early mortality, and resection margins. Historically, one-third of patients undergoing liver re...",
+    "fetchedAt": "2026-11-20T20:48:10.624Z",
+    "snippet": "Aging represents a fundamental driver of cancer risk and progression, yet the mechanisms by which aging reshapes the tumor microenvironment remain incompletely understood. To interrogate how aging alters cellular and microenvironmental organization in cancer, we developed an integrated single-cell atlas of HPV-negative head and neck squamous cell carcinoma....",
     "tags": [
       "research",
       "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology",
-      "machine learning"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
     ],
     "topicBuckets": [
-      "translational medicine",
+      "single-cell",
       "oncology",
+      "immunology",
+      "ai",
+      "spatial",
+      "computational biology"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 75,
+    "isFeatured": false
+  },
+  {
+    "id": "2f40700a4883a6e5",
+    "title": "Time-of-Day-Dependent Effectiveness of Anti-IgE Therapy in Asthma: Clinical and Experimental Evidence.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43060652",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43060652",
+    "source": "pubmed",
+    "publicationName": "medRxiv : the preprint server for health sciences",
+    "journalName": "medRxiv : the preprint server for health sciences",
+    "publishedAt": "2026-11-02T00:00:00.000Z",
+    "fetchedAt": "2026-11-20T20:48:10.624Z",
+    "snippet": "Asthma is a time-sensitive inflammatory disease whose activity exhibits daily (circadian) rhythms. An outstanding question is whether such temporal variations extend to advanced asthma treatments like biologics that are used for moderate-to-severe disease. To examine how time-of-administration relates to the effectiveness of the anti-IgE biologic, omalizuma...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "d42f371494154db6",
+    "title": "Quantifying subcellular organization from localization to co-occurrence with InSpace.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43060273",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43060273",
+    "source": "pubmed",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
+    "publishedAt": "2026-11-02T00:00:00.000Z",
+    "fetchedAt": "2026-11-20T20:48:10.624Z",
+    "snippet": "Cell identity and function depend not only on molecular abundance, but also on how molecules are organized within cells. Although spatial transcriptomics now resolves individual RNA molecules within cells, routine computational workflows reduce these measurements to cell-by-gene count matrices, retaining abundance while discarding information about intracel...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
       "ai"
     ],
     "isNewToday": false,
     "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: translational medicine, oncology",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
+    "isFeatured": false
   }
 ]

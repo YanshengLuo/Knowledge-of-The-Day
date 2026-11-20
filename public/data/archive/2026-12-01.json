@@ -1,31 +1,34 @@
 [
   {
-    "id": "2e8c4504259e2b91",
-    "title": "ORBIT: annotation-aware empirical enrichment and semantic reranking for interpretable functional-class recovery.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43054640",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43054640",
+    "id": "25cbd253d9020479",
+    "title": "OSM&#x2011;mediated STAT3/PDL1 promotes tumor progression and immune escape in colorectal cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43059383",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43059383",
     "source": "pubmed",
-    "publicationName": "NAR genomics and bioinformatics",
-    "journalName": "NAR genomics and bioinformatics",
+    "publicationName": "International journal of oncology",
+    "journalName": "International journal of oncology",
     "publishedAt": "2026-12-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-19T21:01:24.615Z",
-    "snippet": "To address the long, redundant result tables produced by standard gene-set enrichment tools, we developed the Ontology-Ranked Biological Interpretation Tool (ORBIT), which combines annotation-aware empirical enrichment, semantic reranking, and representative-term selection to generate compact functional summaries linked to supporting genes. On a curated 45-...",
+    "fetchedAt": "2026-11-20T20:48:10.624Z",
+    "snippet": "Despite considerable progress in the clinical management of colorectal cancer (CRC), immune evasion remains a persistent challenge. Oncostatin M (OSM) expression and immune cell infiltration in CRC was first characterized using publicly available databases and clinical specimens. CRC cell lines with OSM overexpression were then established and their tumor&#...",
     "tags": [
       "research",
       "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
     ],
     "topicBuckets": [
-      "computational biology",
-      "oncology"
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai",
+      "translational medicine"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
+    "importanceScore": 92,
     "importanceSignals": [
       "very recent",
-      "priority topic: computational biology, oncology",
+      "priority topic: oncology, ai",
       "high-signal source",
       "rich summary",
       "rich metadata"
@@ -33,29 +36,132 @@
     "isFeatured": true
   },
   {
-    "id": "2949933f20488ed3",
-    "title": "Marker-based CRISPR screens identify POU2F1 as a regulator of DLL3 and neuroendocrine identity in small cell lung cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43054644",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43054644",
+    "id": "ade8cab16f39665b",
+    "title": "Circadian vulnerability in acute myocardial infarction: from clock-regulated pathways to chrono-individualized therapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43060983",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43060983",
     "source": "pubmed",
-    "publicationName": "NAR cancer",
-    "journalName": "NAR cancer",
+    "publicationName": "Precision clinical medicine",
+    "journalName": "Precision clinical medicine",
     "publishedAt": "2026-12-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-19T21:01:24.615Z",
-    "snippet": "Small cell lung cancers (SCLCs) often exhibit a neuroendocrine lineage identity marked by high expression of Delta-like ligand 3 (DLL3). Because DLL3 shows minimal expression in normal adult tissues, it serves as an SCLC-selective tumor antigen and is the basis for clinically efficacious targeted therapies. Understanding the mechanisms that regulate DLL3 ex...",
+    "fetchedAt": "2026-11-20T20:48:10.624Z",
+    "snippet": "Acute myocardial infarction (AMI) is a leading cause of morbidity and mortality worldwide, and its onset, progression, and prognosis are closely tied to circadian rhythms. Disruption of the biological clock influences susceptibility to AMI as well as the pathophysiological mechanisms and therapeutic responses that follow. This review examines how circadian....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 72,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: gene therapy",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "9242778698ab0bde",
+    "title": "DNA methylation signatures from tissue and cell-free DNA in alpha-1 antitrypsin deficiency mirror clinical pathologies providing a potential non-invasive tool to monitor liver disease progression.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43059419",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43059419",
+    "source": "pubmed",
+    "publicationName": "Epigenetics",
+    "journalName": "Epigenetics",
+    "publishedAt": "2026-12-01T00:00:00.000Z",
+    "fetchedAt": "2026-11-20T20:48:10.624Z",
+    "snippet": "Alpha-1 antitrypsin deficiency (AATD) is a serpinopathy in which mutations in the SERPINA1 gene cause misfolding of alpha-1 antitrypsin (Z-AAT), leading to hepatic protein accumulation, proteotoxic stress, inflammation, fibrosis, and an increased risk of hepatocellular carcinoma. Despite a uniform genetic mutation in most affected individuals, liver disease...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 82,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: gene therapy, translational medicine",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "c21af9715c441850",
+    "title": "Modelling and analysis of glucocorticoid action in acute lymphoblastic leukemia.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43059396",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43059396",
+    "source": "pubmed",
+    "publicationName": "International journal of oncology",
+    "journalName": "International journal of oncology",
+    "publishedAt": "2026-12-01T00:00:00.000Z",
+    "fetchedAt": "2026-11-20T20:48:10.624Z",
+    "snippet": "Glucocorticoids (GCs) induce apoptosis in leukocytes and remain a cornerstone of acute lymphoblastic leukemia (ALL) therapy, though resistance and toxicity remain problems. GEB052, a previously published Boolean model of the glucocorticoid receptor (GR) and its connected proteins, input (GC) and outputs (cell death and inflammation), generated insight into....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 82,
+    "importanceSignals": [
+      "very recent",
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "58c92c8878ec420b",
+    "title": "Multispectral Optoacoustic Tomography Noninvasively Reveals Ultrastructural Muscle Changes and Associates With Clinical Disability in Inclusion Body Myositis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43061330",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43061330",
+    "source": "pubmed",
+    "publicationName": "MedComm",
+    "journalName": "MedComm",
+    "publishedAt": "2026-12-01T00:00:00.000Z",
+    "fetchedAt": "2026-11-20T20:48:10.624Z",
+    "snippet": "Inclusion body myositis (IBM), the most common idiopathic inflammatory myopathy in older adults, causes progressive disability, dysphagia, and respiratory complications. Sensitive, objective and repeatable imaging biomarkers for diagnosis, staging and monitoring remain unavailable, and diagnosis continues to rely on muscle biopsy. The aim of this study was....",
     "tags": [
       "research",
       "pubmed",
       "Biomarkers in oncology",
       "biomarker",
       "patient stratification",
-      "oncology",
-      "crispr"
+      "oncology"
     ],
     "topicBuckets": [
       "translational medicine",
       "oncology",
-      "gene therapy"
+      "ai"
     ],
     "isNewToday": false,
     "importanceScore": 92,

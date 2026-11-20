@@ -1,15 +1,15 @@
 [
   {
-    "id": "3356b1a1b5170645",
-    "title": "Hypoxia-Associated Glycolytic-Lipogenic Reprogramming and Impaired Antigen Presentation in SPP1Tumor-Associated Macrophages in Ovarian Cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43028149",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43028149",
+    "id": "c1d0f9cd466a5a7f",
+    "title": "Resolving the immune response across clonal cancer evolution in situ with Atera whole transcriptome profiling.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43060359",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43060359",
     "source": "pubmed",
-    "publicationName": "International journal of molecular sciences",
-    "journalName": "International journal of molecular sciences",
+    "publicationName": "Research square",
+    "journalName": "Research square",
     "publishedAt": "2026-11-05T00:00:00.000Z",
-    "fetchedAt": "2026-11-16T22:34:37.215Z",
-    "snippet": "Ovarian cancer has an immunosuppressive microenvironment in which SPP1tumor-associated macrophages (TAMs) are linked to poor prognosis and immune evasion, yet their molecular features and metabolic mechanisms remain unclear. We therefore set out to determine whether SPP1 marks a discrete TAM subpopulation or a functional state in treatment-na&#xef;ve high-g...",
+    "fetchedAt": "2026-11-20T20:48:10.624Z",
+    "snippet": "Single-cell spatial transcriptomics is now central to studying tumors in their native tissue context. Here we present the first comprehensive, independent evaluation of Atera, a new spatial whole-transcriptome platform, compared with Xenium in human ductal carcinoma in situ (DCIS). We show that Atera enables granular cell-state annotation and resolves rare....",
     "tags": [
       "research",
       "pubmed",
@@ -24,20 +24,54 @@
       "single-cell",
       "oncology",
       "immunology",
-      "ai",
-      "funding",
-      "spatial",
-      "computational biology"
+      "computational biology",
+      "spatial"
     ],
     "isNewToday": false,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology, ai",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 75,
+    "importanceScore": 65,
     "isFeatured": true
+  },
+  {
+    "id": "27503d2c990f1417",
+    "title": "OncoSpot enables benchmarking of cancer spatial transcriptomics methods across tumor evolutionary modes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43060120",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43060120",
+    "source": "pubmed",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
+    "publishedAt": "2026-11-05T00:00:00.000Z",
+    "fetchedAt": "2026-11-20T20:48:10.624Z",
+    "snippet": "Spatial transcriptomics (ST) is increasingly used to map clonal architecture within tumors, yet methods for analyzing cancer ST data are difficult to evaluate because real tumors lack ground truth for copy-number alterations (CNAs), subclonal identity, and malignant cell fraction. Existing ST simulators model normal tissue and do not represent tumor evoluti...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "spatial"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
   }
 ]
