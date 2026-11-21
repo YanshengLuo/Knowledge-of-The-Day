@@ -1,32 +1,135 @@
 [
   {
-    "id": "5e9e45702d88e9b6",
-    "title": "A Multicenter, Double-Blind, Phase 3 Study of the Efficacy and Safety of Anifrolumab in Myositis: Rationale and Design of the JASMINE Trial.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43055667",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43055667",
+    "id": "d09784a749010eeb",
+    "title": "A multimodal foundation model for molecular and morphologic data in oncology.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064800",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43064800",
     "source": "pubmed",
-    "publicationName": "ACR open rheumatology",
-    "journalName": "ACR open rheumatology",
+    "publicationName": "Nature cancer",
+    "journalName": "Nature cancer",
     "publishedAt": "2026-11-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-20T20:48:10.624Z",
-    "snippet": "Idiopathic inflammatory myopathies (IIM) including dermatomyositis (DM) and polymyositis (PM) are a part of a larger group of rare multisystem autoimmune rheumatic disorders. Evidence suggests that type I interferon (IFN) plays a pathogenic role in IIM. Anifrolumab, a human IgG&#x3ba; monoclonal antibody approved for treatment of moderate-to-severe systemic...",
+    "fetchedAt": "2026-11-21T19:51:01.918Z",
+    "snippet": "Foundation models are advancing computational pathology by transferring knowledge from large datasets to diagnostic, prognostic and treatment response tasks. Most existing models, however, either operate at the patch level or learn slide-level representations using image-based objectives, coarse tissue labels or pathology reports that vary across institutio...",
     "tags": [
       "research",
       "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
+      "Computational oncology",
+      "computational biology",
+      "oncology"
     ],
     "topicBuckets": [
-      "gene therapy",
-      "immunology"
+      "computational biology",
+      "oncology",
+      "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 55,
+    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: gene therapy",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "56dabcd89758e47c",
+    "title": "Genomic and Transcriptomic Changes in Early Gastric Cancer Inform Clinical Risk Stratification Prior to Endoscopic Resection.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064672",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43064672",
+    "source": "pubmed",
+    "publicationName": "Cancer medicine",
+    "journalName": "Cancer medicine",
+    "publishedAt": "2026-11-01T00:00:00.000Z",
+    "fetchedAt": "2026-11-21T19:51:01.918Z",
+    "snippet": "To characterize genomic and transcriptomic features associated with established clinicopathologic risk categories in patients with dysplasia and early gastric cancer (EGC) undergoing endoscopic submucosal dissection (ESD) and to explore molecular correlates of noncurative resection and metachronous recurrence. A prospective cohort study was conducted involv...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Computational oncology",
+      "computational biology",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "computational biology",
+      "oncology",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "0e25771d2bac5662",
+    "title": "Predictive Value of the Endothelial Activation and Stress Index (EASIX) for Engraftment Syndrome After Autologous Hematopoietic Stem Cell Transplantation in Multiple Myeloma and Lymphoma Patients (EASIX and Engraftment Syndrome in ASCT).",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065221",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43065221",
+    "source": "pubmed",
+    "publicationName": "Hematological oncology",
+    "journalName": "Hematological oncology",
+    "publishedAt": "2026-11-01T00:00:00.000Z",
+    "fetchedAt": "2026-11-21T19:51:01.918Z",
+    "snippet": "Engraftment syndrome (ES) is a clinically challenging, hyper-inflammatory complication following autologous hematopoietic stem cell transplantation (ASCT). The Endothelial Activation and Stress Index (EASIX) has emerged as a reliable biomarker for endothelial dysfunction and non-relapse mortality in allogeneic transplantation; however, its predictive utilit...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "d823069d27e601e7",
+    "title": "Day-29 Minimal Residual Disease and Candidate Adverse Molecular Alterations for Survival Stratification in a TARGET/cBioPortal Acute Lymphoblastic Leukemia Cohort.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065176",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43065176",
+    "source": "pubmed",
+    "publicationName": "Hematological oncology",
+    "journalName": "Hematological oncology",
+    "publishedAt": "2026-11-01T00:00:00.000Z",
+    "fetchedAt": "2026-11-21T19:51:01.918Z",
+    "snippet": "Day-29 minimal residual disease (MRD) is central to risk assessment in pediatric acute lymphoblastic leukemia (ALL), but MRD alone may not fully explain outcome heterogeneity. We performed a retrospective patient-level analysis of the public TARGET/cBioPortal cohort to evaluate whether MRD and candidate adverse molecular alterations (CAMA) jointly stratify....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"

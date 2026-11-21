@@ -1,43 +1,115 @@
 [
   {
-    "id": "be13028825158c1f",
-    "title": "Integrated single-cell transcriptomics and machine learning identify macrophage RPS26 as a potential biomarker for atrial fibrillation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43056799",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43056799",
+    "id": "587bcaf20bda3742",
+    "title": "An EFHD1-associated ADSC niche modulates treatment response in experimental models of ER-positive breast cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43063791",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43063791",
     "source": "pubmed",
-    "publicationName": "Pathology, research and practice",
-    "journalName": "Pathology, research and practice",
+    "publicationName": "Neoplasia (New York, N.Y.)",
+    "journalName": "Neoplasia (New York, N.Y.)",
     "publishedAt": "2026-11-16T00:00:00.000Z",
-    "fetchedAt": "2026-11-20T20:48:10.624Z",
-    "snippet": "Atrial fibrillation (AF) is the most prevalent arrhythmia worldwide, with its incidence and burden rising steeply with advancing age. However, the pathological process of AF remains incompletely understood, and the discovery of reliable biomarkers to guide gene and cell therapy remains challenging in precision medicine. This study aimed to identify potentia...",
+    "fetchedAt": "2026-11-21T19:51:01.918Z",
+    "snippet": "Adipose-derived stem cells (ADSCs) modulate the breast cancer (BC) microenvironment, but their role in endocrine therapy resistance and clinical outcomes remains ill-defined. By integrating single-cell and multi-cohort bulk RNA-seq data from ER&#x207a; BC patients, we built an ADSC-derived prognostic model via a four-dimensional filtering strategy and 10 ma...",
     "tags": [
       "research",
       "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation",
-      "biomarker",
+      "Single-cell TME",
       "single-cell",
-      "machine learning"
+      "tumor microenvironment",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
     ],
     "topicBuckets": [
-      "gene therapy",
+      "single-cell",
+      "oncology",
       "immunology",
       "ai",
-      "computational biology",
+      "funding",
+      "translational medicine",
+      "spatial",
+      "computational biology"
+    ],
+    "isNewToday": false,
+    "importanceSignals": [
+      "recent",
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 82,
+    "isFeatured": true
+  },
+  {
+    "id": "46bd33f538f80ec8",
+    "title": "A dendritic cell-related prognostic signature in glioma: A multi-omic framework integrating transcriptomics, single-cell profiling, and clinical validation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43063790",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43063790",
+    "source": "pubmed",
+    "publicationName": "Neoplasia (New York, N.Y.)",
+    "journalName": "Neoplasia (New York, N.Y.)",
+    "publishedAt": "2026-11-16T00:00:00.000Z",
+    "fetchedAt": "2026-11-21T19:51:01.918Z",
+    "snippet": "Dendritic cells (DCs) infiltrating the glioma microenvironment can promote antitumor immunity or contribute to immunosuppression and immune escape. This dual role underscores the need to define dendritic cell-related genes (DCRGs) for prognostic assessment. Using transcriptomic and clinical data from glioma cohorts (The Cancer Genome Atlas (TCGA) and Chines...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
       "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "computational biology",
       "translational medicine"
     ],
     "isNewToday": false,
     "importanceScore": 82,
     "importanceSignals": [
       "recent",
-      "priority topic: gene therapy, ai",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
     "isFeatured": true
+  },
+  {
+    "id": "12c46fc6b1ee4906",
+    "title": "Integrated multi-omics and experimental analyses characterize an IGF2BP3-MMP7-associated pattern in extracellular matrix remodeling and Treg-associated immune suppression in pancreatic adenocarcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43063789",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43063789",
+    "source": "pubmed",
+    "publicationName": "Neoplasia (New York, N.Y.)",
+    "journalName": "Neoplasia (New York, N.Y.)",
+    "publishedAt": "2026-11-16T00:00:00.000Z",
+    "fetchedAt": "2026-11-21T19:51:01.918Z",
+    "snippet": "Pancreatic adenocarcinoma (PAAD) is characterized by extensive extracellular matrix (ECM) remodeling and a profoundly immunosuppressive tumor microenvironment. As an important N6-methyladenosine (m6A) reader, insulin-like growth factor 2 mRNA-binding protein 3 (IGF2BP3) has been implicated in tumor progression; however, its downstream regulatory network and...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "computational biology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 72,
+    "importanceSignals": [
+      "recent",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
   }
 ]

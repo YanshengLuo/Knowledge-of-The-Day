@@ -8,24 +8,21 @@
     "publicationName": "Journal of visualized experiments : JoVE",
     "journalName": "Journal of visualized experiments : JoVE",
     "publishedAt": "2026-11-13T00:00:00.000Z",
-    "fetchedAt": "2026-11-20T20:48:10.624Z",
+    "fetchedAt": "2026-11-21T19:51:01.918Z",
     "snippet": "Extracellular vesicles (EVs) are mediators of intercellular communication and play important roles in pathological processes such as tumor progression. They are released into the tumor microenvironment and are abundant in biological fluids. They are readily accessible, and characterization of their molecular contents can improve the understanding of breast....",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
-      "oncology",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification"
+      "oncology"
     ],
     "topicBuckets": [
       "computational biology",
-      "oncology",
-      "translational medicine"
+      "oncology"
     ],
     "isNewToday": false,
+    "importanceScore": 65,
     "importanceSignals": [
       "published this month",
       "priority topic: computational biology, oncology",
@@ -33,7 +30,6 @@
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 75,
     "isFeatured": true
   },
   {
@@ -45,7 +41,7 @@
     "publicationName": "Journal of visualized experiments : JoVE",
     "journalName": "Journal of visualized experiments : JoVE",
     "publishedAt": "2026-11-13T00:00:00.000Z",
-    "fetchedAt": "2026-11-20T20:48:10.624Z",
+    "fetchedAt": "2026-11-21T19:51:01.918Z",
     "snippet": "Type 2 diabetes is epidemiologically associated with gastric and colorectal cancer, but the tumor proteomic features associated with diabetes remain incompletely characterized. Pressure-cycling sample preparation and library-free data-independent acquisition mass spectrometry were applied to 70 archival formalin-fixed, paraffin-embedded tumors: 35 colorecta...",
     "tags": [
       "research",
@@ -70,77 +66,5 @@
       "rich metadata"
     ],
     "isFeatured": true
-  },
-  {
-    "id": "b566b3173acd3721",
-    "title": "Spindle: Scalable Indexing of Spatial-Omics Data for Fast Querying.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43059807",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43059807",
-    "source": "pubmed",
-    "publicationName": "bioRxiv : the preprint server for biology",
-    "journalName": "bioRxiv : the preprint server for biology",
-    "publishedAt": "2026-11-13T00:00:00.000Z",
-    "fetchedAt": "2026-11-20T20:48:10.624Z",
-    "snippet": "Spatial transcriptomics (ST) has unlocked new avenues for biological discovery by jointly capturing gene expression and spatial context. ST datasets are typically stored as gene expression matrices paired with spatial coordinates, supporting queries based on expression levels at individual locations. However, characterizing how genes vary together requires....",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "spatial"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "e2b1e22a43e2fcfd",
-    "title": "Perioperative Immune-Inflammatory Changes Associated with Surgical Stress and Early Recovery After Surgery for Mammary Carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43062244",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43062244",
-    "source": "pubmed",
-    "publicationName": "Journal of visualized experiments : JoVE",
-    "journalName": "Journal of visualized experiments : JoVE",
-    "publishedAt": "2026-11-13T00:00:00.000Z",
-    "fetchedAt": "2026-11-20T20:48:10.624Z",
-    "snippet": "Surgical stress induced by mammary carcinoma surgery can trigger significant perioperative immune-inflammatory responses. However, the dynamic trajectories of these responses and their associations with early postoperative recovery and short-term clinical outcomes remain unclear. Further exploration of these relationships may help optimize perioperative man...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "translational medicine",
-      "oncology",
-      "ai",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: translational medicine, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
   }
 ]
