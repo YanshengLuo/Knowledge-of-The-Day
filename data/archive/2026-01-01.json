@@ -1,28 +1,29 @@
 [
   {
-    "id": "25af12d09316ca5b",
-    "title": "Plasmacytoid dendritic cells and M2 macrophages are associated with clinical outcomes in human papillomavirus-independent vulvar squamous cell carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43065535",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43065535",
+    "id": "b109cf4bffd34611",
+    "title": "Differential serum proteome profiling and electrochemical biosensing of leucine-rich alpha-2-glycoprotein (LRG1) and lipopolysaccharide-binding protein (LBP) as subtype-specific biomarkers for HPV-negative cervical cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43068302",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43068302",
     "source": "pubmed",
-    "publicationName": "Frontiers in immunology",
-    "journalName": "Frontiers in immunology",
+    "publicationName": "PeerJ",
+    "journalName": "PeerJ",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-21T19:51:01.918Z",
-    "snippet": "Vulvar squamous cell carcinoma (VSCC) is a rare malignancy comprising HPV-associated (HPV-A) and HPV-independent (HPV-I) subtypes. HPV-I is associated with high recurrence rates and poor survival, yet lacks validated prognostic biomarkers and therapeutic stratification tools. Although immunotherapy has transformed cancer care and highlighted the tumor micro...",
+    "fetchedAt": "2026-11-22T19:59:50.531Z",
+    "snippet": "Cervical cancer (CC) is still a major global health concern. Specifically, human papillomavirus (HPV) - negative CC (HPV-neg CC) has a poorer prognosis than HPV-positive cases (HPV-pos CC). Distinguishing between HPV-pos and HPV-neg CC is the focus of this study, using proteomics and electrochemical biosensors. Pooled serum samples from healthy individuals,...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
       "oncology",
-      "Biomarkers in oncology",
       "biomarker",
+      "Biomarkers in oncology",
       "patient stratification"
     ],
     "topicBuckets": [
       "computational biology",
       "oncology",
+      "funding",
       "translational medicine"
     ],
     "isNewToday": false,
@@ -36,16 +37,16 @@
     "isFeatured": true
   },
   {
-    "id": "e9db49d9e3b561c0",
-    "title": "Artificial intelligence and triple negative breast cancer: can pathomics help oncologists?",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43060867",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43060867",
+    "id": "25af12d09316ca5b",
+    "title": "Plasmacytoid dendritic cells and M2 macrophages are associated with clinical outcomes in human papillomavirus-independent vulvar squamous cell carcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065535",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43065535",
     "source": "pubmed",
-    "publicationName": "Frontiers in oncology",
-    "journalName": "Frontiers in oncology",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-21T19:51:01.918Z",
-    "snippet": "Triple-negative breast cancer (TNBC) is an aggressive and heterogeneous subtype of breast cancer with limited targeted therapies and poor prognosis. Recent advances in digital pathology and artificial intelligence (AI) are transforming traditional, qualitative histopathology into quantitative, data-driven analysis. Within computational pathology, pathomics....",
+    "fetchedAt": "2026-11-22T19:59:50.531Z",
+    "snippet": "Vulvar squamous cell carcinoma (VSCC) is a rare malignancy comprising HPV-associated (HPV-A) and HPV-independent (HPV-I) subtypes. HPV-I is associated with high recurrence rates and poor survival, yet lacks validated prognostic biomarkers and therapeutic stratification tools. Although immunotherapy has transformed cancer care and highlighted the tumor micro...",
     "tags": [
       "research",
       "pubmed",
@@ -56,7 +57,7 @@
     "topicBuckets": [
       "computational biology",
       "oncology",
-      "ai"
+      "translational medicine"
     ],
     "isNewToday": false,
     "importanceScore": 68,
@@ -66,7 +67,76 @@
       "rich summary",
       "rich metadata"
     ],
+    "isFeatured": true
+  },
+  {
+    "id": "ddf6f29505b92bc1",
+    "title": "B cell-macrophage interactions in colorectal cancer: state coupling, spatiotemporal remodeling, and therapeutic implications.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065828",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43065828",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-11-22T19:59:50.531Z",
+    "snippet": "The immune microenvironment of colorectal cancer (CRC) is characterized by pronounced cellular-state and spatial heterogeneity. B cells and macrophages bridge adaptive and innate immunity, respectively, and engage in bidirectional regulation through antibodies and immune complexes, BAFF/APRIL signaling, cytokines, chemokines, and metabolic cues. These inter...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "computational biology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
     "isFeatured": false
+  },
+  {
+    "id": "366a7ba6e518b262",
+    "title": "High-risk pancreatic cancer pathology reveals a B3GNT3-associated glycosylation program.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065702",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43065702",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-11-22T19:59:50.531Z",
+    "snippet": "Pancreatic cancer has a poor prognosis and marked heterogeneity, whereas existing pathomics models generally lack biological interpretability. We aimed to construct the pathomics prognostic score GlyPath-Risk and explore the molecular states associated with the high-risk phenotype captured by the score. We integrated H&E whole-slide images from TCGA-PAAD an...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai",
+      "computational biology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
   },
   {
     "id": "8007ef1fb3880860",
@@ -77,7 +147,7 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-21T19:51:01.918Z",
+    "fetchedAt": "2026-11-22T19:59:50.531Z",
     "snippet": "Natural killer (NK) cell-based immunotherapies show considerable promise for cancer treatment; however, their efficacy against solid tumors remains limited by functional heterogeneity and the restrictive tumor microenvironment. Engineered NK cells, including mesothelin-directed chimeric antigen receptor cytokine-induced memory-like (MSLN-CAR CIML) NK cells,...",
     "tags": [
       "research",
@@ -111,7 +181,7 @@
     "publicationName": "Frontiers in oncology",
     "journalName": "Frontiers in oncology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-21T19:51:01.918Z",
+    "fetchedAt": "2026-11-22T19:59:50.531Z",
     "snippet": "Intratumor heterogeneity in lung adenocarcinoma (LUAD) profoundly influences tumor progression and immune evasion. However, current prognostic models largely fail to capture the complex cellular dynamics of the tumor microenvironment (TME) at single-cell resolution. We integrated single-cell RNA sequencing with bulk transcriptomics to derive cell-type-speci...",
     "tags": [
       "research",
@@ -146,7 +216,7 @@
     "publicationName": "Frontiers in cell and developmental biology",
     "journalName": "Frontiers in cell and developmental biology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-21T19:51:01.918Z",
+    "fetchedAt": "2026-11-22T19:59:50.531Z",
     "snippet": "The metabolic heterogeneity of cancer-associated fibroblasts (CAFs) in the colorectal cancer (CRC) microenvironment remains poorly understood. We profiled 86,142 cells from two independent CRC cohorts (GSE132465, GSE144735) using single-cell RNA-sequencing and validated findings in a public Visium dataset (GSE285505, 3,493 spots) and an external spatial coh...",
     "tags": [
       "research",
@@ -185,7 +255,7 @@
     "publicationName": "Frontiers in cellular and infection microbiology",
     "journalName": "Frontiers in cellular and infection microbiology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-21T19:51:01.918Z",
+    "fetchedAt": "2026-11-22T19:59:50.531Z",
     "snippet": "Oral squamous cell carcinoma (OSCC) arises at a microbially exposed mucosa, but the relationship between tumor transcriptional programs and host responses tois uncertain. We sought direction-consistent genes shared with short-term C. albicans stimulation and assessed their diagnostic, cellular, pathway, and tissue contexts. We directionally integrated four....",
     "tags": [
       "research",
@@ -211,6 +281,76 @@
     "isFeatured": true
   },
   {
+    "id": "1e07cd3ed13884ae",
+    "title": "Targeting MicroRNAs in the perioperative window to prevent surgery-induced metastasis and postoperative cancer recurrence.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065651",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43065651",
+    "source": "pubmed",
+    "publicationName": "Frontiers in pharmacology",
+    "journalName": "Frontiers in pharmacology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-11-22T19:59:50.531Z",
+    "snippet": "Surgery remains a central curative treatment for many solid tumors; however, postoperative recurrence and distant metastasis continue to limit long-term survival. The perioperative period is increasingly recognised as a biologically active window during which surgical trauma, inflammation, wound repair, hypoxia, platelet activation, immunosuppression, anaes...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "b3a2e54bdb7ecc4e",
+    "title": "The benefits and pitfalls of trained immunity in listeria monocytogenes-based cancer vaccination: how host innate-cell reprogramming may amplify, distort, or constrain the therapeutic potential of live bacterial vectors.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065596",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43065596",
+    "source": "pubmed",
+    "publicationName": "Frontiers in immunology",
+    "journalName": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-11-22T19:59:50.531Z",
+    "snippet": "Live recombinant(Lm) vaccines are usually framed as intracellular antigen-delivery platforms endowed with intrinsic adjuvant activity. Here we argue that this view may be incomplete. Because Lm vaccines strongly engage innate immune cells, their efficacy might depend on both immediate inflammatory signaling and a separately established or acquired trained s...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 68,
+    "importanceSignals": [
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
     "id": "5d40b73d8c8ecb9d",
     "title": "KQS1 peptide represses food allergic responses via Dectin-1-dependent H3K27me3 epigenetic silencing ofin mast cells.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43065427",
@@ -219,7 +359,7 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-21T19:51:01.918Z",
+    "fetchedAt": "2026-11-22T19:59:50.531Z",
     "snippet": "KQS1 is a bioactive peptide derived from red bean that has shown anti-allergic activity in preclinical models; however, its effects on mast-cell responses and the epigenetic mechanisms potentially involved remain incompletely defined. To investigate whether preventive oral administration of KQS1 attenuates food-allergy-associated responses and its mechanism...",
     "tags": [
       "research",
@@ -254,7 +394,7 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-21T19:51:01.918Z",
+    "fetchedAt": "2026-11-22T19:59:50.531Z",
     "snippet": "Chronic obstructive pulmonary disease (COPD) is characterized by persistent airway inflammation, yet clinically useful biomarkers and mechanistically validated therapeutic targets remain limited. Here, we aimed to identify and functionally validate smoke-responsive regulators of airway epithelial inflammation in COPD and establish an interpretable predictio...",
     "tags": [
       "research",
@@ -281,40 +421,6 @@
     "isFeatured": false
   },
   {
-    "id": "2ff0b2c713e2fa23",
-    "title": "Prediction models for progression to castration-resistant prostate cancer after androgen deprivation therapy: a narrative review (2021-2026).",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43061358",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43061358",
-    "source": "pubmed",
-    "publicationName": "Frontiers in oncology",
-    "journalName": "Frontiers in oncology",
-    "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-21T19:51:01.918Z",
-    "snippet": "Prostate cancer is one of the most common male malignancies. Androgen deprivation therapy (ADT) is the backbone of treatment for locally advanced and metastatic disease, yet many patients progress to castration-resistant prostate cancer (CRPC), historically within about 2 years of ADT monotherapy, and validated, widely generalisable tools to identify high-r...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "oncology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 58,
-    "importanceSignals": [
-      "priority topic: gene therapy, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
     "id": "d9fe39337c9748d2",
     "title": "Multi-omics characterization of fibroblast subpopulations involved in osteogenic differentiation in periodontitis.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43060948",
@@ -323,7 +429,7 @@
     "publicationName": "Frontiers in physiology",
     "journalName": "Frontiers in physiology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-21T19:51:01.918Z",
+    "fetchedAt": "2026-11-22T19:59:50.531Z",
     "snippet": "Fibroblasts are the predominant stromal cells in periodontal tissues and are involved in inflammation and repair. However, their heterogeneity and molecular mechanisms remain poorly defined. Our study is to identify fibroblast subpopulations driving osteogenesis in periodontitis and their molecular markers. We integrated bulk RNA sequencing with public data...",
     "tags": [
       "research",
@@ -358,7 +464,7 @@
     "publicationName": "Frontiers in immunology",
     "journalName": "Frontiers in immunology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-21T19:51:01.918Z",
+    "fetchedAt": "2026-11-22T19:59:50.531Z",
     "snippet": "Ulcerative colitis (UC) involves extensive remodeling of intestinal macrophage states, but the molecular programs linking inflammation, lysosomal function, and lipid handling remain incompletely understood. This study aimed to identify macrophage-associated molecules and cellular states linked to UC. We integrated UC single-cell RNA sequencing, bone marrow-...",
     "tags": [
       "research",
@@ -383,7 +489,7 @@
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
+    "isFeatured": false
   },
   {
     "id": "34c71e174a9a29e7",
@@ -394,7 +500,7 @@
     "publicationName": "Frontiers in cell and developmental biology",
     "journalName": "Frontiers in cell and developmental biology",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-21T19:51:01.918Z",
+    "fetchedAt": "2026-11-22T19:59:50.531Z",
     "snippet": "Cardiovascular diseases are driven by dysregulated inflammatory signaling networks in which pathways overlap and interact through synergistic, antagonistic, and feedback mechanisms, yet conventional single-pathway-targeted therapies have shown limited efficacy due to compensatory activation and context-dependent signaling plasticity. This review evaluates m...",
     "tags": [
       "research",
@@ -419,16 +525,49 @@
     "isFeatured": true
   },
   {
-    "id": "54decf084ec15261",
-    "title": "Targeting autocrine CCL2 signaling reveals oncogenic networks and prognostic biomarkers in medulloblastoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43065423",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43065423",
+    "id": "97be1eb7fc484a97",
+    "title": "Circular RNAs in Hepatocellular Carcinoma: Biogenesis, Detection, Functional Mechanisms, and Translational Evidence.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43067936",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43067936",
     "source": "pubmed",
-    "publicationName": "Frontiers in oncology",
-    "journalName": "Frontiers in oncology",
+    "publicationName": "Journal of hepatocellular carcinoma",
+    "journalName": "Journal of hepatocellular carcinoma",
     "publishedAt": "2026-01-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-21T19:51:01.918Z",
-    "snippet": "CCL2 is a well-established mediator of immune cell recruitment to the tumor microenvironment (TME), however, its autocrine role in medulloblastoma remains poorly understood. This study investigated the molecular and prognostic consequences of CCL2 ablation in medulloblastoma cells. CCL2 expression was characterized in HTB-186 medulloblastoma cells, and CRIS...",
+    "fetchedAt": "2026-11-22T19:59:50.531Z",
+    "snippet": "Circular RNAs (circRNAs) have been implicated in hepatocellular carcinoma (HCC) through microRNA-associated regulation, protein interactions, transcriptional control, and production of functional peptides. However, mechanistic activity does not establish clinical usefulness. This critical narrative review examines circRNA biogenesis, synthesis, and detectio...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 58,
+    "importanceSignals": [
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "68349d2f63095b90",
+    "title": "The Role of Interferons in Regulating and Mediating NK Cell Anti-Tumor Immunity.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43067807",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43067807",
+    "source": "pubmed",
+    "publicationName": "Journal of inflammation research",
+    "journalName": "Journal of inflammation research",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-11-22T19:59:50.531Z",
+    "snippet": "Interferons (IFNs) are cytokines critical for natural killer (NK) cell development, activation, cytotoxicity, and anti-tumor function. In this review, we examine how type I and type II IFNs shape NK cell-mediated anti-tumor immunity, with an emphasis on recent advances and their implications for NK cell-based cancer therapy. Although IFNs have traditionally...",
     "tags": [
       "research",
       "pubmed",
@@ -440,11 +579,10 @@
     "topicBuckets": [
       "translational medicine",
       "oncology",
-      "ai",
       "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 68,
+    "importanceScore": 58,
     "importanceSignals": [
       "priority topic: translational medicine, oncology",
       "high-signal source",
