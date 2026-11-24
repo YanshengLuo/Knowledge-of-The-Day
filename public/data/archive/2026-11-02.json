@@ -1,34 +1,32 @@
 [
   {
-    "id": "01d2e27a4fda3fa0",
-    "title": "Age-based shifts in multicellular community organization and abundance in HPV-Negative Head and Neck Cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43060361",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43060361",
+    "id": "eaaf78886f309c83",
+    "title": "Survival-SPOT: survival-guided causal structure learning via maximum-entropy strategy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43077407",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43077407",
     "source": "pubmed",
-    "publicationName": "bioRxiv : the preprint server for biology",
-    "journalName": "bioRxiv : the preprint server for biology",
+    "publicationName": "Briefings in bioinformatics",
+    "journalName": "Briefings in bioinformatics",
     "publishedAt": "2026-11-02T00:00:00.000Z",
-    "fetchedAt": "2026-11-22T19:59:50.531Z",
-    "snippet": "Aging represents a fundamental driver of cancer risk and progression, yet the mechanisms by which aging reshapes the tumor microenvironment remain incompletely understood. To interrogate how aging alters cellular and microenvironmental organization in cancer, we developed an integrated single-cell atlas of HPV-negative head and neck squamous cell carcinoma....",
+    "fetchedAt": "2026-11-24T22:47:53.876Z",
+    "snippet": "Causal structure learning provides a powerful approach for reconstructing regulatory relationships, but existing methods mainly rely on molecular measurements and rarely incorporate survival information during network inference. A major challenge is that survival associations are obtained at the gene level, whereas network structures are defined by pairwise...",
     "tags": [
       "research",
       "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer"
+      "Computational oncology",
+      "computational biology",
+      "oncology"
     ],
     "topicBuckets": [
-      "spatial",
-      "oncology",
       "computational biology",
-      "ai",
-      "single-cell"
+      "oncology",
+      "ai"
     ],
     "isNewToday": false,
     "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology, computational biology",
+      "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"

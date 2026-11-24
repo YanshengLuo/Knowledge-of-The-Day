@@ -1,36 +1,72 @@
 [
   {
-    "id": "c8bcd3582032149f",
-    "title": "Comprehensive single-cell RNA sequencing analysis reveals key immune regulators and signaling pathways in people living with HIV across tissues and cell types.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43049082",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43049082",
+    "id": "6754f6593fb47e8e",
+    "title": "Integrative Transcriptomic and In Silico Perturbation Analysis Identifies Diagnostic Biomarkers in Thyroid Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43076198",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43076198",
     "source": "pubmed",
-    "publicationName": "AIDS (London, England)",
-    "journalName": "AIDS (London, England)",
+    "publicationName": "Journal of visualized experiments : JoVE",
+    "journalName": "Journal of visualized experiments : JoVE",
     "publishedAt": "2026-11-17T00:00:00.000Z",
-    "fetchedAt": "2026-11-19T21:01:24.615Z",
-    "snippet": "To identify shared gene signatures, regulatory networks, and shared molecular regulators associated with HIV infection across tissues and cell types using publicly available single-cell RNA sequencing (scRNA-seq) datasets from people living with HIV. We systematically analyzed human scRNA-seq datasets from brain, cerebrospinal fluid, blood, adipose tissue,....",
+    "fetchedAt": "2026-11-24T22:47:53.876Z",
+    "snippet": "Thyroid cancer is a common endocrine malignancy, yet many bioinformatics studies focus on correlation-based biomarker identification without evaluating the predicted functional roles of candidate genes in malignant cellular states. This study integrated bulk transcriptomic and single-cell RNA sequencing data to identify diagnostic biomarkers and computation...",
     "tags": [
       "research",
       "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation",
-      "single-cell"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment",
+      "biomarker"
     ],
     "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai",
       "single-cell",
-      "funding"
+      "oncology",
+      "immunology",
+      "computational biology",
+      "translational medicine"
     ],
     "isNewToday": false,
-    "importanceScore": 72,
+    "importanceScore": 75,
     "importanceSignals": [
-      "recent",
-      "priority topic: gene therapy, ai",
+      "published this month",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "47213a791c812cb6",
+    "title": "Optimized Tissue Microarray for In Situ Characterization of Central Nervous System Tumors Using a Spatial Transcriptomics Platform.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43076291",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43076291",
+    "source": "pubmed",
+    "publicationName": "Journal of visualized experiments : JoVE",
+    "journalName": "Journal of visualized experiments : JoVE",
+    "publishedAt": "2026-11-17T00:00:00.000Z",
+    "fetchedAt": "2026-11-24T22:47:53.876Z",
+    "snippet": "We present a standardized, end-to-end development and application of a Xenium tissue microarray (TMA) to profile glioblastoma, meningioma, schwannomas, and pituitary neuroendocrine tumors (PitNETs). The workflow covers: (i) pathology-guided selection of representative tumor regions (including tumor core and immune-rich interfaces when available); (ii) core....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "spatial"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "ai",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
