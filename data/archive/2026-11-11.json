@@ -1,36 +1,72 @@
 [
   {
-    "id": "0e21e7e5c363d1dc",
-    "title": "Atypical Neurological Presentation of Familial Mediterranean Fever Mimicking Refractory Childhood Epilepsy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43069996",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43069996",
+    "id": "30d94c0dc695a26d",
+    "title": "Significance of DPP-4 Inhibition for Glucose Modulation and Its Bioimaging with Small Molecular Probes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43093461",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43093461",
     "source": "pubmed",
-    "publicationName": "European journal of rheumatology",
-    "journalName": "European journal of rheumatology",
+    "publicationName": "Molecules (Basel, Switzerland)",
+    "journalName": "Molecules (Basel, Switzerland)",
     "publishedAt": "2026-11-11T00:00:00.000Z",
-    "fetchedAt": "2026-11-24T22:47:53.876Z",
-    "snippet": "Familial Mediterranean fever (FMF) is a monogenic autoinflammatory disorder classically characterized by recurrent episodes of fever and polyserositis. Although central nervous system involvement is rare, FMF can atypically present with severe neurological manifestations, including seizure disorders. The authors report the highly unusual case of a 27-year-o...",
+    "fetchedAt": "2026-11-26T21:59:05.239Z",
+    "snippet": "Diabetes mellitus is a metabolic disease that results from a reduced response to insulin, or a lack of it, either due to a deficiency of insulin or a diminished effectiveness of the insulin. The pharmacological inhibition of human DPP-4 results in increased incretin activity, and this has beneficial effects on glucose control in type 2 diabetes mellitus. Co...",
     "tags": [
       "research",
       "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
+      "Computational oncology",
+      "computational biology",
+      "oncology"
     ],
     "topicBuckets": [
-      "gene therapy",
-      "immunology"
+      "computational biology",
+      "oncology"
     ],
     "isNewToday": false,
-    "importanceScore": 55,
+    "importanceScore": 65,
     "importanceSignals": [
       "published this month",
-      "priority topic: gene therapy",
+      "priority topic: computational biology, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
+    "isFeatured": false
+  },
+  {
+    "id": "a91f92d14906f6a3",
+    "title": "FViT: A Foundation-Tokenized Vision Transformer with Retrieval-Augmented Multi-Scale Ensembling for Deep Learning-Based Spatial Gene Expression Prediction from Histopathology.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43091733",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43091733",
+    "source": "pubmed",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
+    "publishedAt": "2026-11-11T00:00:00.000Z",
+    "fetchedAt": "2026-11-26T21:59:05.239Z",
+    "snippet": "Spatial transcriptomics links gene expression to tissue morphology but is too costly for routine clinical use, motivating prediction of expression from hematoxylin-and-eosin (H&E) images. FViT (Foundation-tokenized Vision Transformer) tokenizes a spot and itsnearest neighbours with the frozen foundation model Phikon, fuses the tokens with a small trainable....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "spatial"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "ai",
+      "translational medicine"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
   }
 ]

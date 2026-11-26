@@ -1,138 +1,29 @@
 [
   {
-    "id": "8fc9e12adf2c3244",
-    "title": "Immune-Related Proteomic Profiling in Clear Cell Renal Cell Carcinoma: Tissue and Soluble Biofluid Biomarkers.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43028010",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43028010",
+    "id": "d805a91da7657c74",
+    "title": "Genomic and Functional Technologies for Studying Cancer Stem Cell Dynamics, Metastasis, and Therapy Resistance.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43089358",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43089358",
     "source": "pubmed",
-    "publicationName": "International journal of molecular sciences",
-    "journalName": "International journal of molecular sciences",
+    "publicationName": "Genes",
+    "journalName": "Genes",
     "publishedAt": "2026-10-30T00:00:00.000Z",
-    "fetchedAt": "2026-11-16T22:34:37.215Z",
-    "snippet": "Clear cell renal cell carcinoma (ccRCC) shows complex interactions with the tumor microenvironment, involving a range of immune checkpoint proteins and circulating biomarkers that may influence disease progression and response to treatment. Recent technological advances have identified tissue-based and circulating immune-related proteomic targets such as pr...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology",
-      "biomarker"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "translational medicine",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "33fa435a3d640db0",
-    "title": "Comparative Acetylation and Ubiquitination Profiling in Cervical Cancer-Cell Models Supports a Proposed Lysine-Fate Code.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43027996",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43027996",
-    "source": "pubmed",
-    "publicationName": "International journal of molecular sciences",
-    "journalName": "International journal of molecular sciences",
-    "publishedAt": "2026-10-30T00:00:00.000Z",
-    "fetchedAt": "2026-11-16T22:34:37.215Z",
-    "snippet": "Post-translational modifications are rarely studied as an integrated system. Most studies have focused on acetylation or ubiquitination in isolation, despite both frequently targeting the same lysine residues on the same proteins. This study investigated whether the interplay between these modifications, rather than their individual effects, constitutes a m...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "f3e8f4ead32cf7b4",
-    "title": "Colorectal Cancer Biomarkers: The Expanding Landscape.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43027336",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43027336",
-    "source": "pubmed",
-    "publicationName": "Cells",
-    "journalName": "Cells",
-    "publishedAt": "2026-10-30T00:00:00.000Z",
-    "fetchedAt": "2026-11-16T22:34:37.215Z",
-    "snippet": "Colorectal cancer (CRC) remains one of the most common malignancies worldwide and a leading cause of cancer-related mortality. Recent advances in CRC molecular biology have focused on biomarkers for early detection, prognostic stratification, treatment selection, and disease monitoring. Clinically validated biomarkers, including microsatellite instability (...",
+    "fetchedAt": "2026-11-26T21:59:05.239Z",
+    "snippet": "Cancer stem cells (CSCs) are a functionally defined and plastic subpopulation of tumor cells. While the precise definition of CSCs is still debated, studies demonstrate that CSCs are capable of driving recurrence, metastases, and therapeutic resistance. Genomic studies of CSCs are critical to understanding how these cells exert their effects within the tumo...",
     "tags": [
       "research",
       "pubmed",
       "Spatial oncology",
       "spatial transcriptomics",
-      "cancer",
-      "biomarker"
+      "cancer"
     ],
     "topicBuckets": [
       "spatial",
       "oncology",
-      "computational biology",
-      "ai",
-      "translational medicine"
+      "computational biology"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
-    "importanceSignals": [
-      "published this month",
-      "priority topic: oncology, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "4314291c9c395a47",
-    "title": "Neural Remodeling Across Cancer Evolution: Temporal, Spatial, Cellular, and Functional Principles of Tumor-Nerve Ecosystems.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43026825",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43026825",
-    "source": "pubmed",
-    "publicationName": "Cancers",
-    "journalName": "Cancers",
-    "publishedAt": "2026-10-30T00:00:00.000Z",
-    "fetchedAt": "2026-11-16T22:34:37.215Z",
-    "snippet": "Cancer neuroscience now asks not only whether tumors contain nerves, but how neural architecture, neuronal and glial states, and neural output change through cancer evolution. This critical narrative review integrates evidence from precursor lesions, primary tumors, invasion, metastasis, and treatment-associated states, while distinguishing neural remodelin...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Spatial oncology",
-      "spatial transcriptomics",
-      "cancer",
-      "spatial"
-    ],
-    "topicBuckets": [
-      "spatial",
-      "oncology",
-      "computational biology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 75,
+    "importanceScore": 65,
     "importanceSignals": [
       "published this month",
       "priority topic: oncology, computational biology",

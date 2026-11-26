@@ -1,33 +1,107 @@
 [
   {
-    "id": "5552e37039f82aab",
-    "title": "Treatment Selection in Pancreatic Ductal Adenocarcinoma: A Conceptual Framework for Precision Therapy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43082828",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43082828",
+    "id": "3be58fc6346c9403",
+    "title": "Lymphoid Architecture Across Solid Tumors: Emerging Technologies, Bioinformatics Approaches and Translational Applications.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43091983",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43091983",
     "source": "pubmed",
-    "publicationName": "Journal of personalized medicine",
-    "journalName": "Journal of personalized medicine",
+    "publicationName": "International journal of molecular sciences",
+    "journalName": "International journal of molecular sciences",
     "publishedAt": "2026-11-18T00:00:00.000Z",
-    "fetchedAt": "2026-11-25T22:00:40.796Z",
-    "snippet": "Pancreatic ductal adenocarcinoma (PDAC) remains a major therapeutic challenge, with limited improvement in outcomes and substantial heterogeneity in treatment response. Systemic chemotherapy remains a cornerstone of treatment across disease stages, yet treatment selection, particularly in metastatic PDAC (mPDAC), is still driven predominantly by clinical ch...",
+    "fetchedAt": "2026-11-26T21:59:05.239Z",
+    "snippet": "Tumor-associated lymphoid architecture encompasses a spectrum of immune organization within the tumor microenvironment, ranging from loosely organized lymphoid aggregates to mature tertiary lymphoid structures (TLS) with distinct cellular compartments and germinal center activity. These structures are found across multiple solid tumor types and have been as...",
     "tags": [
       "research",
       "pubmed",
-      "Biomarkers in oncology",
-      "biomarker",
-      "patient stratification",
-      "oncology"
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
     ],
     "topicBuckets": [
-      "translational medicine",
+      "single-cell",
       "oncology",
-      "ai"
+      "immunology",
+      "computational biology",
+      "translational medicine"
     ],
     "isNewToday": false,
     "importanceScore": 75,
     "importanceSignals": [
       "published this month",
-      "priority topic: translational medicine, oncology",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "5bc1eb3b4af47a62",
+    "title": "Single-Cell and Spatial Transcriptomics Decode Tumor-Microenvironment Crosstalk in Colorectal Cancer Metastasis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43090068",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43090068",
+    "source": "pubmed",
+    "publicationName": "Biomolecules",
+    "journalName": "Biomolecules",
+    "publishedAt": "2026-11-18T00:00:00.000Z",
+    "fetchedAt": "2026-11-26T21:59:05.239Z",
+    "snippet": "Metastasis remains the principal cause of death in colorectal cancer (CRC), and accumulating evidence indicates that it is not a tumor-autonomous process. Dissemination and organ-specific colonization of the liver, lung, and peritoneum are governed by continuous, bidirectional crosstalk between malignant cells and the cellular and extracellular compartments...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "single-cell",
+      "spatial"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology",
+      "ai",
+      "single-cell",
+      "immunology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "5bbe636f851ae34a",
+    "title": "Beyond Genomic Alterations: Transcriptomic Profiling of Lineage Plasticity in Metastatic Solid Tumors.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43088940",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43088940",
+    "source": "pubmed",
+    "publicationName": "Diagnostics (Basel, Switzerland)",
+    "journalName": "Diagnostics (Basel, Switzerland)",
+    "publishedAt": "2026-11-18T00:00:00.000Z",
+    "fetchedAt": "2026-11-26T21:59:05.239Z",
+    "snippet": "Lineage plasticity allows tumor cells to shift their differentiation state during metastatic progression and treatment. Genomic profiling identifies driver alterations and clonal relationships but does not fully characterize the lineage programs expressed by metastatic lesions. This review examines the complementary role of transcriptomic profiling and hist...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, computational biology",
       "high-signal source",
       "rich summary",
       "rich metadata"
