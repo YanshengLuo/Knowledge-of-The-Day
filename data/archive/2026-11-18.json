@@ -1,67 +1,61 @@
 [
   {
-    "id": "3be58fc6346c9403",
-    "title": "Lymphoid Architecture Across Solid Tumors: Emerging Technologies, Bioinformatics Approaches and Translational Applications.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43091983",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43091983",
+    "id": "2c5d8cbb0c77b5f9",
+    "title": "NLRP3 Inflammasome Activation Dynamics are Shaped by Age, HIV-infection and Co- morbid Conditions.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43100848",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43100848",
     "source": "pubmed",
-    "publicationName": "International journal of molecular sciences",
-    "journalName": "International journal of molecular sciences",
+    "publicationName": "Research square",
+    "journalName": "Research square",
     "publishedAt": "2026-11-18T00:00:00.000Z",
-    "fetchedAt": "2026-11-26T21:59:05.239Z",
-    "snippet": "Tumor-associated lymphoid architecture encompasses a spectrum of immune organization within the tumor microenvironment, ranging from loosely organized lymphoid aggregates to mature tertiary lymphoid structures (TLS) with distinct cellular compartments and germinal center activity. These structures are found across multiple solid tumor types and have been as...",
+    "fetchedAt": "2026-11-27T21:41:22.750Z",
+    "snippet": "With the advent of effective antiretroviral therapy, increased rates of age-related diseases such as cardiovascular disease and diabetes have been observed in people living with HIV (PLH). Persistent immune activation in PLH and age-related chronic inflammation are hypothesized to be drivers for the development of such diseases. Dysregulated NLRP3 inflammas...",
     "tags": [
       "research",
       "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
     ],
     "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "computational biology",
-      "translational medicine"
+      "gene therapy",
+      "immunology"
     ],
     "isNewToday": false,
-    "importanceScore": 75,
+    "importanceScore": 55,
     "importanceSignals": [
       "published this month",
-      "priority topic: oncology, computational biology",
+      "priority topic: gene therapy",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": false
+    "isFeatured": true
   },
   {
-    "id": "5bc1eb3b4af47a62",
-    "title": "Single-Cell and Spatial Transcriptomics Decode Tumor-Microenvironment Crosstalk in Colorectal Cancer Metastasis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43090068",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43090068",
+    "id": "7d1ce095b71662f0",
+    "title": "Sc-HistoMorphomics: A General Framework for High-throughput, Multimodal Profiling of Nuclear Morphology in Tissues.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43100739",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43100739",
     "source": "pubmed",
-    "publicationName": "Biomolecules",
-    "journalName": "Biomolecules",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
     "publishedAt": "2026-11-18T00:00:00.000Z",
-    "fetchedAt": "2026-11-26T21:59:05.239Z",
-    "snippet": "Metastasis remains the principal cause of death in colorectal cancer (CRC), and accumulating evidence indicates that it is not a tumor-autonomous process. Dissemination and organ-specific colonization of the liver, lung, and peritoneum are governed by continuous, bidirectional crosstalk between malignant cells and the cellular and extracellular compartments...",
+    "fetchedAt": "2026-11-27T21:41:22.750Z",
+    "snippet": "Quantitative cellular morphology provides a rich but underutilized window into cell identity and state. We introduce sc-HistoMorphomics, a scalable framework for profiling nuclear morphology in whole-slide H&E images and correlating these measurements with spatial transcriptomics data. Our pipeline combines deep-learning based segmentation with 194 interpre...",
     "tags": [
       "research",
       "pubmed",
       "Spatial oncology",
       "spatial transcriptomics",
-      "cancer",
-      "single-cell",
-      "spatial"
+      "cancer"
     ],
     "topicBuckets": [
       "spatial",
       "oncology",
       "computational biology",
-      "ai",
-      "single-cell",
-      "immunology"
+      "ai"
     ],
     "isNewToday": false,
     "importanceScore": 75,
@@ -75,22 +69,23 @@
     "isFeatured": true
   },
   {
-    "id": "5bbe636f851ae34a",
-    "title": "Beyond Genomic Alterations: Transcriptomic Profiling of Lineage Plasticity in Metastatic Solid Tumors.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43088940",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43088940",
+    "id": "bd4566c812d626ad",
+    "title": "CIRCA learns identifiable cell- and niche-level programs and their interactions with tissue pathology from spatial transcriptomics.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43100583",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43100583",
     "source": "pubmed",
-    "publicationName": "Diagnostics (Basel, Switzerland)",
-    "journalName": "Diagnostics (Basel, Switzerland)",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
     "publishedAt": "2026-11-18T00:00:00.000Z",
-    "fetchedAt": "2026-11-26T21:59:05.239Z",
-    "snippet": "Lineage plasticity allows tumor cells to shift their differentiation state during metastatic progression and treatment. Genomic profiling identifies driver alterations and clonal relationships but does not fully characterize the lineage programs expressed by metastatic lesions. This review examines the complementary role of transcriptomic profiling and hist...",
+    "fetchedAt": "2026-11-27T21:41:22.750Z",
+    "snippet": "Interactions among cells and their local microenvironments shape tissue organization and function, while their dysregulation can contribute to disease. In Alzheimer's disease (AD), the complex responses of glial cells and neurons to amyloid-&#x3b2; pathology can both mitigate and exacerbate neuronal injury. Spatial transcriptomics enables investigation of t...",
     "tags": [
       "research",
       "pubmed",
       "Spatial oncology",
       "spatial transcriptomics",
-      "cancer"
+      "cancer",
+      "spatial"
     ],
     "topicBuckets": [
       "spatial",
@@ -106,6 +101,41 @@
       "rich summary",
       "rich metadata"
     ],
-    "isFeatured": true
+    "isFeatured": false
+  },
+  {
+    "id": "795075c7b50602f0",
+    "title": "Learning spatial cellular state through 3D reconstruction of the cell.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43100297",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43100297",
+    "source": "pubmed",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
+    "publishedAt": "2026-11-18T00:00:00.000Z",
+    "fetchedAt": "2026-11-27T21:41:22.750Z",
+    "snippet": "Subcellular-resolution spatial transcriptomics localizes individual RNA transcripts within cells with high-precision. Existing methods for identifying spatially organized cell populations rely on cellular niches defined by neighboring cells, leaving open whether such populations can be identified from individual-cell representations alone. Moreover, represe...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Spatial oncology",
+      "spatial transcriptomics",
+      "cancer",
+      "spatial"
+    ],
+    "topicBuckets": [
+      "spatial",
+      "oncology",
+      "computational biology"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, computational biology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
   }
 ]

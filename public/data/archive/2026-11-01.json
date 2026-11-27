@@ -8,7 +8,7 @@
     "publicationName": "Cancer reports (Hoboken, N.J.)",
     "journalName": "Cancer reports (Hoboken, N.J.)",
     "publishedAt": "2026-11-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-26T21:59:05.239Z",
+    "fetchedAt": "2026-11-27T21:41:22.750Z",
     "snippet": "Pancreatic ductal adenocarcinoma (PDAC) remains the most lethal type of pancreatic cancer, with a dismal 11% 5-year survival rate, owing to its rapid progression and metastasis. Its aggressive nature, coupled with late diagnosis and inadequate therapeutic approaches, necessitates the urgent identification of novel disease-associated genes for more targeted....",
     "tags": [
       "research",
@@ -16,9 +16,7 @@
       "Computational oncology",
       "computational biology",
       "oncology",
-      "biomarker",
-      "Biomarkers in oncology",
-      "patient stratification"
+      "biomarker"
     ],
     "topicBuckets": [
       "computational biology",
@@ -27,6 +25,7 @@
       "translational medicine"
     ],
     "isNewToday": false,
+    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
       "priority topic: computational biology, oncology",
@@ -34,7 +33,6 @@
       "rich summary",
       "rich metadata"
     ],
-    "importanceScore": 75,
     "isFeatured": true
   },
   {
@@ -46,7 +44,7 @@
     "publicationName": "Genes, chromosomes & cancer",
     "journalName": "Genes, chromosomes & cancer",
     "publishedAt": "2026-11-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-26T21:59:05.239Z",
+    "fetchedAt": "2026-11-27T21:41:22.750Z",
     "snippet": "RNA-sequencing and automated fusion callers have driven a rapid expansion in the number of reported gene fusions, many of which are subsequently advanced as oncogenic drivers or diagnostic markers in the primary literature despite limited supporting evidence. Using a bone and soft tissue tumor (BST) cohort enriched for genomically complex tumors and anchore...",
     "tags": [
       "research",
@@ -71,16 +69,86 @@
     "isFeatured": true
   },
   {
-    "id": "4be75881ba2d9576",
-    "title": "The Tumor Microenvironment in Esophageal Adenocarcinoma: From Cellular Ecosystems to Therapy-Driven Dynamics.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43096165",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43096165",
+    "id": "5ee536f0c0bf23de",
+    "title": "The Intratumoural CCR7+ Dendritic Cell Pool Includes Cells of Potential Monocyte Origin and Is Expanded by FLT3L-Ig Treatment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43101897",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43101897",
     "source": "pubmed",
     "publicationName": "European journal of immunology",
     "journalName": "European journal of immunology",
     "publishedAt": "2026-11-01T00:00:00.000Z",
-    "fetchedAt": "2026-11-26T21:59:05.239Z",
-    "snippet": "Esophageal adenocarcinoma (EAC) is among the most aggressive tumors for incidence and mortality worldwide. In recent years, the composition and spatial architecture of the tumor microenvironment (TME) have emerged as critical determinants of tumor biology, therapeutic response, and prognosis. In EAC, the limited efficacy of approved conventional therapies b...",
+    "fetchedAt": "2026-11-27T21:41:22.750Z",
+    "snippet": "Effective anti-tumour responses depend upon the activation and CCR7-dependent egress of conventional dendritic cells (cDCs) to draining lymph nodes (dLNs) where they prime T cells. However, some activated CCR7+ DCs persist within tumours rather than migrating to dLNs, influencing intratumoural T cell functions and priming at dLNs. Given these differing cell...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "41883aa463427c0d",
+    "title": "Sucroferric oxyhydroxide, vitamin D, and inflammation in hemodialysis: A proof-of-concept study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43098649",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43098649",
+    "source": "pubmed",
+    "publicationName": "Nefrologia",
+    "journalName": "Nefrologia",
+    "publishedAt": "2026-11-01T00:00:00.000Z",
+    "fetchedAt": "2026-11-27T21:41:22.750Z",
+    "snippet": "Hyperphosphatemia, vitamin D deficiency, and chronic inflammation contribute to cardiovascular risk in hemodialysis patients. Sucroferric oxyhydroxide (SFO) effectively lowers serum phosphate, but its effects on inflammation, vitamin D status, and Klotho (KL) expression remain unclear. This prospective observational study included 42 hemodialysis patients s...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Gene therapy inflammation",
+      "gene therapy",
+      "mRNA delivery",
+      "inflammation"
+    ],
+    "topicBuckets": [
+      "gene therapy",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: gene therapy, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "13085747eda63844",
+    "title": "Circulating Tumour DNA-Guided Adjuvant Therapy Following Radical Cystectomy for Muscle-Invasive Bladder Cancer: A Narrative Review.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43101827",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43101827",
+    "source": "pubmed",
+    "publicationName": "Cureus",
+    "journalName": "Cureus",
+    "publishedAt": "2026-11-01T00:00:00.000Z",
+    "fetchedAt": "2026-11-27T21:41:22.750Z",
+    "snippet": "Despite radical cystectomy and advances in perioperative treatment, patients with muscle-invasive bladder cancer&#xa0;remain at risk of recurrence. Circulating tumour deoxyribonucleic acid (ctDNA) offers a means of detecting molecular residual disease before recurrence becomes apparent on imaging. However, detecting disease earlier is only clinically useful...",
     "tags": [
       "research",
       "pubmed",
@@ -91,10 +159,11 @@
     ],
     "topicBuckets": [
       "translational medicine",
-      "oncology"
+      "oncology",
+      "ai"
     ],
     "isNewToday": false,
-    "importanceScore": 65,
+    "importanceScore": 75,
     "importanceSignals": [
       "published this month",
       "priority topic: translational medicine, oncology",

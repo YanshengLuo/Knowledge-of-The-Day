@@ -1,289 +1,182 @@
 [
   {
-    "id": "393f4439a4f2ecc4",
-    "title": "Integrative Multi-Omics Analysis Suggests a Candidate Gut Microbiota-Butyrate-AP-1 Regulatory Axis in Esophageal Squamous Cell Carcinoma.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43092090",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43092090",
+    "id": "172e21e7527b8ba3",
+    "title": "A Multiomics Workflow to Characterize Gene-Defined Epithelial Subpopulations in Colorectal Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43102358",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43102358",
     "source": "pubmed",
-    "publicationName": "International journal of molecular sciences",
-    "journalName": "International journal of molecular sciences",
+    "publicationName": "Journal of visualized experiments : JoVE",
+    "journalName": "Journal of visualized experiments : JoVE",
     "publishedAt": "2026-11-20T00:00:00.000Z",
-    "fetchedAt": "2026-11-26T21:59:05.239Z",
-    "snippet": "Esophageal squamous cell carcinoma (ESCC) is molecularly heterogeneous and associated with an inflammatory tumor microenvironment. Gut microbial metabolites can regulate host transcriptional and immune programs, but their links to ESCC remain unclear. We investigated whether microbiota-related metabolic signals converge on disease-associated transcriptional...",
+    "fetchedAt": "2026-11-27T21:41:22.750Z",
+    "snippet": "Characterizing rare gene-defined epithelial populations in heterogeneous tumors requires integration of information across multiple molecular resolutions. This paper presents a reproducible multiomics workflow that combines bulk transcriptomic analysis, single-cell RNA sequencing (scRNA-seq), spatial transcriptomics, transcriptional regulatory network infer...",
     "tags": [
       "research",
       "pubmed",
       "Computational oncology",
       "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
       "oncology",
-      "ai",
-      "immunology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "df899d100aa9c0a6",
-    "title": "Homologous Recombination Deficiency (HRD) Testing in Ovarian Cancer: Clinical Utility and Limitations.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43092074",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43092074",
-    "source": "pubmed",
-    "publicationName": "International journal of molecular sciences",
-    "journalName": "International journal of molecular sciences",
-    "publishedAt": "2026-11-20T00:00:00.000Z",
-    "fetchedAt": "2026-11-26T21:59:05.239Z",
-    "snippet": "Homologous recombination deficiency (HRD) is an important biomarker in ovarian cancer, but available assays interrogate different biological features and are not fully interchangeable. This structured narrative review examines HRD biology, testing strategies, clinical utility, and limitations using PubMed and Scopus, with emphasis on the past decade and old...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Computational oncology",
-      "computational biology",
-      "oncology"
-    ],
-    "topicBuckets": [
-      "computational biology",
-      "oncology",
-      "ai",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: computational biology, oncology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "dcfe4292fdf25689",
-    "title": "Integrative Characterization of a Telomere-Related Prognostic Signature Reveals Immune and Cellular Heterogeneity in Breast Cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43092121",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43092121",
-    "source": "pubmed",
-    "publicationName": "International journal of molecular sciences",
-    "journalName": "International journal of molecular sciences",
-    "publishedAt": "2026-11-20T00:00:00.000Z",
-    "fetchedAt": "2026-11-26T21:59:05.239Z",
-    "snippet": "Breast cancer (BRCA) is a highly heterogeneous malignancy with diverse clinical outcomes, highlighting the need for reliable molecular biomarkers to improve prognostic stratification. Telomere dysfunction contributes to genomic instability and tumor progression. However, the prognostic and biological significance of telomere-related features in BRCA remains...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "translational medicine"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "812e2173d7bad615",
-    "title": "An Exploratory Seven-Gene Expression Signature Obtained from Vasculogenic Mimicry-Related Genes Stratifies Prognosis in Cervical Cancer.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43092101",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43092101",
-    "source": "pubmed",
-    "publicationName": "International journal of molecular sciences",
-    "journalName": "International journal of molecular sciences",
-    "publishedAt": "2026-11-20T00:00:00.000Z",
-    "fetchedAt": "2026-11-26T21:59:05.239Z",
-    "snippet": "The prognostic value of vasculogenic mimicry (VM), vessel-like channels formed by tumour cells, rests on small cervical series. We screened 190 VM-related genes (VMRGs) in 290 TCGA patients and derived an exploratory signature by penalised (LASSO) Cox regression. A seven-gene score (ITGA5, WNT3A, VEGFA, BCL2, CD177, ROCK2, NFATC3) separated patients by surv...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Single-cell TME",
-      "single-cell",
-      "tumor microenvironment"
-    ],
-    "topicBuckets": [
-      "single-cell",
-      "oncology",
-      "immunology",
-      "ai",
-      "funding"
-    ],
-    "isNewToday": false,
-    "importanceScore": 72,
-    "importanceSignals": [
-      "recent",
-      "priority topic: oncology, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "0a41cede4c068ebb",
-    "title": "Personalized Nutrition for Cardiometabolic Prevention: Integrating Multi-Omics, Digital Health, Functional Foods, and the Gut Microbiome.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43092991",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43092991",
-    "source": "pubmed",
-    "publicationName": "Nutrients",
-    "journalName": "Nutrients",
-    "publishedAt": "2026-11-20T00:00:00.000Z",
-    "fetchedAt": "2026-11-26T21:59:05.239Z",
-    "snippet": ": Tailoring dietary recommendations to an individual's biological, metabolic, behavioral, and lifestyle factors may be a promising approach for supporting the prevention and management of chronic metabolic disorders.: This narrative review summarizes the potential significance of personalized nutrition, focusing on digital technologies, functional foods, an...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai",
-      "computational biology"
-    ],
-    "isNewToday": false,
-    "importanceScore": 82,
-    "importanceSignals": [
-      "recent",
-      "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": true
-  },
-  {
-    "id": "e97fc835e462ce79",
-    "title": "The Significance of Immune and Inflammatory Response Mediators in Endometriosis: New Perspectives for Diagnosis and Treatment.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43092120",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43092120",
-    "source": "pubmed",
-    "publicationName": "International journal of molecular sciences",
-    "journalName": "International journal of molecular sciences",
-    "publishedAt": "2026-11-20T00:00:00.000Z",
-    "fetchedAt": "2026-11-26T21:59:05.239Z",
-    "snippet": "Endometriosis is a chronic, estrogen-dependent inflammatory disease characterized by the presence of endometrial tissue outside the uterine cavity. It affects approximately 10-15% of women of reproductive age and is associated with chronic pelvic pain, dysmenorrhea, infertility, and a significant reduction in quality of life. Despite decades of research, th...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "ai"
-    ],
-    "isNewToday": false,
-    "importanceScore": 72,
-    "importanceSignals": [
-      "recent",
-      "priority topic: gene therapy, ai",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "42a88bffd0b8f0d6",
-    "title": "Single-Cell Transcriptomics Reveals a Peroxisome-Related pDC State Axis and a Three-Gene Diagnostic Signature in Adult Sepsis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43092089",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43092089",
-    "source": "pubmed",
-    "publicationName": "International journal of molecular sciences",
-    "journalName": "International journal of molecular sciences",
-    "publishedAt": "2026-11-20T00:00:00.000Z",
-    "fetchedAt": "2026-11-26T21:59:05.239Z",
-    "snippet": "Sepsis is characterized by dysregulated host immunity. We integrated single-cell transcriptomes from five adult peripheral blood mononuclear cell cohorts, comprising 1,503,982 cells after quality control, to characterize peroxisome-related transcriptional states. Disease-control comparisons included 114 participants and 1,087,108 cells. Peroxisome-related s...",
-    "tags": [
-      "research",
-      "pubmed",
-      "Gene therapy inflammation",
-      "gene therapy",
-      "mRNA delivery",
-      "inflammation",
-      "single-cell"
-    ],
-    "topicBuckets": [
-      "gene therapy",
-      "immunology",
-      "computational biology",
-      "single-cell"
-    ],
-    "isNewToday": false,
-    "importanceScore": 72,
-    "importanceSignals": [
-      "recent",
-      "priority topic: gene therapy, computational biology",
-      "high-signal source",
-      "rich summary",
-      "rich metadata"
-    ],
-    "isFeatured": false
-  },
-  {
-    "id": "06bac0ca22eeb85f",
-    "title": "A Candidate Transcriptomic Gene Set Is Associated with Hypoxia-Related and Mesenchymal Gene Expression in Glioblastoma, but Not with Clinical Radioresistance.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43092096",
-    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43092096",
-    "source": "pubmed",
-    "publicationName": "International journal of molecular sciences",
-    "journalName": "International journal of molecular sciences",
-    "publishedAt": "2026-11-20T00:00:00.000Z",
-    "fetchedAt": "2026-11-26T21:59:05.239Z",
-    "snippet": "Gene sets derived from radioresistant cells require independent evaluation before they can be interpreted as treatment-resistance biomarkers. We reassessed an unpublished candidate gene set archived as 360 identifiers using single-cell and spatial transcriptomics, an irradiation dataset and three clinical cohorts. Its expression score was associated with hy...",
-    "tags": [
-      "research",
-      "pubmed",
       "Spatial oncology",
       "spatial transcriptomics",
       "cancer"
     ],
     "topicBuckets": [
-      "spatial",
-      "oncology",
       "computational biology",
+      "oncology",
       "single-cell",
-      "translational medicine",
-      "immunology"
+      "spatial"
     ],
     "isNewToday": false,
-    "importanceScore": 82,
     "importanceSignals": [
-      "recent",
-      "priority topic: oncology, computational biology",
+      "published this month",
+      "priority topic: computational biology, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "importanceScore": 65,
+    "isFeatured": false
+  },
+  {
+    "id": "cc1b1d5aab876625",
+    "title": "The tumor suppressor role of theproto-oncogene in metastatic pancreatic cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43100428",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43100428",
+    "source": "pubmed",
+    "publicationName": "bioRxiv : the preprint server for biology",
+    "journalName": "bioRxiv : the preprint server for biology",
+    "publishedAt": "2026-11-20T00:00:00.000Z",
+    "fetchedAt": "2026-11-27T21:41:22.750Z",
+    "snippet": "is the most frequently mutated proto-oncogene in human cancers. Progression to advanced disease is frequently associated with allelic imbalance of thelocus with gain of the mutant allele and loss of the wild-type allele through clonal and sub-clonal loss of heterozygosity (LOH). While a large body of literature has focused on the effects of allelic imbalanc...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Single-cell TME",
+      "single-cell",
+      "tumor microenvironment"
+    ],
+    "topicBuckets": [
+      "single-cell",
+      "oncology",
+      "immunology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 65,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: oncology, ai",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "5694490added3376",
+    "title": "Multimodal Single-Cell Analysis Reveals the Prognostic Role of Myeloid Subpopulation-Associated PI3K/AKT Signaling in Hepatocellular Carcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43102361",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43102361",
+    "source": "pubmed",
+    "publicationName": "Journal of visualized experiments : JoVE",
+    "journalName": "Journal of visualized experiments : JoVE",
+    "publishedAt": "2026-11-20T00:00:00.000Z",
+    "fetchedAt": "2026-11-27T21:41:22.750Z",
+    "snippet": "Hepatocellular carcinoma (HCC) represents a major global health burden with rising incidence, marked heterogeneity, and poor prognosis, necessitating reliable biomarkers for prognostic stratification. This study conducted a comprehensive multi-omics analysis, combining a large amount of RNA-seq data from TCGA-LIHC with a single-cell RNA-seq database. Featur...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology",
+      "single-cell"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "computational biology",
+      "single-cell"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
       "high-signal source",
       "rich summary",
       "rich metadata"
     ],
     "isFeatured": true
+  },
+  {
+    "id": "9a08a96ff8832754",
+    "title": "DNA Damage Repair Systems in 5-Fluorouracil Resistance of Colorectal Cancer: Mechanistic Insights and Therapeutic Intervention Strategies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43102356",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43102356",
+    "source": "pubmed",
+    "publicationName": "Journal of visualized experiments : JoVE",
+    "journalName": "Journal of visualized experiments : JoVE",
+    "publishedAt": "2026-11-20T00:00:00.000Z",
+    "fetchedAt": "2026-11-27T21:41:22.750Z",
+    "snippet": "5-Fluorouracil (5-FU) is a cornerstone chemotherapeutic agent for colorectal cancer; however, primary and acquired resistance remain major barriers to effective 5-FU-based therapy. The review focuses on evidence linking DDR alterations to 5-FU response or resistance in colorectal cancer (CRC) and frames the literature according to molecular context, direct....",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "afa65c05b18fb3c5",
+    "title": "Factors Associated with Hyperglycemia and Hyperlipidemia in Normal-BMI Women with Polycystic Ovary Syndrome: A Multicenter Cross-Sectional Study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43102196",
+    "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43102196",
+    "source": "pubmed",
+    "publicationName": "Journal of visualized experiments : JoVE",
+    "journalName": "Journal of visualized experiments : JoVE",
+    "publishedAt": "2026-11-20T00:00:00.000Z",
+    "fetchedAt": "2026-11-27T21:41:22.750Z",
+    "snippet": "Polycystic ovary syndrome (PCOS), an endocrine disorder, affects approximately 4%-21% of fertile women. Hyperglycemia and hyperlipidemia have long been recognized as long-term complications of PCOS, but their biomarkers in PCOS women with normal body mass index (BMI) remain controversial. A total of 586 women were recruited from two hospitals in western Chi...",
+    "tags": [
+      "research",
+      "pubmed",
+      "Biomarkers in oncology",
+      "biomarker",
+      "patient stratification",
+      "oncology"
+    ],
+    "topicBuckets": [
+      "translational medicine",
+      "oncology",
+      "ai"
+    ],
+    "isNewToday": false,
+    "importanceScore": 75,
+    "importanceSignals": [
+      "published this month",
+      "priority topic: translational medicine, oncology",
+      "high-signal source",
+      "rich summary",
+      "rich metadata"
+    ],
+    "isFeatured": false
   }
 ]
